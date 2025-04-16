@@ -1,0 +1,1692 @@
+File: FEE468F938886417802586F10070EE6E.dxl
+--------------------------------------------------
+Field_Tx_6_1: External corrosion of shell leading to leak of 3MT / CS2 to atmosphere.
+
+Field_Tx_6_2: Fatigue failure of small bore branch connection leading to leak of 3MT / CS2 to atmosphere.
+
+Field_Tx_6_21: None.
+
+
+
+File: FFFEB33AB364494B80257CD7005386BD.dxl
+--------------------------------------------------
+Field_Tx_6_1: Fatigue of nozzles connections &amp; vessel support leading to cracking and leak of hydrocarbon to atmosphere
+
+Field_Tx_6_2: -
+
+Field_Tx_6_3: -
+
+Field_Tx_6_4: -
+
+Field_Tx_6_5: -
+
+Field_Tx_6_6: -
+
+Field_Tx_6_7: -
+
+Field_Tx_6_8: -
+
+Field_Tx_6_9: -
+
+Field_Tx_6_10: -
+
+Field_Tx_6_21: Pitting corrosion to a depth of 3mm as measured by UT has been reported in each of the dampers on the C Train, and confirmed visually by boroscope examination. The team have confirmed that moisture would not be present within the gas exiting the NRU and it is the view of the team that the corrosion seen must have occurred prior to introduction to service.
+
+
+
+File: FF39C8F3B648EBBE80257D76005C71DB.dxl
+--------------------------------------------------
+Field_Tx_6_1: Leak of natural gas to atmosphere due to external corrosion.
+
+Field_Tx_6_2: Leak of natural gas to atmosphere due to internal corrosion.
+
+Field_Tx_6_3: Leak of natural gas to atmosphere due to internal erosion local to inlet nozzle.
+
+Field_Tx_6_4: Leak of natural gas to atmosphere due to fatigue of small bore branches.
+
+Field_Tx_6_5: Gross corrosion of support legs leading to possible collapse of vessel and multiple joint leaks of natural gas to atmosphere.
+
+Field_Tx_6_6: -
+
+Field_Tx_6_7: -
+
+Field_Tx_6_8: -
+
+Field_Tx_6_9: -
+
+Field_Tx_6_10: -
+
+Field_Tx_6_21: None.
+
+
+
+File: FF729A93C4C0E0F1802581F400568EEE.dxl
+--------------------------------------------------
+Field_Tx_6_1: Stress Corrosion Cracking of shell internal &amp; internal fittings leading to leak of LP steam condensate
+
+Field_Tx_6_2: Stress Corrosion Cracking of shell external leading to leak of LP steam condensate
+
+Field_Tx_6_3: Stress Corrosion Cracking of support legs leading to movement of the drum leading to joint leak of LP steam condensate
+
+Field_Tx_6_21: None
+
+
+
+File: FFA0CD6995BA3D41802582B80055957B.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / Pitting of external un-insulated pipe leading to medium leak of sales gas.
+
+Field_Tx_6_2: Corrosion / Pitting of supports leading to small joint leak of sales gas.
+
+Field_Tx_6_3: Corrosion / Pitting of bolting leading to small joint leak of sales gas.
+
+Field_Tx_6_4: Corrosion / Pitting of underground section leading to medium leak of sales gas..
+
+Field_Tx_6_5: Corrosion under insulation (CUI) of external pipe where insulated leading to medium leak of sales gas.
+
+Field_Tx_6_6: Corrosion under insulation (CUI) of external pipe where insulated by PFP leading to medium leak of sales gas..
+
+Field_Tx_6_7: Mechanical damage of small bore connections leading to medium leak of sales gas.
+
+Field_Tx_6_8: Galvanic corrosion of dissimilar metal interfaces leading to medium leak of sales gas.
+
+Field_Tx_6_9: Corrosion / Pitting of external pipework on breakdown of protective wrap at ground/underground transition leading to a medium leak of sales gas.
+
+Field_Tx_6_21: None.
+
+
+
+File: FEEE3AEFE3E753A680257EF900355B8A.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / Pitting of external leading to leak of wet drains.
+
+Field_Tx_6_2: Support deterioration of external leading to leak of wet drains.
+
+
+
+File: FFCE650A0BA95240802587350030ECBD.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / pitting / MIC of shell internal following the breakdown of paint coating leading to leak of diesel.
+
+Field_Tx_6_2: Corrosion / pitting of shell external leading to leak of diesel.
+
+Field_Tx_6_3: Corrosion / pitting of support beams / stiffeners / bolting leading to movement of vessel, overstressing of nozzles, and joint leak of diesel.
+
+Field_Tx_6_4: Fatigue / mechanical damage of small bore nozzle leading to leak of diesel.
+
+Field_Tx_6_5: External galvanic corrosion of dissimilar metal interface leading to leak of diesel.
+
+Field_Tx_6_21: Although only carbon steel is specified for this vessel it may be possible for some stainless to be in contact e.g. from contractor packages / sampling / analysis lines. Therefore galvanic corrosion is included as a possible scenario.
+
+
+
+File: FF575D1235A93CE680257ECB00307D8E.dxl
+--------------------------------------------------
+Field_Tx_6_1: Fatigue of shell spiral construction and attachment welds leading to leak of spent acid collection hf and sulphuric acid.
+
+Field_Tx_6_2: Creep of shell circumferential growth leading to leak of spent acid collection hf and sulphuric acid.
+
+Field_Tx_6_3: Mechanical damage of shell internal leading to leak of spent acid collection hf and sulphuric acid.
+
+Field_Tx_6_4: Chemical Attack of internal surfaces leading to leak of spent acid collection hf and sulphuric acid.
+
+Field_Tx_6_21: Chemical deterioration of the HDPE would not be expected under the stated operating conditions and there is good experience of satisfactory service. Service life is therefore considered to be over 20 years.
+
+
+
+File: FFE76890FFF75C3080258AD60059579D.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion of shell internal leading to pinhole leak of hot water and steam.
+
+Field_Tx_6_2: Corrosion of support legs / holding down bolts leading to movement of the vessel leading to joint leak of hot water and steam.
+
+Field_Tx_6_3: Corrosion of bolting leading to joint leak of hot water and steam.
+
+Field_Tx_6_4: Corrosion of top lid leading to pinhole leak of water vapours.
+
+Field_Tx_6_5: Corrosion under insulation (CUI) of shell external leading to a pinhole leak of hot water and steam.
+
+Field_Tx_6_6: Mechanical Damage of small bore branches leading to leak of hot water and steam..
+
+Field_Tx_6_7: Deadleg corrosion of Nozzles N6, and L1a leading to a pinhole leak of water vapours.
+
+Field_Tx_6_8: Erosion of the bottom plate under the steam sparger leading to a a pinhole leak of hot water and steam
+
+Field_Tx_6_9: Fatigue cracking of the steam sparger to shell weld leading to leak of steam
+
+Field_Tx_6_21: None.
+
+
+
+File: FF47A3A2B3E17F1280258A01003EFF70.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / Pitting of shell external leading to a leak of Phenoxyethyl acrylate monomer
+
+Field_Tx_6_2: Corrosion / Pitting of supports external leading to movement of vessel, overstressing of nozzles and joint leak of Phenoxyethyl acrylate monomer
+
+Field_Tx_6_3: Corrosion / Pitting of supports internal leading to movement of vessel, overstressing of nozzles and joint leak of Phenoxyethyl acrylate monomer
+
+Field_Tx_6_4: Fatigue of support legs and stiffening ring leading to movement of vessel, overstressing of nozzles and joint leak of Phenoxyethyl acrylate monomer
+
+Field_Tx_6_5: Galvanic corrosion of dissimilar metal interface at support locations leading to movement of vessel, overstressing of nozzles and joint leak of Phenoxyethyl acrylate monomer
+
+Field_Tx_6_6: Manufacturing Defects of constructional Welds leading to leak of Phenoxyethyl acrylate monomer
+
+Field_Tx_6_7: Tank Overpressure / Vacuum leading to deformation of tank.
+
+Field_Tx_6_8: SCC of shell internal leading to leak of Phenoxyethyl acrylate monomer
+
+
+
+File: FFA803D5E7326858802586F100708283.dxl
+--------------------------------------------------
+Field_Tx_6_1: Small leak due to corrosion/erosion or joint leak
+
+Field_Tx_6_2: Medium leak due to fatigue/vibration or general corrosion leading to the equivalent of a small bore branch failure / potential spray jet fire.
+
+Field_Tx_6_3: Large leak due to major support failure, mechanical damage due to impact.
+
+
+
+File: FFD27CD91889DC0E802580E200388F1A.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / Pitting of shell &amp; head external leading to leak of hydrogen condensate.
+
+Field_Tx_6_2: Corrosion / Pitting of bolting leading to leak of hydrogen condensate.
+
+Field_Tx_6_3: Galvanic corrosion of carbon steel at stainless steel flange connection leading to leak of hydrogen condensate.
+
+Field_Tx_6_4: Fatigue of shell nozzle flange connection leading to leak of hydrogen condensate.
+
+Field_Tx_6_21: None.
+
+
+
+File: FF2F5DE5EF7B08418025896D005B91C3.dxl
+--------------------------------------------------
+Field_Tx_6_21: There have been no credible deterioration mechanisms identified for this vessel.
+
+
+
+File: FFFCBAB293B2C93E80257F78003FC82A.dxl
+--------------------------------------------------
+Field_Tx_6_1: UV degradation of shell external leading to leak of water
+
+Field_Tx_6_2: Mechanical damage of shell external / small bore nozzles / plastic pipework leading to leak of water
+
+Field_Tx_6_3: Corrosion of skid structure / holding down bolts leading to movement of tank and joint leak of water
+
+Field_Tx_6_4: Corrosion of any carbon steel nozzle flanges / bolting leading to a leak of water
+
+Field_Tx_6_5: Long Term Deterioration of the shell external leading to a leak of water
+
+Field_Tx_6_6: Overstressing of pipework nozzles leading to a leak of water
+
+Field_Tx_6_7: Under pressurisation of the vessel if the air vent valve blocks
+
+Field_Tx_6_8: Fatigue of the vessel welds eading to a leak of water
+
+Field_Tx_6_21: None.
+
+Field_Tx_6_9: Under pressurisation of the vessel if the internal vacuum breaker is damaged
+
+Field_Tx_6_10: UV degradation / Long Term Deterioration of supports leading to movement of tank leading to joint leak of water
+
+
+
+File: FFB88F8CE3A52CB480257B090042E478.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / pitting of support structure leading to movement of the exchanger and leak of methanol
+
+Field_Tx_6_2: Corrosion / pitting of header boxes external leading to leak of methanol
+
+Field_Tx_6_3: Corrosion / pitting of tubes external leading to leak of methanol
+
+Field_Tx_6_4: Corrosion / pitting of tubes / header boxes internal leading to leak of methanol
+
+Field_Tx_6_5: Fatigue of tube to header welds leading to leak of methanol
+
+Field_Tx_6_6: Mechanical Damage of tubes and fins leading to leak of methanol
+
+Field_Tx_6_21: None
+
+
+
+File: FFA67D00E0EE7CC2802582960055FA81.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / Pitting of shell internal leading to a leak of steam.
+
+Field_Tx_6_2: Corrosion / Pitting of shell external leading to a leak of steam.
+
+Field_Tx_6_3: packing leaks of gland leading to leak of steam.
+
+Field_Tx_6_4: bearings of both drive and non-driven ends leading to leak of steam.
+
+Field_Tx_6_5: maintenance effectiveness of internals leading to leak of steam.
+
+Field_Tx_6_6: Fatigue of internals leading to leak of steam.
+
+Field_Tx_6_7: Drive of internals leading to leak of steam.
+
+Field_Tx_6_8: Drive of valve leading to leak of steam.
+
+Field_Tx_6_9: Drive of governor leading to leak of steam.
+
+Field_Tx_6_10: Mechanical damage of shell leading to leak of steam.
+
+
+
+File: FFB3738A5EE89E1B802581A100566A69.dxl
+--------------------------------------------------
+Field_Tx_6_1: Leak of hydrocarbon to atmosphere due to external corrosion under insulation of shell / channel externals.
+
+Field_Tx_6_2: Leak of hydrocarbon to atmosphere due to internal corrosion of shell / channel.
+
+Field_Tx_6_3: Small leak from tubeside to shellside due to corrosion / erosion of tubes.
+
+Field_Tx_6_4: Significant leak from tubeside to shellside due to corrosion / erosion of several tubes.
+
+Field_Tx_6_5: Fatigue of pass partition plate attachment welds leading to loss of efficiency
+
+Field_Tx_6_6: Small leak from tubeside to shellside due to mechanical damage of tube bundle
+
+Field_Tx_6_7: Significant leak from tubeside to shellside due to mechanical damage of tube bundle
+
+Field_Tx_6_21: If a tube leak occured there would be potential contamination of the regen gas with the moisture exit the drier which could lead eventually to the inability to satisfactorily regen the bed. However the regen gas is on a separate circuit to the main process flow and there would be no possibility to transfer the moisture to the cold train directly.
+
+
+
+File: FF2FD28360A022BB80258B1E006E1246.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / Pitting of body &amp; internals leading to pinhole leak of steam.
+
+Field_Tx_6_2: Corrosion of bolting leading to joint leak of steam.
+
+Field_Tx_6_3: Erosion / wear of body &amp; internals leading to pinhole leak of steam.
+
+Field_Tx_6_4: Fatigue of spring &amp; internals leading to loss of performance
+
+Field_Tx_6_5: Mechanical damage of flange faces leading to joint leak of steam.
+
+
+
+File: FFFA2704BABCB41F802586F10073191C.dxl
+--------------------------------------------------
+Field_Tx_6_1: Valve blockage/sticking due to upstream corrosion.
+
+Field_Tx_6_2: Leak of ammonia from upstream piping during normal operation (non-relieving event) due to external corrosion.
+
+Field_Tx_6_3: Leak of ammonia from downstream piping during relief event due to external corrosion.
+
+Field_Tx_6_4: Leak of ammonia from upstream pipe rupture during normal operation (non-relieving event) due to imposed piping loads on thinned areas/corroded supports.
+
+Field_Tx_6_5: Leak of ammonia from downstream pipe rupture during relief event due to imposed piping loads on thinned areas/corroded supports.
+
+
+
+File: FEE4239F96D8707F802584EE005E10C9.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / pitting of shell external leading to leak of lube oil / nitrogen
+
+Field_Tx_6_2: Corrosion / pitting / Galvanic corrosion of any screwed fittings leading to leak of lube oil / nitrogen
+
+Field_Tx_6_3: Bladder deterioration leading to increased pressure cycles or leakage of nitrogen
+
+Field_Tx_6_21: None
+
+
+
+File: FFB26780CB03C87F80257F4F003A1813.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / pitting / CUI of pipework external leading to leak of propane
+
+Field_Tx_6_2: Corrosion / pitting of supports leading to movement of the pipework leading to joint leak of propane
+
+Field_Tx_6_3: Corrosion / pitting / crevice corrosion of flange faces / bolting leading to leak of propane
+
+Field_Tx_6_4: Fatigue of welds leading to leak of propane
+
+Field_Tx_6_5: Fretting of pipework leading to leak of propane
+
+Field_Tx_6_6: Mechanical damage of pipework leading to leak of propane
+
+Field_Tx_6_7: Corrosion / pitting of 57Y-3"-E90118-1C1A-NI internal leading to leak of propane
+
+Field_Tx_6_21: None
+
+
+
+File: FF78BD96D780B83680258951004A8025.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / Pitting of external surfaces of the shell, dished ends, nozzles, flanges, lifting lugs and brackets leading to leak of chlorine.
+
+Field_Tx_6_2: Corrosion / Pitting of flange bolting leading to leak of chlorine.
+
+Field_Tx_6_3: Corrosion / Pitting of support legs leading to movement of vessel and subsequent flange leak of chlorine.
+
+Field_Tx_6_4: Corrosion / Pitting of holding down bolts leading to movement of vessel and subsequent flange leak of chlorine.
+
+Field_Tx_6_5: Corrosion / Pitting of internal shell, dished ends and nozzle surfaces and welds leading to leak of chlorine.
+
+Field_Tx_6_6: Erosion of internal shell &amp; dished end local to inlet leading to leak of chlorine.
+
+Field_Tx_6_7: Erosion of liquid chlorine inlet nozzle n1 and welds leading to leak of chlorine.
+
+Field_Tx_6_8: Fatigue of nozzle to shell attachment welds leading to leak of chlorine.
+
+Field_Tx_6_9: Flange Face Corrosion of flange faces leading to leak of chlorine.
+
+Field_Tx_6_21: None
+
+
+
+File: FEE1F0840B6812D48025843E007FFCFB.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion Under Insulation of cold side of header pipes leading to leak of feed water.
+
+Field_Tx_6_2: Corrosion Under Insulation of casing leading to leak of tramp air.
+
+Field_Tx_6_3: Pitting of tube internal leading to leak of feed water.
+
+Field_Tx_6_4: Pitting of header internal leading to leak of feed water.
+
+Field_Tx_6_5: Erosion of tube attachment to bottom header top side of tube leading to leak of feed water.
+
+Field_Tx_6_6: Erosion of tube bends leading to leak of feed water.
+
+Field_Tx_6_7: Erosion of second horizontal tube leading to leak of feed water.
+
+Field_Tx_6_8: Erosion of cross bracing leading to support failure.
+
+Field_Tx_6_9: Support distortion leading to an extended shut.
+
+
+
+File: FF526F5C5D60004B8025803E0050ED96.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / pitting of shell external leading to leak of natural gas.
+
+Field_Tx_6_2: Corrosion / pitting of support skirt / holding down bolts leading to joint leak of natural gas.
+
+Field_Tx_6_3: Corrosion / pitting of shell internal / internal fittings leading to leak of natural gas.
+
+Field_Tx_6_4: Corrosion / pitting of nozzles and attachments internal leading to leak of natural gas.
+
+Field_Tx_6_5: Corrosion / pitting of nozzles and attachments external leading to leak of natural gas.
+
+Field_Tx_6_6: Fatigue of shell &amp; nozzle welds leading to leak of natural gas.
+
+Field_Tx_6_21: None
+
+
+
+File: FEEF6529EAD098BF80258217004B3C76.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / Pitting of external leading to leak of rfo.
+
+Field_Tx_6_2: Corrosion / Pitting of external surface (cups) leading to leak of rfo.
+
+Field_Tx_6_3: Support deterioration leading to movement / overstressing of pipework and joint leak of rfo.
+
+
+
+File: FFB65AAEF3A73491802582C9004BCBFE.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / pitting of shell / shell end cover internal leading to leak of Atmospheric residue / VDU Column Feed
+
+Field_Tx_6_2: Corrosion / pitting of tubes external leading to leak between the Tar and the Atmospheric residue / VDU Column Feed
+
+Field_Tx_6_3: Corrosion / pitting of tubes internal leading to leak between the Tar and the Atmospheric residue / VDU Column Feed
+
+Field_Tx_6_4: Corrosion / pitting of floating head leading to leak between the Tar and the Atmospheric residue / VDU Column Feed
+
+Field_Tx_6_5: Corrosion / pitting of channel / end cover internal leading to leak of Tar
+
+Field_Tx_6_6: Corrosion under insulation (CUI) of supports / holding down bolts leading to movement of exchanger leading to a joint leak of Tar or Atmospheric residue / VDU Column Feed
+
+Field_Tx_6_7: Corrosion under insulation (CUI) of channel / end cover external leading to leak of Tar
+
+Field_Tx_6_8: Corrosion under insulation (CUI) of shell / shell end cover external leading to leak of Atmospheric residue / VDU Column Feed
+
+Field_Tx_6_9: Concrete Deterioration of plinths leading to movement of exchanger leading to a joint leak of Tar or Atmospheric residue / VDU Column Feed
+
+Field_Tx_6_21: Mechanical damage is an event based occurrence.
+
+
+
+File: FFCA1DD4F941DE2B8025805200472121.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / Pitting of shell internal leading to a leak of nitric acid / iron &amp; chromium nitrate solution.
+
+Field_Tx_6_2: Stress Corrosion Cracking of shell external leading to leak of nitric acid / iron &amp; chromium nitrate solution.
+
+Field_Tx_6_3: Erosion of steam coil external leading to leak of steam into process.
+
+Field_Tx_6_4: Fatigue of steam coil attachment welds leading to leak of steam to atmosphere / steam into process fluid.
+
+Field_Tx_6_5: Galvanic corrosion of dissimilar metal interfaces leading to flange leak of nitric acid / iron &amp; chromium nitrate solution.
+
+Field_Tx_6_21: None.
+
+
+
+File: FF59BAEAD2CED1318025842D003BA46E.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion of support lugs / holding down bolts leading to leak of process gas
+
+Field_Tx_6_2: Corrosion of bolting leading to leak of process gas
+
+Field_Tx_6_3: Corrosion of backing flanges leading to leak of process gas
+
+Field_Tx_6_4: Mechanical damage of small bore branches leading to leak of process gas
+
+Field_Tx_6_5: Over Stressing of nozzle to shell welds leading to leak of process gas
+
+Field_Tx_6_6: Deterioration of polypropylene shell, nozzles and ends leading to leak of process gas
+
+Field_Tx_6_21: None.
+
+
+
+File: FF3AE63E67E033BF80257CD6003F79A0.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion of U-bolt clamps / support structure leading to movement of cylinder, leak of instrument air and failure of emergency deluge system to operate.
+
+Field_Tx_6_2: Crevice corrosion of shell external at U-Bolt support location / threaded connection leading to leak of instrument air and failure of emergency deluge system to operate.
+
+Field_Tx_6_3: -
+
+Field_Tx_6_4: -
+
+Field_Tx_6_5: -
+
+Field_Tx_6_6: -
+
+Field_Tx_6_7: -
+
+Field_Tx_6_8: -
+
+Field_Tx_6_9: -
+
+Field_Tx_6_10: -
+
+Field_Tx_6_21: None.
+
+
+
+File: FF239C5F855BB909802586F10072F5C5.dxl
+--------------------------------------------------
+Field_Tx_6_1: Internal/ external corrosion leading to a loss of vacuum.
+
+Field_Tx_6_2: -
+
+Field_Tx_6_3: -
+
+Field_Tx_6_4: -
+
+Field_Tx_6_5: -
+
+Field_Tx_6_6: -
+
+Field_Tx_6_7: -
+
+Field_Tx_6_8: -
+
+Field_Tx_6_9: -
+
+Field_Tx_6_10: -
+
+Field_Tx_6_21: The external environment will cause corrosion unless paint protection is maintained.
+
+
+
+File: FF2E1D8EF72239E68025819900463FCE.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / pitting of shell external leading to leak of hydraulic oil / nitrogen
+
+Field_Tx_6_2: Crevice Corrosion of screwed fittings leading to leak of hydraulic oil / nitrogen
+
+Field_Tx_6_3: Bladder deterioration leading to increased pressure cycles.
+
+Field_Tx_6_4: Galvanic corrosion of accumulator at dissimilar metal interfaces leading to leak of hydraulic oil / nitrogen
+
+Field_Tx_6_5: Mechanical damage of accumulator leading to leak of hydraulic oil / nitrogen
+
+Field_Tx_6_21: None
+
+
+
+File: FFC09EB0193AD539802586F100706FE3.dxl
+--------------------------------------------------
+Field_Tx_6_1: MIC destroying the seating face of the tubesheet or channel leading to a breakdown of the integrity of the tubesheet requiring major repairs.
+
+Field_Tx_6_2: Corrosion of structure leading to ultimate collapse.
+
+Field_Tx_6_3: Tube expansion leaks leading to cross contamination of product.
+
+
+
+File: FF9ABB5B3F77EC73802586F10070E854.dxl
+--------------------------------------------------
+Field_Tx_6_1: -
+
+Field_Tx_6_2: -
+
+Field_Tx_6_3: -
+
+Field_Tx_6_4: -
+
+Field_Tx_6_5: -
+
+Field_Tx_6_6: -
+
+Field_Tx_6_7: -
+
+Field_Tx_6_8: -
+
+Field_Tx_6_9: -
+
+Field_Tx_6_10: -
+
+Field_Tx_6_21: None.
+
+
+
+File: FEEF70C368C5BA148025831C004023C1.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion of the saddle supports / holding down bolts leading to movement of the heater leading to leak of steam / brine
+
+Field_Tx_6_2: Internal Corrosion of shell leading to a leak of steam
+
+Field_Tx_6_3: Internal Corrosion of channel ends leading to leak of brine
+
+Field_Tx_6_4: Internal Corrosion of bellows internal leading to a leak of steam
+
+Field_Tx_6_5: Thermal fatigue cracking of the shell welds leading to leak of steam.
+
+Field_Tx_6_6: Thermal fatigue cracking of the bellows leading to leak of steam.
+
+Field_Tx_6_7: Corrosion Under Insulation of shell external leading to leak of steam
+
+Field_Tx_6_8: Corrosion Under Insulation of channel external leading to leak of brine
+
+Field_Tx_6_9: Corrosion Under Insulation of bellows external leading to leak of steam
+
+Field_Tx_6_21: None
+
+
+
+File: FF2A777B5E35950B802586F100715930.dxl
+--------------------------------------------------
+Field_Tx_6_1: Leak of sales gas to atmosphere due to CUI of the shell.
+
+Field_Tx_6_2: -
+
+Field_Tx_6_3: -
+
+Field_Tx_6_4: -
+
+Field_Tx_6_5: -
+
+Field_Tx_6_6: -
+
+Field_Tx_6_7: -
+
+Field_Tx_6_8: -
+
+Field_Tx_6_9: -
+
+Field_Tx_6_10: -
+
+Field_Tx_6_21: None.
+
+
+
+File: FFB7159B958884BD802581E50056C411.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / pitting of shell internal leading to a leak of sulphuric acid.
+
+Field_Tx_6_2: Corrosion / pitting of supports leading to movement of vessel, overstressing of nozzles and joint leak of sulphuric acid.
+
+Field_Tx_6_3: Galvanic corrosion of flange bolting leading to leak of sulphuric acid.
+
+Field_Tx_6_21: None.
+
+
+
+File: FFB66127CA01AE8F80257CD700535D7B.dxl
+--------------------------------------------------
+Field_Tx_6_1: Pitting to outside of shell leading to leak of Amine solution to tank bund.
+
+Field_Tx_6_2: Pitting to underside of base leading to leak of Amine solution to tank bund.
+
+Field_Tx_6_3: SCC to external shell leading to leak of Amine solution to tank bund.
+
+Field_Tx_6_4: SCC under baseplate leading to leak of Amine solution to tank bund.
+
+Field_Tx_6_5: Corrosion of flange bolts leading to flange joint leakage of Amine solution to tank bund.
+
+Field_Tx_6_6: -
+
+Field_Tx_6_7: -
+
+Field_Tx_6_8: -
+
+Field_Tx_6_9: -
+
+Field_Tx_6_10: -
+
+Field_Tx_6_21: The tank is bunded to contain any leaks/failures
+
+
+
+File: FF2BE7DFDE92A14A80257CD6003E9D6F.dxl
+--------------------------------------------------
+Field_Tx_6_1: Internal corrosion leading to a leak of air to atmosphere.
+
+Field_Tx_6_2: External corrosion leading to a leak of air to atmosphere.
+
+Field_Tx_6_3: Corrosion of support skirt leading to movement of vessel, overstressing of nozzle and joint leak of air to atmosphere.
+
+Field_Tx_6_4: Internal erosion local to inlet nozzle leading to a leak of air to atmosphere.
+
+Field_Tx_6_5: -
+
+Field_Tx_6_6: -
+
+Field_Tx_6_7: -
+
+Field_Tx_6_8: -
+
+Field_Tx_6_9: -
+
+Field_Tx_6_10: -
+
+Field_Tx_6_21: None.
+
+
+
+File: FED62A4AF891B02C802586F100715774.dxl
+--------------------------------------------------
+Field_Tx_6_1: No identified failure scenarios
+
+Field_Tx_6_2: 
+
+Field_Tx_6_3: 
+
+Field_Tx_6_4: 
+
+Field_Tx_6_5: 
+
+Field_Tx_6_6: -
+
+Field_Tx_6_7: -
+
+Field_Tx_6_8: -
+
+Field_Tx_6_9: -
+
+Field_Tx_6_10: -
+
+
+
+File: FFF17C02B82F85A08025823500442296.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / pitting of shell / nozzle externals leading to leak of natural gas.
+
+Field_Tx_6_2: Corrosion under fireproofing of support skirt leading to movement of vessel, overstressing of nozzles and joint leak of natural gas.
+
+Field_Tx_6_3: Fatigue of small bore branches leading to a leak of natural gas.
+
+Field_Tx_6_4: Deterioration of refractory lining causing thermal fatigue, leading to a leak of natural gas.
+
+Field_Tx_6_5: External galvanic corrosion leading to leak of natural gas.
+
+Field_Tx_6_21: None.
+
+
+
+File: FF9DF9256D6DBFD580257D76005C7C8F.dxl
+--------------------------------------------------
+Field_Tx_6_1: External corrosion of tube in the vicinity of the header leading to gas leak to atmosphere.
+
+Field_Tx_6_2: -
+
+Field_Tx_6_3: -
+
+Field_Tx_6_4: -
+
+Field_Tx_6_5: -
+
+Field_Tx_6_6: -
+
+Field_Tx_6_7: -
+
+Field_Tx_6_8: -
+
+Field_Tx_6_9: -
+
+Field_Tx_6_10: -
+
+Field_Tx_6_21: None.
+
+
+
+File: FF2C3E368A91753D802586F100732A03.dxl
+--------------------------------------------------
+Field_Tx_6_1: -
+
+Field_Tx_6_2: -
+
+Field_Tx_6_3: -
+
+Field_Tx_6_4: -
+
+Field_Tx_6_5: -
+
+Field_Tx_6_6: -
+
+Field_Tx_6_7: -
+
+Field_Tx_6_8: -
+
+Field_Tx_6_9: -
+
+Field_Tx_6_10: -
+
+Field_Tx_6_21: No credible deterioration mechanisms identified.
+
+
+
+File: FF9B0E79B0733D688025851200439F2A.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / pitting of internal leading to leak of natural gas / hydrocarbon condensate / water.
+
+Field_Tx_6_2: Corrosion / pitting of un-insulated external leading to leak of natural gas / hydrocarbon condensate / water.
+
+Field_Tx_6_3: Crevice corrosion at support contact points leading to leak of natural gas / hydrocarbon condensate / water.
+
+Field_Tx_6_4: Corrosion / pitting of SS valve components leading to passing valve.
+
+Field_Tx_6_5: Corrosion / pitting of SS orifice plate leading to process performance issue.
+
+Field_Tx_6_6: Corrosion / pitting of SS pressure indicators leading to process performance issue.
+
+Field_Tx_6_7: Crevice corrosion of RTJ joints leading to leak of natural gas / hydrocarbon condensate / water.
+
+Field_Tx_6_8: Corrosion under insulation (CUI) leading to leak of natural gas / hydrocarbon condensate / water.
+
+Field_Tx_6_9: Erosion of internals leading to leak of natural gas / hydrocarbon condensate / water.
+
+Field_Tx_6_10: Fatigue / mechanical damage of small bore branches leading to leak of natural gas / hydrocarbon condensate / water.
+
+Field_Tx_6_21: None.
+
+Field_Tx_6_11: Support deterioration leading to movement / overstressing of pipework and joint leak of natural gas / hydrocarbon condensate / water.
+
+Field_Tx_6_12: Dead leg corrosion / MIC leading to leak of natural gas / hydrocarbon condensate / water.
+
+Field_Tx_6_13: External galvanic corrosion leading to leak of natural gas / hydrocarbon condensate / water.
+
+Field_Tx_6_14: Internal galvanic corrosion leading to leak of natural gas / hydrocarbon condensate / water.
+
+
+
+File: FED6421BD8EE7BE080257EEB0037D83F.dxl
+--------------------------------------------------
+Field_Tx_6_1: Fatigue of welds leading to a leak of natural gas.
+
+Field_Tx_6_2: Overstressing of nozzle welds leading to leak of natural gas.
+
+Field_Tx_6_21: No failure scenarios identified.
+
+
+
+File: FF98F5C94CCC938580257D76005D340D.dxl
+--------------------------------------------------
+Field_Tx_6_1: External corrosion / pitting of shell with a leak of lube oil to atmosphere.
+
+Field_Tx_6_2: Corrosion / pitting of supports leading to movement of vessel, overstressing of nozzle and leak of lube oil to atmosphere.
+
+Field_Tx_6_3: Fatigue of small bore branch / balance line with a leak of lube oil to atmosphere.
+
+Field_Tx_6_4: Galvanic corrosion leading to leak of lube oil to atmosphere.
+
+Field_Tx_6_21: Although only carbon steel is specified for this vessel it may be possible for some stainless to be in contact e.g. from contractor packages / sampling / analysis lines. Therefore galvanic corrosion is included as a possible scenario.
+
+
+
+File: FF31A02C41E020D180257F41004FADEC.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion of inductor supports leading to movement of inductor and joint leak of foam solution when called for in anger
+
+Field_Tx_6_2: Galvanic corrosion / crevice corrosion of dissimilar metal inductor screwed connections leading to leak of foam solution when called for in anger
+
+Field_Tx_6_21: None
+
+
+
+File: FF6EA49694A531EE80257AFB004F2433.dxl
+--------------------------------------------------
+Field_Tx_6_21: This RBI assessment has not considered the risk of vibration induced fatigue failure of small bore branches. It is understood that this issue is being addressed by means of a separate vibration risk assessment project.
+
+Field_Tx_6_1: General and Pitting corrosion of lower internal shell and nozzles leading to leak of hydrocarbon gas and liquids.
+
+Field_Tx_6_2: General and Pitting corrosion of other internal areas of shell leading to leak of hydrocarbon gas and liquids.
+
+Field_Tx_6_3: General and Pitting corrosion of external shell, nozzles and vessel support saddles leading to leak of hydrocarbon gas and liquids.
+
+Field_Tx_6_4: Crevice corrosion of flange faces leading to leak of hydrocarbon gas and liquids.
+
+Field_Tx_6_5: Crevice corrosion of outlet nozzle C leading to leak of hydrocarbon gas and liquids.
+
+Field_Tx_6_6: Microbial Induced Corrosion (MIC) of internal shell, branches and flange blanks, lower areas leading to leak of hydrocarbon gas and liquids.
+
+Field_Tx_6_7: Galvanic corrosion of liquid outlet nozzle C leading to leak hydrocarbon gas and liquids.
+
+Field_Tx_6_8: Deadleg corrosion of nozzles D1, D2, E2, G2 and K leading to leak of hydrocarbon gas and liquids.
+
+Field_Tx_6_9: Erosion of coating to nozzle N and its inlet deflector enabling their corrosion with loss of function of the deflector and perforation of the nozzle leading to leak of hydrocarbon gas and liquids.
+
+Field_Tx_6_10: Corrosion under insulation (CUI) of insulated nozzles leading to hydrocarbon gas and liquids.
+
+
+
+File: FF83243C6BC11AF1802586000049BEF2.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / CUI of bolting leading to joint leak of solvent.
+
+Field_Tx_6_2: Corrosion / Pitting of carbon steel top lid leading to joint leak of solvent.
+
+Field_Tx_6_3: Mechanical damage of top cover internal cladding leading to increase risk of FS B
+
+Field_Tx_6_21: None.
+
+
+
+File: FFF440EB40FB40AA80258A6F005A34E0.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / Pitting of external surfaces of the shell, dished ends, nozzles and welds leading to leak of ammonia.
+
+Field_Tx_6_2: Corrosion / Pitting of flange bolting (carbon steel) leading to leak of ammonia.
+
+Field_Tx_6_3: Corrosion / Pitting of vessel supports leading to unstable vessel and a leak of ammonia.
+
+Field_Tx_6_4: Fatigue of nozzle to shell attachment welds leading to leak of ammonia.
+
+Field_Tx_6_5: Fatigue of support attachment welds leading to unstable vessel and a leak of ammonia.
+
+Field_Tx_6_6: Mechanical damage of small bore nozzles (&lt;1.5"), level bridles and associated pipework leading to leak of ammonia.
+
+Field_Tx_6_7: Galvanic corrosion of dissimilar metal interface leading to a leak of ammonia.
+
+Field_Tx_6_8: Joint Leaks of flanges and instrument fittings leading to leak of ammonia.
+
+Field_Tx_6_9: Deterioration of concrete plinths leading to unstable vessel and a leak of ammonia.
+
+Field_Tx_6_21: None
+
+
+
+File: FF8E64ED57420C17802586F10072A5D8.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion of carbon steel stiffening rings under insulation leading to collapse of tank.
+
+Field_Tx_6_2: Leak of cresol to atmosphere due to SCC local to steam coil.
+
+Field_Tx_6_3: Fatigue failure of small bore branch connection leading to leak of cresol to atmosphere.
+
+Field_Tx_6_21: None.
+
+
+
+File: FF27168FAC36B56C8025891D0034513A.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion of anchor bolts leading to movement of tank, overstressing of nozzles and joint leak of vent gases / caustic
+
+Field_Tx_6_2: Corrosion of carbon steel bolting / external fixings leading to leak of vent gases / caustic
+
+Field_Tx_6_3: Corrosion of blind flanges leading to leak of vent gases / caustic
+
+Field_Tx_6_4: Mechanical damage of small bore branches leading to leak of vent gases / caustic
+
+Field_Tx_6_5: Over Stressing of nozzle to shell welds leading to leak of vent gases / caustic
+
+Field_Tx_6_6: Deterioration of Derakane shell, nozzles and ends leading to leak of vent gases / caustic
+
+Field_Tx_6_7: Cracking of the Derakane at the flanges / piping supports leading to leak of vent gases / caustic
+
+Field_Tx_6_21: None.
+
+
+
+File: FFCE1A34B433CA5480257CFA004857F9.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / pitting of internal leading to leak of natural gas.
+
+Field_Tx_6_2: Pitting under insulation of external leading to leak of natural gas.
+
+Field_Tx_6_21: None.
+
+
+
+File: FF22102FCF01EEB48025847100529D30.dxl
+--------------------------------------------------
+Field_Tx_6_1: Internal pipework Corrosion / Pitting leading to a leak of H2SO4
+
+Field_Tx_6_2: Corrosion / Pitting of external pipework leading to leak of H2SO4
+
+Field_Tx_6_3: Erosion of pipework internal d/s of pumps leading to leak of H2SO4
+
+Field_Tx_6_4: Fatigue of small bore connections local to the pumps leading to leak of H2SO4
+
+Field_Tx_6_5: Support deterioration leading to movement / overstressing of pipework and joint leak of H2SO4
+
+Field_Tx_6_21: None
+
+
+
+File: FF3415F1A97546AB80258A5B004B687F.dxl
+--------------------------------------------------
+Field_Tx_6_1: Internal Corrosion / Pitting leading to a leak of HP/MP Steam.
+
+Field_Tx_6_2: Corrosion under insulation (CUI) at isolated sections leading to leak of HP/MP Steam.
+
+Field_Tx_6_3: Internal Erosion leading to a leak of HP/MP Steam.
+
+Field_Tx_6_4: Mechanical Fatigue of pipe, welds, small bore leading to leak of HP/MP Steam.
+
+Field_Tx_6_5: Creep Damage leading to leak of HP/MP Steam.
+
+Field_Tx_6_6: Mechanical damage of main pipe from any surge/hammer leading to leak of HP steam.
+
+Field_Tx_6_7: Support deterioration leading to movement / overstressing of pipework and joint leak of HP/MP Steam.
+
+Field_Tx_6_8: Deadleg corrosion leading to leak of HP steam.
+
+Field_Tx_6_9: Thermal Stressing leading to leak of HP/MP Steam.
+
+Field_Tx_6_21: None
+
+
+
+File: FF48CCD1D8A555A980257D76005CF2B2.dxl
+--------------------------------------------------
+Field_Tx_6_1: Internal pitting leading to leak of hydrocarbon to atmosphere.
+
+Field_Tx_6_2: External pitting leading to leak of hydrocarbon to atmosphere.
+
+Field_Tx_6_3: Fatigue of small bore branch / pipework leading to leak of hydrocarbon to atmosphere.
+
+Field_Tx_6_4: Corrosion / mechanical damage of trailer leading to movement and joint leak of hydrocarbon from flexible hose connection.
+
+Field_Tx_6_5: Deadleg corrosion leading to leak of hydrocarbon to atmosphere.
+
+Field_Tx_6_6: -
+
+Field_Tx_6_7: -
+
+Field_Tx_6_8: -
+
+Field_Tx_6_9: -
+
+Field_Tx_6_10: -
+
+Field_Tx_6_21: Failure scenarios assume worst case of leak of hydrocarbon.
+
+
+
+File: FFDDEF72B46A6F42802586F100737DFD.dxl
+--------------------------------------------------
+Field_Tx_6_1: External Corrosion / Pitting of Shell leading to a pinhole leak of Reactor Products &amp; Hydrogen
+
+Field_Tx_6_2: HCl corrosion of Shell &amp; Internal fittings leading to a pinhole leak of Reactor Products &amp; Hydrogen
+
+Field_Tx_6_3: Corrosion under Fireproofing of Skirt leading to movement of vessel, overstressing of nozzles and joint leak of Reactor Products &amp; Hydrogen
+
+Field_Tx_6_4: Internal Erosion of Inlet Nozzle leading to a pinhole leak of Reactor Products &amp; Hydrogen
+
+Field_Tx_6_5: Ammonium Chloride corrosion of Shell &amp; Internal fittings leading to a pinhole leak of Reactor Products &amp; Hydrogen
+
+Field_Tx_6_6: -
+
+Field_Tx_6_7: -
+
+Field_Tx_6_8: -
+
+Field_Tx_6_9: -
+
+Field_Tx_6_10: -
+
+Field_Tx_6_21: None.
+
+
+
+File: FEDA5F57A72F08A1802586F100707209.dxl
+--------------------------------------------------
+Field_Tx_6_1: Shell leak to atmosphere
+
+Field_Tx_6_2: Tube side to atmosphere (channel end)
+
+Field_Tx_6_3: Tube leak, water into the shell.
+
+Field_Tx_6_4: 
+
+Field_Tx_6_5: 
+
+Field_Tx_6_6: -
+
+Field_Tx_6_7: -
+
+Field_Tx_6_8: -
+
+Field_Tx_6_9: -
+
+Field_Tx_6_10: -
+
+Field_Tx_6_21: None.
+
+
+
+File: FF3773951FE01D8C80257DE40043871C.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / pitting of shell / shell cover internal leading to leak of Reactor Effluent
+
+Field_Tx_6_2: Corrosion / pitting of tubes external leading to leak of Naphtha &amp; Recycled Hydrogen into the Reactor Effluent
+
+Field_Tx_6_3: Corrosion / pitting of tubes internal leading to leak of Naphtha &amp; Recycled Hydrogen into the Reactor Effluent
+
+Field_Tx_6_4: Corrosion / pitting of channel / channel cover internal leading to leak of Naphtha &amp; Recycled Hydrogen
+
+Field_Tx_6_5: Corrosion / pitting / cracking of bellows leading to leak of Naphtha &amp; Recycled Hydrogen into the Reactor Effluent
+
+Field_Tx_6_6: Erosion of tubes internal leading to leak of Naphtha &amp; Recycled Hydrogen into the Reactor Effluent
+
+Field_Tx_6_7: Corrosion under insulation (CUI) of shell external leading to a leak of Reactor Effluent
+
+Field_Tx_6_8: Corrosion under insulation (CUI) of channel external leading to leak of Naphtha &amp; Recycled Hydrogen
+
+Field_Tx_6_9: Corrosion of support ring external / holding down bolts leading to movement of vessel and joint leak of Reactor Effluent / Naphtha &amp; Recycled Hydrogen
+
+Field_Tx_6_10: Creep of shell inlet leading to leak of Reactor Effluent
+
+Field_Tx_6_11: Creep of channel outlet leading to leak of Naphtha &amp; Recycled Hydrogen
+
+Field_Tx_6_12: High temperature hydrogen attack / decarburisation of the shell inlet leading to a leak of Reactor Effluent
+
+Field_Tx_6_13: Deterioration of flange sealing faces particularly the shell inlet leading to leak of Reactor Effluent
+
+Field_Tx_6_21: Mechanical damage of components other than the fins is an event based occurrence.
+
+
+
+File: FFC4E37775A1F640802582C00047A885.dxl
+--------------------------------------------------
+Field_Tx_6_1: General external corrosion of pipework leading to leak of NG / condensate to atmosphere.
+
+Field_Tx_6_2: External galvanic corrosion at temperature indicator clamp contact points leading to leak of NG / condensate to atmosphere.
+
+Field_Tx_6_3: Localised water impingement / flange face corrosion leading to leak of NG / condensate to atmosphere.
+
+Field_Tx_6_4: Internal corrosion (CO2 / weld / grooving / pitting) or erosion leading to leak of NG / condensate to atmosphere.
+
+Field_Tx_6_5: Internal deadleg / microbial corrosion leading to leak of NG / condensate to atmosphere.
+
+Field_Tx_6_6: Fatigue / mechanical damage of small bore branches leading to leak of NG / condensate to atmosphere.
+
+Field_Tx_6_7: Crevice corrosion of threads on screwed joint leading to leak of NG / condensate to atmosphere.
+
+Field_Tx_6_8: Galvanic corrosion leading to leak of NG / condensate to atmosphere.
+
+Field_Tx_6_9: Crevice corrosion of Grayloc Joint leading to leak of NG / condensate to atmosphere.
+
+Field_Tx_6_21: None.
+
+
+
+File: FF6D1545FA8FF403802584CB0055C347.dxl
+--------------------------------------------------
+Field_Tx_6_1: Internal corrosion of the coils leading to leak of glycol within the heater.
+
+Field_Tx_6_2: External corrosion of the coils leading to a leak of glycol within the heater.
+
+Field_Tx_6_3: Internal oxidation / corrosion of the heater casing following damage to the refractory lining leading to a leak of exhaust gases to atmosphere.
+
+Field_Tx_6_4: Fatigue failure of glycol header branch leading to a leak of glycol to atmosphere.
+
+Field_Tx_6_5: Failure of manway internal shroud.
+
+Field_Tx_6_6: Internal / external corrosion of exhaust stack leading to leak of exhaust gases to atmosphere.
+
+Field_Tx_6_7: Creep failure of tube leading to a leak of glycol within the heater.
+
+Field_Tx_6_21: None.
+
+
+
+File: FF57643FF8BE06E5802586F10070AB12.dxl
+--------------------------------------------------
+Field_Tx_6_1: 
+
+Field_Tx_6_2: 
+
+Field_Tx_6_3: 
+
+Field_Tx_6_4: 
+
+Field_Tx_6_5: 
+
+Field_Tx_6_6: -
+
+Field_Tx_6_7: -
+
+Field_Tx_6_8: -
+
+Field_Tx_6_9: -
+
+Field_Tx_6_10: -
+
+
+
+File: FFBCB3C220B72790802586F100721CB9.dxl
+--------------------------------------------------
+Field_Tx_6_1: External corrosion of support legs leading to collapse of vessel.
+
+Field_Tx_6_21: None.
+
+
+
+File: FF589768367657628025847A004C0074.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion of skirt / holding down bolts leading to movement of tower leading to joint leak of CO2
+
+Field_Tx_6_2: Corrosion / Pitting / Carbonic Acid Attack of shell internal leading to a leak of CO2
+
+Field_Tx_6_3: Corrosion / Pitting / Carbonic Acid Attack of gas inlet pipe / other internals leading to loss of performance
+
+Field_Tx_6_4: Corrosion / Pitting / Carbonic Acid Attack of top cover &amp; top branch flange internal leading to leak of CO2
+
+Field_Tx_6_5: Corrosion Under Insulation of tower external leading to leak of CO2
+
+Field_Tx_6_6: Erosion of the top dished head due to inlet gas flow leading to leak of CO2
+
+Field_Tx_6_7: Thermal fatigue cracking of the tower welds leading to leak of CO2
+
+Field_Tx_6_8: Top cover bolt relaxation leading to leak of CO2
+
+Field_Tx_6_21: Area is acid tiled area and washing of foundations due to acid leaks leading to column instability could occur. Inspection of the acid tiles is included in the civil inspection routines
+
+
+
+File: FF9FECA6F424067080257D76005C430B.dxl
+--------------------------------------------------
+Field_Tx_6_1: External corrosion / pitting of CS shell / supports with a leak of diesel to atmosphere.
+
+Field_Tx_6_2: Internal corrosion / pitting of CS base with a leak of diesel to atmosphere.
+
+Field_Tx_6_3: -
+
+Field_Tx_6_4: -
+
+Field_Tx_6_5: -
+
+Field_Tx_6_6: -
+
+Field_Tx_6_7: -
+
+Field_Tx_6_8: -
+
+Field_Tx_6_9: -
+
+Field_Tx_6_10: -
+
+Field_Tx_6_21: None.
+
+
+
+File: FEF2F8FD9B0C027380257D85005918AD.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / pitting of shell external / supports leading to leak of hydraulic oil / nitrogen
+
+Field_Tx_6_2: Corrosion / pitting of screwed fitting leading to leak of hydraulic oil / nitrogen
+
+Field_Tx_6_3: Bladder deterioration leading to increased pressure cycles or leakage of nitrogen
+
+Field_Tx_6_4: Galvanic corrosion between the carbon steel shell and stainless steel fittings leading to leak of hydraulic oil / nitrogen
+
+Field_Tx_6_21: None
+
+
+
+File: FFB86DB091BAFA68802586F1007173F2.dxl
+--------------------------------------------------
+Field_Tx_6_1: Air leak to atmosphere
+
+Field_Tx_6_2: 
+
+Field_Tx_6_3: 
+
+Field_Tx_6_4: 
+
+Field_Tx_6_5: 
+
+Field_Tx_6_6: -
+
+Field_Tx_6_7: -
+
+Field_Tx_6_8: -
+
+Field_Tx_6_9: -
+
+Field_Tx_6_10: -
+
+Field_Tx_6_21: None.
+
+
+
+File: FFA97C37B17092378025806500413CE7.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / Pitting of shell internal leading to a leak of solvent.
+
+
+
+File: FEF1EC05F3502BB7802586F100731389.dxl
+--------------------------------------------------
+Field_Tx_6_1: External corrosion leading to a leak of unstabilised crude to atmosphere
+
+Field_Tx_6_2: CUI leading to a leak of unstabilised crude to atmosphere
+
+Field_Tx_6_3: Dead leg corrosion leading to a leak of unstabilised crude to atmosphere
+
+Field_Tx_6_4: Internal corrosion or pitting due to carbonic acid or H2S (acidic) attack leading to a leak of unstabilised crude to atmosphere
+
+Field_Tx_6_5: Corrosion of pipe within the trunnion support leading to a leak of unstabilised crude to atmosphere
+
+Field_Tx_6_6: -
+
+Field_Tx_6_7: -
+
+Field_Tx_6_8: -
+
+Field_Tx_6_9: -
+
+Field_Tx_6_10: -
+
+Field_Tx_6_21: Intermetalic Corrosion considered and no potential. All these mechanisms had the potential to occur while the system was in service. The line is now fully drained and valve isolated.
+
+
+
+File: FF9D671147D6F5BF802587E20041BFC4.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / Pitting of support skirt / holding down bolts leading to movement of column leading to a joint leak of AMS / HCN
+
+Field_Tx_6_2: Corrosion / Galvanic of bolting leading to a joint leak of AMS / HCN
+
+Field_Tx_6_3: Corrosion of carbon steel backing flanges / blind flanges leading to a joint leak of AMS / HCN
+
+Field_Tx_6_4: Corrosion of carbon steel insulation support rings leading to falling insulation / ring
+
+Field_Tx_6_5: Corrosion of shell internal leading to leak of AMS / HCN
+
+Field_Tx_6_6: Corrosion of gas inlet nozzle leading to leak of AMS / HCN
+
+Field_Tx_6_7: Deterioration of concrete plinth leading to movement of column leading to a joint leak of AMS / HCN
+
+Field_Tx_6_8: Cyanide stress corrosion cracking of low alloy steel bolting following a joint leak leading to larger joint leak of AMS / HCN
+
+Field_Tx_6_21: This review satisfies CRA type 2 as per HOIS-RP-103, Feb 2020:- The process fluid composition and operating conditions. See Design section 1.2 The vessel's metallurgy. See Materials of construction section 1.3 Changes to any of the above factors that may affect inspection requirements. See Operational Review section 2 The vessel's modification and repair history. See Inspection History &amp; Summary sections 3.2 &amp; 3.3 The vessel's condition, based on previous inspections whenever these have been carried out. See Inspection History Details section 3.3 Types of degradation, Growth rates for each type of degradation identified as of concern (or at least some estimate related to severity, e.g. a likelihood type value from a risk assessment), The locations where each type of degradation is likely to be active, The likely spatial distribution of degradation identified as of concern and Corrosion management. See Deterioration Mechanisms section 4.1
+
+
+
+File: FF8490C28DA98559802581240074123E.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / Pitting of backing flanges and bolting leading to joint leak of Nitrogen / Fluorine / HF and process organics.
+
+Field_Tx_6_2: External Mechanical damage leading to a leak of Nitrogen / Fluorine / HF and process organics.
+
+Field_Tx_6_3: Mechanical damage of screwed union joints leading to leak of Nitrogen / Fluorine / HF and process organics.
+
+Field_Tx_6_4: Support deterioration leading to movement / overstressing of pipework and joint leak of Nitrogen / Fluorine / HF and process organics.
+
+
+
+File: FF9610641DD3464080257D7000398859.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / pitting of Pipework external at the wind water line leading to leak of Dry Natural Gas GP
+
+Field_Tx_6_2: Corrosion under wrapping of Pipework external leading to leak of Dry Natural Gas GP
+
+Field_Tx_6_3: Subsidence of Pipework leading to leak of Dry Natural Gas GP
+
+Field_Tx_6_4: Mechanical damage of Pipework external leading to leak of Dry Natural Gas GP
+
+Field_Tx_6_21: None
+
+
+
+File: FF7EC596683CF101802581D2003D3D6B.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion of shell internal &amp; external leading to leak of h/cs + water.
+
+Field_Tx_6_21: None.
+
+
+
+File: FF24B337CD69971580257B3300551A30.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / pitting of Outer Shell / roof / floor external resulting in an open leak path to the bund if the inner tank also failed
+
+Field_Tx_6_2: Corrosion / pitting of Inner tank internal leading to leak of diesel to the space between the outer and inner tanks.
+
+Field_Tx_6_3: Corrosion / pitting of Outer Shell internal / Inner Tank external leading to leak of diesel to bund.
+
+Field_Tx_6_21: None.
+
+
+
+File: FF5FCF848ECD386E80258545004145C4.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / pitting of header boxes external leading to leak of hexane / steam.
+
+Field_Tx_6_2: Corrosion / pitting of fins / tubes external leading to leak of hexane / steam.
+
+Field_Tx_6_3: Corrosion of support structure leading to movement of exchanger and joint leak of hexane / steam.
+
+Field_Tx_6_4: Corrosion of plenum chamber / fan guard leading to falling debris.
+
+Field_Tx_6_5: Fatigue cracking of tube to header joints leading to leak of hexane / steam.
+
+Field_Tx_6_6: Fatigue of fan shaft / fan blade leading to failure of fan.
+
+Field_Tx_6_7: Mechanical Damage of aluminium fins leading to poor performance.
+
+Field_Tx_6_8: Corrosion / pitting / erosion of tubes / header boxes internal leading to leak of hexane / steam.
+
+Field_Tx_6_21: Mechanical damage is an event based occurrence.
+
+
+
+File: FF4B84E340CE77BE80257B1100624D30.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / Pitting of supports leading to movement of vessel, overstressing of nozzles and joint leak of hot water.
+
+Field_Tx_6_2: Stress corrosion cracking of shell external leading to a leak of hot water.
+
+
+
+File: FF5AB98B3360BA2580257CD700535346.dxl
+--------------------------------------------------
+Field_Tx_6_1: External pitting leading to pinhole leak of gas / condensate
+
+Field_Tx_6_2: Internal pitting leading to pinhole leak of gas / condensate
+
+Field_Tx_6_3: Erosion / fatigue of baffle leading to process efficiency
+
+
+
+File: FF19E2409B9E800480258308003D7A20.dxl
+--------------------------------------------------
+Field_Tx_6_1: External corrosion / pitting of the HP Tube External (Unjacketed) leading to leak of Ethylene / Polymer to atmosphere
+
+Field_Tx_6_2: External corrosion / pitting of the HP Tube External (Within Jacket) leading to leak of Ethylene / Polymer into the Utility Water
+
+Field_Tx_6_3: External corrosion of the supports leading to movement of the reactor leading to joint leak of Ethylene / Polymer to atmosphere
+
+Field_Tx_6_4: External corrosion / pitting of the HP Blocks leading to leak of Ethylene / Polymer to atmosphere
+
+Field_Tx_6_5: External corrosion of the lens ring leading to a leak of Ethylene / Polymer to atmosphere
+
+Field_Tx_6_6: Internal corrosion of the jacket &amp; jumpers leading to leak of Utility Water to ground
+
+Field_Tx_6_7: Chloride stress corrosion cracking of the threaded stainless steel connections of the spargers / thermocouples at the len rings leading to leak of ethylene / polymer or initiator to atmosphere
+
+Field_Tx_6_8: Chloride stress corrosion cracking of the jacket expansion bellows leading to leak of utility water to ground
+
+Field_Tx_6_9: Overstressing of the pipework due to lack of movement at the PTFE sliders leaking to jacket weld failures leading to leak of Utility water to ground
+
+Field_Tx_6_10: Failure of the centering pins welded into the jacket leading to leak of utility water to ground
+
+Field_Tx_6_11: Fatigue cracking of threaded flanges / welds / bolts / supports leading to leak of Ethylene / Polymer to atmosphere
+
+Field_Tx_6_12: Fatigue of the jacket expansion bellows leading to leak of utility water to ground
+
+Field_Tx_6_13: Corrosion under Insulation (CUI) of the jacket / jumpers external leading to leak of Utility Water to ground
+
+Field_Tx_6_14: Temper embrittlement / Other Phase Change of the 1.25%Cr 0.5%Mo HP Tube to leak of Ethylene / Polymer to atmosphere
+
+Field_Tx_6_15: Corrosion fatigue at corrosion pits locations leading to leak of Ethylene / Polymer into the Utility Water to ground
+
+Field_Tx_6_21: N/A
+
+
+
+File: FFA264AF9BBA3308802586F10070FAA9.dxl
+--------------------------------------------------
+Field_Tx_6_1: Leak of cooling water to atmosphere due to internal / external corrosion of shell.
+
+Field_Tx_6_2: Leak of acetic acid to atmosphere due to external SCC of channel end.
+
+Field_Tx_6_3: Leak of acetic acid into cooling water due to external pitting / SCC of tubes.
+
+Field_Tx_6_21: None.
+
+
+
+File: FF3E205FEADD5C0380257EE600534EEB.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / pitting / Crevice corrosion / CUI of Supports leading to movement of line leading to joint leak of Mixed Feed Vapour
+
+Field_Tx_6_2: Corrosion / pitting / CUI of Flange bolting leading to leak of Mixed Feed Vapour
+
+Field_Tx_6_3: Fatigue of small bore branch welds leading to leak of Mixed Feed Vapour
+
+Field_Tx_6_4: Crevice corrosion of Socket Welded Joints / Screwed Fittings leading to leak of Mixed Feed Vapour
+
+Field_Tx_6_5: Corrosion under Insulation (CUI) of Pipework external leading to leak of Mixed Feed Vapour
+
+Field_Tx_6_6: Mechanical damage leading to leak of Mixed Feed Vapour
+
+Field_Tx_6_7: Fatigue of welds downstream of the control valve on DD220 leading to leak of Mixed Feed Vapour
+
+Field_Tx_6_8: Fretting of pipework at supports due to vibration leading to leak of Mixed Feed Vapour
+
+Field_Tx_6_21: None
+
+
+
+File: FFE58924DC93BAA68025892D006C5473.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / Pitting of surfaces of nozzles, flanges, level bridles, lifting lugs and gantry/pipe support brackets outside of the insulation leading to leak of Benfield solution, make gas &amp; CO₂.
+
+Field_Tx_6_2: Corrosion / Pitting of flange bolting leading to leak of Benfield solution, make gas &amp; CO₂.
+
+Field_Tx_6_3: Corrosion / Pitting of support skirt, base ring and holding down chairs outside of the fireproofing and inside the skirt leading to unstable column and potential leak of benfield solution, make gas &amp; CO₂.
+
+Field_Tx_6_4: Corrosion / Pitting of holding down bolts leading to unstable column and potential leak of benfield solution, make gas &amp; CO₂.
+
+Field_Tx_6_5: Corrosion / Pitting of internal surfaces of the shell, dished ends and nozzles leading to leak of Benfield solution, make gas &amp; CO₂
+
+Field_Tx_6_6: Corrosion / Pitting of internal packing support rings, internal distributors, associated brackets and beams leading to loss of process efficiency.
+
+Field_Tx_6_7: Corrosion under insulation (CUI) of shell, dished ends, nozzles, lifting lugs and gantry/pipe support brackets beneath the insulation leading to leak of Benfield solution, make gas &amp; CO₂
+
+Field_Tx_6_8: Corrosion under insulation (CUI) of bottom dished end (within the skirt) leading to leak of Benfield solution, make gas &amp; CO₂
+
+Field_Tx_6_9: Corrosion under insulation (CUI) of level bridles leading to leak of Benfield solution, make gas &amp; CO₂
+
+Field_Tx_6_10: Stress corrosion cracking of level bridles leading to leak of Benfield solution, make gas &amp; CO₂
+
+Field_Tx_6_11: Fatigue of nozzle to shell attachment welds leading to leak of Benfield solution, make gas &amp; CO₂
+
+Field_Tx_6_12: Fatigue of packing bed support ring and beam bracket attachment welds leading to cracking into the pressure envelope and a leak of Benfield solution, make gas &amp; CO₂
+
+Field_Tx_6_13: Fatigue of internal furniture and bracket attachment welds leading to a loss of process efficiency.
+
+Field_Tx_6_14: Fatigue of holding down bolts leading to unstable column and potential leak of benfield solution, make gas &amp; CO₂.
+
+Field_Tx_6_15: Fatigue of piping bracket attachment welds leading to nozzle overstressing and a leak of Benfield solution, make gas &amp; CO₂
+
+Field_Tx_6_16: Mechanical damage of small bore branches leading to leak of Benfield solution, make gas &amp; CO₂
+
+Field_Tx_6_17: Pall ring abrasion/damage of internal surfaces of the shell at packing bed locations leading to leak of Benfield solution, make gas &amp; CO₂
+
+Field_Tx_6_18: Galvanic corrosion of internal dissimilar metal interfaces at packing trays, demisters and spray nozzles leading to a loss of process efficiency.
+
+Field_Tx_6_19: Galvanic corrosion of dissimilar metal interfaces at manway flanges leading to leak of Benfield solution, make gas &amp; CO₂
+
+Field_Tx_6_20: Deadleg corrosion of level bridles leading to a leak of Benfield solution, make gas &amp; CO₂
+
+Field_Tx_6_21: Failure Scenario U: Deadleg corrosion of Drain nozzles C13A/B/C and C15 leading to a leak of Benfield solution, make gas &amp; CO₂ Failure Scenario V: Deterioration of the concrete plinth leading to unstable column and potential leak of benfield solution, make gas &amp; CO₂. Failure Scenario W: Corrosion under fireproofing of the support skirt leading to unstable column and potential leak of benfield solution, make gas &amp; CO₂.
+
+Field_Tx_6_22: Deadleg corrosion of drain nozzle c7 leading to leak of benfield solution, make gas &amp; co₂.
+
+Field_Tx_6_23: Support deterioration of concrete plinth leading to leak of benfield solution, make gas &amp; co₂.
+
+Field_Tx_6_24: Corrosion Under Fireproofing (CUF) of support skirt leading to leak of benfield solution, make gas &amp; co₂.
+
+
+
+File: FFA9BA8EA90A51E2802586F1006FE7E7.dxl
+--------------------------------------------------
+Field_Tx_6_1: Leak of oligomer into the dowtherm jacket or vice versa due to internal corrosion of the shell.
+
+Field_Tx_6_2: Leak of glycol / phosphoric acid to atmosphere due to internal corrosion of additive inlet piping section.
+
+Field_Tx_6_3: Leak of dowtherm to atmosphere due to external SCC of jacket.
+
+Field_Tx_6_4: Failure of support legs due to distortion leading to movement of vessel and potential joint leak.
+
+Field_Tx_6_21: No credible failure scenario identified.
+
+
+
+File: FFFFBCA0482F7EF58025854D00513103.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / pitting of internal leading to leak of instrument air.
+
+Field_Tx_6_2: Corrosion / pitting of external leading to leak of instrument air.
+
+Field_Tx_6_3: Corrosion / pitting of supports leading to movement off vessel, overstressing of instrument tubing and leak of instrument air.
+
+Field_Tx_6_4: Crevice corrosion of threaded connections leading to leak of instrument air.
+
+Field_Tx_6_5: Mechanical damage of small bore piping connections leading to leak of instrument air.
+
+Field_Tx_6_6: External galvanic corrosion of dissimilar metal interface leading to leak of instrument air.
+
+Field_Tx_6_21: None.
+
+
+
+File: FFED03363D696361802586F100729EB5.dxl
+--------------------------------------------------
+Field_Tx_6_1: Environmental cracking leading to cat.Failure
+
+Field_Tx_6_2: Leak due to environmental cracking
+
+Field_Tx_6_3: Leak due to corrosion under lagging
+
+Field_Tx_6_4: 
+
+Field_Tx_6_5: 
+
+Field_Tx_6_6: -
+
+Field_Tx_6_7: -
+
+Field_Tx_6_8: -
+
+Field_Tx_6_9: -
+
+Field_Tx_6_10: -
+
+Field_Tx_6_21: None.
+
+
+
+File: FF52678E3CD43E378025847F00707D06.dxl
+--------------------------------------------------
+Field_Tx_6_1: Erosion / Erosion-Corrosion of rotor blades leading to blade failure.
+
+Field_Tx_6_2: Vibration Induced Fatigue of rotor blades leading to blade failure.
+
+Field_Tx_6_3: Mechanical Fatigue of rotor blades leading to blade failure.
+
+Field_Tx_6_4: Thermal Fatigue of casing leading to cracking of the casing.
+
+Field_Tx_6_5: Thermal Fatigue of rotor leading to blade failure.
+
+Field_Tx_6_6: Thermal Shock of rotor leading to rotor failure.
+
+Field_Tx_6_7: Mechanical Damage of rotor and diaphragm leading to rotor and diaphragm failure (stress raisers).
+
+Field_Tx_6_8: Mechanical Damage of rotor and diaphragm leading to loss of material due to blending of cracks with potential of rotor and diaphragm failure.
+
+
+
+File: FFA3C2EF04A79E888025846C007189AD.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion of shell external leading to a leak of sulphuric acid.
+
+Field_Tx_6_2: Corrosion of shell internal leading to a leak of sulphuric acid.
+
+Field_Tx_6_3: Corrosion of floor internal leading to leak of sulphuric acid.
+
+Field_Tx_6_4: Corrosion of floor external leading to leak of sulphuric acid.
+
+Field_Tx_6_5: Corrosion of roof internal leading to collapse.
+
+Field_Tx_6_6: Corrosion of roof external leading to collapse.
+
+Field_Tx_6_7: Corrosion of nozzles leading to leak of sulphuric acid.
+
+Field_Tx_6_8: Flow Accelerated Corrosion (FAC) of shell internal leading to leak of sulphuric acid.
+
+Field_Tx_6_9: Flow Accelerated Corrosion (FAC) of nozzles leading to leak of sulphuric acid.
+
+Field_Tx_6_10: Fatigue of welds leading to a leak of sulphuric acid.
+
+Field_Tx_6_11: Hydrogen Grooving of shell internal leading to leak of sulphuric acid.
+
+Field_Tx_6_12: Galvanic Corrosion of dissimilar metal interface leading to a leak of sulphuric acid.
+
+Field_Tx_6_13: Gasket Deterioration leading to joint leak of sulphuric acid.
+
+Field_Tx_6_14: Hydrogen Blistering of shell internal leading to leak of sulphuric acid.
+
+
+
+File: FFFD6BDF17D8F7AC80258106004744B5.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / pitting of skirt external / internal / holding down bolts leading to joint leak of natural gas.
+
+Field_Tx_6_2: Corrosion / pitting of shell external / nozzles leading to leak of natural gas.
+
+Field_Tx_6_21: Mechanical damage to instrumentation piping &amp; swagelock fittings is an event based occurrence during maintenance operations.
+
+
+
+File: FF7485C909976C858025848C003F0D3E.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / pitting of shell / nozzle externals leading to leak of natural gas.
+
+Field_Tx_6_2: Corrosion under fireproofing of support skirt leading to movement of vessel, overstressing of nozzles and joint leak of natural gas.
+
+Field_Tx_6_3: Fatigue of small bore branches leading to a leak of natural gas.
+
+Field_Tx_6_4: Deterioration of refractory lining causing thermal fatigue, leading to a leak of natural gas.
+
+Field_Tx_6_5: External galvanic corrosion leading to leak of natural gas.
+
+Field_Tx_6_21: None.
+
+
+
+File: FF9BAEEC358CB4C980257F0000494195.dxl
+--------------------------------------------------
+Field_Tx_6_1: Corrosion / Pitting of external leading to leak of dry instrument air.
+
+Field_Tx_6_2: Internal Default Damage of internal leading to leak of dry instrument air.
+
+
+

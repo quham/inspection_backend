@@ -1,0 +1,1000 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE document SYSTEM 'xmlschemas/domino_11_0_1.dtd'>
+<document xmlns='http://www.lotus.com/dxl' version='11.0' maintenanceversion='1.8'
+ replicaid='C125794C006266B1' form='fProjectItem'>
+<noteinfo noteid='52d8e' unid='FF6EA49694A531EE80257AFB004F2433' sequence='122'>
+<created><datetime>20130122T142426,11+00</datetime></created>
+<modified><datetime dst='true'>20240520T225549,71+01</datetime></modified>
+<revised><datetime dst='true'>20230902T035648,76+01</datetime></revised>
+<lastaccessed><datetime dst='true'>20240520T225549,70+01</datetime></lastaccessed>
+<addedtofile><datetime dst='true'>20240520T225549,70+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Tristan Wild/OU=GBABB/O=ABB</name><name>CN=Gary J Day/OU=GBABB/O=ABB</name><name
+>CN=Tristan Wild/OU=GBABB/O=ABB</name><name>CN=Gary J Day/OU=GBABB/O=ABB</name><name
+>CN=Tristan Wild/OU=GBABB/O=ABB</name><name>CN=Gary J Day/OU=GBABB/O=ABB</name><name
+>CN=Philip FG Evans/OU=GBEUL/O=ABB</name><name>CN=Gary J Day/OU=GBABB/O=ABB</name><name
+>CN=Sean 1 Cull/OU=GBABB/O=NONABB</name><name>CN=Phil Marsh/OU=GBEUL/O=ABB</name><name
+>CN=Andrew Champion/O=prime-toolkit</name></updatedby>
+<revisions><datetime dst='true'>20130606T112106,52+01</datetime><datetime
+ dst='true'>20140530T180337,47+01</datetime><datetime dst='true'>20140613T085457,27+01</datetime></revisions>
+<item name='$NoteHasNativeMIME'><text>1</text></item>
+<item name='MIME_Version'><text>1.0</text></item>
+<item name='Field_Tx_5_1001'><text>Sampling and analysis for microbiological activity:<break
+/>High levels (10^7) of SRB activity were identified in this vessel in 2008 and 2009. Measured activity was lower (up to 10^2) in 2010 and 2011. No sampling was carried out in 2012 for this vessel.<break
+/></text></item>
+<item name='Field_Tx_3_14'><text>No</text></item>
+<item name='Field_Tx_3_15'><text>Coated (assumed glass flake epoxy)</text></item>
+<item name='Field_Tx_3_16'><text/></item>
+<item name='Field_Tx_3_18'><text>Painted: Carbozinc 2 at 2-3mm DFT, two coats of Carboline 893 3mm DFT, one coat of Carboline 134HS 2mm DFT.<break
+/><break/>Some nozzles/trim are insulated.</text></item>
+<item name='Field_Tx_3_19'><text>n/a</text></item>
+<item name='Field_Tx_3_201'><text>Carbon Steel ASME SA516 70</text></item>
+<item name='Field_Tx_3_202'><text>Carbon Steel ASME SA516 70</text></item>
+<item name='Field_Tx_3_203'><text>Carbon Steel</text></item>
+<item name='Field_Tx_3_204'><text>Carbon Steel</text></item>
+<item name='Field_Tx_3_205'><text/></item>
+<item name='Field_Tx_3_206'><text/></item>
+<item name='Field_Tx_3_207'><text/></item>
+<item name='TempField_Tx'><text/></item>
+<item name='Field_Tx_3_20'><text>n/a</text></item>
+<item name='Field_Tx_3_21'><text>12.7</text></item>
+<item name='Field_Tx_3_22'><text>11.1</text></item>
+<item name='Field_Tx_3_23'><text/></item>
+<item name='Field_Tx_3_24'><text/></item>
+<item name='Field_Tx_3_25'><text/></item>
+<item name='Field_Tx_3_26'><text/></item>
+<item name='Field_Tx_3_27'><text/></item>
+<item name='ProjectUNID_Tx'><text>PMAH-8YRQ8W</text></item>
+<item name='Field_Tx_3_31'><text>3</text></item>
+<item name='Field_Tx_3_32'><text>3</text></item>
+<item name='Field_Tx_3_33'><text/></item>
+<item name='Field_Tx_1_10'><text/></item>
+<item name='Field_Tx_3_34'><text/></item>
+<item name='Field_Tx_1_11'><text/></item>
+<item name='Field_Tx_3_35'><text/></item>
+<item name='Field_Tx_1_12'><text>SA01-MBJ-3592</text></item>
+<item name='ParentUNID_Tx'><text>PMAH-8YRQ8W</text></item>
+<item name='Field_Tx_3_36'><text/></item>
+<item name='Field_Tx_1_13'><text>Commissioned 1996</text></item>
+<item name='Field_Tx_3_37'><text/></item>
+<item name='Field_Tx_1_14'><text>Challenger Tank &amp; MFG Co.</text></item>
+<item name='Field_Tx_1_15'><text>1996</text></item>
+<item name='Field_Tx_1_16'><text>ASME Section VIII Div 1</text></item>
+<item name='Field_Tx_2_1'><text>Aqueous residue from jet cleaning, crude oil, hydrocarbon gas and liquids</text></item>
+<item name='Field_Tx_2_2'><text>3.4</text></item>
+<item name='Field_Tx_2_3'><text/></item>
+<item name='Field_Tx_3_101'><text/></item>
+<item name='Field_Tx_2_4'><text>0 to 0.05</text></item>
+<item name='Field_Tx_3_102'><text/></item>
+<item name='Field_Tx_2_5'><text/></item>
+<item name='Field_Tx_3_103'><text/></item>
+<item name='Field_Tx_2_6'><text>149</text></item>
+<item name='Field_Tx_3_104'><text/></item>
+<item name='Field_Tx_2_7'><text>-17.8</text></item>
+<item name='Field_Tx_3_105'><text/></item>
+<item name='Field_Tx_2_8'><text>20 to 37</text></item>
+<item name='Field_Tx_3_106'><text/></item>
+<item name='Field_Tx_2_9'><text/></item>
+<item name='Field_Tx_3_107'><text/></item>
+<item name='Field_Tx_3_41'><text>D-PR-0681</text></item>
+<item name='Field_Tx_3_42'><text>SK-MBJ-3592-01</text></item>
+<item name='ProjectNumber_Tx'><text>300051284</text></item>
+<item name='Field_Tx_3_44'><text>n/a</text></item>
+<item name='Field_Tx_1_21'><text>Spot radiography </text></item>
+<item name='Field_Tx_3_45'><text>Internals:<break/>Deflector baffle on liquid inlet nozzle.<break
+/><break/>Stainless steel sleeve in Nozzle C.</text></item>
+<item name='Client_Tx'><text>BP Azerbaijan</text></item>
+<item name='EquipmentType_Tx'><text>Vessel</text></item>
+<item name='Field_Tx_1_2'><text/></item>
+<item name='Field_Tx_1_3'><text>BP Baku Sangachal </text></item>
+<item name='Field_Tx_1_4'><text>EOP</text></item>
+<item name='Field_Tx_1_5'><text>57 Closed Drains</text></item>
+<item name='Field_Tx_5_1'><text>Internal Visual Inspection<break/><break/><break
+/></text></item>
+<item name='Field_Tx_5_2'><text>Manual UT and external CVI</text></item>
+<item name='Field_Tx_1_6'><text>Closed Drains Drum</text></item>
+<item name='Field_Tx_5_3'><text>Radiography of small bore branches</text></item>
+<item name='Field_Tx_1_7'><text>Drum / Pot</text></item>
+<item name='Field_Tx_1_8'><text>Horizontal Drum</text></item>
+<item name='Field_Tx_1_9'><text>Length 5790mm Tan / Tan x <break/>O/Dia 2745mm. </text></item>
+<item name='Field_Tx_5_8'><text>Visual  external examination  - 20/01/2011 (SANG-VIS-11-124)<break
+/><break/>Visual internal / external examination - 21/08/2009 (EOP-SD-004)</text></item>
+<item name='Field_Dt_5_1'><text/></item>
+<item name='Field_Dt_5_2'><text/></item>
+<item name='Field_Dt_5_3'><text/></item>
+<item name='ProjectName_Tx'><text>BP Baku Sangachal</text></item>
+<item name='Field_Tx_2_10'><text/></item>
+<item name='Field_Tx_2_13'><text>From jetting: Degraded crude oil, wax, other debris and water<break
+/><break/>Approx 1.3% NaCl<break/>H2S &lt; 10ppm<break/>CO2 in liquid phase approx 6 mol%<break
+/>CO2 in gas phase approx 4 mol%<break/>Produced water<break/>pH 6.7-8.5 (measured annually)</text></item>
+<item name='Field_Tx_2_16'><text/></item>
+<item name='Field_Tx_5_10'><text>None.</text></item>
+<item name='Field_Tx_5_11'><text>Internal - Man Entry</text></item>
+<item name='Field_Tx_5_12'><text>Non Invasive Online</text></item>
+<item name='Field_Tx_5_13'><text>Non Invasive Online</text></item>
+<item name='Field_Tx_5_14'><text>96</text></item>
+<item name='Field_Tx_5_15'><text>48</text></item>
+<item name='Field_Tx_5_16'><text>36</text></item>
+<item name='Field_Tx_2_101'><text/></item>
+<item name='Field_Tx_2_102'><text/></item>
+<item name='Field_Tx_2_103'><text/></item>
+<item name='Field_Tx_2_104'><text/></item>
+<item name='Field_Tx_2_105'><text/></item>
+<item name='Field_Tx_2_106'><text/></item>
+<item name='Field_Tx_2_107'><text/></item>
+<item name='Field_Tx_2_108'><text/></item>
+<item name='Label_Tx_3_2'><text>Channel End / Bonnet</text></item>
+<item name='Field_Tx_2_109'><text/></item>
+<item name='Label_Tx_3_3'><text>Tubes</text></item>
+<item name='Label_Tx_3_4'><text>Tubeplate</text></item>
+<item name='Label_Tx_3_7'><text/></item>
+<item name='Field_Tx_2_110'><text/></item>
+<item name='Field_Tx_2_113'><text/></item>
+<item name='DocUNID_Tx'><text>TWID-947JWA</text></item>
+<item name='LoopUNID_Tx'><text/></item>
+<item name='ItemNumber_Tx'><text/></item>
+<item name='ItemName_Tx'><text/></item>
+<item name='ViewDetail_Tx'><text/></item>
+<item name='Groups_Tx'><text/></item>
+<item name='Status_Nb'><number>100</number></item>
+<item name='Status_Tx'><text/></item>
+<item name='DateComplete_Dt'><datetime>20130606</datetime></item>
+<item name='History_Tx'><textlist><text>06/06/2013  11:20:42  :  Gary J Day  :  Meeting Held</text><text
+>06/06/2013  11:20:26  :  Gary J Day  :  Prepared</text><text>22/01/2013 14:24:26  :  Tristan Wild  :  Created</text></textlist></item>
+<item name='Field_Tx_1_17'><text/></item>
+<item name='Field_Tx_1_18'><text/></item>
+<item name='Field_Tx_1_19'><text/></item>
+<item name='Field_Tx_1_20'><text/></item>
+<item name='Units_Tx_2_1'><text/></item>
+<item name='Units_Tx_2_2'><text/></item>
+<item name='Units_Tx_2_3'><text/></item>
+<item name='Units_Tx_2_4'><text/></item>
+<item name='Units_Tx_2_5'><text/></item>
+<item name='Units_Tx_2_6'><text/></item>
+<item name='Units_Tx_2_7'><text/></item>
+<item name='Units_Tx_2_8'><text/></item>
+<item name='Units_Tx_2_9'><text/></item>
+<item name='Units_Tx_2_10'><text/></item>
+<item name='Field_Tx_2_11'><text/></item>
+<item name='Units_Tx_2_11'><text/></item>
+<item name='Field_Tx_2_12'><text/></item>
+<item name='Units_Tx_2_12'><text/></item>
+<item name='Units_Tx_2_13'><text/></item>
+<item name='Field_Tx_2_14'><text/></item>
+<item name='Units_Tx_2_14'><text/></item>
+<item name='Field_Tx_2_15'><text/></item>
+<item name='Units_Tx_2_15'><text/></item>
+<item name='Units_Tx_2_16'><text/></item>
+<item name='Field_Tx_2_17'><text/></item>
+<item name='Units_Tx_2_17'><text/></item>
+<item name='Field_Tx_2_18'><text/></item>
+<item name='Units_Tx_2_18'><text/></item>
+<item name='Field_Tx_2_19'><text/></item>
+<item name='Units_Tx_2_19'><text/></item>
+<item name='Field_Tx_2_20'><text/></item>
+<item name='Units_Tx_2_20'><text/></item>
+<item name='Label_Tx_3'><text/></item>
+<item name='Field_Tx_3'><text/></item>
+<item name='Label_Tx_3_8'><text/></item>
+<item name='Field_Tx_3_8'><text/></item>
+<item name='Field_Tx_3_28'><text/></item>
+<item name='Field_Tx_3_38'><text/></item>
+<item name='Label_Tx_3_9'><text/></item>
+<item name='Field_Tx_3_9'><text/></item>
+<item name='Field_Tx_3_29'><text/></item>
+<item name='Field_Tx_3_39'><text/></item>
+<item name='Label_Tx_3_10'><text/></item>
+<item name='Field_Tx_3_10'><text/></item>
+<item name='Field_Tx_3_30'><text/></item>
+<item name='Field_Tx_3_40'><text/></item>
+<item name='Field_Tx_3_11'><text/></item>
+<item name='Field_Tx_3_12'><text/></item>
+<item name='Field_Tx_3_13'><text/></item>
+<item name='Field_Tx_3_17'><text/></item>
+<item name='Field_Tx_4_1'><text/></item>
+<item name='Field_Tx_4_2'><text/></item>
+<item name='Field_Tx_4_3'><text/></item>
+<item name='Field_Tx_4_4'><text/></item>
+<item name='Field_Tx_4_5'><text/></item>
+<item name='Field_Tx_4_6'><text/></item>
+<item name='Field_Tx_4_7'><text/></item>
+<item name='Field_Tx_4_8'><text/></item>
+<item name='Field_Tx_4_9'><text/></item>
+<item name='Field_Tx_4_10'><text/></item>
+<item name='Field_Tx_5'><text/></item>
+<item name='Field_Rtx_5'><text/></item>
+<item name='Field_Dt_5'><text/></item>
+<item name='Field_Rtx_5_2'><text/></item>
+<item name='Field_Tx_5_4'><text/></item>
+<item name='Field_Tx_5_5'><text/></item>
+<item name='Field_Tx_5_6'><text/></item>
+<item name='Field_Tx_5_7'><text/></item>
+<item name='Field_Tx_5_9'><text/></item>
+<item name='Field_Tx_5_17'><text/></item>
+<item name='Field_Tx_5_18'><text/></item>
+<item name='Field_Tx_5_19'><text/></item>
+<item name='Field_Tx_5_20'><text/></item>
+<item name='Deterioration_Tx'><text/></item>
+<item name='Credible_Tx_1'><text/></item>
+<item name='Location_Tx_1'><text/></item>
+<item name='DetComment_Tx_1'><text/></item>
+<item name='Deterioration_Tx_1'><text>General and Pitting corrosion</text></item>
+<item name='Credible_Tx_1_1'><text/></item>
+<item name='Location_Tx_1_1'><text>Lower internal shell and nozzles</text></item>
+<item name='DetComment_Tx_1_1'><text>A wide range of hydrocarbon including a substantial volume of water from steam jetting and produced water will flow into this vessel which has been coated with a corrosion protection barrier early in its service life. CO2 and 1.3% NaCl will be present as potentially corrosive species and oxygen will also be entrained from the air introduced as part of the steam jetting operation carried out on the oil/oil exchangers. Annual pH measurements suggest slightly alkaline to be present but these may not be representative. It is expected that substantial deposits will also be present. Whilst the corrosion barrier remains intact, deterioration of the shell surfaces is not expected. A corrosion rate of approximately 2 mm/yr can be assumed due to the effects of NaCl + O2 + CO2 with pitting likely to predominate.</text></item>
+<item name='Field_Tx_6_21'><text>This RBI assessment has not considered the risk of vibration induced fatigue failure of small bore branches. It is understood that this issue is being addressed by means of a separate vibration risk assessment project.</text></item>
+<item name='Field_Tx_7'><text/></item>
+<item name='Field_Tx_7_1'><text>3</text></item>
+<item name='Field_Tx_7_2'><text>2</text></item>
+<item name='Field_Tx_7_3'><text>1</text></item>
+<item name='Field_Tx_7_4'><text>3</text></item>
+<item name='Field_Tx_7_5'><text>3</text></item>
+<item name='Field_Tx_7_6'><text>2</text></item>
+<item name='Field_Tx_7_7'><text>3</text></item>
+<item name='Field_Tx_7_8'><text>3</text></item>
+<item name='Field_Tx_7_9'><text>1</text></item>
+<item name='Field_Tx_7_10'><text>2</text></item>
+<item name='Field_Tx_7_11'><text/></item>
+<item name='Field_Tx_7_12'><text/></item>
+<item name='Field_Tx_7_13'><text/></item>
+<item name='Field_Tx_7_14'><text/></item>
+<item name='Field_Tx_7_15'><text/></item>
+<item name='RegNumber'><text/></item>
+<item name='Title'><text/></item>
+<item name='Fluids'><text/></item>
+<item name='SystemNo'><text/></item>
+<item name='System'><text/></item>
+<item name='Works'><text/></item>
+<item name='Unit'><text/></item>
+<item name='Area'><text/></item>
+<item name='LocalID'><text/></item>
+<item name='ReliefStreamNo'><text/></item>
+<item name='Plant'><text/></item>
+<item name='Customer'><text/></item>
+<item name='Class'><text/></item>
+<item name='INS_Deterioration'><text/></item>
+<item name='RefDoc'><text/></item>
+<item name='DismantleIntl'><text/></item>
+<item name='CleanIntl'><text/></item>
+<item name='AccessIntl'><text/></item>
+<item name='TestIntl'><text/></item>
+<item name='VisualAidIntl'><text/></item>
+<item name='SpecialReqIntl'><text/></item>
+<item name='DismantleExtl'><text/></item>
+<item name='CleanExtl'><text/></item>
+<item name='AccessExtl'><text/></item>
+<item name='TestExtl'><text/></item>
+<item name='VisualAidExtl'><text/></item>
+<item name='SpecialReqExtl'><text/></item>
+<item name='Cont_tx'><text/></item>
+<item name='IntermediateA'><text/></item>
+<item name='IntermediateB'><text/></item>
+<item name='InspectorName'><text/></item>
+<item name='SeniorInspectorName'><text/></item>
+<item name='ClientSignatory'><text/></item>
+<item name='CommissionDate'><text/></item>
+<item name='InspectorEmail' names='true'><text/></item>
+<item name='SeniorInspectorEmail' names='true'><text/></item>
+<item name='ClientEmail'><text/></item>
+<item name='SubmitInsp'><text/></item>
+<item name='SubmitSenInsp'><text/></item>
+<item name='SubmitClient'><text/></item>
+<item name='SignDate'><text/></item>
+<item name='ApproveSenInsp'><text/></item>
+<item name='DespatchDate'><text/></item>
+<item name='PreparedBy_Nm' names='true'><text>CN=Gary J Day/O=TUV</text></item>
+<item name='PreparedByDate_Dt'><datetime>20130606</datetime></item>
+<item name='PreparedByComments_Tx'><text/></item>
+<item name='MeetingHeld_Nm' names='true'><text>CN=Gary J Day/O=TUV</text></item>
+<item name='MeetingHeldDate_Dt'><datetime>20130311T120000,00+00</datetime></item>
+<item name='MeetingHeldComments_Tx'><text/></item>
+<item name='InternalRole_Tx'><text/></item>
+<item name='InternalMember_Nm' names='true'><text/></item>
+<item name='InternalSignature_Nm' names='true'><text/></item>
+<item name='InternalSigDate_Dt'><text/></item>
+<item name='InternalSigComments_Tx'><text/></item>
+<item name='InternalRole_Tx_1'><text>RBI Leader</text></item>
+<item name='InternalMember_Nm_1' names='true'><text>Gary J Day/TUV</text></item>
+<item name='InternalSignature_Nm_1' names='true'><text>CN=Gary J Day/O=TUV</text></item>
+<item name='InternalSigDate_Dt_1'><datetime>20130606</datetime></item>
+<item name='InternalSigComments_Tx_1'><text/></item>
+<item name='InternalRole_Tx_2'><text>Materials Engineer</text></item>
+<item name='InternalMember_Nm_2' names='true'><text>Philip FG Evans/TUV</text></item>
+<item name='InternalSignature_Nm_2' names='true'><text>CN=Gary J Day/O=TUV</text></item>
+<item name='InternalSigDate_Dt_2'><datetime>20130606</datetime></item>
+<item name='InternalSigComments_Tx_2'><text/></item>
+<item name='InternalRole_Tx_3'><text>Vessels Engineer</text></item>
+<item name='InternalMember_Nm_3' names='true'><text>Keith Watson/TUV</text></item>
+<item name='InternalSignature_Nm_3' names='true'><text>CN=Gary J Day/O=TUV</text></item>
+<item name='InternalSigDate_Dt_3'><datetime>20130606</datetime></item>
+<item name='InternalSigComments_Tx_3'><text/></item>
+<item name='InternalRole_Tx_4'><text/></item>
+<item name='InternalMember_Nm_4' names='true'><text/></item>
+<item name='InternalSignature_Nm_4' names='true'><text/></item>
+<item name='InternalSigDate_Dt_4'><text/></item>
+<item name='InternalSigComments_Tx_4'><text/></item>
+<item name='InternalRole_Tx_5'><text/></item>
+<item name='InternalMember_Nm_5' names='true'><text/></item>
+<item name='InternalSignature_Nm_5' names='true'><text/></item>
+<item name='InternalSigDate_Dt_5'><text/></item>
+<item name='InternalSigComments_Tx_5'><text/></item>
+<item name='InternalRole_Tx_6'><text>RBI Administrator</text></item>
+<item name='InternalMember_Nm_6' names='true'><text>Tristan Wild/TUV</text></item>
+<item name='InternalSignature_Nm_6' names='true'><text>CN=Gary J Day/O=TUV</text></item>
+<item name='InternalSigDate_Dt_6'><datetime>20130606</datetime></item>
+<item name='InternalSigComments_Tx_6'><text/></item>
+<item name='InternalRole_Tx_7'><text/></item>
+<item name='InternalMember_Nm_7' names='true'><text/></item>
+<item name='InternalSignature_Nm_7' names='true'><text/></item>
+<item name='InternalSigDate_Dt_7'><text/></item>
+<item name='InternalSigComments_Tx_7'><text/></item>
+<item name='InternalRole_Tx_8'><text/></item>
+<item name='InternalMember_Nm_8' names='true'><text/></item>
+<item name='InternalSignature_Nm_8' names='true'><text/></item>
+<item name='InternalSigDate_Dt_8'><text/></item>
+<item name='InternalSigComments_Tx_8'><text/></item>
+<item name='InternalRole_Tx_9'><text/></item>
+<item name='InternalMember_Nm_9' names='true'><text/></item>
+<item name='InternalSignature_Nm_9' names='true'><text/></item>
+<item name='InternalSigDate_Dt_9'><text/></item>
+<item name='InternalSigComments_Tx_9'><text/></item>
+<item name='InternalRole_Tx_10'><text/></item>
+<item name='InternalMember_Nm_10' names='true'><text/></item>
+<item name='InternalSignature_Nm_10' names='true'><text/></item>
+<item name='InternalSigDate_Dt_10'><text/></item>
+<item name='InternalSigComments_Tx_10'><text/></item>
+<item name='ClientRole_Tx'><text/></item>
+<item name='ClientMember_Nm' names='true'><text/></item>
+<item name='ClientSignature_Nm' names='true'><text/></item>
+<item name='ClientSigDate_Dt'><text/></item>
+<item name='ClientSigComments_Tx'><text/></item>
+<item name='ClientRole_Tx_1'><text>BP Mechanical Engineer</text></item>
+<item name='ClientMember_Nm_1' names='true'><text>Konstantin Freyman</text></item>
+<item name='ClientSignature_Nm_1' names='true'><text>CN=Gary J Day/O=TUV</text></item>
+<item name='ClientSigDate_Dt_1'><datetime>20130606</datetime></item>
+<item name='ClientSigComments_Tx_1'><text/></item>
+<item name='ClientRole_Tx_2'><text/></item>
+<item name='ClientMember_Nm_2' names='true'><text/></item>
+<item name='ClientSignature_Nm_2' names='true'><text/></item>
+<item name='ClientSigDate_Dt_2'><text/></item>
+<item name='ClientSigComments_Tx_2'><text/></item>
+<item name='ClientRole_Tx_3'><text/></item>
+<item name='ClientMember_Nm_3' names='true'><text/></item>
+<item name='ClientSignature_Nm_3' names='true'><text/></item>
+<item name='ClientSigDate_Dt_3'><text/></item>
+<item name='ClientSigComments_Tx_3'><text/></item>
+<item name='ClientRole_Tx_4'><text/></item>
+<item name='ClientMember_Nm_4' names='true'><text/></item>
+<item name='ClientSignature_Nm_4' names='true'><text/></item>
+<item name='ClientSigDate_Dt_4'><text/></item>
+<item name='ClientSigComments_Tx_4'><text/></item>
+<item name='ClientRole_Tx_5'><text/></item>
+<item name='ClientMember_Nm_5' names='true'><text/></item>
+<item name='ClientSignature_Nm_5' names='true'><text/></item>
+<item name='ClientSigDate_Dt_5'><text/></item>
+<item name='ClientSigComments_Tx_5'><text/></item>
+<item name='ClientRole_Tx_6'><text/></item>
+<item name='ClientMember_Nm_6' names='true'><text/></item>
+<item name='ClientSignature_Nm_6' names='true'><text/></item>
+<item name='ClientSigDate_Dt_6'><text/></item>
+<item name='ClientSigComments_Tx_6'><text/></item>
+<item name='ClientRole_Tx_7'><text/></item>
+<item name='ClientMember_Nm_7' names='true'><text/></item>
+<item name='ClientSignature_Nm_7' names='true'><text/></item>
+<item name='ClientSigDate_Dt_7'><text/></item>
+<item name='ClientSigComments_Tx_7'><text/></item>
+<item name='ClientRole_Tx_8'><text/></item>
+<item name='ClientMember_Nm_8' names='true'><text/></item>
+<item name='ClientSignature_Nm_8' names='true'><text/></item>
+<item name='ClientSigDate_Dt_8'><text/></item>
+<item name='ClientSigComments_Tx_8'><text/></item>
+<item name='ClientRole_Tx_9'><text/></item>
+<item name='ClientMember_Nm_9' names='true'><text/></item>
+<item name='ClientSignature_Nm_9' names='true'><text/></item>
+<item name='ClientSigDate_Dt_9'><text/></item>
+<item name='ClientSigComments_Tx_9'><text/></item>
+<item name='ClientRole_Tx_10'><text/></item>
+<item name='ClientMember_Nm_10' names='true'><text/></item>
+<item name='ClientSignature_Nm_10' names='true'><text/></item>
+<item name='ClientSigDate_Dt_10'><text/></item>
+<item name='ClientSigComments_Tx_10'><text/></item>
+<item name='SHERisk_Tx'><text>Low</text></item>
+<item name='BusRisk_Tx'><text>Very High</text></item>
+<item name='Field_Rtx_4_2' summary='true'><richtext>
+<par/></richtext></item>
+<item name='Field_Rtx_4_3' summary='true'><richtext>
+<par/></richtext></item>
+<item name='Field_Rtx_4_4' summary='true'><richtext>
+<par/></richtext></item>
+<item name='$MIMETrack'><textlist><text>Itemize by Notes Client on Tristan Wild/GBABB/ABB(Release 8.5.3|September 15, 2011) at 22/01/2013 14:24:26</text><text
+>Itemize by Notes Client on Tristan Wild/GBABB/ABB(Release 8.5.3|September 15, 2011) at 23/01/2013 10:05:49</text><text
+>Itemize by Notes Client on Gary J Day/GBABB/ABB(Release 8.5.3|September 15, 2011) at 06/02/2013 08:23:30</text><text
+>Itemize by Notes Client on Tristan Wild/GBABB/ABB(Release 8.5.3|September 15, 2011) at 21/02/2013 15:14:08</text><text
+>Itemize by Notes Client on Gary J Day/GBABB/ABB(Release 8.5.3|September 15, 2011) at 10/03/2013 11:27:43</text><text
+>Itemize by Notes Client on Philip FG Evans/GBEUL/ABB(Release 8.5.3FP2|July 03, 2012) at 25/03/2013 15:51:32</text></textlist></item>
+<item name='FailuresDefaulted_Tx'><text>Yes</text></item>
+<item name='DetCredible_Tx_1_1'><text>Yes</text></item>
+<item name='DetCount_Nb'><number>11</number></item>
+<item name='DetMechsDefaulted_Tx'><text/></item>
+<item name='LocCount_Nb_1'><number>3</number></item>
+<item name='LocCount_Nb_2'><number>2</number></item>
+<item name='LocCount_Nb_3'><number>1</number></item>
+<item name='LocCount_Nb_4'><number>1</number></item>
+<item name='LocCount_Nb_10'><number>1</number></item>
+<item name='LocCount_Nb_5'><number>1</number></item>
+<item name='LocCount_Nb_11'><number>1</number></item>
+<item name='LocCount_Nb_6'><number>1</number></item>
+<item name='LocCount_Nb_12'><number>1</number></item>
+<item name='LocCount_Nb_7'><number>1</number></item>
+<item name='LocCount_Nb_13'><number>1</number></item>
+<item name='LocCount_Nb_8'><number>1</number></item>
+<item name='LocCount_Nb_14'><number>1</number></item>
+<item name='LocCount_Nb_9'><number>1</number></item>
+<item name='LocCount_Nb_15'><number>1</number></item>
+<item name='Field_Tx_6_1'><text>General and Pitting corrosion of lower internal shell and nozzles leading to leak of hydrocarbon gas and liquids.</text></item>
+<item name='Field_Tx_6_2'><text>General and Pitting corrosion of other internal areas of shell leading to leak of hydrocarbon gas and liquids.</text></item>
+<item name='Field_Tx_6_3'><text>General and Pitting corrosion of external shell, nozzles and vessel support saddles leading to leak of hydrocarbon gas and liquids.</text></item>
+<item name='Field_Tx_6_4'><text>Crevice corrosion of flange faces leading to leak of hydrocarbon gas and liquids.</text></item>
+<item name='Field_Tx_6_5'><text>Crevice corrosion of outlet nozzle C leading to leak of hydrocarbon gas and liquids.</text></item>
+<item name='Field_Tx_6_6'><text>Microbial Induced Corrosion (MIC) of internal shell, branches and flange blanks, lower areas leading to leak of hydrocarbon gas and liquids.</text></item>
+<item name='Field_Tx_6_7'><text>Galvanic corrosion of liquid outlet nozzle C leading to leak hydrocarbon gas and liquids.</text></item>
+<item name='Field_Tx_6_8'><text>Deadleg corrosion of nozzles D1, D2, E2, G2 and K leading to leak of hydrocarbon gas and liquids.</text></item>
+<item name='Field_Tx_6_9'><text>Erosion of coating to nozzle N and its inlet deflector enabling their corrosion with loss of function of the deflector and perforation of the nozzle leading to leak of hydrocarbon gas and liquids.</text></item>
+<item name='Field_Tx_6_10'><text>Corrosion under insulation (CUI) of insulated nozzles leading to hydrocarbon gas and liquids.</text></item>
+<item name='Field_Tx_6_11'><text/></item>
+<item name='Field_Tx_6_12'><text/></item>
+<item name='Field_Tx_6_13'><text/></item>
+<item name='Field_Tx_6_14'><text/></item>
+<item name='Field_Tx_6_15'><text/></item>
+<item name='Field_Tx_6_16'><text/></item>
+<item name='Field_Tx_6_17'><text/></item>
+<item name='Field_Tx_6_18'><text/></item>
+<item name='Field_Tx_6_19'><text/></item>
+<item name='Field_Tx_6_20'><text/></item>
+<item name='Location_Tx_1_2'><text>Other internal areas of shell</text></item>
+<item name='DetComment_Tx_1_2'><text>These areas will be vulnerable to corrosion although the degree of wetting by water will be limited which will also limit the degree of corrosion that can occur.</text></item>
+<item name='DetCredible_Tx_1_2'><text>Yes</text></item>
+<item name='Location_Tx_1_3'><text>External Shell, nozzles and vessel support saddles</text></item>
+<item name='DetComment_Tx_1_3'><text>Should the paint coating fail then corrosion of the shell and nozzles would be expected due to the coastal environment. </text></item>
+<item name='DetCredible_Tx_1_3'><text>Yes</text></item>
+<item name='Location_Tx_1_4'><text/></item>
+<item name='DetComment_Tx_1_4'><text/></item>
+<item name='DetCredible_Tx_1_4'><text>Yes</text></item>
+<item name='Deterioration_Tx_2'><text>Crevice corrosion</text></item>
+<item name='Location_Tx_2_1'><text>Flange faces</text></item>
+<item name='DetComment_Tx_2_1'><text>Both internal and external crevice corrosion could be anticipated.</text></item>
+<item name='DetCredible_Tx_2_1'><text>Yes</text></item>
+<item name='Location_Tx_2_2'><text>Outlet Nozzle C</text></item>
+<item name='DetComment_Tx_2_2'><text>A stainless steel sleeve was fitted to the bore of liquid outlet nozzle C in 2009. The interspace between the sleeve and the nozzle was filled as well as could be achieved with mastic. It is probable that some leakage past the mastic will develop with the potential to cause corrosion within the crevice that exists between the sleeve and the nozzle. See Galvanic corrosion.</text></item>
+<item name='DetCredible_Tx_2_2'><text>Yes</text></item>
+<item name='Location_Tx_2_3'><text/></item>
+<item name='DetComment_Tx_2_3'><text/></item>
+<item name='Location_Tx_2_4'><text/></item>
+<item name='DetComment_Tx_2_4'><text/></item>
+<item name='Location_Tx_2_5'><text/></item>
+<item name='DetComment_Tx_2_5'><text/></item>
+<item name='Location_Tx_2_6'><text/></item>
+<item name='DetComment_Tx_2_6'><text/></item>
+<item name='Location_Tx_2_7'><text/></item>
+<item name='DetComment_Tx_2_7'><text/></item>
+<item name='Location_Tx_2_8'><text/></item>
+<item name='DetComment_Tx_2_8'><text/></item>
+<item name='Location_Tx_2_9'><text/></item>
+<item name='DetComment_Tx_2_9'><text/></item>
+<item name='Location_Tx_2_10'><text/></item>
+<item name='DetComment_Tx_2_10'><text/></item>
+<item name='Deterioration_Tx_3'><text>Microbial Induced corrosion (MIC)</text></item>
+<item name='Location_Tx_3_1'><text>Internal shell, branches and flange blanks, lower areas</text></item>
+<item name='DetComment_Tx_3_1'><text>An aqueous phase will be permanently present in the lower part of the vessel. High levels (10^7) of SRB activity were identified in this vessel in 2008 and 2009. Measured activity was lower (up to 10^2) in 2010 and 2011. No sampling was carried out in 2012 for this vessel. MIC remains credible at any defects that develop in the coating of the lower part of the vessel.</text></item>
+<item name='DetCredible_Tx_3_1'><text>Yes</text></item>
+<item name='Location_Tx_3_2'><text/></item>
+<item name='DetComment_Tx_3_2'><text/></item>
+<item name='DetCredible_Tx_3_2'><text>Yes</text></item>
+<item name='Location_Tx_3_3'><text/></item>
+<item name='DetComment_Tx_3_3'><text/></item>
+<item name='Location_Tx_3_4'><text/></item>
+<item name='DetComment_Tx_3_4'><text/></item>
+<item name='Location_Tx_3_5'><text/></item>
+<item name='DetComment_Tx_3_5'><text/></item>
+<item name='Location_Tx_3_6'><text/></item>
+<item name='DetComment_Tx_3_6'><text/></item>
+<item name='Location_Tx_3_7'><text/></item>
+<item name='DetComment_Tx_3_7'><text/></item>
+<item name='Location_Tx_3_8'><text/></item>
+<item name='DetComment_Tx_3_8'><text/></item>
+<item name='Location_Tx_3_9'><text/></item>
+<item name='DetComment_Tx_3_9'><text/></item>
+<item name='Location_Tx_3_10'><text/></item>
+<item name='DetComment_Tx_3_10'><text/></item>
+<item name='Deterioration_Tx_4'><text>Galvanic corrosion</text></item>
+<item name='Location_Tx_4_1'><text>Liquid outlet nozzle C</text></item>
+<item name='DetComment_Tx_4_1'><text>A stainless steel sleeve was fitted to the bore of liquid outlet nozzle C in 2009. The interspace between the sleeve and the nozzle was filled as well as could be achieved with mastic. It is probable that some leakage past the mastic will develop with the potential to enable galvanically assisted corrosion of the nozzle to occur.</text></item>
+<item name='DetCredible_Tx_4_1'><text>Yes</text></item>
+<item name='Location_Tx_4_2'><text/></item>
+<item name='DetComment_Tx_4_2'><text/></item>
+<item name='Location_Tx_4_3'><text/></item>
+<item name='DetComment_Tx_4_3'><text/></item>
+<item name='Location_Tx_4_4'><text/></item>
+<item name='DetComment_Tx_4_4'><text/></item>
+<item name='Location_Tx_4_5'><text/></item>
+<item name='DetComment_Tx_4_5'><text/></item>
+<item name='Location_Tx_4_6'><text/></item>
+<item name='DetComment_Tx_4_6'><text/></item>
+<item name='Location_Tx_4_7'><text/></item>
+<item name='DetComment_Tx_4_7'><text/></item>
+<item name='Location_Tx_4_8'><text/></item>
+<item name='DetComment_Tx_4_8'><text/></item>
+<item name='Location_Tx_4_9'><text/></item>
+<item name='DetComment_Tx_4_9'><text/></item>
+<item name='Location_Tx_4_10'><text/></item>
+<item name='DetComment_Tx_4_10'><text/></item>
+<item name='Deterioration_Tx_5'><text>Deadleg corrosion</text></item>
+<item name='Location_Tx_5_1'><text>Nozzles D1, D2, E2, G2 and K</text></item>
+<item name='DetComment_Tx_5_1'><text>Nozzles in the lower area of the shell will be susceptible to this mechanism should defects in the corrosion barrier develop. Corrosion can occur due to stagnant conditions in the presence of water / hydrocarbon / solids where pH will tend to decline to acidic values. Mechanisms include pitting, under deposit corrosion and MIC.</text></item>
+<item name='DetCredible_Tx_5_1'><text>Yes</text></item>
+<item name='Location_Tx_5_2'><text/></item>
+<item name='DetComment_Tx_5_2'><text/></item>
+<item name='Location_Tx_5_3'><text/></item>
+<item name='DetComment_Tx_5_3'><text/></item>
+<item name='Location_Tx_5_4'><text/></item>
+<item name='DetComment_Tx_5_4'><text/></item>
+<item name='Location_Tx_5_5'><text/></item>
+<item name='DetComment_Tx_5_5'><text/></item>
+<item name='Location_Tx_5_6'><text/></item>
+<item name='DetComment_Tx_5_6'><text/></item>
+<item name='Location_Tx_5_7'><text/></item>
+<item name='DetComment_Tx_5_7'><text/></item>
+<item name='Location_Tx_5_8'><text/></item>
+<item name='DetComment_Tx_5_8'><text/></item>
+<item name='Location_Tx_5_9'><text/></item>
+<item name='DetComment_Tx_5_9'><text/></item>
+<item name='Location_Tx_5_10'><text/></item>
+<item name='DetComment_Tx_5_10'><text/></item>
+<item name='Deterioration_Tx_6'><text>Erosion</text></item>
+<item name='Location_Tx_6_1'><text>Nozzle N and inlet deflector</text></item>
+<item name='DetComment_Tx_6_1'><text>The coating of the inlet nozzle and attached inlet deflector assembly will be vulnerable to erosion by solids entering the vessel leaving these components potentially vulnerable to corrosion. It is expected that the flow rate through this nozzle will not be sufficient to cause erosion of these carbon steel components.</text></item>
+<item name='DetCredible_Tx_6_1'><text>Yes</text></item>
+<item name='Location_Tx_6_2'><text/></item>
+<item name='DetComment_Tx_6_2'><text/></item>
+<item name='DetCredible_Tx_6_2'><text>No</text></item>
+<item name='Location_Tx_6_3'><text/></item>
+<item name='DetComment_Tx_6_3'><text/></item>
+<item name='Location_Tx_6_4'><text/></item>
+<item name='DetComment_Tx_6_4'><text/></item>
+<item name='Location_Tx_6_5'><text/></item>
+<item name='DetComment_Tx_6_5'><text/></item>
+<item name='Location_Tx_6_6'><text/></item>
+<item name='DetComment_Tx_6_6'><text/></item>
+<item name='Location_Tx_6_7'><text/></item>
+<item name='DetComment_Tx_6_7'><text/></item>
+<item name='Location_Tx_6_8'><text/></item>
+<item name='DetComment_Tx_6_8'><text/></item>
+<item name='Location_Tx_6_9'><text/></item>
+<item name='DetComment_Tx_6_9'><text/></item>
+<item name='Location_Tx_6_10'><text/></item>
+<item name='DetComment_Tx_6_10'><text/></item>
+<item name='Deterioration_Tx_7'><text>Sulphide SCC</text></item>
+<item name='Location_Tx_7_1'><text>All wetted internal surfaces</text></item>
+<item name='DetComment_Tx_7_1'><text>The H2S content has been assessed as &lt; 10 ppm. This is well below the limit of concern for risk of Sulphide stress cracking were CS to become exposed due to coating defects.<break
+/><break/>The EOP vessels however are not manufactured in compliance with NACE MR0175 requirements and should in future H2S levels rise significantly above this level there would be a concern that this mechanism could operate were coating defects to be present where aqueous phases also exist.</text></item>
+<item name='DetCredible_Tx_7_1'><text>No</text></item>
+<item name='Location_Tx_7_2'><text/></item>
+<item name='DetComment_Tx_7_2'><text/></item>
+<item name='DetCredible_Tx_7_2'><text>Yes</text></item>
+<item name='Location_Tx_7_3'><text/></item>
+<item name='DetComment_Tx_7_3'><text/></item>
+<item name='Location_Tx_7_4'><text/></item>
+<item name='DetComment_Tx_7_4'><text/></item>
+<item name='Location_Tx_7_5'><text/></item>
+<item name='DetComment_Tx_7_5'><text/></item>
+<item name='Location_Tx_7_6'><text/></item>
+<item name='DetComment_Tx_7_6'><text/></item>
+<item name='Location_Tx_7_7'><text/></item>
+<item name='DetComment_Tx_7_7'><text/></item>
+<item name='Location_Tx_7_8'><text/></item>
+<item name='DetComment_Tx_7_8'><text/></item>
+<item name='Location_Tx_7_9'><text/></item>
+<item name='DetComment_Tx_7_9'><text/></item>
+<item name='Location_Tx_7_10'><text/></item>
+<item name='DetComment_Tx_7_10'><text/></item>
+<item name='Deterioration_Tx_8'><text>Chloride SCC</text></item>
+<item name='Location_Tx_8_1'><text>Stainless steel sleeve in nozzle C</text></item>
+<item name='DetComment_Tx_8_1'><text>The vessel operates below 38 DegC and this nozzle is therefore not considered to be vulnerable to this mechanism.</text></item>
+<item name='DetCredible_Tx_8_1'><text>No</text></item>
+<item name='Location_Tx_8_2'><text/></item>
+<item name='DetComment_Tx_8_2'><text/></item>
+<item name='Location_Tx_8_3'><text/></item>
+<item name='DetComment_Tx_8_3'><text/></item>
+<item name='Location_Tx_8_4'><text/></item>
+<item name='DetComment_Tx_8_4'><text/></item>
+<item name='Location_Tx_8_5'><text/></item>
+<item name='DetComment_Tx_8_5'><text/></item>
+<item name='Location_Tx_8_6'><text/></item>
+<item name='DetComment_Tx_8_6'><text/></item>
+<item name='Location_Tx_8_7'><text/></item>
+<item name='DetComment_Tx_8_7'><text/></item>
+<item name='Location_Tx_8_8'><text/></item>
+<item name='DetComment_Tx_8_8'><text/></item>
+<item name='Location_Tx_8_9'><text/></item>
+<item name='DetComment_Tx_8_9'><text/></item>
+<item name='Location_Tx_8_10'><text/></item>
+<item name='DetComment_Tx_8_10'><text/></item>
+<item name='Deterioration_Tx_9'><text>Brittle fracture</text></item>
+<item name='Location_Tx_9_1'><text>Pressure envelope</text></item>
+<item name='DetComment_Tx_9_1'><text>Vessel design temperature is -17.8 DegC. The vessel operates at ambient temperature. This mechanism is not considered viable.</text></item>
+<item name='DetCredible_Tx_9_1'><text>No</text></item>
+<item name='Location_Tx_9_2'><text/></item>
+<item name='DetComment_Tx_9_2'><text/></item>
+<item name='Location_Tx_9_3'><text/></item>
+<item name='DetComment_Tx_9_3'><text/></item>
+<item name='Location_Tx_9_4'><text/></item>
+<item name='DetComment_Tx_9_4'><text/></item>
+<item name='Location_Tx_9_5'><text/></item>
+<item name='DetComment_Tx_9_5'><text/></item>
+<item name='Location_Tx_9_6'><text/></item>
+<item name='DetComment_Tx_9_6'><text/></item>
+<item name='Location_Tx_9_7'><text/></item>
+<item name='DetComment_Tx_9_7'><text/></item>
+<item name='Location_Tx_9_8'><text/></item>
+<item name='DetComment_Tx_9_8'><text/></item>
+<item name='Location_Tx_9_9'><text/></item>
+<item name='DetComment_Tx_9_9'><text/></item>
+<item name='Location_Tx_9_10'><text/></item>
+<item name='DetComment_Tx_9_10'><text/></item>
+<item name='Deterioration_Tx_10'><text>Fatigue</text></item>
+<item name='Location_Tx_10_1'><text>Pressure envelope</text></item>
+<item name='DetComment_Tx_10_1'><text>Not expected as the vessel operates on steady duty (pressure and temperature).</text></item>
+<item name='DetCredible_Tx_10_1'><text>No</text></item>
+<item name='Location_Tx_10_2'><text/></item>
+<item name='DetComment_Tx_10_2'><text/></item>
+<item name='Location_Tx_10_3'><text/></item>
+<item name='DetComment_Tx_10_3'><text/></item>
+<item name='Location_Tx_10_4'><text/></item>
+<item name='DetComment_Tx_10_4'><text/></item>
+<item name='Location_Tx_10_5'><text/></item>
+<item name='DetComment_Tx_10_5'><text/></item>
+<item name='Location_Tx_10_6'><text/></item>
+<item name='DetComment_Tx_10_6'><text/></item>
+<item name='Location_Tx_10_7'><text/></item>
+<item name='DetComment_Tx_10_7'><text/></item>
+<item name='Location_Tx_10_8'><text/></item>
+<item name='DetComment_Tx_10_8'><text/></item>
+<item name='Location_Tx_10_9'><text/></item>
+<item name='DetComment_Tx_10_9'><text/></item>
+<item name='Location_Tx_10_10'><text/></item>
+<item name='DetComment_Tx_10_10'><text/></item>
+<item name='Deterioration_Tx_11'><text>Corrosion under insulation (CUI)</text></item>
+<item name='Location_Tx_11_1'><text>Insulated nozzles</text></item>
+<item name='DetComment_Tx_11_1'><text>CUI is possible should water ingress into the insulation occur at locations where coating breakdown has occurred.</text></item>
+<item name='DetCredible_Tx_11_1'><text>Yes</text></item>
+<item name='Location_Tx_11_2'><text/></item>
+<item name='DetComment_Tx_11_2'><text/></item>
+<item name='Location_Tx_11_3'><text/></item>
+<item name='DetComment_Tx_11_3'><text/></item>
+<item name='Location_Tx_11_4'><text/></item>
+<item name='DetComment_Tx_11_4'><text/></item>
+<item name='Location_Tx_11_5'><text/></item>
+<item name='DetComment_Tx_11_5'><text/></item>
+<item name='Location_Tx_11_6'><text/></item>
+<item name='DetComment_Tx_11_6'><text/></item>
+<item name='Location_Tx_11_7'><text/></item>
+<item name='DetComment_Tx_11_7'><text/></item>
+<item name='Location_Tx_11_8'><text/></item>
+<item name='DetComment_Tx_11_8'><text/></item>
+<item name='Location_Tx_11_9'><text/></item>
+<item name='DetComment_Tx_11_9'><text/></item>
+<item name='Location_Tx_11_10'><text/></item>
+<item name='DetComment_Tx_11_10'><text/></item>
+<item name='Field_Tx_7_61'><text>FS J: The likelihood of CUI has been assessed by applying the methodology given in AZ-GP-06-25-1.<break
+/><break/>SHE consequences assessed according to NSSPU-6-10-04 Addendum 1.<break
+/><break/>Business consequences: Should vessel failure occur, EOP would be shutdown through duration of repair.<break
+/></text></item>
+<item name='Field_Tx_7_21'><text>1</text></item>
+<item name='Field_Tx_7_22'><text>1</text></item>
+<item name='Field_Tx_7_23'><text>1</text></item>
+<item name='Field_Tx_7_24'><text>1</text></item>
+<item name='Field_Tx_7_25'><text>1</text></item>
+<item name='Field_Tx_7_26'><text>1</text></item>
+<item name='Field_Tx_7_27'><text>1</text></item>
+<item name='Field_Tx_7_28'><text>1</text></item>
+<item name='Field_Tx_7_29'><text>1</text></item>
+<item name='Field_Tx_7_30'><text>1</text></item>
+<item name='Field_Tx_7_41'><text>5</text></item>
+<item name='Field_Tx_7_42'><text>5</text></item>
+<item name='Field_Tx_7_43'><text>5</text></item>
+<item name='Field_Tx_7_44'><text>5</text></item>
+<item name='Field_Tx_7_45'><text>5</text></item>
+<item name='Field_Tx_7_46'><text>5</text></item>
+<item name='Field_Tx_7_47'><text>5</text></item>
+<item name='Field_Tx_7_48'><text>5</text></item>
+<item name='Field_Tx_7_49'><text>5</text></item>
+<item name='Field_Tx_7_50'><text>5</text></item>
+<item name='Field_Tx_9_16'><text/></item>
+<item name='Field_Tx_9_3010'><text/></item>
+<item name='Field_Tx_9_501'><text>Close visual inspection of the coating to identify any areas of damage or obvious signs of deterioration such as rust bleed.  Pay particular attention at all open edges of coating ie roll over at flange faces.<break
+/><break/>A comprehensive visual inspection shall be performed by a coating inspector specifically to detect evidence of permeation (blistering) or other age related deterioration such as crazing/cracking which if present would indicate the coating to be approaching the end of its useful life.<break
+/><break/>Close visual inspection of flange faces for evidence of crevice corrosion.<break
+/><break/>Manual external UT scan of outlet nozzle C for evidence of crevice/galvanic corrosion between nozzle and internal stainless steel sleeve.<break
+/><break/>Close visual inspection of inlet nozzle N and inlet deflector for erosion of corrosion barrier and corrosion.<break
+/><break/>External visual inspection of shell, nozzles and vessel support saddles for evidence of paint breakdown and corrosion.<break
+/><break/>At next thorough inspection, removal of all insulation to enable inspection for CUI.<break
+/><break/>At following thorough inspections, CVI at susceptible areas for signs of damaged cladding/weatherproofing, damaged seals and areas of water ingress. Further inspection or insulation removal is required if any anomalies are found.</text></item>
+<item name='Field_Tx_9_502'><text>UT/radiographic inspection of deadleg nozzles D1, D2, E2, G2 and K and associated trim.</text></item>
+<item name='Field_Tx_9_503'><text/></item>
+<item name='Field_Tx_9_504'><text/></item>
+<item name='Field_Tx_9_505'><text> </text></item>
+<item name='Field_Tx_9_511'><text>Internal - Man Entry</text></item>
+<item name='Field_Tx_9_512'><text>Non Invasive Online</text></item>
+<item name='Field_Tx_9_513'><text>-</text></item>
+<item name='Field_Tx_9_514'><text>-</text></item>
+<item name='Field_Tx_9_1'><text>The review has identified a 'medium' likelihood of failure due to four deterioration mechanisms associated with internal corrosion. The maximum SHE consequences identified are 'very low' and the maximum business consequences identified are 'very high'.<break
+/><break/>An intrusive inspection strategy is being proposed for this vessel.<break
+/><break/>The credible deterioration mechanisms / failure scenarios for this vessel are listed below together with any mitigating inspection requirements:</text></item>
+<item name='Field_Tx_9_521'><text>48</text></item>
+<item name='Field_Tx_9_522'><text>24</text></item>
+<item name='Field_Tx_9_523'><text>-</text></item>
+<item name='Field_Tx_9_9'><text>Guidance in NSSPU-GP-06-10-4 on maximum inspection intervals would recommend an inspection interval of 48 months for the deterioration mechanisms associated with internal corrosion. The coating has seen approximately 14 years service and is increasingly likely to develop defect locations, therefore consideration should be given to its replacement at the next thorough inspection. Should the coating be replaced, a longer interval between thorough inspections could be justifiable. The next through examination should take place at the 2014 TAR.<break
+/><break/>For CUI, application of the guidance given in AZ-GP-06-25-1 would recommend a CUI inspection scheme 3 to mitigate the CUI risk. It has been agreed with BP AGT Inspection Technical Authority and Corrosion Technical Authority that, given the less aggressive environment and lower CUI risk onshore compared to the North Sea, the next lower inspection scheme should be adopted. In this case, CUI inspection scheme 4 will therefore be selected. This scheme requires an insulation strip every 12 years with additional CVI of insulation condition.<break
+/><break/>An intermediate UT/radiographic examination of lower nozzles is proposed with a periodicity of 24 months. The intermediate inspection should be completed before end 2013.</text></item>
+<item name='DecisionDefaulted_Tx'><text/></item>
+<item name='Field_Tx_9_301'><text/></item>
+<item name='Field_Tx_9_302'><text/></item>
+<item name='Field_Tx_9_303'><text/></item>
+<item name='Field_Tx_9_304'><text/></item>
+<item name='Field_Tx_9_305'><text/></item>
+<item name='Field_Tx_9_306'><text/></item>
+<item name='Field_Tx_9_307'><text/></item>
+<item name='Field_Tx_9_308'><text/></item>
+<item name='Field_Tx_9_309'><text/></item>
+<item name='SchemeDefaulted_Tx'><text>Yes</text></item>
+<item name='Field_Tx_9_201'><text>Thorough</text></item>
+<item name='Field_Tx_9_202'><text>Thorough</text></item>
+<item name='Field_Tx_9_203'><text>Thorough</text></item>
+<item name='Field_Tx_9_204'><text>Thorough</text></item>
+<item name='Field_Tx_9_205'><text>Thorough</text></item>
+<item name='Field_Tx_9_206'><text/></item>
+<item name='Field_Tx_9_207'><text/></item>
+<item name='Field_Tx_9_208'><textlist><text>Thorough</text><text>Intermediate Type A</text></textlist></item>
+<item name='Field_Tx_9_209'><text>Thorough</text></item>
+<item name='Field_Tx_9_101'><text>Close visual inspection of the coating to identify any areas of damage or obvious signs of deterioration such as rust bleed.  Pay particular attention at all open edges of coating ie roll over at flange faces.<break
+/><break/>A comprehensive visual inspection shall be performed by a coating inspector specifically to detect evidence of permeation (blistering) or other age related deterioration such as crazing/cracking which if present would indicate the coating to be approaching the end of its useful life. </text></item>
+<item name='Field_Tx_9_102'><text>Close visual inspection of the coating to identify any areas of damage or obvious signs of deterioration such as rust bleed.  Pay particular attention at all open edges of coating ie roll over at flange faces.<break
+/><break/>A comprehensive visual inspection shall be performed by a coating inspector specifically to detect evidence of permeation (blistering) or other age related deterioration such as crazing/cracking which if present would indicate the coating to be approaching the end of its useful life. </text></item>
+<item name='Field_Tx_9_103'><text>External visual inspection of shell, nozzles and vessel support saddles for evidence of paint breakdown and corrosion.</text></item>
+<item name='Field_Tx_9_104'><text>Close visual inspection of flange faces for evidence of crevice corrosion.</text></item>
+<item name='Field_Tx_9_105'><text>Manual external UT scan of outlet nozzle C for evidence of crevice corrosion between nozzle and internal stainless steel sleeve.</text></item>
+<item name='Field_Tx_9_106'><text>See Inspection Technique for general and pitting corrosion of lower internal shell.</text></item>
+<item name='Field_Tx_9_107'><text>See Inspection Technique for Crevice corrosion of outlet nozzle C.</text></item>
+<item name='Field_Tx_9_108'><text>See Inspection Technique for general and pitting corrosion of lower internal shell and nozzles.<break
+/><break/>UT/radiographic inspection of deadleg nozzles D1, D2, E2, G2 and K and associated trim.</text></item>
+<item name='Field_Tx_9_109'><text>Close visual inspection of inlet nozzle N and inlet deflector for erosion of corrosion barrier and corrosion.</text></item>
+<item name='Field_Tx_9_1010'><text>At next thorough inspection, removal of all insulation to enable inspection for CUI.<break
+/><break/>At following thorough inspections, CVI at susceptible areas for signs of damaged cladding/weatherproofing, damaged seals and areas of water ingress. Further inspection or insulation removal is required if any anomalies are found.</text></item>
+<item name='Field_Dt_9_531'><datetime>20141031T120000,00+00</datetime></item>
+<item name='Field_Dt_9_532'><datetime>20140131T120000,00+00</datetime></item>
+<item name='Field_Dt_9_533'><text/></item>
+<item name='Field_Dt_9_534'><text/></item>
+<item name='Field_Tx_9_2010'><text>Thorough</text></item>
+<item name='Field_Tx_12_11'><text>H</text></item>
+<item name='Field_Tx_12_12'><text>M</text></item>
+<item name='Field_Tx_12_13'><text>H</text></item>
+<item name='Field_Tx_12_100'><text>DNV-RP-G103 assessment output : NII is possible</text></item>
+<item name='Field_Tx_12_101'><text>Vessel is uninsulated</text></item>
+<item name='Field_Tx_12_102'><text>Internal visual inspection in 2009</text></item>
+<item name='Field_Tx_12_105'><text/></item>
+<item name='Field_Tx_12_106'><text/></item>
+<item name='Field_Tx_12_111'><text>CRA Type 4, validated by internal inspection</text></item>
+<item name='Field_Tx_12_112'><text>Internal visual inspection in 2009</text></item>
+<item name='Field_Tx_12_113'><text>Likelihood of failure by internal degradation mechanisms are assigned 'medium' according to NSSPU-GP-06-10-4 word model. This maps to 'high' Severity and rate of degradation.</text></item>
+<item name='Field_Tx_12_1'><text>Y</text></item>
+<item name='Field_Tx_12_2'><text>Y</text></item>
+<item name='Field_Tx_12_5'><text>Y</text></item>
+<item name='Field_Tx_12_6'><text>N</text></item>
+<item name='Field_Tx_12_9'><text>The assessment to DNV-RP-G103 has concluded that NII could be appropriate for this vessel. This conclusion is not supported by the RBI review team. Internal visual examination should be retained so that the condition and remnant life of the coating can be established. </text></item>
+<item name='Field_Rtx_5_1' summary='true'>
+<rawitemdata type='19'>
+AgACAAAAAgDyBgAALAAAAAAAAABDb250ZW50LVR5cGU6IHRleHQvaHRtbDsgY2hhcnNldD0idXRm
+LTgiDQoNCjxwIGRpcj0ibHRyIj4NCgk8dT48c3Ryb25nPlZpc3VhbCZuYnNwOyBleHRlcm5hbCBl
+eGFtaW5hdGlvbiZuYnNwOyAtIDIwLzAxLzIwMTEgKDxzcGFuIHN0eWxlPSJmb250LWZhbWlseTog
+YXJpYWwsc2Fucy1zZXJpZjsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDlwdDsiPlNBTkctVklT
+LTExLTEyNDwvc3Bhbj48L3NwYW4+KTwvc3Ryb25nPjwvdT48YnIgLz4NCglTYWRkbGUgc3VwcG9y
+dHMgLyBQbGludGhzOiZuYnNwOyBJbiBnb29kIG9yZGVyIC0gTm8gZXZpZGVuY2Ugb2YgZGFtYWdl
+IC8gY3JhY2tpbmcgLyBjb3Jyb3Npb24gb3IgZGVmb3JtYXRpb24uPGJyIC8+DQoJSG9sZGluZyBk
+b3duIGJvbHRzOiBTZWN1cmUgLyBObyBjb3Jyb3Npb24gLyBMb2NrIG51dHMgZml0dGVkLjxiciAv
+Pg0KCVNoZWxsOiBNaW5vciBsb2NhbGlzZWQgYXJlYXMgb2YgdG9wIGNvYXQgZGFtYWdlIG9uIHVw
+cGVyIHNoZWxsIC0gTm8gYmFyZSBzdWJzdHJhdGUgYXMgcHJpbWVyIC8gbWlkLWNvYXRzIHJlbWFp
+biBmdWxseSBpbnRhY3QuIENvYXRpbmcgb3RoZXJ3aXNlIGluIGdvb2Qgb3JkZXIuPGJyIC8+DQoJ
+RG9tZSBlbmRzIC8gdW4taW5zdWxhdGVkIG5venpsZXM6IE5vIGV4dGVybmFsIGRhbWFnZSAvIHJl
+cG9ydGFibGUgcGFpbnQgY29hdGluZyBicmVha2Rvd24gLyBjb3Jyb3Npb24gLyBkYW1hZ2UgLyBt
+ZXRhbCBsb3NzLiBEYXRhIHBsYXRlIGZpdHRlZCB0byB2ZXNzZWwuICZuYnNwOzxiciAvPg0KCU1h
+bndheXMgLyBEYXZpdHM6IFVuZGFtYWdlZCB3aXRoIG5vIGV2aWRlbmNlIG9mIGxlYWtzIG9yIGNv
+cnJvc2lvbi4mbmJzcDsgQWNjZXNzIGdhbnRyaWVzIC8gTGFkZGVyczogSW4gZ29vZCBjb25kaXRp
+b24uIE5vIGV2aWRlbmNlIG9mIGRhbWFnZS48YnIgLz4NCglNdWx0aXBsZSBhcmVhcyBvZiBkYW1h
+Z2VkIC8gdW5zZWFsZWQgaW5zdWxhdGlvbiBvbiB2ZXNzZWwgdHJpbSAoaW5jIGxpcXVpZCBsZXZl
+bCBnYXVnZXMpIC0gTG9jYXRlZCBvbiBTb3V0aCBzaWRlIG9mIHZlc3NlbC48YnIgLz4NCgk8YnIg
+Lz4NCgk8dT48c3Ryb25nPlZpc3VhbCBpbnRlcm5hbCAvIGV4dGVybmFsIGV4YW1pbmF0aW9uIC0g
+MjEvMDgvMjAwOSAoRU9QLVNELTAwNDwvc3Ryb25nPjwvdT4pPGJyIC8+DQoJSW50ZXJuYWw6IFZl
+c3NlbCBpbiBleGNlbGxlbnQgY29uZGl0aW9uLiBObyBldmlkZW5jZSBvZiBhbnkgYnJlYWtkb3du
+IG9mIGludGVybmFsIGNvYXRpbmcuIFZlc3NlbCBub3p6bGVzIGNsZWFuZWQgYW5kIGluIGdvb2Qg
+Y29uZGl0aW9uLjxiciAvPg0KCVNsZWV2ZSBmaXR0ZWQgdG8gaW5zaWRlIG9mIDgmcXVvdDsgT2ls
+IHRvIEZlZWQgc2VwIGxpbmUgbm96emxlLiBTbGVldmUgaXMgcHJvdHJ1ZGluZyBpbnRvIHRoZSB2
+ZXNzZWwgZnJvbSBub3p6bGUgYXBwcm94IDEwMG1tIC0gUHJldmVudCBzYW5kIGNhcnJ5IG92ZXIu
+PGJyIC8+DQoJUm9vdCBvZiB3ZWxkIGluc2lkZSA4JnF1b3Q7IG5venpsZSBibGVuZGVkIHRvIGFj
+Y29tb2RhdGUgc2xlZXZlLiBNYXN0aWsgdXNlZCB0byBzZWFsIGRlYWQgc3BhY2UgLyB2b2lkIGJl
+dHdlZW4gaW5zaWRlIG9mIDgmcXVvdDsgbm96emxlIGFuZCB0aGUgc2xlZXZlLjxiciAvPg0KCUNv
+YXRpbmcgb24gbWFud2F5cyB3YXMgaW4gZ29vZCBjb25kaXRpb24uPGJyIC8+DQoJRXh0ZXJuYWw6
+IENvYXRpbmcgaW4gZ29vZCBjb25kaXRpb24uJm5ic3A7IERhdml0IGFybSBhdCB0b3AgbWFud2F5
+IGhhcyBzZWl6ZWQgYW5kIHNoZWFyZWQgLjwvcD4NCg==
+</rawitemdata></item>
+<item name='Field_Tx_12_3'><text/></item>
+<item name='Field_Tx_12_4'><text/></item>
+<item name='Field_Rtx_4_1' summary='true'>
+<rawitemdata type='19'>
+AgACAAAAAgAsAgAALAAAAAAAAABDb250ZW50LVR5cGU6IHRleHQvaHRtbDsgY2hhcnNldD0idXRm
+LTgiDQoNCjxwIGRpcj0ibHRyIj4NCglUaGUgQ2xvc2VkIERyYWlucyBTeXN0ZW0gaXMgZGVzaWdu
+ZWQgdG8gY29sbGVjdCByZXNpZHVhbCBmbHVpZHMgZnJvbSBlcXVpcG1lbnQgbG9jYXRlZCBpbiBF
+T1Agc2VjdGlvbi4gVGhlIGVxdWlwbWVudCB3aWxsIGJlIGVtcHRpZWQgZG93biB0byB0aGUgbWlu
+aW11bSBwb3NzaWJsZSBsZXZlbCBhbmQgZGVwcmVzc3VyaXNlZCBwcmlvciB0byBvcGVuaW5nIHRo
+ZSBkcmFpbiB2YWx2ZSB0byB0aGUgQ2xvc2VkIERyYWlucyBTeXN0ZW0uIFJlZ3VsYXIgc3RlYW1p
+bmcgb3V0IG9mIHRoZSBFT1Agb2lsL29pbCBleGNoYW5nZXJzIGlzIGNhcnJpZWQgb3V0LCBhbmQg
+dGhlIGNvbmRlbnNlZCBzdGVhbSBhbmQgYWVyYXRlZCB3YXNoaW5ncyAoaW5jbHVkaW5nIHdheCkg
+YXJlIHJvdXRlZCB0byB0aGUgQ2xvc2VkIERyYWlucyBEcnVtLiBMaXF1aWQgbGV2ZWwgaXMgbWFp
+bnRhaW5lZCBhbmQgdGhlcmUgd2lsbCBiZSBhIHBlcm1hbmVudCB3YXRlciBoZWVsIHByZXNlbnQu
+PC9wPg0K
+</rawitemdata></item>
+<item name='DATEABBSIGSREQUESTED_DT'><datetime>20130311T120000,00+00</datetime></item>
+<item name='DateABBSigned_Dt'><datetime>20130606</datetime></item>
+<item name='CustomerReaders_Nm' names='true' readers='true'><text/></item>
+<item name='CustomerAuthors_Nm' authors='true' names='true'><text/></item>
+<item name='Readers_Nm' names='true' readers='true'><textlist><text>[DBAdmin]</text><text
+>[Internal_Reader]</text></textlist></item>
+<item name='BDReaders_Nm' names='true' readers='true'><text>[DBDesign]</text></item>
+<item name='Authors_Nm' authors='true' names='true'><textlist><text>[DBAdmin]</text><text
+>[Internal_Author]</text></textlist></item>
+<item name='BDAuthors_Nm' authors='true' names='true'><text>[DBDesign]</text></item>
+<item name='CombinedUNID_Tx'><textlist><text>TWID-947JWA</text><text>PMAH-8YRQ8W</text></textlist></item>
+<item name='IntervalBefore_Nb'><number>96</number></item>
+<item name='IntervalAfter_Nb'><number>48</number></item>
+<item name='CurrentDoer_Nm'><text/></item>
+<item name='LastModifiedDate_Dt'><datetime dst='true'>20140613T085455,01+01</datetime></item>
+<item name='LastModifiedBy_Nm' names='true'><text>Phil Marsh</text></item>
+<item name='DateCreated_Dt'><datetime>20130122T142426,11+00</datetime></item>
+<item name='ViewRecord_Tx'><text>Project Equipment Item</text></item>
+<item name='ViewDescription_Tx'><text>Project Equipment Item - Vessel - SA01-MBJ-3592</text></item>
+<item name='AllDeteriorations_Tx'><textlist><text>General and Pitting corrosion</text><text
+>Crevice corrosion</text><text>Microbial Induced corrosion (MIC)</text><text
+>Galvanic corrosion</text><text>Deadleg corrosion</text><text>Erosion</text><text
+>Sulphide SCC</text><text>Chloride SCC</text><text>Brittle fracture</text><text
+>Fatigue</text><text>Corrosion under insulation (CUI)</text></textlist></item>
+<item name='Field_Tx_1_1'><text>1</text></item>
+<item name='SearchMaterialGrade_Tx'><text>##</text></item>
+<item name='SearchMaterialCategory_Tx'><text>#Carbon Steel ASME SA516 70# #Carbon Steel#</text></item>
+<item name='Label_Tx_3_1'><text>Shell</text></item>
+<item name='Field_Tx_3_1'><text>Carbon Steel ASME SA516 70</text></item>
+<item name='Field_Tx_3_2'><text>Carbon Steel ASME SA516 70</text></item>
+<item name='Field_Tx_3_3'><text>Carbon Steel</text></item>
+<item name='Field_Tx_3_4'><text>Carbon Steel</text></item>
+<item name='Label_Tx_3_5'><text>Bellows</text></item>
+<item name='Field_Tx_3_5'><text/></item>
+<item name='Label_Tx_3_6'><text>Supports</text></item>
+<item name='Field_Tx_3_6'><text/></item>
+<item name='Field_Tx_3_7'><text/></item>
+<item name='InternalMemberCN_Nm' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_1' names='true'><text>Gary J Day</text></item>
+<item name='InternalSignatureCN_Nm_1' names='true'><text>Gary J Day</text></item>
+<item name='InternalMemberCN_Nm_2' names='true'><text>Philip FG Evans</text></item>
+<item name='InternalSignatureCN_Nm_2' names='true'><text>Gary J Day</text></item>
+<item name='InternalMemberCN_Nm_3' names='true'><text>Keith Watson</text></item>
+<item name='InternalSignatureCN_Nm_3' names='true'><text>Gary J Day</text></item>
+<item name='InternalMemberCN_Nm_4' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_4' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_5' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_5' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_6' names='true'><text>Tristan Wild</text></item>
+<item name='InternalSignatureCN_Nm_6' names='true'><text>Gary J Day</text></item>
+<item name='InternalMemberCN_Nm_7' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_7' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_8' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_8' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_9' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_9' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_10' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_10' names='true'><text/></item>
+<item name='ClientMemberCN_Nm' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_1' names='true'><text>Konstantin Freyman</text></item>
+<item name='ClientSignatureCN_Nm_1' names='true'><text>Gary J Day</text></item>
+<item name='ClientMemberCN_Nm_2' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_2' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_3' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_3' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_4' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_4' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_5' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_5' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_6' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_6' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_7' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_7' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_8' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_8' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_9' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_9' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_10' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_10' names='true'><text/></item>
+<item name='disSHERisk_tx'><textlist><text>1</text><text>1</text><text>1</text><text
+>1</text><text>1</text><text>1</text><text>1</text><text>1</text><text>1</text><text
+>1</text><text/><text/><text/><text/><text/></textlist></item>
+<item name='disBusRisk_tx'><textlist><text>5</text><text>5</text><text>5</text><text
+>5</text><text>5</text><text>5</text><text>5</text><text>5</text><text>5</text><text
+>5</text><text/><text/><text/><text/><text/></textlist></item>
+<item name='disPRisk_tx'><textlist><text>3</text><text>2</text><text>1</text><text
+>3</text><text>3</text><text>2</text><text>3</text><text>3</text><text>1</text><text
+>2</text><text/><text/><text/><text/><text/></textlist></item>
+<item name='FailLetters_Tx'><textlist><text>A</text><text>B</text><text>C</text><text
+>D</text><text>E</text><text>F</text><text>G</text><text>H</text><text>I</text><text
+>J</text><text>K</text><text>L</text><text>M</text><text>N</text><text>O</text></textlist></item>
+<item name='F15_Tx'><text/></item>
+<item name='F25_Tx'><text/></item>
+<item name='F35_Tx'><text/></item>
+<item name='F45_Tx'><text/></item>
+<item name='F55_Tx'><text/></item>
+<item name='F14_Tx'><text/></item>
+<item name='F24_Tx'><text/></item>
+<item name='F34_Tx'><text/></item>
+<item name='F44_Tx'><text/></item>
+<item name='F54_Tx'><text/></item>
+<item name='F13_Tx'><text>A,D,E,G,H</text></item>
+<item name='F23_Tx'><text/></item>
+<item name='F33_Tx'><text/></item>
+<item name='F43_Tx'><text/></item>
+<item name='F53_Tx'><text/></item>
+<item name='F12_Tx'><text>B,F,J</text></item>
+<item name='F22_Tx'><text/></item>
+<item name='F32_Tx'><text/></item>
+<item name='F42_Tx'><text/></item>
+<item name='F52_Tx'><text/></item>
+<item name='F11_Tx'><text>C,I</text></item>
+<item name='F21_Tx'><text/></item>
+<item name='F31_Tx'><text/></item>
+<item name='F41_Tx'><text/></item>
+<item name='F51_Tx'><text/></item>
+<item name='M15_Tx'><text/></item>
+<item name='M25_Tx'><text/></item>
+<item name='M35_Tx'><text/></item>
+<item name='M45_Tx'><text/></item>
+<item name='M55_Tx'><text/></item>
+<item name='M14_Tx'><text/></item>
+<item name='M24_Tx'><text/></item>
+<item name='M34_Tx'><text/></item>
+<item name='M44_Tx'><text/></item>
+<item name='M54_Tx'><text/></item>
+<item name='M13_Tx'><text/></item>
+<item name='M23_Tx'><text/></item>
+<item name='M33_Tx'><text/></item>
+<item name='M43_Tx'><text/></item>
+<item name='M53_Tx'><text>A,D,E,G,H</text></item>
+<item name='M12_Tx'><text/></item>
+<item name='M22_Tx'><text/></item>
+<item name='M32_Tx'><text/></item>
+<item name='M42_Tx'><text/></item>
+<item name='M52_Tx'><text>B,F,J</text></item>
+<item name='M11_Tx'><text/></item>
+<item name='M21_Tx'><text/></item>
+<item name='M31_Tx'><text/></item>
+<item name='M41_Tx'><text/></item>
+<item name='M51_Tx'><text>C,I</text></item>
+<item name='PROJ173_Names_fields_changed_Tx'><textlist><text>PreparedBy_Nm#$#CN=Gary J Day/OU=GBABB/O=ABB#$#CN=Gary J Day/O=TUV</text><text
+>MeetingHeld_Nm#$#CN=Gary J Day/OU=GBABB/O=ABB#$#CN=Gary J Day/O=TUV</text><text
+>InternalMember_Nm_1#$#Gary J Day/GBABB/ABB#$#Gary J Day/TUV</text><text>InternalSignature_Nm_1#$#CN=Gary J Day/OU=GBABB/O=ABB#$#CN=Gary J Day/O=TUV</text><text
+>InternalMember_Nm_2#$#Philip FG Evans/GBEUL/ABB#$#Philip FG Evans/TUV</text><text
+>InternalSignature_Nm_2#$#CN=Gary J Day/OU=GBABB/O=ABB#$#CN=Gary J Day/O=TUV</text><text
+>InternalMember_Nm_3#$#Keith Watson/GBEUL/ABB#$#Keith Watson/TUV</text><text
+>InternalSignature_Nm_3#$#CN=Gary J Day/OU=GBABB/O=ABB#$#CN=Gary J Day/O=TUV</text><text
+>InternalMember_Nm_6#$#Tristan Wild/GBABB/ABB#$#Tristan Wild/TUV</text><text
+>InternalSignature_Nm_6#$#CN=Gary J Day/OU=GBABB/O=ABB#$#CN=Gary J Day/O=TUV</text><text
+>ClientSignature_Nm_1#$#CN=Gary J Day/OU=GBABB/O=ABB#$#CN=Gary J Day/O=TUV</text></textlist></item>
+<item name='PROJ173_Names_date_time_Tx'><text>02/09/2023 02:30:28</text></item>
+<item name='PROJ173_Names_person_Tx'><text>CN=abbUK2/O=prime-toolkit</text></item>
+<item name='PROJ173_Names_ticket_ref_Tx'><text>PROJ173-280</text></item></document>
+

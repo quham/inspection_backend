@@ -1,0 +1,1256 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE document SYSTEM 'xmlschemas/domino_11_0_1.dtd'>
+<document xmlns='http://www.lotus.com/dxl' version='11.0' maintenanceversion='1.8'
+ replicaid='C125794C006266B1' form='fProjectItem'>
+<noteinfo noteid='5c186' unid='FF575D1235A93CE680257ECB00307D8E' sequence='25'>
+<created><datetime dst='true'>20150925T094938,70+01</datetime></created>
+<modified><datetime dst='true'>20240520T225710,77+01</datetime></modified>
+<revised><datetime dst='true'>20230902T040425,27+01</datetime></revised>
+<lastaccessed><datetime dst='true'>20240520T225710,76+01</datetime></lastaccessed>
+<addedtofile><datetime dst='true'>20240520T225710,76+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Mark Carter/OU=GBABB/O=ABB</name><name>CN=Phil Marsh/OU=GBEUL/O=ABB</name><name
+>CN=Sean Cull/O=prime-toolkit</name><name>CN=Andrew Champion/O=prime-toolkit</name></updatedby>
+<revisions><datetime dst='true'>20150925T094939,14+01</datetime><datetime
+ dst='true'>20150925T094939,19+01</datetime><datetime dst='true'>20150925T094939,23+01</datetime><datetime
+ dst='true'>20150925T094939,32+01</datetime><datetime dst='true'>20150925T095025,43+01</datetime><datetime
+ dst='true'>20150925T095104,83+01</datetime><datetime dst='true'>20150925T095109,05+01</datetime><datetime
+ dst='true'>20150925T095109,12+01</datetime><datetime dst='true'>20150925T095223,65+01</datetime><datetime
+ dst='true'>20150925T095223,72+01</datetime><datetime dst='true'>20150925T095247,29+01</datetime><datetime
+ dst='true'>20150925T095736,39+01</datetime><datetime dst='true'>20150925T095740,59+01</datetime><datetime
+ dst='true'>20150925T095740,65+01</datetime><datetime dst='true'>20150925T095823,95+01</datetime><datetime
+ dst='true'>20150925T095823,99+01</datetime><datetime dst='true'>20150925T095838,32+01</datetime><datetime
+ dst='true'>20150925T095838,38+01</datetime><datetime dst='true'>20151019T093125,08+01</datetime><datetime
+ dst='true'>20151019T093223,58+01</datetime><datetime dst='true'>20151019T100314,47+01</datetime><datetime
+ dst='true'>20151019T100318,90+01</datetime><datetime dst='true'>20151019T100318,95+01</datetime><datetime
+ dst='true'>20230501T141229,00+01</datetime></revisions>
+<item name='ProjectNumber_Tx'><text>RBI Team Leader 2015</text></item>
+<item name='ParentUNID_Tx'><text>PRIM-A2KJ2P</text></item>
+<item name='Field_Tx_1_12'><text>Phil Marsh for Neil Henry</text></item>
+<item name='Field_Tx_1_6'><text>Spent Acid Collection HF and Sulphuric Acid HDPE </text></item>
+<item name='Field_Tx_1_7'><text>Storage Tank</text></item>
+<item name='Field_Tx_1_8'><text>Fixed Roof Storage Tank</text></item>
+<item name='ProjectUNID_Tx'><text>PRIM-A2KJ2P</text></item>
+<item name='EquipmentType_Tx'><text>Vessel</text></item>
+<item name='TempField_Tx'><text/></item>
+<item name='ProjectName_Tx'><text>RBI Team Leader Peer Review Oct 2015</text></item>
+<item name='DocUNID_Tx'><text>PRIM-A2PCD3</text></item>
+<item name='LoopUNID_Tx'><text/></item>
+<item name='ItemNumber_Tx'><text/></item>
+<item name='ItemName_Tx'><text/></item>
+<item name='ViewDetail_Tx'><text/></item>
+<item name='Groups_Tx'><text/></item>
+<item name='Status_Nb'><number>20</number></item>
+<item name='Status_Tx'><text/></item>
+<item name='DateComplete_Dt'><text/></item>
+<item name='History_Tx'><textlist><text>19/10/2015  10:03:19  :  Phil Marsh  :  Meeting Held</text><text
+>25/09/2015  09:57:41  :  Mark Carter  :  Prepared</text><text>25/09/2015 09:49:39  :  Mark Carter  :  Created</text></textlist></item>
+<item name='Units_Tx_2_1'><text/></item>
+<item name='Units_Tx_2_2'><text/></item>
+<item name='Units_Tx_2_3'><text/></item>
+<item name='Units_Tx_2_4'><text/></item>
+<item name='Units_Tx_2_5'><text/></item>
+<item name='Units_Tx_2_6'><text/></item>
+<item name='Units_Tx_2_7'><text/></item>
+<item name='Units_Tx_2_8'><text/></item>
+<item name='Units_Tx_2_9'><text/></item>
+<item name='Units_Tx_2_10'><text/></item>
+<item name='Units_Tx_2_11'><text/></item>
+<item name='Units_Tx_2_12'><text/></item>
+<item name='Units_Tx_2_13'><text/></item>
+<item name='Units_Tx_2_14'><text/></item>
+<item name='Units_Tx_2_15'><text/></item>
+<item name='Units_Tx_2_16'><text/></item>
+<item name='Units_Tx_2_17'><text/></item>
+<item name='Units_Tx_2_18'><text/></item>
+<item name='Units_Tx_2_19'><text/></item>
+<item name='Units_Tx_2_20'><text/></item>
+<item name='Label_Tx_3'><text/></item>
+<item name='Field_Tx_3'><text/></item>
+<item name='Label_Tx_3_2'><text>Roof Cone</text></item>
+<item name='Label_Tx_3_3'><text>Fastenings </text></item>
+<item name='Label_Tx_3_4'><text>Backing Rings</text></item>
+<item name='Label_Tx_3_7'><text/></item>
+<item name='Label_Tx_3_8'><text/></item>
+<item name='Label_Tx_3_9'><text/></item>
+<item name='Label_Tx_3_10'><text/></item>
+<item name='Field_Tx_5'><text/></item>
+<item name='Field_Dt_5'><text/></item>
+<item name='Deterioration_Tx'><text/></item>
+<item name='Credible_Tx_1'><text/></item>
+<item name='Location_Tx_1'><text/></item>
+<item name='DetComment_Tx_1'><text/></item>
+<item name='Deterioration_Tx_1'><text>Fatigue</text></item>
+<item name='Credible_Tx_1_1'><text/></item>
+<item name='Location_Tx_1_1'><text>Shell Spiral construction and attachment Welds</text></item>
+<item name='DetComment_Tx_1_1'><text>Potential separation of welded branches or at the spiral sections forming the shell due action of the agitator and movement of the liquid.</text></item>
+<item name='Field_Tx_7'><text/></item>
+<item name='RegNumber'><text/></item>
+<item name='Title'><text/></item>
+<item name='Fluids'><text/></item>
+<item name='SystemNo'><text/></item>
+<item name='System'><text/></item>
+<item name='Works'><text/></item>
+<item name='Unit'><text/></item>
+<item name='Area'><text/></item>
+<item name='LocalID'><text/></item>
+<item name='ReliefStreamNo'><text/></item>
+<item name='Plant'><text/></item>
+<item name='Customer'><text/></item>
+<item name='Class'><text/></item>
+<item name='INS_Deterioration'><text/></item>
+<item name='RefDoc'><text/></item>
+<item name='DismantleIntl'><text/></item>
+<item name='CleanIntl'><text/></item>
+<item name='AccessIntl'><text/></item>
+<item name='TestIntl'><text/></item>
+<item name='VisualAidIntl'><text/></item>
+<item name='SpecialReqIntl'><text/></item>
+<item name='DismantleExtl'><text/></item>
+<item name='CleanExtl'><text/></item>
+<item name='AccessExtl'><text/></item>
+<item name='TestExtl'><text/></item>
+<item name='VisualAidExtl'><text/></item>
+<item name='SpecialReqExtl'><text/></item>
+<item name='Cont_tx'><text/></item>
+<item name='IntermediateA'><text/></item>
+<item name='IntermediateB'><text/></item>
+<item name='InspectorName'><text/></item>
+<item name='SeniorInspectorName'><text/></item>
+<item name='ClientSignatory'><text/></item>
+<item name='CommissionDate'><text/></item>
+<item name='InspectorEmail' names='true'><text/></item>
+<item name='SeniorInspectorEmail' names='true'><text/></item>
+<item name='ClientEmail'><text/></item>
+<item name='SubmitInsp'><text/></item>
+<item name='SubmitSenInsp'><text/></item>
+<item name='SubmitClient'><text/></item>
+<item name='SignDate'><text/></item>
+<item name='ApproveSenInsp'><text/></item>
+<item name='DespatchDate'><text/></item>
+<item name='PreparedBy_Nm' names='true'><text>CN=Mark Carter/O=TUV</text></item>
+<item name='PreparedByDate_Dt'><datetime>20150925</datetime></item>
+<item name='PreparedByComments_Tx'><text/></item>
+<item name='MeetingHeld_Nm' names='true'><text>CN=Phil Marsh/O=TUV</text></item>
+<item name='MeetingHeldDate_Dt'><datetime dst='true'>20151019T120000,00+01</datetime></item>
+<item name='MeetingHeldComments_Tx'><text/></item>
+<item name='InternalRole_Tx'><text/></item>
+<item name='InternalMember_Nm' names='true'><text/></item>
+<item name='InternalSignature_Nm' names='true'><text/></item>
+<item name='InternalSigDate_Dt'><text/></item>
+<item name='InternalSigComments_Tx'><text/></item>
+<item name='InternalRole_Tx_1'><text>RBI Team Leader</text></item>
+<item name='InternalMember_Nm_1' names='true'><text>Neil S Henry/TUV</text></item>
+<item name='InternalSignature_Nm_1' names='true'><text/></item>
+<item name='InternalSigDate_Dt_1'><text/></item>
+<item name='InternalSigComments_Tx_1'><text/></item>
+<item name='InternalRole_Tx_2'><text/></item>
+<item name='InternalMember_Nm_2' names='true'><text/></item>
+<item name='InternalSignature_Nm_2' names='true'><text/></item>
+<item name='InternalSigDate_Dt_2'><text/></item>
+<item name='InternalSigComments_Tx_2'><text/></item>
+<item name='InternalRole_Tx_3'><text/></item>
+<item name='InternalMember_Nm_3' names='true'><text/></item>
+<item name='InternalSignature_Nm_3' names='true'><text/></item>
+<item name='InternalSigDate_Dt_3'><text/></item>
+<item name='InternalSigComments_Tx_3'><text/></item>
+<item name='InternalRole_Tx_4'><text/></item>
+<item name='InternalMember_Nm_4' names='true'><text/></item>
+<item name='InternalSignature_Nm_4' names='true'><text/></item>
+<item name='InternalSigDate_Dt_4'><text/></item>
+<item name='InternalSigComments_Tx_4'><text/></item>
+<item name='InternalRole_Tx_5'><text/></item>
+<item name='InternalMember_Nm_5' names='true'><text/></item>
+<item name='InternalSignature_Nm_5' names='true'><text/></item>
+<item name='InternalSigDate_Dt_5'><text/></item>
+<item name='InternalSigComments_Tx_5'><text/></item>
+<item name='InternalRole_Tx_6'><text>RBI Administrator</text></item>
+<item name='InternalMember_Nm_6' names='true'><text>Phil Marsh/TUV</text></item>
+<item name='InternalSignature_Nm_6' names='true'><text/></item>
+<item name='InternalSigDate_Dt_6'><text/></item>
+<item name='InternalSigComments_Tx_6'><text/></item>
+<item name='InternalRole_Tx_7'><text/></item>
+<item name='InternalMember_Nm_7' names='true'><text/></item>
+<item name='InternalSignature_Nm_7' names='true'><text/></item>
+<item name='InternalSigDate_Dt_7'><text/></item>
+<item name='InternalSigComments_Tx_7'><text/></item>
+<item name='InternalRole_Tx_8'><text/></item>
+<item name='InternalMember_Nm_8' names='true'><text/></item>
+<item name='InternalSignature_Nm_8' names='true'><text/></item>
+<item name='InternalSigDate_Dt_8'><text/></item>
+<item name='InternalSigComments_Tx_8'><text/></item>
+<item name='InternalRole_Tx_9'><text/></item>
+<item name='InternalMember_Nm_9' names='true'><text/></item>
+<item name='InternalSignature_Nm_9' names='true'><text/></item>
+<item name='InternalSigDate_Dt_9'><text/></item>
+<item name='InternalSigComments_Tx_9'><text/></item>
+<item name='InternalRole_Tx_10'><text/></item>
+<item name='InternalMember_Nm_10' names='true'><text/></item>
+<item name='InternalSignature_Nm_10' names='true'><text/></item>
+<item name='InternalSigDate_Dt_10'><text/></item>
+<item name='InternalSigComments_Tx_10'><text/></item>
+<item name='ClientRole_Tx'><text/></item>
+<item name='ClientMember_Nm' names='true'><text/></item>
+<item name='ClientSignature_Nm' names='true'><text/></item>
+<item name='ClientSigDate_Dt'><text/></item>
+<item name='ClientSigComments_Tx'><text/></item>
+<item name='ClientRole_Tx_1'><text/></item>
+<item name='ClientMember_Nm_1' names='true'><text/></item>
+<item name='ClientSignature_Nm_1' names='true'><text/></item>
+<item name='ClientSigDate_Dt_1'><text/></item>
+<item name='ClientSigComments_Tx_1'><text/></item>
+<item name='ClientRole_Tx_2'><text/></item>
+<item name='ClientMember_Nm_2' names='true'><text/></item>
+<item name='ClientSignature_Nm_2' names='true'><text/></item>
+<item name='ClientSigDate_Dt_2'><text/></item>
+<item name='ClientSigComments_Tx_2'><text/></item>
+<item name='ClientRole_Tx_3'><text/></item>
+<item name='ClientMember_Nm_3' names='true'><text/></item>
+<item name='ClientSignature_Nm_3' names='true'><text/></item>
+<item name='ClientSigDate_Dt_3'><text/></item>
+<item name='ClientSigComments_Tx_3'><text/></item>
+<item name='ClientRole_Tx_4'><text/></item>
+<item name='ClientMember_Nm_4' names='true'><text/></item>
+<item name='ClientSignature_Nm_4' names='true'><text/></item>
+<item name='ClientSigDate_Dt_4'><text/></item>
+<item name='ClientSigComments_Tx_4'><text/></item>
+<item name='ClientRole_Tx_5'><text/></item>
+<item name='ClientMember_Nm_5' names='true'><text/></item>
+<item name='ClientSignature_Nm_5' names='true'><text/></item>
+<item name='ClientSigDate_Dt_5'><text/></item>
+<item name='ClientSigComments_Tx_5'><text/></item>
+<item name='ClientRole_Tx_6'><text/></item>
+<item name='ClientMember_Nm_6' names='true'><text/></item>
+<item name='ClientSignature_Nm_6' names='true'><text/></item>
+<item name='ClientSigDate_Dt_6'><text/></item>
+<item name='ClientSigComments_Tx_6'><text/></item>
+<item name='ClientRole_Tx_7'><text/></item>
+<item name='ClientMember_Nm_7' names='true'><text/></item>
+<item name='ClientSignature_Nm_7' names='true'><text/></item>
+<item name='ClientSigDate_Dt_7'><text/></item>
+<item name='ClientSigComments_Tx_7'><text/></item>
+<item name='ClientRole_Tx_8'><text/></item>
+<item name='ClientMember_Nm_8' names='true'><text/></item>
+<item name='ClientSignature_Nm_8' names='true'><text/></item>
+<item name='ClientSigDate_Dt_8'><text/></item>
+<item name='ClientSigComments_Tx_8'><text/></item>
+<item name='ClientRole_Tx_9'><text/></item>
+<item name='ClientMember_Nm_9' names='true'><text/></item>
+<item name='ClientSignature_Nm_9' names='true'><text/></item>
+<item name='ClientSigDate_Dt_9'><text/></item>
+<item name='ClientSigComments_Tx_9'><text/></item>
+<item name='ClientRole_Tx_10'><text/></item>
+<item name='ClientMember_Nm_10' names='true'><text/></item>
+<item name='ClientSignature_Nm_10' names='true'><text/></item>
+<item name='ClientSigDate_Dt_10'><text/></item>
+<item name='ClientSigComments_Tx_10'><text/></item>
+<item name='SHERisk_Tx'><text>Low</text></item>
+<item name='BusRisk_Tx'><text>Low</text></item>
+<item name='Field_Tx_4_1'><text/></item>
+<item name='Field_Tx_4_2'><text/></item>
+<item name='Field_Tx_4_3'><text/></item>
+<item name='Field_Tx_4_4'><text/></item>
+<item name='Field_Tx_4_5'><text/></item>
+<item name='Field_Tx_4_6'><text/></item>
+<item name='Field_Tx_4_7'><text/></item>
+<item name='Field_Tx_4_8'><text/></item>
+<item name='Field_Tx_4_9'><text/></item>
+<item name='Field_Tx_4_10'><text/></item>
+<item name='Field_Tx_5_1'><text/></item>
+<item name='Field_Dt_5_1'><text/></item>
+<item name='Field_Tx_5_2'><text/></item>
+<item name='Field_Dt_5_2'><text/></item>
+<item name='Field_Tx_5_3'><text/></item>
+<item name='Field_Dt_5_3'><text/></item>
+<item name='Field_Tx_5_4'><text/></item>
+<item name='Field_Tx_5_5'><text/></item>
+<item name='Field_Tx_5_6'><text/></item>
+<item name='Field_Tx_5_7'><text/></item>
+<item name='Field_Tx_5_8'><text>External inspection in 2009, 2012 and 2015, with no significant deterioration observed</text></item>
+<item name='Field_Tx_5_9'><text/></item>
+<item name='Field_Tx_5_10'><text/></item>
+<item name='Field_Tx_5_11'><text>-</text></item>
+<item name='Field_Tx_5_12'><text>-</text></item>
+<item name='Field_Tx_5_13'><text>-</text></item>
+<item name='Field_Tx_5_14'><text/></item>
+<item name='Field_Tx_5_15'><text/></item>
+<item name='Field_Tx_5_16'><text/></item>
+<item name='Field_Tx_5_17'><text/></item>
+<item name='Field_Tx_5_18'><text/></item>
+<item name='Field_Tx_5_19'><text/></item>
+<item name='Field_Tx_5_20'><text/></item>
+<item name='Field_Tx_1_10'><text>Vented to atmosphere</text></item>
+<item name='Field_Tx_1_21'><text/></item>
+<item name='Field_Tx_1_11'><textlist><text>COMAH</text><text>PSSR</text><text
+>PUWER</text></textlist></item>
+<item name='Field_Tx_1_13'><text>Item copied from : Project 300082977 / Equipment T101: Spent Acid Collection HF and Sulphuric Acid HDPE </text></item>
+<item name='Field_Tx_1_14'><text>Chem Resist  Europe</text></item>
+<item name='Field_Tx_1_15'><text>June 2007</text></item>
+<item name='Field_Tx_1_16'><text>BS EN 12573:2000 Welded static non pressurised thermoplastic tanks</text></item>
+<item name='Field_Tx_1_2'><text>Item copied as part of RBI Team leader Peer review process.</text></item>
+<item name='Field_Tx_1_3'><text>Outo Kumpo - Sheffield</text></item>
+<item name='Field_Tx_1_4'><text>North East</text></item>
+<item name='Field_Tx_1_5'><text>Descale1</text></item>
+<item name='Field_Tx_1_9'><text>Height 3708mm<break/>ID 3500mm<break/>Over Base 3700mm<break
+/>Capacity Max 29.703m3<break/>Working Vol 27m3</text></item>
+<item name='Field_Tx_1_17'><text/></item>
+<item name='Field_Tx_1_18'><text/></item>
+<item name='Field_Tx_1_19'><text/></item>
+<item name='Field_Tx_1_20'><text/></item>
+<item name='Field_Tx_2_1'><text>Spent Acid Collection HF and Sulphuric Acid</text></item>
+<item name='Field_Tx_2_101'><text/></item>
+<item name='Field_Tx_2_2'><text>Atmospheric</text></item>
+<item name='Field_Tx_2_102'><text/></item>
+<item name='Field_Tx_2_3'><text/></item>
+<item name='Field_Tx_2_103'><text/></item>
+<item name='Field_Tx_2_4'><text>Atmospheric</text></item>
+<item name='Field_Tx_2_104'><text/></item>
+<item name='Field_Tx_2_5'><text/></item>
+<item name='Field_Tx_2_105'><text/></item>
+<item name='Field_Tx_2_6'><text>Ambient</text></item>
+<item name='Field_Tx_2_106'><text/></item>
+<item name='Field_Tx_2_7'><text/></item>
+<item name='Field_Tx_2_107'><text/></item>
+<item name='Field_Tx_2_8'><text>Ambient</text></item>
+<item name='Field_Tx_2_108'><text/></item>
+<item name='Field_Tx_2_9'><text/></item>
+<item name='Field_Tx_2_109'><text/></item>
+<item name='Field_Tx_2_10'><text/></item>
+<item name='Field_Tx_2_110'><text/></item>
+<item name='Field_Tx_2_11'><text/></item>
+<item name='Field_Tx_2_12'><text/></item>
+<item name='Field_Tx_2_13'><text>S.G. 1.3</text></item>
+<item name='Field_Tx_2_14'><text/></item>
+<item name='Field_Tx_2_15'><text/></item>
+<item name='Field_Tx_2_16'><text>Design Life 20 Years</text></item>
+<item name='Field_Tx_2_17'><text/></item>
+<item name='Field_Tx_2_18'><text/></item>
+<item name='Field_Tx_2_19'><text/></item>
+<item name='Field_Tx_2_20'><text/></item>
+<item name='Field_Tx_3_101'><text>High Density Polyethylene (HDPE)</text></item>
+<item name='Field_Tx_3_201'><text>Non-Metallic</text></item>
+<item name='Field_Tx_3_102'><text>High Density Polyethylene (HDPE)</text></item>
+<item name='Field_Tx_3_202'><text>Non-Metallic</text></item>
+<item name='Field_Tx_3_103'><text>Stainless Steel</text></item>
+<item name='Field_Tx_3_203'><text>Stainless Steel</text></item>
+<item name='Field_Tx_3_104'><text>PN10/16</text></item>
+<item name='Field_Tx_3_204'><text>Poly coated</text></item>
+<item name='Field_Tx_3_105'><text>High Density Polyethylene (HDPE)</text></item>
+<item name='Field_Tx_3_205'><text>Non-Metallic</text></item>
+<item name='Field_Tx_3_106'><text>Concrete</text></item>
+<item name='Field_Tx_3_206'><text>Non-Metallic</text></item>
+<item name='Field_Tx_3_107'><text/></item>
+<item name='Field_Tx_3_207'><text/></item>
+<item name='Field_Tx_3_21'><text/></item>
+<item name='Field_Tx_3_31'><text/></item>
+<item name='Field_Tx_3_22'><text>15</text></item>
+<item name='Field_Tx_3_32'><text/></item>
+<item name='Field_Tx_3_23'><text/></item>
+<item name='Field_Tx_3_33'><text/></item>
+<item name='Field_Tx_3_24'><text/></item>
+<item name='Field_Tx_3_34'><text/></item>
+<item name='Field_Tx_3_25'><text>30</text></item>
+<item name='Field_Tx_3_35'><text/></item>
+<item name='Field_Tx_3_26'><text/></item>
+<item name='Field_Tx_3_36'><text/></item>
+<item name='Field_Tx_3_27'><text/></item>
+<item name='Field_Tx_3_37'><text/></item>
+<item name='Field_Tx_3_8'><text/></item>
+<item name='Field_Tx_3_28'><text/></item>
+<item name='Field_Tx_3_38'><text/></item>
+<item name='Field_Tx_3_9'><text/></item>
+<item name='Field_Tx_3_29'><text/></item>
+<item name='Field_Tx_3_39'><text/></item>
+<item name='Field_Tx_3_10'><text/></item>
+<item name='Field_Tx_3_30'><text/></item>
+<item name='Field_Tx_3_40'><text/></item>
+<item name='Field_Tx_3_11'><text/></item>
+<item name='Field_Tx_3_12'><text/></item>
+<item name='Field_Tx_3_13'><text/></item>
+<item name='Field_Tx_3_14'><text>No</text></item>
+<item name='Field_Tx_3_15'><text/></item>
+<item name='Field_Tx_3_16'><text/></item>
+<item name='Field_Tx_3_17'><text/></item>
+<item name='Field_Tx_3_18'><text>Spirally wound (Black) HDPE</text></item>
+<item name='Field_Tx_3_19'><text>None</text></item>
+<item name='Field_Tx_3_20'><text>N/A</text></item>
+<item name='Field_Tx_3_41'><text/></item>
+<item name='Field_Tx_3_42'><text>DJN8640-WD01-R2</text></item>
+<item name='Field_Tx_3_45'><text>Sits on a concrete plinth within a pit (Concrete screeded with chemical resisting coating) </text></item>
+<item name='Field_Tx_2_113'><text/></item>
+<item name='Field_Tx_3_44'><text/></item>
+<item name='Field_Rtx_4_3' sign='true' seal='true'>
+<rawitemdata type='19'>
+AgACAAAAAgC5AAAALAAAAAAAAABDb250ZW50LVR5cGU6IHRleHQvaHRtbDsgY2hhcnNldD0idXRm
+LTgiDQoNCjxwIGRpcj0ibHRyIj4NCglTaHV0IGRvd24gYW5kIGNsZWFuaW5nIGlzIGNhcnJpZWQg
+b3V0IGluZnJlcXVlbnRseSBieSBtYW51YWwgamV0IHdhdGVyIHdhc2hpbmcgYW5kIG1hbnVhbCBk
+aWdnaW5nIG91dCBvbmNlIGV2ZXJ5IDIgeWVhcnMuPC9wPg==
+</rawitemdata></item>
+<item name='Field_Tx_6_1'><text>Fatigue of shell spiral construction and attachment welds leading to leak of spent acid collection hf and sulphuric acid.</text></item>
+<item name='Field_Tx_6_2'><text>Creep of shell circumferential growth leading to leak of spent acid collection hf and sulphuric acid.</text></item>
+<item name='Field_Tx_6_3'><text>Mechanical damage of shell internal leading to leak of spent acid collection hf and sulphuric acid.</text></item>
+<item name='Field_Tx_6_4'><text>Chemical Attack of internal surfaces leading to leak of spent acid collection hf and sulphuric acid.</text></item>
+<item name='Field_Tx_6_5'><text/></item>
+<item name='Field_Tx_6_6'><text/></item>
+<item name='Field_Tx_6_7'><text/></item>
+<item name='Field_Tx_6_8'><text/></item>
+<item name='Field_Tx_6_9'><text/></item>
+<item name='Field_Tx_6_10'><text/></item>
+<item name='Field_Tx_6_11'><text/></item>
+<item name='Field_Tx_6_12'><text/></item>
+<item name='Field_Tx_6_13'><text/></item>
+<item name='Field_Tx_6_14'><text/></item>
+<item name='Field_Tx_6_15'><text/></item>
+<item name='Field_Tx_6_16'><text/></item>
+<item name='Field_Tx_6_17'><text/></item>
+<item name='Field_Tx_6_18'><text/></item>
+<item name='Field_Tx_6_19'><text/></item>
+<item name='Field_Tx_6_20'><text/></item>
+<item name='Field_Tx_6_21'><text>Chemical deterioration of the HDPE would not be expected under the stated operating conditions and there is good experience of satisfactory service. Service life is therefore considered to be over 20 years. </text></item>
+<item name='Field_Tx_7_1'><text>2</text></item>
+<item name='Field_Tx_7_2'><text>1</text></item>
+<item name='Field_Tx_7_3'><text>1</text></item>
+<item name='Field_Tx_7_4'><text>2</text></item>
+<item name='Field_Tx_7_5'><text/></item>
+<item name='Field_Tx_7_6'><text/></item>
+<item name='Field_Tx_7_7'><text/></item>
+<item name='Field_Tx_7_8'><text/></item>
+<item name='Field_Tx_7_9'><text/></item>
+<item name='Field_Tx_7_10'><text/></item>
+<item name='Field_Tx_7_11'><text/></item>
+<item name='Field_Tx_7_12'><text/></item>
+<item name='Field_Tx_7_13'><text/></item>
+<item name='Field_Tx_7_14'><text/></item>
+<item name='Field_Tx_7_15'><text/></item>
+<item name='Field_Tx_7_61'><text>FS 'A' the duty cycle is from 15% to 90% at rate of approx once an operational week and influence of the agitator.<break
+/>FS 'B' the temperature variation from warm acid transfered from process tanks.<break
+/>FS 'C' is due to the physical cleaning activity but this is controlled by risk assessment and method statements from the contractor carrying out the work and there is awareness of the need to prevent mechanical damage.<break
+/>FS 'D' is related to experience with sulphuric acid in other HDPE tanks and the influence of load from agitation of the contents.<break
+/><break/>The low consequence of failure is defined by the potential mechanism of failure through a thick walled tank resulting in only a small leak. The controlled entry into the area and requirement for PPE manage the safety and health of personnel. The high standard of secondary containment and small size of leak, manages environmental impact</text></item>
+<item name='Field_Tx_7_41'><text>1</text></item>
+<item name='Field_Tx_7_42'><text>1</text></item>
+<item name='Field_Tx_7_43'><text>1</text></item>
+<item name='Field_Tx_7_21'><text>1</text></item>
+<item name='Field_Tx_7_22'><text>1</text></item>
+<item name='Field_Tx_7_23'><text>1</text></item>
+<item name='Field_Tx_9_1'><text>The review has identified a Low likelihood of failure due to one or more deterioration mechanisms. <break
+/><break/>The Maximum SHE consequences identified are Very Low and maximum business consequences identified are Very Low.<break
+/><break/>The credible deterioration mechanisms / failure scenarios for this vessel are listed below together with any mitigating inspection requirements:</text></item>
+<item name='Field_Tx_9_201'><textlist><text>Thorough</text><text>Intermediate Type A</text></textlist></item>
+<item name='Field_Tx_9_202'><textlist><text>Thorough</text><text>Intermediate Type A</text></textlist></item>
+<item name='Field_Tx_9_521'><text>144</text></item>
+<item name='Field_Tx_9_203'><text>Thorough</text></item>
+<item name='Field_Tx_9_522'><text>12</text></item>
+<item name='Field_Tx_9_523'><text/></item>
+<item name='Field_Tx_9_9'><text>Cleaning and decontamination for process purposes will create the opportunity for an internal inspection. Due to the limited potential for deterioration and 20 years expected service life, inspection following process cleaning at a convenient shutdown after approximately 12 years service (2019) should be used to assess the condition of the tank at this stage of its life. Data from T103, to be inspected in 2015, will help confirmation of this strategy</text></item>
+<item name='Field_Tx_9_16'><text>Next inspection dates to be agreed with the client to coincide with the next process clean. </text></item>
+<item name='Field_Dt_9_531'><datetime dst='true'>20190630T120000,00+01</datetime></item>
+<item name='Field_Dt_9_532'><datetime>20151130T120000,00+00</datetime></item>
+<item name='Field_Dt_9_533'><text/></item>
+<item name='Field_Dt_9_534'><text/></item>
+<item name='Field_Tx_9_101'><text>Internal Visual Inspection looking for any defects at branch connections and internal construction welds. <break
+/><break/>External inspection of weld attachments and circumferential bands for evidence of movement or surface defects.</text></item>
+<item name='Field_Tx_9_102'><text>External and internal Visual Inspection including dimension checking for circumferential growth. To be recorded and trended.<break
+/><break/>External inspection of weld attachments and circumferential bands for evidence of movement or surface defects.</text></item>
+<item name='Field_Tx_9_301'><text/></item>
+<item name='Field_Tx_9_103'><text>Internal Visual Inspection looking for any evidence of damage caused by process cleaning operations and the action of the agitator.<break
+/><break/>Visual inspection of agitator looking for signs  of damage and security of blades.</text></item>
+<item name='Field_Tx_9_302'><text/></item>
+<item name='Field_Tx_9_303'><text/></item>
+<item name='Field_Tx_9_501'><text>Internal Visual Inspection looking for any defects at branch connections and internal construction welds. <break
+/><break/>External inspection of weld attachments and circumferential bands for evidence of movement or surface defects.<break
+/><break/>External and internal Visual Inspection including dimension checking for circumferential growth. To be recorded and trended.<break
+/><break/>External inspection of weld attachments and circumferential bands for evidence of movement or surface defects.<break
+/><break/>Internal Visual Inspection looking for any evidence of damage caused by process cleaning operations.<break
+/><break/>Visual inspection of agitator looking for signs  of damage and security of blades.<break
+/><break/>Internal Visual Inspection looking for any evidence of change to physical appearance of the internal surfaces. For example surface discolouration and roughening.</text></item>
+<item name='Field_Tx_9_502'><text>External inspection of weld attachments and circumferential bands for evidence of movement or surface defects.<break
+/><break/>External dimension checking for circumferential growth. To be recorded and trended.<break
+/><break/>Visual examination of concrete base, supports and hold down bolts looking for any signs of degradation. <break
+/><break/>Visual examination of all attachments inclusive of pipework including supports, flanges, and  bolting for any evidence of deterioration or loading on the shell.</text></item>
+<item name='Field_Tx_9_503'><text/></item>
+<item name='Field_Tx_9_504'><text/></item>
+<item name='Field_Tx_9_505'><text>A (P)</text></item>
+<item name='Field_Tx_9_511'><text>Internal - Man Entry</text></item>
+<item name='Field_Tx_9_512'><text>Non Invasive Online</text></item>
+<item name='Field_Tx_9_513'><text>-</text></item>
+<item name='Field_Tx_9_514'><text>-</text></item>
+<item name='Field_Tx_7_44'><text>1</text></item>
+<item name='Field_Tx_7_24'><text>1</text></item>
+<item name='Field_Tx_9_204'><text>Thorough</text></item>
+<item name='Field_Tx_9_104'><text>Internal Visual Inspection looking for any evidence of change to physical appearance of the internal surfaces. For example surface discolouration and roughening.  </text></item>
+<item name='Field_Tx_9_304'><text/></item>
+<item name='Field_Rtx_4_2' sign='true' seal='true'>
+<rawitemdata type='19'>
+AgACAAAAAgDJAAAALAAAAAAAAABDb250ZW50LVR5cGU6IHRleHQvaHRtbDsgY2hhcnNldD0idXRm
+LTgiDQoNCjxwIGRpcj0ibHRyIj4NCglJbiB0aGUgdW5saWtlbHkgZXZlbnQgb2YgdmFsdmUgZmFp
+bHVyZSB0aGVyZSBjb3VsZCBiZSBhIGhpZ2hlciBjb25jZW50cmF0aW9uIG9mIGVpdGhlciBTdWxw
+aHVyaWMgb3IgSEYgYWNpZCwgYnV0IG9ubHkgZm9yIGEgc2hvcnQgcGVyaW9kLjwvcD4=
+</rawitemdata></item>
+<item name='Field_Rtx_5_1' sign='true' seal='true'>
+<rawitemdata type='19'>
+AgACAAAAAgAIFAAALAAAAAAAAABDb250ZW50LVR5cGU6IHRleHQvaHRtbDsgY2hhcnNldD0idXRm
+LTgiDQoNCjxwIGRpcj0ibHRyIj4NCgk8dT48c3Ryb25nPkluaXRpYWwgRXh0ZXJuYWwgQXNzZXNz
+bWVudCAyMC8wMS8yMDE1IElOUy8xNDwvc3Ryb25nPjwvdT48L3A+DQo8ZGl2IGRpcj0ibHRyIj4N
+CglUYW5rIGluc3BlY3RlZCBleHRlcm5hbGx5IGZyb20gbm9ybWFsIHBsYW50IGFjY2VzcywgaW5j
+bHVkaW5nIGFjY2VzcyB0byBidW5kLiB0YW5rIGhhcyBhbiBhZ2l0YXRvciB3aGljaCBydW5zIGNv
+bnN0YW50bHksIGFnaXRhdG9yIGlzIHN1cHBvcnRlZCBvbiBsb2NhbCBzdGVlbCB3b3JrLCBzbyBm
+YXRpZ3VlIG9mIGJyYW5jaCBub3Qgc3VzcGVjdGVkLjwvZGl2Pg0KPGRpdiBkaXI9Imx0ciI+DQoJ
+Jm5ic3A7PC9kaXY+DQo8ZGl2IGRpcj0ibHRyIj4NCglGYWJyaWNhdGVkIGluIEhEUEUgdGhpcyB0
+YW5rIHJlcGxhY2VkIGEgUC9QIGxpbmVkIEdSUCB2ZXNzZWwgYnkgU2lsb3RhbmsgTHRkLiZuYnNw
+OzwvZGl2Pg0KPGRpdiBkaXI9Imx0ciI+DQoJTm8gaW50ZXJuYWwgaW5zcGVjdGlvbiB3YXMgY2Fy
+cmllZCBvdXQgYXQgdGhpcyB0aW1lIGFuZCBpcyBub3Qgc2NoZWR1bGVkIGZvciB0aGUgZnV0dXJl
+LiBUaGUgdGFuayBkb2VzIG5vdCBjb250YWluIGFueSBzaWduaWZpY2FudCBtYW51ZmFjdHVyZWQg
+Zmxhd3MgYXJvdW5kIHRoZSBoZWxpY2FsIGpvaW50cyBiZXR3ZWVuIGluZGl2aWR1YWwgYmFuZHMg
+VGhlIHVwcGVyIHN1cmZhY2VzIG9mIHRoZSBzaGVsbCBkb2VzIG5vdCBjb250YWluIGFueSBzcGly
+YWw8L2Rpdj4NCjxkaXYgZGlyPSJsdHIiPg0KCWdyb292ZXMgYXNzb2NpYXRlZCB3aXRoIHRoZSBo
+ZWxpY2FsIGJhbmRzLi48L2Rpdj4NCjxkaXYgZGlyPSJsdHIiPg0KCSZuYnNwOzwvZGl2Pg0KPGRp
+diBkaXI9Imx0ciI+DQoJMSkgRXh0ZXJuYWw8L2Rpdj4NCjxkaXYgZGlyPSJsdHIiPg0KCWEpIFRh
+bmsgbWFudWZhY3R1cmVkIGluIEp1bmUgMjAwNyBhbmQgaW5zdGFsbGVkIGluIEF1ZyAyMDA3LiBD
+b25zdHJ1Y3RlZCB0byBCUyBFTiAxMjU3MyB3aXRoIGEgbm9taW5hbCBkZXNpZ24gbGlmZSBvZiAx
+MCB5ZWFycy48L2Rpdj4NCjxkaXYgZGlyPSJsdHIiPg0KCWIpIFRhbmsgY2xlYXJseSBpZGVudGlm
+aWVkIHdpdGggbWFudWZhY3R1cmVycyBuYW1lIG5hbWVwbGF0ZSBhbmQgbG9jYWwgSWQgc2VlbiBm
+aXR0ZWQsIHNlZSBwaG90b3MgMyBhbmQgOTwvZGl2Pg0KPGRpdiBkaXI9Imx0ciI+DQoJYykgUm9v
+ZiBhbmQgbm96emxlIHdlbGRzIHNlZW4gaW4gZ29vZCBjb25kaXRpb24sIHNsaWdodCB2ZWdldGF0
+aW9uIG9uIHJvb2YgdG8gc2hlbGwgd2VsZC4gU2VlIFBob3RvICZuYnNwOzEwLjwvZGl2Pg0KPGRp
+diBkaXI9Imx0ciI+DQoJZCkgRmxhbmdlcyBib2x0aW5nIGZvciBwaXBld29yayBzZWVuIGluIGdv
+b2QgY29uZGl0aW9uIHdpdGggYWxsIGJvbHRpbmcgaW4gcGxhY2UsIFNsaWdodCBkcm9vcGluZyBv
+ZiByb29mIG5vdGVkLCBzZWUgcGhvdG9zIDggYW5kIDEwLjwvZGl2Pg0KPGRpdiBkaXI9Imx0ciI+
+DQoJZSkgQWdpdGF0b3IgZmxhbmdlIGFuZCB1cHBlciBtYW4gd2F5IHNlZW4gd2l0aCBtb3N0IG9m
+IHRoZSBib2x0aW5nIG1pc3NpbmcsIHNlZSBwaG90b3MgMTEgYW5kIDEyLjwvZGl2Pg0KPGRpdiBk
+aXI9Imx0ciI+DQoJZikgTWFuIHdheSBib2x0aW5nIHNlZW4gaW4gZ29vZCBjb25kaXRpb24gd2l0
+aCBubyBldmlkZW5jZSBvZiBsZWFrYWdlIGZyb20gc2VhbCwgc2VhbCBhcHBlYXJzIHRvIGhhdmUg
+YmVlbiBvdmVyIHRpZ2h0ZW5lZCBvciBkZWdyYWRpbmcgc2VlIHBob3RvIDQmbmJzcDs8L2Rpdj4N
+CjxkaXYgZGlyPSJsdHIiPg0KCWcpIEV4dGVybmFsIG9mIHRhbmsgc2VlbiBpbiBhcyBnb29kIGNv
+bmRpdGlvbiB3aXRoIG5vIG9idmlvdXMgbWFudWZhY3R1cmluZyBkZWZlY3RzIG5vdGVkLCB0YW5r
+IHNob3dzIG5vIHNpZ25zIG9mIFVWIGRlZ3JhZGF0aW9uLiBTZWUgcGhvdG8gNjwvZGl2Pg0KPGRp
+diBkaXI9Imx0ciI+DQoJaCkgVGFuayBzZWVuIGJvbHRlZCB0byBjb25jcmV0ZSBiYXNlIHdpdGgg
+Ym9sdHMgYWxsIHNlZW4gaW50YWN0IHdpdGggbm8gc2lnbiBvZiBkZWdyYWRhdGlvbi4gQ29uY3Jl
+dGUgYmFzZSBzZWVuIGluIGdvb2QgY29uZGl0aW9uIHdpdGggbm8gZXZpZGVuY2Ugb2YgY3J1bWJs
+aW5nIG9yIGNyYWNraW5nLiBTZWUgcGhvdG8gMi48L2Rpdj4NCjxkaXYgZGlyPSJsdHIiPg0KCWkp
+IEJ1bmQgc2VlbiBpbiBnZW5lcmFsIGdvb2QgY29uZGl0aW9uLCBzb21lIGlzb2xhdGVkIGJsaXN0
+ZXJpbmcgb2YgdGhlIGxpbmluZyBub3RlZCwgc2VlIHBob3RvIDUuPC9kaXY+DQo8cCBkaXI9Imx0
+ciI+DQoJJm5ic3A7PC9wPg0KPHAgZGlyPSJsdHIiPg0KCTx1PjxzdHJvbmc+OSBGZWJydWFyeSAy
+MDEyPC9zdHJvbmc+PC91PjwvcD4NCjxwIGRpcj0ibHRyIj4NCglTcGVudCBhY2lkICgyJSBIRikg
+VDEwMTwvcD4NCjxkaXYgZGlyPSJsdHIiPg0KCU5vIGludGVybmFsIGluc3BlY3Rpb24gd2FzIGNh
+cnJpZWQgb3V0IGF0IHRoaXMgdGltZSBhbmQgaXMgbm90IHNjaGVkdWxlZCBmb3IgdGhlIGZ1dHVy
+ZS48L2Rpdj4NCjxkaXYgZGlyPSJsdHIiPg0KCVRoZSBtYW4td2F5IC8gcm9vZiB3ZWxkcyBhcmUg
+YWxsIGluIGdvb2QgY29uZGl0aW9uIHdpdGggbm8gaW5kaWNhdGlvbiBvZiBtZWNoYW5pY2FsbHk8
+L2Rpdj4NCjxkaXYgZGlyPSJsdHIiPg0KCWluZHVjZWQgZmxhd3Mgb3IgY3JhY2tzLjwvZGl2Pg0K
+PGRpdiBkaXI9Imx0ciI+DQoJVGhlIGFwcGxpY2F0aW9uIG9mIHRoZSBleHRydXNpb24gbWF0ZXJp
+YWwgd2FzIG9mIGdvb2QgcXVhbGl0eSBhbmQgYXBwbGllZCBpbiBhIGNvbnNpc3RlbnQ8L2Rpdj4N
+CjxkaXYgZGlyPSJsdHIiPg0KCWFuZCBzYXRpc2ZhY3RvcnkgbWFubmVyLiBUaGUgaW50ZXJuYWwg
+YXR0YWNobWVudCB3ZWxkIG9mIHRoZSBkcmFpbiBvdXRsZXQgbm96emxlIGlzIHBhcnRseTwvZGl2
+Pg0KPGRpdiBkaXI9Imx0ciI+DQoJbWlzc2luZyBsZWF2aW5nIGEgZ2FwIGJldHdlZW4gdGhlIG5v
+enpsZSBhbmQgdGhlIGJhc2UuPC9kaXY+DQo8ZGl2IGRpcj0ibHRyIj4NCglUaGUgdGFuayBkb2Vz
+IG5vdCBjb250YWluIGFueSBzaWduaWZpY2FudCBtYW51ZmFjdHVyZWQgZmxhd3MgYXJvdW5kIHRo
+ZSBoZWxpY2FsIGpvaW50czwvZGl2Pg0KPGRpdiBkaXI9Imx0ciI+DQoJYmV0d2VlbiBpbmRpdmlk
+dWFsIGJhbmRzIFRoZSB1cHBlciBzdXJmYWNlcyBvZiB0aGUgc2hlbGwgZG9lcyBub3QgY29udGFp
+biBhbnkgc3BpcmFsPC9kaXY+DQo8ZGl2IGRpcj0ibHRyIj4NCglncm9vdmVzIGFzc29jaWF0ZWQg
+d2l0aCB0aGUgaGVsaWNhbCBiYW5kcy4uPC9kaXY+DQo8ZGl2IGRpcj0ibHRyIj4NCglPdXIga25v
+d2xlZGdlIG9mIGRldGVyaW9yYXRpb24gaGFzIGZvY3VzZWQgb24gdGhlIGRldGVjdGlvbiBvZiB0
+aGUgZm9sbG93aW5nIGtleSBwb2ludHM7PC9kaXY+DQo8ZGl2IGRpcj0ibHRyIj4NCgkmbWlkZG90
+OyBTZXBhcmF0aW9uIG9mIHRoZSBiYXNlIGNpcmN1bWZlcmVudGlhbCB3ZWxkIGZyb20gZWl0aGVy
+IHRoZSBiYXNlIG9yIHRhbmsgd2FsbC48L2Rpdj4NCjxkaXYgZGlyPSJsdHIiPg0KCSZtaWRkb3Q7
+IENyYWNraW5nIGluIHRoZSBiYXNlIG9yIHJvb2YgY2lyY3VtZmVyZW50aWFsIHdlbGRzIGVpdGhl
+ciBpbiB0aGUgaG9vcCBkaXJlY3Rpb24gb3I8L2Rpdj4NCjxkaXYgZGlyPSJsdHIiPg0KCXRyYXZl
+bGluZyBhdCByaWdodCBhbmdsZXMgdG8gdGhlIHdlbGQuPC9kaXY+DQo8ZGl2IGRpcj0ibHRyIj4N
+CgkmbWlkZG90OyBTZXBhcmF0aW9uIG9yIHBlZWxpbmcgb2YgdGhlIHNwaXJhbCBzZWdtZW50cyBp
+biB0aGUgYmFzZSwgcm9vZiBvciB3YWxsIG9mIHRoZSB0YW5rLDwvZGl2Pg0KPGRpdiBkaXI9Imx0
+ciI+DQoJcGFydGljdWxhcmx5IGF0IGZ1c2lvbiBsaW5lcy48L2Rpdj4NCjxkaXYgZGlyPSJsdHIi
+Pg0KCSZtaWRkb3Q7IEdyb3d0aCBvZiBmb3JtaW5nIGRlZmVjdHMgaW50cm9kdWNlZCBhdCB0aGUg
+ZmFicmljYXRpb24gc3RhZ2Ugb2YgdGhlIHNoZWxsIHdoaWxzdDwvZGl2Pg0KPGRpdiBkaXI9Imx0
+ciI+DQoJaG90IGFuZCB0aGUgZ3Jvd3RoIG9mIGNyYWNrcyBmcm9tIHRoZXNlIGRlZmVjdHMuPC9k
+aXY+DQo8ZGl2IGRpcj0ibHRyIj4NCgkmbWlkZG90OyBEZWdyYWRpbmcgb2YgdGhlIHBvbHltZXIg
+aW5kaWNhdGVkIGJ5IGNoYW5nZXMgaW4gYXBwZWFyYW5jZSBvZiB0aGUgdGFuayBleHRlcm5hbDwv
+ZGl2Pg0KPGRpdiBkaXI9Imx0ciI+DQoJc3VyZmFjZS48L2Rpdj4NCjxkaXYgZGlyPSJsdHIiPg0K
+CSZtaWRkb3Q7IERldGVybWluYXRpb24gb2Ygd2VsZCBxdWFsaXR5IHBhcnRpY3VsYXIgdG8gZWFj
+aCB0YW5rLjwvZGl2Pg0KPHAgZGlyPSJsdHIiPg0KCSZuYnNwOzwvcD4NCjxwIGRpcj0ibHRyIj4N
+Cgk8dT48c3Ryb25nPjExIE1hcmNoIDIwMDk8L3N0cm9uZz48L3U+PC9wPg0KPGRpdiBkaXI9Imx0
+ciI+DQoJPGRpdj4NCgkJVDEwMSBTcGVudCBhY2lkICgyJSBIRik8L2Rpdj4NCgk8ZGl2Pg0KCQlS
+ZXBsYWNlZCAwOC8yMDA3IHdpdGggQ2hlbXJlc2lzdCBTcGlyYWwgSERQRSAuIFRoZXJlIGFyZSBu
+byBleHRlcm5hbCBpbmRpY2F0aW9ucyBvZjwvZGl2Pg0KCTxkaXY+DQoJCWRldGVyaW9yYXRpb24g
+b2YgdGhpcyAzNSBtMyB0YW5rLiBBbGwgbm96emxlcyBhcmUgYXR0YWNoZWQgdG8gdGhlIHNoZWxs
+IHVzaW5nIGZpbGxlciByb2Qgd2VsZGluZyBhbmQ8L2Rpdj4NCgk8ZGl2Pg0KCQlzdXBwb3J0IGd1
+c3NldHMuIFRoZSB3ZWxkaW5nIG9mIG5venpsZXMgaXMgb2YgZ29vZCBmb3JtIGFuZCBmcmVlIGZy
+b20gd2VsZCBhbm9tYWxpZXMuIExpa2V3aXNlPC9kaXY+DQoJPGRpdj4NCgkJdGhlIGJhc2UgdG8g
+c2hlbGwgd2VsZCBpcyBvZiBnb29kIGZvcm0gYW5kIGZyZWUgb2Ygc3RyZXNzIHJhaXNpbmcgZGVm
+ZWN0cy4gVGhlIHNwaXJhbCBvdmVybGFwcyB0byB0aGU8L2Rpdj4NCgk8ZGl2Pg0KCQlzaGVsbCBl
+eHRlcmlvciBhcmUgd2VsbCBmb3JtZWQgYW5kIG5vIGRlbGFtaW5hdGlvbnMgLyBzZXBhcmF0aW9u
+IHByZXNlbnQuIFBpcGV3b3JrIGV4aXRpbmcgZnJvbTwvZGl2Pg0KCTxkaXY+DQoJCXRoZSBsb3dl
+ciBzaGVsbCBoYXMmbmJzcDtsaW1pdGVkIHN1cHBvcnQuPC9kaXY+DQo8L2Rpdj4NCjxwIGRpcj0i
+bHRyIj4NCgkmbmJzcDs8L3A+
+</rawitemdata></item>
+<item name='Field_Rtx_4_1' sign='true' seal='true'>
+<rawitemdata type='19'>
+AgACAAAAAgAaAgAALAAAAAAAAABDb250ZW50LVR5cGU6IHRleHQvaHRtbDsgY2hhcnNldD0idXRm
+LTgiDQoNCjxwIGRpcj0ibHRyIj4NCglBZ2l0YXRlZCB0YW5rIGNvbnRhaW5pbmcgMTYlIFN1bHBo
+dXJpYyBhY2lkLCAyJSBIRiBhY2lkIGFuZCBzb2xpZHMuPC9wPg0KPHAgZGlyPSJsdHIiPg0KCUxl
+dmVscyB2YXJ5LCBib3R0b20gMTUlIGFuZCB0b3AgbGV2ZWwgaXMgOTAlLjwvcD4NCjxwIGRpcj0i
+bHRyIj4NCglGaWxsIGFuZCBlbXB0eSBjeWNsZSBpcyBvbmNlIGEgd2VlayBidXQgZmlsbGluZyBp
+cyBmcm9tIHRoZSBwcm9jZXNzIGF0IDUwLTYwIERlZ0MgYnV0IHRoaXMgZ29lcyBpbnRvIGEgaGVl
+bCBvZiBsaXF1aWQgd2hpY2ggaXMgYXQgYW1iaWVudCB0ZW1wZXJhdHVyZS48L3A+DQo8cCBkaXI9
+Imx0ciI+DQoJVHJhbnNmZXIgcHVtcHMgc2h1dCBvZmYgYXQgMTUlIGxldmVsIGVuc3VyaW5nIHRo
+YXQgdGhlcmUgaXMgYWx3YXlzIGFtYmllbnQgbGlxdWlkIGluIHRoZSB0YW5rLjwvcD4NCjxwIGRp
+cj0ibHRyIj4NCglBZ2l0YXRvciBydW5zIGF0IDQwIHRvIDUwIFJQTS48L3A+
+</rawitemdata></item>
+<item name='DetCount_Nb'><number>6</number></item>
+<item name='LocCount_Nb_1'><number>1</number></item>
+<item name='DetCredible_Tx_1_1'><text>Yes</text></item>
+<item name='Location_Tx_1_2'><text/></item>
+<item name='DetComment_Tx_1_2'><text/></item>
+<item name='DetCredible_Tx_1_2'><text/></item>
+<item name='Location_Tx_1_3'><text/></item>
+<item name='DetComment_Tx_1_3'><text/></item>
+<item name='DetCredible_Tx_1_3'><text/></item>
+<item name='Location_Tx_1_4'><text/></item>
+<item name='DetComment_Tx_1_4'><text/></item>
+<item name='DetCredible_Tx_1_4'><text/></item>
+<item name='Location_Tx_1_5'><text/></item>
+<item name='DetComment_Tx_1_5'><text/></item>
+<item name='DetCredible_Tx_1_5'><text/></item>
+<item name='Location_Tx_1_6'><text/></item>
+<item name='DetComment_Tx_1_6'><text/></item>
+<item name='DetCredible_Tx_1_6'><text/></item>
+<item name='Location_Tx_1_7'><text/></item>
+<item name='DetComment_Tx_1_7'><text/></item>
+<item name='DetCredible_Tx_1_7'><text/></item>
+<item name='Location_Tx_1_8'><text/></item>
+<item name='DetComment_Tx_1_8'><text/></item>
+<item name='DetCredible_Tx_1_8'><text/></item>
+<item name='Location_Tx_1_9'><text/></item>
+<item name='DetComment_Tx_1_9'><text/></item>
+<item name='DetCredible_Tx_1_9'><text/></item>
+<item name='Location_Tx_1_10'><text/></item>
+<item name='DetComment_Tx_1_10'><text/></item>
+<item name='DetCredible_Tx_1_10'><text/></item>
+<item name='Deterioration_Tx_2'><text>Creep</text></item>
+<item name='LocCount_Nb_2'><number>1</number></item>
+<item name='Location_Tx_2_1'><text>Shell circumferential growth</text></item>
+<item name='DetComment_Tx_2_1'><text>Potential for creep due to small cycles of temperature.</text></item>
+<item name='DetCredible_Tx_2_1'><text>Yes</text></item>
+<item name='Location_Tx_2_2'><text/></item>
+<item name='DetComment_Tx_2_2'><text/></item>
+<item name='DetCredible_Tx_2_2'><text/></item>
+<item name='Location_Tx_2_3'><text/></item>
+<item name='DetComment_Tx_2_3'><text/></item>
+<item name='DetCredible_Tx_2_3'><text/></item>
+<item name='Location_Tx_2_4'><text/></item>
+<item name='DetComment_Tx_2_4'><text/></item>
+<item name='DetCredible_Tx_2_4'><text/></item>
+<item name='Location_Tx_2_5'><text/></item>
+<item name='DetComment_Tx_2_5'><text/></item>
+<item name='DetCredible_Tx_2_5'><text/></item>
+<item name='Location_Tx_2_6'><text/></item>
+<item name='DetComment_Tx_2_6'><text/></item>
+<item name='DetCredible_Tx_2_6'><text/></item>
+<item name='Location_Tx_2_7'><text/></item>
+<item name='DetComment_Tx_2_7'><text/></item>
+<item name='DetCredible_Tx_2_7'><text/></item>
+<item name='Location_Tx_2_8'><text/></item>
+<item name='DetComment_Tx_2_8'><text/></item>
+<item name='DetCredible_Tx_2_8'><text/></item>
+<item name='Location_Tx_2_9'><text/></item>
+<item name='DetComment_Tx_2_9'><text/></item>
+<item name='DetCredible_Tx_2_9'><text/></item>
+<item name='Location_Tx_2_10'><text/></item>
+<item name='DetComment_Tx_2_10'><text/></item>
+<item name='DetCredible_Tx_2_10'><text/></item>
+<item name='Deterioration_Tx_3'><text>Mechanical damage</text></item>
+<item name='LocCount_Nb_3'><number>2</number></item>
+<item name='Location_Tx_3_1'><text>Shell external</text></item>
+<item name='DetComment_Tx_3_1'><text>The tank is in a pit.  No traffic movements in the area. The whole area is restricted access by locked gate.</text></item>
+<item name='DetCredible_Tx_3_1'><text>No</text></item>
+<item name='Location_Tx_3_2'><text>Shell internal</text></item>
+<item name='DetComment_Tx_3_2'><text>Potential for mechanical damage due to cleaning operations.</text></item>
+<item name='DetCredible_Tx_3_2'><text>Yes</text></item>
+<item name='Location_Tx_3_3'><text/></item>
+<item name='DetComment_Tx_3_3'><text/></item>
+<item name='DetCredible_Tx_3_3'><text/></item>
+<item name='Location_Tx_3_4'><text/></item>
+<item name='DetComment_Tx_3_4'><text/></item>
+<item name='DetCredible_Tx_3_4'><text/></item>
+<item name='Location_Tx_3_5'><text/></item>
+<item name='DetComment_Tx_3_5'><text/></item>
+<item name='DetCredible_Tx_3_5'><text/></item>
+<item name='Location_Tx_3_6'><text/></item>
+<item name='DetComment_Tx_3_6'><text/></item>
+<item name='DetCredible_Tx_3_6'><text/></item>
+<item name='Location_Tx_3_7'><text/></item>
+<item name='DetComment_Tx_3_7'><text/></item>
+<item name='DetCredible_Tx_3_7'><text/></item>
+<item name='Location_Tx_3_8'><text/></item>
+<item name='DetComment_Tx_3_8'><text/></item>
+<item name='DetCredible_Tx_3_8'><text/></item>
+<item name='Location_Tx_3_9'><text/></item>
+<item name='DetComment_Tx_3_9'><text/></item>
+<item name='DetCredible_Tx_3_9'><text/></item>
+<item name='Location_Tx_3_10'><text/></item>
+<item name='DetComment_Tx_3_10'><text/></item>
+<item name='DetCredible_Tx_3_10'><text/></item>
+<item name='Deterioration_Tx_4'><text>UV degradation</text></item>
+<item name='LocCount_Nb_4'><number>1</number></item>
+<item name='Location_Tx_4_1'><text>Shell External</text></item>
+<item name='DetComment_Tx_4_1'><text>UV Stablised polymer is used in it's manufacture.</text></item>
+<item name='DetCredible_Tx_4_1'><text>No</text></item>
+<item name='Location_Tx_4_2'><text/></item>
+<item name='DetComment_Tx_4_2'><text/></item>
+<item name='DetCredible_Tx_4_2'><text/></item>
+<item name='Location_Tx_4_3'><text/></item>
+<item name='DetComment_Tx_4_3'><text/></item>
+<item name='DetCredible_Tx_4_3'><text/></item>
+<item name='Location_Tx_4_4'><text/></item>
+<item name='DetComment_Tx_4_4'><text/></item>
+<item name='DetCredible_Tx_4_4'><text/></item>
+<item name='Location_Tx_4_5'><text/></item>
+<item name='DetComment_Tx_4_5'><text/></item>
+<item name='DetCredible_Tx_4_5'><text/></item>
+<item name='Location_Tx_4_6'><text/></item>
+<item name='DetComment_Tx_4_6'><text/></item>
+<item name='DetCredible_Tx_4_6'><text/></item>
+<item name='Location_Tx_4_7'><text/></item>
+<item name='DetComment_Tx_4_7'><text/></item>
+<item name='DetCredible_Tx_4_7'><text/></item>
+<item name='Location_Tx_4_8'><text/></item>
+<item name='DetComment_Tx_4_8'><text/></item>
+<item name='DetCredible_Tx_4_8'><text/></item>
+<item name='Location_Tx_4_9'><text/></item>
+<item name='DetComment_Tx_4_9'><text/></item>
+<item name='DetCredible_Tx_4_9'><text/></item>
+<item name='Location_Tx_4_10'><text/></item>
+<item name='DetComment_Tx_4_10'><text/></item>
+<item name='DetCredible_Tx_4_10'><text/></item>
+<item name='Deterioration_Tx_5'><text>Manufacturing Flaw</text></item>
+<item name='LocCount_Nb_5'><number>1</number></item>
+<item name='Location_Tx_5_1'><text>Whole Tank</text></item>
+<item name='DetComment_Tx_5_1'><text>The tank was inspected when built to an industry proven standard by a reputable manufacturer and has a good service history</text></item>
+<item name='DetCredible_Tx_5_1'><text>No</text></item>
+<item name='Location_Tx_5_2'><text/></item>
+<item name='DetComment_Tx_5_2'><text/></item>
+<item name='DetCredible_Tx_5_2'><text/></item>
+<item name='Location_Tx_5_3'><text/></item>
+<item name='DetComment_Tx_5_3'><text/></item>
+<item name='DetCredible_Tx_5_3'><text/></item>
+<item name='Location_Tx_5_4'><text/></item>
+<item name='DetComment_Tx_5_4'><text/></item>
+<item name='DetCredible_Tx_5_4'><text/></item>
+<item name='Location_Tx_5_5'><text/></item>
+<item name='DetComment_Tx_5_5'><text/></item>
+<item name='DetCredible_Tx_5_5'><text/></item>
+<item name='Location_Tx_5_6'><text/></item>
+<item name='DetComment_Tx_5_6'><text/></item>
+<item name='DetCredible_Tx_5_6'><text/></item>
+<item name='Location_Tx_5_7'><text/></item>
+<item name='DetComment_Tx_5_7'><text/></item>
+<item name='DetCredible_Tx_5_7'><text/></item>
+<item name='Location_Tx_5_8'><text/></item>
+<item name='DetComment_Tx_5_8'><text/></item>
+<item name='DetCredible_Tx_5_8'><text/></item>
+<item name='Location_Tx_5_9'><text/></item>
+<item name='DetComment_Tx_5_9'><text/></item>
+<item name='DetCredible_Tx_5_9'><text/></item>
+<item name='Location_Tx_5_10'><text/></item>
+<item name='DetComment_Tx_5_10'><text/></item>
+<item name='DetCredible_Tx_5_10'><text/></item>
+<item name='Deterioration_Tx_6'><text>Chemical Attack</text></item>
+<item name='LocCount_Nb_6'><number>1</number></item>
+<item name='Location_Tx_6_1'><text>Internal Surfaces</text></item>
+<item name='DetComment_Tx_6_1'><text>Possible but slow progressing deterioration associated with low concentration sulphuric acid at high stress areas, HF known to be of no significant influence at this low concnetration.</text></item>
+<item name='DetCredible_Tx_6_1'><text>Yes</text></item>
+<item name='Location_Tx_6_2'><text/></item>
+<item name='DetComment_Tx_6_2'><text/></item>
+<item name='DetCredible_Tx_6_2'><text/></item>
+<item name='Location_Tx_6_3'><text/></item>
+<item name='DetComment_Tx_6_3'><text/></item>
+<item name='DetCredible_Tx_6_3'><text/></item>
+<item name='Location_Tx_6_4'><text/></item>
+<item name='DetComment_Tx_6_4'><text/></item>
+<item name='DetCredible_Tx_6_4'><text/></item>
+<item name='Location_Tx_6_5'><text/></item>
+<item name='DetComment_Tx_6_5'><text/></item>
+<item name='DetCredible_Tx_6_5'><text/></item>
+<item name='Location_Tx_6_6'><text/></item>
+<item name='DetComment_Tx_6_6'><text/></item>
+<item name='DetCredible_Tx_6_6'><text/></item>
+<item name='Location_Tx_6_7'><text/></item>
+<item name='DetComment_Tx_6_7'><text/></item>
+<item name='DetCredible_Tx_6_7'><text/></item>
+<item name='Location_Tx_6_8'><text/></item>
+<item name='DetComment_Tx_6_8'><text/></item>
+<item name='DetCredible_Tx_6_8'><text/></item>
+<item name='Location_Tx_6_9'><text/></item>
+<item name='DetComment_Tx_6_9'><text/></item>
+<item name='DetCredible_Tx_6_9'><text/></item>
+<item name='Location_Tx_6_10'><text/></item>
+<item name='DetComment_Tx_6_10'><text/></item>
+<item name='DetCredible_Tx_6_10'><text/></item>
+<item name='Deterioration_Tx_7'><text/></item>
+<item name='LocCount_Nb_7'><number>1</number></item>
+<item name='Location_Tx_7_1'><text/></item>
+<item name='DetComment_Tx_7_1'><text/></item>
+<item name='DetCredible_Tx_7_1'><text/></item>
+<item name='Location_Tx_7_2'><text/></item>
+<item name='DetComment_Tx_7_2'><text/></item>
+<item name='DetCredible_Tx_7_2'><text/></item>
+<item name='Location_Tx_7_3'><text/></item>
+<item name='DetComment_Tx_7_3'><text/></item>
+<item name='DetCredible_Tx_7_3'><text/></item>
+<item name='Location_Tx_7_4'><text/></item>
+<item name='DetComment_Tx_7_4'><text/></item>
+<item name='DetCredible_Tx_7_4'><text/></item>
+<item name='Location_Tx_7_5'><text/></item>
+<item name='DetComment_Tx_7_5'><text/></item>
+<item name='DetCredible_Tx_7_5'><text/></item>
+<item name='Location_Tx_7_6'><text/></item>
+<item name='DetComment_Tx_7_6'><text/></item>
+<item name='DetCredible_Tx_7_6'><text/></item>
+<item name='Location_Tx_7_7'><text/></item>
+<item name='DetComment_Tx_7_7'><text/></item>
+<item name='DetCredible_Tx_7_7'><text/></item>
+<item name='Location_Tx_7_8'><text/></item>
+<item name='DetComment_Tx_7_8'><text/></item>
+<item name='DetCredible_Tx_7_8'><text/></item>
+<item name='Location_Tx_7_9'><text/></item>
+<item name='DetComment_Tx_7_9'><text/></item>
+<item name='DetCredible_Tx_7_9'><text/></item>
+<item name='Location_Tx_7_10'><text/></item>
+<item name='DetComment_Tx_7_10'><text/></item>
+<item name='DetCredible_Tx_7_10'><text/></item>
+<item name='Deterioration_Tx_8'><text/></item>
+<item name='LocCount_Nb_8'><number>1</number></item>
+<item name='Location_Tx_8_1'><text/></item>
+<item name='DetComment_Tx_8_1'><text/></item>
+<item name='DetCredible_Tx_8_1'><text/></item>
+<item name='Location_Tx_8_2'><text/></item>
+<item name='DetComment_Tx_8_2'><text/></item>
+<item name='DetCredible_Tx_8_2'><text/></item>
+<item name='Location_Tx_8_3'><text/></item>
+<item name='DetComment_Tx_8_3'><text/></item>
+<item name='DetCredible_Tx_8_3'><text/></item>
+<item name='Location_Tx_8_4'><text/></item>
+<item name='DetComment_Tx_8_4'><text/></item>
+<item name='DetCredible_Tx_8_4'><text/></item>
+<item name='Location_Tx_8_5'><text/></item>
+<item name='DetComment_Tx_8_5'><text/></item>
+<item name='DetCredible_Tx_8_5'><text/></item>
+<item name='Location_Tx_8_6'><text/></item>
+<item name='DetComment_Tx_8_6'><text/></item>
+<item name='DetCredible_Tx_8_6'><text/></item>
+<item name='Location_Tx_8_7'><text/></item>
+<item name='DetComment_Tx_8_7'><text/></item>
+<item name='DetCredible_Tx_8_7'><text/></item>
+<item name='Location_Tx_8_8'><text/></item>
+<item name='DetComment_Tx_8_8'><text/></item>
+<item name='DetCredible_Tx_8_8'><text/></item>
+<item name='Location_Tx_8_9'><text/></item>
+<item name='DetComment_Tx_8_9'><text/></item>
+<item name='DetCredible_Tx_8_9'><text/></item>
+<item name='Location_Tx_8_10'><text/></item>
+<item name='DetComment_Tx_8_10'><text/></item>
+<item name='DetCredible_Tx_8_10'><text/></item>
+<item name='Deterioration_Tx_9'><text/></item>
+<item name='LocCount_Nb_9'><number>1</number></item>
+<item name='Location_Tx_9_1'><text/></item>
+<item name='DetComment_Tx_9_1'><text/></item>
+<item name='DetCredible_Tx_9_1'><text/></item>
+<item name='Location_Tx_9_2'><text/></item>
+<item name='DetComment_Tx_9_2'><text/></item>
+<item name='DetCredible_Tx_9_2'><text/></item>
+<item name='Location_Tx_9_3'><text/></item>
+<item name='DetComment_Tx_9_3'><text/></item>
+<item name='DetCredible_Tx_9_3'><text/></item>
+<item name='Location_Tx_9_4'><text/></item>
+<item name='DetComment_Tx_9_4'><text/></item>
+<item name='DetCredible_Tx_9_4'><text/></item>
+<item name='Location_Tx_9_5'><text/></item>
+<item name='DetComment_Tx_9_5'><text/></item>
+<item name='DetCredible_Tx_9_5'><text/></item>
+<item name='Location_Tx_9_6'><text/></item>
+<item name='DetComment_Tx_9_6'><text/></item>
+<item name='DetCredible_Tx_9_6'><text/></item>
+<item name='Location_Tx_9_7'><text/></item>
+<item name='DetComment_Tx_9_7'><text/></item>
+<item name='DetCredible_Tx_9_7'><text/></item>
+<item name='Location_Tx_9_8'><text/></item>
+<item name='DetComment_Tx_9_8'><text/></item>
+<item name='DetCredible_Tx_9_8'><text/></item>
+<item name='Location_Tx_9_9'><text/></item>
+<item name='DetComment_Tx_9_9'><text/></item>
+<item name='DetCredible_Tx_9_9'><text/></item>
+<item name='Location_Tx_9_10'><text/></item>
+<item name='DetComment_Tx_9_10'><text/></item>
+<item name='DetCredible_Tx_9_10'><text/></item>
+<item name='Deterioration_Tx_10'><text/></item>
+<item name='LocCount_Nb_10'><number>1</number></item>
+<item name='Location_Tx_10_1'><text/></item>
+<item name='DetComment_Tx_10_1'><text/></item>
+<item name='DetCredible_Tx_10_1'><text/></item>
+<item name='Location_Tx_10_2'><text/></item>
+<item name='DetComment_Tx_10_2'><text/></item>
+<item name='DetCredible_Tx_10_2'><text/></item>
+<item name='Location_Tx_10_3'><text/></item>
+<item name='DetComment_Tx_10_3'><text/></item>
+<item name='DetCredible_Tx_10_3'><text/></item>
+<item name='Location_Tx_10_4'><text/></item>
+<item name='DetComment_Tx_10_4'><text/></item>
+<item name='DetCredible_Tx_10_4'><text/></item>
+<item name='Location_Tx_10_5'><text/></item>
+<item name='DetComment_Tx_10_5'><text/></item>
+<item name='DetCredible_Tx_10_5'><text/></item>
+<item name='Location_Tx_10_6'><text/></item>
+<item name='DetComment_Tx_10_6'><text/></item>
+<item name='DetCredible_Tx_10_6'><text/></item>
+<item name='Location_Tx_10_7'><text/></item>
+<item name='DetComment_Tx_10_7'><text/></item>
+<item name='DetCredible_Tx_10_7'><text/></item>
+<item name='Location_Tx_10_8'><text/></item>
+<item name='DetComment_Tx_10_8'><text/></item>
+<item name='DetCredible_Tx_10_8'><text/></item>
+<item name='Location_Tx_10_9'><text/></item>
+<item name='DetComment_Tx_10_9'><text/></item>
+<item name='DetCredible_Tx_10_9'><text/></item>
+<item name='Location_Tx_10_10'><text/></item>
+<item name='DetComment_Tx_10_10'><text/></item>
+<item name='DetCredible_Tx_10_10'><text/></item>
+<item name='Deterioration_Tx_11'><text/></item>
+<item name='LocCount_Nb_11'><number>1</number></item>
+<item name='Location_Tx_11_1'><text/></item>
+<item name='DetComment_Tx_11_1'><text/></item>
+<item name='DetCredible_Tx_11_1'><text/></item>
+<item name='Location_Tx_11_2'><text/></item>
+<item name='DetComment_Tx_11_2'><text/></item>
+<item name='DetCredible_Tx_11_2'><text/></item>
+<item name='Location_Tx_11_3'><text/></item>
+<item name='DetComment_Tx_11_3'><text/></item>
+<item name='DetCredible_Tx_11_3'><text/></item>
+<item name='Location_Tx_11_4'><text/></item>
+<item name='DetComment_Tx_11_4'><text/></item>
+<item name='DetCredible_Tx_11_4'><text/></item>
+<item name='Location_Tx_11_5'><text/></item>
+<item name='DetComment_Tx_11_5'><text/></item>
+<item name='DetCredible_Tx_11_5'><text/></item>
+<item name='Location_Tx_11_6'><text/></item>
+<item name='DetComment_Tx_11_6'><text/></item>
+<item name='DetCredible_Tx_11_6'><text/></item>
+<item name='Location_Tx_11_7'><text/></item>
+<item name='DetComment_Tx_11_7'><text/></item>
+<item name='DetCredible_Tx_11_7'><text/></item>
+<item name='Location_Tx_11_8'><text/></item>
+<item name='DetComment_Tx_11_8'><text/></item>
+<item name='DetCredible_Tx_11_8'><text/></item>
+<item name='Location_Tx_11_9'><text/></item>
+<item name='DetComment_Tx_11_9'><text/></item>
+<item name='DetCredible_Tx_11_9'><text/></item>
+<item name='Location_Tx_11_10'><text/></item>
+<item name='DetComment_Tx_11_10'><text/></item>
+<item name='DetCredible_Tx_11_10'><text/></item>
+<item name='Deterioration_Tx_12'><text/></item>
+<item name='LocCount_Nb_12'><number>0</number></item>
+<item name='Location_Tx_12_1'><text/></item>
+<item name='DetComment_Tx_12_1'><text/></item>
+<item name='DetCredible_Tx_12_1'><text/></item>
+<item name='Location_Tx_12_2'><text/></item>
+<item name='DetComment_Tx_12_2'><text/></item>
+<item name='DetCredible_Tx_12_2'><text/></item>
+<item name='Location_Tx_12_3'><text/></item>
+<item name='DetComment_Tx_12_3'><text/></item>
+<item name='DetCredible_Tx_12_3'><text/></item>
+<item name='Location_Tx_12_4'><text/></item>
+<item name='DetComment_Tx_12_4'><text/></item>
+<item name='DetCredible_Tx_12_4'><text/></item>
+<item name='Location_Tx_12_5'><text/></item>
+<item name='DetComment_Tx_12_5'><text/></item>
+<item name='DetCredible_Tx_12_5'><text/></item>
+<item name='Location_Tx_12_6'><text/></item>
+<item name='DetComment_Tx_12_6'><text/></item>
+<item name='DetCredible_Tx_12_6'><text/></item>
+<item name='Location_Tx_12_7'><text/></item>
+<item name='DetComment_Tx_12_7'><text/></item>
+<item name='DetCredible_Tx_12_7'><text/></item>
+<item name='Location_Tx_12_8'><text/></item>
+<item name='DetComment_Tx_12_8'><text/></item>
+<item name='DetCredible_Tx_12_8'><text/></item>
+<item name='Location_Tx_12_9'><text/></item>
+<item name='DetComment_Tx_12_9'><text/></item>
+<item name='DetCredible_Tx_12_9'><text/></item>
+<item name='Location_Tx_12_10'><text/></item>
+<item name='DetComment_Tx_12_10'><text/></item>
+<item name='DetCredible_Tx_12_10'><text/></item>
+<item name='Deterioration_Tx_13'><text/></item>
+<item name='LocCount_Nb_13'><number>0</number></item>
+<item name='Location_Tx_13_1'><text/></item>
+<item name='DetComment_Tx_13_1'><text/></item>
+<item name='DetCredible_Tx_13_1'><text/></item>
+<item name='Location_Tx_13_2'><text/></item>
+<item name='DetComment_Tx_13_2'><text/></item>
+<item name='DetCredible_Tx_13_2'><text/></item>
+<item name='Location_Tx_13_3'><text/></item>
+<item name='DetComment_Tx_13_3'><text/></item>
+<item name='DetCredible_Tx_13_3'><text/></item>
+<item name='Location_Tx_13_4'><text/></item>
+<item name='DetComment_Tx_13_4'><text/></item>
+<item name='DetCredible_Tx_13_4'><text/></item>
+<item name='Location_Tx_13_5'><text/></item>
+<item name='DetComment_Tx_13_5'><text/></item>
+<item name='DetCredible_Tx_13_5'><text/></item>
+<item name='Location_Tx_13_6'><text/></item>
+<item name='DetComment_Tx_13_6'><text/></item>
+<item name='DetCredible_Tx_13_6'><text/></item>
+<item name='Location_Tx_13_7'><text/></item>
+<item name='DetComment_Tx_13_7'><text/></item>
+<item name='DetCredible_Tx_13_7'><text/></item>
+<item name='Location_Tx_13_8'><text/></item>
+<item name='DetComment_Tx_13_8'><text/></item>
+<item name='DetCredible_Tx_13_8'><text/></item>
+<item name='Location_Tx_13_9'><text/></item>
+<item name='DetComment_Tx_13_9'><text/></item>
+<item name='DetCredible_Tx_13_9'><text/></item>
+<item name='Location_Tx_13_10'><text/></item>
+<item name='DetComment_Tx_13_10'><text/></item>
+<item name='DetCredible_Tx_13_10'><text/></item>
+<item name='Deterioration_Tx_14'><text/></item>
+<item name='LocCount_Nb_14'><number>0</number></item>
+<item name='Location_Tx_14_1'><text/></item>
+<item name='DetComment_Tx_14_1'><text/></item>
+<item name='DetCredible_Tx_14_1'><text/></item>
+<item name='Location_Tx_14_2'><text/></item>
+<item name='DetComment_Tx_14_2'><text/></item>
+<item name='DetCredible_Tx_14_2'><text/></item>
+<item name='Location_Tx_14_3'><text/></item>
+<item name='DetComment_Tx_14_3'><text/></item>
+<item name='DetCredible_Tx_14_3'><text/></item>
+<item name='Location_Tx_14_4'><text/></item>
+<item name='DetComment_Tx_14_4'><text/></item>
+<item name='DetCredible_Tx_14_4'><text/></item>
+<item name='Location_Tx_14_5'><text/></item>
+<item name='DetComment_Tx_14_5'><text/></item>
+<item name='DetCredible_Tx_14_5'><text/></item>
+<item name='Location_Tx_14_6'><text/></item>
+<item name='DetComment_Tx_14_6'><text/></item>
+<item name='DetCredible_Tx_14_6'><text/></item>
+<item name='Location_Tx_14_7'><text/></item>
+<item name='DetComment_Tx_14_7'><text/></item>
+<item name='DetCredible_Tx_14_7'><text/></item>
+<item name='Location_Tx_14_8'><text/></item>
+<item name='DetComment_Tx_14_8'><text/></item>
+<item name='DetCredible_Tx_14_8'><text/></item>
+<item name='Location_Tx_14_9'><text/></item>
+<item name='DetComment_Tx_14_9'><text/></item>
+<item name='DetCredible_Tx_14_9'><text/></item>
+<item name='Location_Tx_14_10'><text/></item>
+<item name='DetComment_Tx_14_10'><text/></item>
+<item name='DetCredible_Tx_14_10'><text/></item>
+<item name='Deterioration_Tx_15'><text/></item>
+<item name='LocCount_Nb_15'><number>0</number></item>
+<item name='Location_Tx_15_1'><text/></item>
+<item name='DetComment_Tx_15_1'><text/></item>
+<item name='DetCredible_Tx_15_1'><text/></item>
+<item name='Location_Tx_15_2'><text/></item>
+<item name='DetComment_Tx_15_2'><text/></item>
+<item name='DetCredible_Tx_15_2'><text/></item>
+<item name='Location_Tx_15_3'><text/></item>
+<item name='DetComment_Tx_15_3'><text/></item>
+<item name='DetCredible_Tx_15_3'><text/></item>
+<item name='Location_Tx_15_4'><text/></item>
+<item name='DetComment_Tx_15_4'><text/></item>
+<item name='DetCredible_Tx_15_4'><text/></item>
+<item name='Location_Tx_15_5'><text/></item>
+<item name='DetComment_Tx_15_5'><text/></item>
+<item name='DetCredible_Tx_15_5'><text/></item>
+<item name='Location_Tx_15_6'><text/></item>
+<item name='DetComment_Tx_15_6'><text/></item>
+<item name='DetCredible_Tx_15_6'><text/></item>
+<item name='Location_Tx_15_7'><text/></item>
+<item name='DetComment_Tx_15_7'><text/></item>
+<item name='DetCredible_Tx_15_7'><text/></item>
+<item name='Location_Tx_15_8'><text/></item>
+<item name='DetComment_Tx_15_8'><text/></item>
+<item name='DetCredible_Tx_15_8'><text/></item>
+<item name='Location_Tx_15_9'><text/></item>
+<item name='DetComment_Tx_15_9'><text/></item>
+<item name='DetCredible_Tx_15_9'><text/></item>
+<item name='Location_Tx_15_10'><text/></item>
+<item name='DetComment_Tx_15_10'><text/></item>
+<item name='DetCredible_Tx_15_10'><text/></item>
+<item name='CUIFactor_Tx_1'><text>Select</text></item>
+<item name='CUIScore_Nb_1'><number>0</number></item>
+<item name='CUIFactor_Tx_2'><text>Select</text></item>
+<item name='CUIScore_Nb_2'><number>0</number></item>
+<item name='CUIFactor_Tx_3'><text>Select</text></item>
+<item name='CUIScore_Nb_3'><number>0</number></item>
+<item name='CUIInspectionType_Tx'><text/></item>
+<item name='CUIInspectionScope_Tx'><text/></item>
+<item name='CUIScoreTotal_Nb'><number>0</number></item>
+<item name='$NoteHasNativeMIME'><text>1</text></item>
+<item name='MIME_Version'><text>1.0</text></item>
+<item name='Field_Rtx_4_4' sign='true' seal='true'>
+<rawitemdata type='19'>
+AgACAAAAAgBDAAAALAAAAAAAAABDb250ZW50LVR5cGU6IHRleHQvaHRtbDsgY2hhcnNldD0idXRm
+LTgiDQoNCjxwIGRpcj0ibHRyIj4mbmJzcDs8L3A+
+</rawitemdata></item>
+<item name='$MIMETrack'><text>Itemize by http on prime-toolkit-01.prime-toolkit.com/ABB/prime-toolkit(Release 9.0.1FP4HF71 | July 7, 2015) at 19.10.2015 10:03:14</text></item>
+<item name='Field_Tx_12_1'><text/></item>
+<item name='Field_Tx_12_2'><text/></item>
+<item name='Field_Tx_12_3'><text/></item>
+<item name='Field_Tx_12_4'><text/></item>
+<item name='Field_Tx_12_5'><text/></item>
+<item name='Field_Tx_12_6'><text/></item>
+<item name='Field_Tx_12_9'><text/></item>
+<item name='DecisionDefaulted_Tx'><text/></item>
+<item name='SchemeDefaulted_Tx'><text/></item>
+<item name='FailuresDefaulted_Tx'><text/></item>
+<item name='Field_Tx_14_1'><text/></item>
+<item name='DetMechsDefaulted_Tx'><text/></item>
+<item name='Field_Tx_12_100'><text>The NII screening process is not complete</text></item>
+<item name='Field_Tx_12_101'><text/></item>
+<item name='CustomerReaders_Nm' names='true' readers='true'><text/></item>
+<item name='CustomerAuthors_Nm' authors='true' names='true'><text/></item>
+<item name='Readers_Nm' names='true' readers='true'><textlist><text>[DBAdmin]</text><text
+>[Internal_Reader]</text></textlist></item>
+<item name='BDReaders_Nm' names='true' readers='true'><text>[DBDesign]</text></item>
+<item name='Authors_Nm' authors='true' names='true'><textlist><text>[DBAdmin]</text><text
+>[Internal_Author]</text></textlist></item>
+<item name='BDAuthors_Nm' authors='true' names='true'><text>[DBDesign]</text></item>
+<item name='CombinedUNID_Tx'><textlist><text>PRIM-A2PCD3</text><text>PRIM-A2KJ2P</text></textlist></item>
+<item name='IntervalBefore_Nb'><text/></item>
+<item name='IntervalAfter_Nb'><number>144</number></item>
+<item name='CurrentDoer_Nm'><text/></item>
+<item name='LastModifiedDate_Dt'><datetime dst='true'>20151019T100318,94+01</datetime></item>
+<item name='LastModifiedBy_Nm' names='true'><text>Phil Marsh</text></item>
+<item name='DateCreated_Dt'><datetime dst='true'>20150925T094938,70+01</datetime></item>
+<item name='ViewRecord_Tx'><text>Project Equipment Item</text></item>
+<item name='ViewDescription_Tx'><text>Project Equipment Item - Vessel - Phil Marsh for Neil Henry</text></item>
+<item name='AllDeteriorations_Tx'><textlist><text>Fatigue</text><text>Creep</text><text
+>Mechanical damage</text><text>UV degradation</text><text>Manufacturing Flaw</text><text
+>Chemical Attack</text></textlist></item>
+<item name='Field_Tx_1_1'><text>1</text></item>
+<item name='SearchMaterialGrade_Tx'><text>#High Density Polyethylene (HDPE)# #Stainless Steel# #PN10/16# #Concrete#</text></item>
+<item name='SearchMaterialCategory_Tx'><text>#Non-Metallic# #Stainless Steel# #Poly coated#</text></item>
+<item name='Label_Tx_3_1'><text>Shell</text></item>
+<item name='Field_Tx_3_1'><text>High Density Polyethylene (HDPE) : Non-Metallic</text></item>
+<item name='Field_Tx_3_2'><text>High Density Polyethylene (HDPE) : Non-Metallic</text></item>
+<item name='Field_Tx_3_3'><text>Stainless Steel : Stainless Steel</text></item>
+<item name='Field_Tx_3_4'><text>PN10/16 : Poly coated</text></item>
+<item name='Label_Tx_3_5'><text>Tank Base  (Flat)</text></item>
+<item name='Field_Tx_3_5'><text>High Density Polyethylene (HDPE) : Non-Metallic</text></item>
+<item name='Label_Tx_3_6'><text>Base </text></item>
+<item name='Field_Tx_3_6'><text>Concrete : Non-Metallic</text></item>
+<item name='Field_Tx_3_7'><text>uPVC</text></item>
+<item name='InternalMemberCN_Nm' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_1' names='true'><text>Neil S Henry</text></item>
+<item name='InternalSignatureCN_Nm_1' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_2' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_2' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_3' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_3' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_4' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_4' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_5' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_5' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_6' names='true'><text>Phil Marsh</text></item>
+<item name='InternalSignatureCN_Nm_6' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_7' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_7' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_8' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_8' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_9' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_9' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_10' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_10' names='true'><text/></item>
+<item name='ClientMemberCN_Nm' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_1' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_1' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_2' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_2' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_3' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_3' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_4' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_4' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_5' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_5' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_6' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_6' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_7' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_7' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_8' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_8' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_9' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_9' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_10' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_10' names='true'><text/></item>
+<item name='disSHERisk_tx'><textlist><text>1</text><text>1</text><text>1</text><text
+>1</text><text/><text/><text/><text/><text/><text/><text/><text/><text/><text
+/><text/><text/><text/><text/><text/><text/></textlist></item>
+<item name='disBusRisk_tx'><textlist><text>1</text><text>1</text><text>1</text><text
+>1</text><text/><text/><text/><text/><text/><text/><text/><text/><text/><text
+/><text/><text/><text/><text/><text/><text/></textlist></item>
+<item name='disPRisk_tx'><textlist><text>2</text><text>1</text><text>1</text><text
+>2</text><text/><text/><text/><text/><text/><text/><text/><text/><text/><text
+/><text/><text/><text/><text/><text/><text/></textlist></item>
+<item name='FailLetters_Tx'><textlist><text>A</text><text>B</text><text>C</text><text
+>D</text><text>E</text><text>F</text><text>G</text><text>H</text><text>I</text><text
+>J</text><text>K</text><text>L</text><text>M</text><text>N</text><text>O</text><text
+>P</text><text>Q</text><text>R</text><text>S</text><text>T</text></textlist></item>
+<item name='F15_Tx'><text/></item>
+<item name='F25_Tx'><text/></item>
+<item name='F35_Tx'><text/></item>
+<item name='F45_Tx'><text/></item>
+<item name='F55_Tx'><text/></item>
+<item name='F14_Tx'><text/></item>
+<item name='F24_Tx'><text/></item>
+<item name='F34_Tx'><text/></item>
+<item name='F44_Tx'><text/></item>
+<item name='F54_Tx'><text/></item>
+<item name='F13_Tx'><text/></item>
+<item name='F23_Tx'><text/></item>
+<item name='F33_Tx'><text/></item>
+<item name='F43_Tx'><text/></item>
+<item name='F53_Tx'><text/></item>
+<item name='F12_Tx'><text>A,D</text></item>
+<item name='F22_Tx'><text/></item>
+<item name='F32_Tx'><text/></item>
+<item name='F42_Tx'><text/></item>
+<item name='F52_Tx'><text/></item>
+<item name='F11_Tx'><text>B,C</text></item>
+<item name='F21_Tx'><text/></item>
+<item name='F31_Tx'><text/></item>
+<item name='F41_Tx'><text/></item>
+<item name='F51_Tx'><text/></item>
+<item name='M15_Tx'><text/></item>
+<item name='M25_Tx'><text/></item>
+<item name='M35_Tx'><text/></item>
+<item name='M45_Tx'><text/></item>
+<item name='M55_Tx'><text/></item>
+<item name='M14_Tx'><text/></item>
+<item name='M24_Tx'><text/></item>
+<item name='M34_Tx'><text/></item>
+<item name='M44_Tx'><text/></item>
+<item name='M54_Tx'><text/></item>
+<item name='M13_Tx'><text/></item>
+<item name='M23_Tx'><text/></item>
+<item name='M33_Tx'><text/></item>
+<item name='M43_Tx'><text/></item>
+<item name='M53_Tx'><text/></item>
+<item name='M12_Tx'><text>A,D</text></item>
+<item name='M22_Tx'><text/></item>
+<item name='M32_Tx'><text/></item>
+<item name='M42_Tx'><text/></item>
+<item name='M52_Tx'><text/></item>
+<item name='M11_Tx'><text>B,C</text></item>
+<item name='M21_Tx'><text/></item>
+<item name='M31_Tx'><text/></item>
+<item name='M41_Tx'><text/></item>
+<item name='M51_Tx'><text/></item>
+<item name='proj173_126_projectnumber_tx'><text>RBI Team Leader 2015</text></item>
+<item name='proj173_126_projectname_tx'><text>RBI Team Leader Peer Review Oct 2015</text></item>
+<item name='proj173_126_client_tx'><text>ABB</text></item>
+<item name='Client_Tx'><text>TÜV Rheinland</text></item>
+<item name='PROJ173_Names_fields_changed_Tx'><textlist><text>PreparedBy_Nm#$#CN=Mark Carter/OU=GBABB/O=ABB#$#CN=Mark Carter/O=TUV</text><text
+>MeetingHeld_Nm#$#CN=Phil Marsh/OU=GBEUL/O=ABB#$#CN=Phil Marsh/O=TUV</text><text
+>InternalMember_Nm_1#$#Neil S Henry/GBEUL/ABB#$#Neil S Henry/TUV</text><text
+>InternalMember_Nm_6#$#Phil Marsh/GBEUL/ABB#$#Phil Marsh/TUV</text></textlist></item>
+<item name='PROJ173_Names_date_time_Tx'><text>02/09/2023 02:30:28</text></item>
+<item name='PROJ173_Names_person_Tx'><text>CN=abbUK2/O=prime-toolkit</text></item>
+<item name='PROJ173_Names_ticket_ref_Tx'><text>PROJ173-280</text></item></document>
+

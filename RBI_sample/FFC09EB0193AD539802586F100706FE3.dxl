@@ -1,0 +1,711 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE document SYSTEM 'xmlschemas/domino_11_0_1.dtd'>
+<document xmlns='http://www.lotus.com/dxl' version='11.0' maintenanceversion='1.8'
+ replicaid='C125794C006266B1' form='fProjectItem'>
+<noteinfo noteid='b7ee2' unid='FFC09EB0193AD539802586F100706FE3' sequence='4'>
+<created><datetime dst='true'>20210611T212806,75+01</datetime></created>
+<modified><datetime dst='true'>20240520T231107,36+01</datetime></modified>
+<revised><datetime dst='true'>20210927T204434,77+01</datetime></revised>
+<lastaccessed><datetime dst='true'>20240520T231107,35+01</datetime></lastaccessed>
+<addedtofile><datetime dst='true'>20240520T231107,35+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Sean 1 Cull/OU=GBABB/O=NONABB</name><name>CN=Sean Cull/O=prime-toolkit</name></updatedby>
+<revisions><datetime dst='true'>20210611T212806,81+01</datetime><datetime
+ dst='true'>20210903T204501,63+01</datetime><datetime dst='true'>20210927T200915,77+01</datetime></revisions>
+<item name='ParentUNID_Tx'><text>SCUL-9J2EYS</text></item>
+<item name='ProjectUNID_Tx'><text>SCUL-9J2EYS</text></item>
+<item name='EquipmentType_Tx'><text>Vessel</text></item>
+<item name='ProjectName_Tx'><text>Huntsman Botany - Glycol &amp; Oxides</text></item>
+<item name='ProjectNumber_Tx'><text>06HUNBOT</text></item>
+<item name='Client_Tx'><text>Huntsman Botany Bay</text></item>
+<item name='DocUNID_Tx'><text>SCUL-9J2F25</text></item>
+<item name='Status_Nb'><number>100</number></item>
+<item name='ZZIMPORTUNID_TX'><text>80257C1C005433D58025713A004F83B3</text></item>
+<item name='ZZVESPROJNO_TX'><text>06HUNBOT</text></item>
+<item name='ZZREGNO_TX'><text>E2501</text></item>
+<item name='Field_Tx_1_1'><text>1</text></item>
+<item name='Field_Tx_1_3'><text/></item>
+<item name='Field_Tx_1_4'><text>Oxide</text></item>
+<item name='Field_Tx_1_5'><text/></item>
+<item name='Field_Tx_1_12'><text>E2501</text></item>
+<item name='Field_Tx_1_6'><text>REFINING COLUMN CONDENSER</text></item>
+<item name='Field_Tx_1_7'><text>Heat Exchanger</text></item>
+<item name='Field_Tx_1_8'><text>Condenser</text></item>
+<item name='Field_Tx_1_9'><text> 750 mm dia X 4.2 M long</text></item>
+<item name='Field_Tx_1_14'><text>Mauri /Baipini </text></item>
+<item name='Field_Tx_1_15'><text>1980</text></item>
+<item name='Field_Tx_1_16'><text>AS1200</text></item>
+<item name='Field_Tx_1_21'><text>class 3</text></item>
+<item name='Field_Tx_1_13'><text>191-U-2977</text></item>
+<item name='Field_Tx_2_1'><text> Pure EO + traces of H2O, CO2. Aldehides.</text></item>
+<item name='Field_Tx_2_101'><text>Treated cooling water</text></item>
+<item name='Field_Tx_2_2'><text>5.2</text></item>
+<item name='Field_Tx_2_102'><text>5.2</text></item>
+<item name='Field_Tx_2_3'><text/></item>
+<item name='Field_Tx_2_103'><text/></item>
+<item name='Field_Tx_2_4'><text>2.8</text></item>
+<item name='Field_Tx_2_104'><text>2.5 </text></item>
+<item name='Field_Tx_2_5'><text>8.6</text></item>
+<item name='Field_Tx_2_105'><text>7.8</text></item>
+<item name='Field_Tx_2_6'><text>130</text></item>
+<item name='Field_Tx_2_106'><text>77</text></item>
+<item name='Field_Tx_2_7'><text/></item>
+<item name='Field_Tx_2_107'><text/></item>
+<item name='Field_Tx_2_8'><text>45 to 50 </text></item>
+<item name='Field_Tx_2_108'><text>25 to 35 </text></item>
+<item name='Field_Tx_2_9'><text/></item>
+<item name='Field_Tx_2_109'><text/></item>
+<item name='Field_Tx_2_10'><text/></item>
+<item name='Field_Tx_2_110'><text/></item>
+<item name='Field_Tx_2_16'><text>Relief Valve set @ 5.17 barg in column for shellside.</text></item>
+<item name='Field_Tx_3_21'><text>6</text></item>
+<item name='Field_Tx_3_31'><text>0</text></item>
+<item name='Field_Tx_3_22'><text>5</text></item>
+<item name='Field_Tx_3_32'><text/></item>
+<item name='Field_Tx_3_23'><text>1.65</text></item>
+<item name='Field_Tx_3_33'><text>1.5</text></item>
+<item name='Field_Tx_3_24'><text>23.5</text></item>
+<item name='Field_Tx_3_34'><text/></item>
+<item name='Field_Tx_3_25'><text/></item>
+<item name='Field_Tx_3_35'><text/></item>
+<item name='Field_Tx_3_26'><text/></item>
+<item name='Field_Tx_3_36'><text/></item>
+<item name='Field_Tx_3_101'><text>API 5L GrB</text></item>
+<item name='Field_Tx_3_201'><text>Carbon Steel</text></item>
+<item name='Label_Tx_3_2'><text>Channel End / Bonnet</text></item>
+<item name='Field_Tx_3_102'><text>ASTM A 240  2205 Duplex</text></item>
+<item name='Label_Tx_3_3'><text>Tubes</text></item>
+<item name='Field_Tx_3_103'><text>"SANDVIK"3RE 60 Duplex</text></item>
+<item name='Label_Tx_3_4'><text>Tubeplate</text></item>
+<item name='Field_Tx_3_104'><text>ASTM R-240 Tp 304</text></item>
+<item name='Field_Tx_3_105'><text/></item>
+<item name='Field_Tx_3_106'><text/></item>
+<item name='Field_Tx_3_45'><text/></item>
+<item name='Field_Tx_3_14'><text>No</text></item>
+<item name='Field_Tx_3_15'><text/></item>
+<item name='Field_Tx_3_41'><text>BO16187</text></item>
+<item name='Field_Tx_3_18'><text>Painted</text></item>
+<item name='Field_Tx_3_19'><text/></item>
+<item name='Field_Tx_3_20'><text>Expanded</text></item>
+<item name='Field_Tx_5_1001'><text/></item>
+<item name='Field_Tx_5_1002'><text/></item>
+<item name='Field_Tx_5_14'><text>48</text></item>
+<item name='Field_Tx_5_15'><text/></item>
+<item name='Field_Tx_5_16'><text/></item>
+<item name='Field_Dt_5_1'><datetime dst='true'>20090814T000000,00+01</datetime></item>
+<item name='Field_Dt_5_2'><text/></item>
+<item name='Field_Dt_5_3'><text/></item>
+<item name='Field_Tx_5_11'><text>Internal - No man access</text></item>
+<item name='Field_Tx_5_12'><text/></item>
+<item name='Field_Tx_5_13'><text/></item>
+<item name='Field_Tx_5_1'><text/></item>
+<item name='Field_Tx_5_2'><text/></item>
+<item name='Field_Tx_5_3'><text/></item>
+<item name='Field_Tx_5_8'><text>New duplex SS channels fitted in 1997 replacing CS <break
+/>  MIC found tubesheet to channel gasket face in 2001 by 2005 was below MAT.<break
+/>  Tube expansions leaked in 2005<break/>  Structure on which condenser sits is heavily corroded.</text></item>
+<item name='Field_Tx_5_10'><text/></item>
+<item name='Field_Tx_6_1'><text>MIC destroying the seating face of the tubesheet or channel leading to a breakdown of the integrity of the tubesheet requiring major repairs.</text></item>
+<item name='Field_Tx_6_2'><text>Corrosion of structure leading to ultimate collapse.   </text></item>
+<item name='Field_Tx_6_3'><text>Tube expansion leaks leading to cross contamination of product.</text></item>
+<item name='Field_Tx_6_4'><text/></item>
+<item name='Field_Tx_6_5'><text/></item>
+<item name='Field_Tx_6_6'><text/></item>
+<item name='Field_Tx_6_7'><text/></item>
+<item name='Field_Tx_6_8'><text/></item>
+<item name='Field_Tx_6_9'><text/></item>
+<item name='Field_Tx_6_10'><text/></item>
+<item name='Field_Tx_6_21'><text/></item>
+<item name='Field_Tx_7_1'><text>2</text></item>
+<item name='Field_Tx_7_21'><text>1</text></item>
+<item name='Field_Tx_7_41'><text>3</text></item>
+<item name='Field_Tx_7_2'><text>2</text></item>
+<item name='Field_Tx_7_22'><text>1</text></item>
+<item name='Field_Tx_7_42'><text>3</text></item>
+<item name='Field_Tx_7_3'><text>3</text></item>
+<item name='Field_Tx_7_23'><text>1</text></item>
+<item name='Field_Tx_7_43'><text>3</text></item>
+<item name='Field_Tx_7_4'><text>0</text></item>
+<item name='Field_Tx_7_24'><text>0</text></item>
+<item name='Field_Tx_7_44'><text>0</text></item>
+<item name='Field_Tx_7_5'><text>0</text></item>
+<item name='Field_Tx_7_25'><text>0</text></item>
+<item name='Field_Tx_7_45'><text>0</text></item>
+<item name='Field_Tx_7_6'><text>0</text></item>
+<item name='Field_Tx_7_26'><text>0</text></item>
+<item name='Field_Tx_7_46'><text>0</text></item>
+<item name='Field_Tx_7_7'><text>0</text></item>
+<item name='Field_Tx_7_27'><text>0</text></item>
+<item name='Field_Tx_7_47'><text>0</text></item>
+<item name='Field_Tx_7_8'><text>0</text></item>
+<item name='Field_Tx_7_28'><text>0</text></item>
+<item name='Field_Tx_7_48'><text>0</text></item>
+<item name='Field_Tx_7_9'><text>0</text></item>
+<item name='Field_Tx_7_29'><text>0</text></item>
+<item name='Field_Tx_7_49'><text>0</text></item>
+<item name='Field_Tx_7_10'><text>0</text></item>
+<item name='Field_Tx_7_30'><text>0</text></item>
+<item name='Field_Tx_7_50'><text>0</text></item>
+<item name='Field_Tx_7_61'><text/></item>
+<item name='Field_Tx_9_1'><text>Rationale: <break/>The risks identified can all be controlled by adequate  fabric maintenance for <break
+/>the structure and inspection for the slow acting MIC. The tube attachments have <break
+/>a history of leaking giving a level of uncertainly for the future. <break
+/><break/><break/>Philosophy: <break/>External:<break/>Examine shell, saddles, nozzles and flanges for corrosion of CS and pitting of SS sections.<break
+/>Examine saddle and HD bolts for corrosion and cracking of fillet welds.<break
+/>Examine flange bolting for corrosion, particularly at SS flanges.<break
+/>Check and quantify condition of supporting platform. <break/>Internal:<break
+/>Examine channels and partition plates for corrosion, particularly at welds, and in vicinity of tube-sheet -- not expected since new channels installed.<break
+/>Examine gasket seating faces.<break/>Examine tube bores, tube sheet and tube to tube-sheet joints, check for evidence of leakage through joints.<break
+/>Examine impingement plate for corrosion/erosion, and condition of tube under and adjacent to it (to extent possible).Examine shell via inspection manhole.<break
+/>Examine inlet nozzle and adjacent shell for corrosion/erosion (unlikely).<break
+/>Examine tube-sheets and channel flanges for MIC and verify the effectiveness of 2005 'Belzona' repair <break
+/><break/>NDT: <break/><break/><break/>Hydrotest:<break/>Shell at 10.50 barg<break
+/></text></item>
+<item name='Field_Tx_9_511'><text>Internal - No man access</text></item>
+<item name='Field_Tx_9_521'><text>48</text></item>
+<item name='Field_Tx_9_512'><text/></item>
+<item name='Field_Tx_9_522'><text/></item>
+<item name='Field_Tx_9_513'><text/></item>
+<item name='Field_Tx_9_523'><text/></item>
+<item name='Field_Tx_9_504'><text>IRIS or EC tubes in the area of the inlet to shell nozzle. </text></item>
+<item name='Field_Tx_9_505'><text/></item>
+<item name='Field_Tx_9_16'><text/></item>
+<item name='DetMechsDefaulted_Tx'><text>Yes</text></item>
+<item name='Deterioration_Tx_1'><text>Corrosion</text></item>
+<item name='DetCredible_Tx_1_1'><text>Yes</text></item>
+<item name='Location_Tx_1_1'><text/></item>
+<item name='DetComment_Tx_1_1'><text>Original CS channels replaced in 1997 with Duplex</text></item>
+<item name='LocCount_Nb_1'><number>1</number></item>
+<item name='Deterioration_Tx_2'><text>Corrosion Under Insulation</text></item>
+<item name='DetCredible_Tx_2_1'><text>No</text></item>
+<item name='Location_Tx_2_1'><text/></item>
+<item name='DetComment_Tx_2_1'><text>Not insulated</text></item>
+<item name='LocCount_Nb_2'><number>1</number></item>
+<item name='Deterioration_Tx_3'><text>Pitting</text></item>
+<item name='LocCount_Nb_3'><number>0</number></item>
+<item name='Deterioration_Tx_4'><text>Stress Corrosion Cracking</text></item>
+<item name='DetCredible_Tx_4_1'><text>No</text></item>
+<item name='Location_Tx_4_1'><text/></item>
+<item name='DetComment_Tx_4_1'><text>Temperature too low</text></item>
+<item name='LocCount_Nb_4'><number>1</number></item>
+<item name='Deterioration_Tx_5'><text>Erosion</text></item>
+<item name='DetCredible_Tx_5_1'><text>No</text></item>
+<item name='Location_Tx_5_1'><text/></item>
+<item name='DetComment_Tx_5_1'><text>There is no impingement plate and the cost of creating access for inspection removing inlet pipework is excessive. We will examine tubes in the vicinity using IRIS or EC. </text></item>
+<item name='LocCount_Nb_5'><number>1</number></item>
+<item name='Deterioration_Tx_6'><text>Fatigue</text></item>
+<item name='LocCount_Nb_6'><number>0</number></item>
+<item name='Deterioration_Tx_7'><text>Creep</text></item>
+<item name='LocCount_Nb_7'><number>0</number></item>
+<item name='Deterioration_Tx_8'><text>Mechanical Damage</text></item>
+<item name='LocCount_Nb_8'><number>0</number></item>
+<item name='Deterioration_Tx_9'><text>Lining Deterioration</text></item>
+<item name='LocCount_Nb_9'><number>0</number></item>
+<item name='Deterioration_Tx_10'><text>MIC </text></item>
+<item name='DetCredible_Tx_10_1'><text>Yes</text></item>
+<item name='Location_Tx_10_1'><text>Tubesheet/channel gasket surface</text></item>
+<item name='DetComment_Tx_10_1'><text>Noted in 2001 much worse in 2005 now below MAT. Both mating surfaces are built of susceptible material. </text></item>
+<item name='LocCount_Nb_10'><number>1</number></item>
+<item name='Deterioration_Tx_11'><text>Corrosion of Structural platform support.</text></item>
+<item name='DetCredible_Tx_11_1'><text>Yes</text></item>
+<item name='Location_Tx_11_1'><text>Platform</text></item>
+<item name='DetComment_Tx_11_1'><text>Extensive corrosion apparent requiring repairs by 2009.</text></item>
+<item name='LocCount_Nb_11'><number>1</number></item>
+<item name='Deterioration_Tx_12'><text>Tube expansion leaks</text></item>
+<item name='DetCredible_Tx_12_1'><text>Yes</text></item>
+<item name='Location_Tx_12_1'><text>Tubesheet attachments </text></item>
+<item name='DetComment_Tx_12_1'><text>Noted in 2001 much worse in 2005 now below MAT. Both mating surfaces are built of susceptible material. </text></item>
+<item name='LocCount_Nb_12'><number>1</number></item>
+<item name='DetCount_Nb'><number>12</number></item>
+<item name='ZZIMPORTFAILUREFLAG_TX'><text>1<break/>2<break/>3</text></item>
+<item name='InternalRole_Tx_1'><text>RBI Leader</text></item>
+<item name='InternalMember_Nm_1' names='true'><text>Tony Musgrave</text></item>
+<item name='InternalSignature_Nm_1' names='true'><text>Tony Musgrave</text></item>
+<item name='InternalSigDate_Dt_1'><datetime dst='true'>20060504T000000,00+01</datetime></item>
+<item name='InternalSigComments_Tx_1'><text>At the Meeting</text></item>
+<item name='InternalRole_Tx_2'><text>Senior Inspection Engineer</text></item>
+<item name='InternalMember_Nm_2' names='true'><text/></item>
+<item name='InternalSignature_Nm_2' names='true'><text/></item>
+<item name='InternalSigDate_Dt_2'><text/></item>
+<item name='InternalSigComments_Tx_2'><text/></item>
+<item name='InternalRole_Tx_3'><text>Inspector</text></item>
+<item name='InternalMember_Nm_3' names='true'><text/></item>
+<item name='InternalSignature_Nm_3' names='true'><text/></item>
+<item name='InternalSigDate_Dt_3'><text/></item>
+<item name='InternalSigComments_Tx_3'><text/></item>
+<item name='InternalRole_Tx_4'><text>Mechanical Engineer</text></item>
+<item name='InternalMember_Nm_4' names='true'><text/></item>
+<item name='InternalSignature_Nm_4' names='true'><text/></item>
+<item name='InternalSigDate_Dt_4'><text/></item>
+<item name='InternalSigComments_Tx_4'><text/></item>
+<item name='InternalRole_Tx_5'><text>Materials Engineer</text></item>
+<item name='InternalMember_Nm_5' names='true'><text>Russ Lumb</text></item>
+<item name='InternalSignature_Nm_5' names='true'><text>Russ Lumb</text></item>
+<item name='InternalSigDate_Dt_5'><datetime dst='true'>20060504T000000,00+01</datetime></item>
+<item name='InternalSigComments_Tx_5'><text>At the Meeting</text></item>
+<item name='InternalRole_Tx_6'><text>RBI Administrator</text></item>
+<item name='InternalMember_Nm_6' names='true'><text/></item>
+<item name='InternalSignature_Nm_6' names='true'><text/></item>
+<item name='InternalSigDate_Dt_6'><text/></item>
+<item name='InternalSigComments_Tx_6'><text/></item>
+<item name='ClientRole_Tx_1'><text>Process Engineer (Client)</text></item>
+<item name='ClientMember_Nm_1' names='true'><text/></item>
+<item name='ClientSignature_Nm_1' names='true'><text/></item>
+<item name='ClientRole_Tx_2'><text>Mechanical Engineer (Client)</text></item>
+<item name='ClientMember_Nm_2' names='true'><text>Richard McGrath</text></item>
+<item name='ClientSignature_Nm_2' names='true'><text>Richard McGrath</text></item>
+<item name='ClientRole_Tx_3'><text>Ops Representative (Client)</text></item>
+<item name='ClientMember_Nm_3' names='true'><text/></item>
+<item name='ClientSignature_Nm_3' names='true'><text/></item>
+<item name='ClientRole_Tx_4'><text/></item>
+<item name='ClientMember_Nm_4' names='true'><text/></item>
+<item name='ClientSignature_Nm_4' names='true'><text/></item>
+<item name='ClientRole_Tx_5'><text/></item>
+<item name='ClientMember_Nm_5' names='true'><text/></item>
+<item name='ClientSignature_Nm_5' names='true'><text/></item>
+<item name='ClientRole_Tx_6'><text/></item>
+<item name='ClientMember_Nm_6' names='true'><text/></item>
+<item name='ClientSignature_Nm_6' names='true'><text/></item>
+<item name='PreparedBy_Nm' names='true'><text>Tony Musgrave</text></item>
+<item name='PreparedByDate_Dt'><datetime dst='true'>20060406T000000,00+01</datetime></item>
+<item name='MeetingHeld_Nm' names='true'><text>Ian Haggerwood</text></item>
+<item name='MeetingHeldDate_Dt'><datetime dst='true'>20060407T000000,00+01</datetime></item>
+<item name='DateComplete_Dt'><datetime dst='true'>20060504T000000,00+01</datetime></item>
+<item name='Field_Rtx_4_1' summary='true'>
+<rawitemdata type='19'>
+AgACAAAAAgCnAAAAKgAAAAAAAABDb250ZW50LVR5cGU6IHRleHQvcGxhaW47Y2hhcnNldD11dGYt
+OA0KDQpSZWNlaXZlcyB0aGUgdmVudHMgZnJvbSB0aGUgcmVmaW5pbmcgY29sdW1uIGluIGdhc2Vv
+dXMgZm9ybSwgY29uZGVuc2VzIHRvIGxpcXVpZCAgYmVmb3JlIHBhc3NpbmcgdG8gRiAxNTAxIHJl
+Zmx1eCBkcnVtLg0KDQoNCg==
+</rawitemdata></item>
+<item name='$MIMETrack'><text>Itemize by Notes Client on Sean 1 Cull/GBABB/NONABB(Release 8.5.3FP3|November 16, 2012) at 09/04/2014 17:47:17</text></item>
+<item name='Field_Rtx_4_2' summary='true'>
+<rawitemdata type='19'>
+AgACAAAAAgDPAAAAKgAAAAAAAABDb250ZW50LVR5cGU6IHRleHQvcGxhaW47Y2hhcnNldD11dGYt
+OA0KDQogTG9zcyBvZiBjb29saW5nIHdhdGVyIHdvdWxkIGVuZ2VuZGVyIGEgcmFwaWQgaW5jcmVh
+c2UgaW4gcHJlc3N1cmUgaW4gdGhlIGNvbHVtbiB3aGljaCB3b3VsZCBhY3RpdmF0ZSB0aGUgaGln
+aCBwcmVzc3VyZSB0cmlwIGFuZCB0aGUgcmVib2lsZXIgd291bGQgYmUgc2h1dCBkb3duLg0KDQo=
+</rawitemdata></item>
+<item name='Field_Rtx_4_3' summary='true'>
+<rawitemdata type='19'>
+AgACAAAAAgBRAQAAKgAAAAAAAABDb250ZW50LVR5cGU6IHRleHQvcGxhaW47Y2hhcnNldD11dGYt
+OA0KDQpEdXJpbmcgc2h1dGRvd24gdGhlIGNvbHVtbiBpcyBib2lsZWQgb3V0IHdpdGggdGhlIGJh
+c2UgY29udGVudHMgdG8gcmVtb3ZlIEVPLCBkdXJpbmcgdGhpcyB0aW1lIHRlbXBlcmF0dXJlIGNh
+biByZWFjaCAxMzAgZGVnQy4gVGhpcyBjYW4gZWZmZWN0IHRoZSBsZWFrIHRpZ2h0bmVzcyBvZiB0
+aGUgbWFpbiBnaXJ0aCBmbGFuZ2VzLiBUaGlzIHNpdHVhdGlvbiBjYW4gZW5oYW5jZSB0aGUgTUlD
+IHN1c2NlcHRpYmlsaXR5IHdpdGggY29vbGluZyB3YXRlciBwZW5ldHJhdGluZyB0aGUgZ2Fza2V0
+IGludGVyZmFjZS4NCg0K
+</rawitemdata></item>
+<item name='Field_Rtx_5_1' summary='true'>
+<rawitemdata type='19'>
+AgACAAAAAgB6CAAAKgAAAAAAAABDb250ZW50LVR5cGU6IHRleHQvcGxhaW47Y2hhcnNldD11dGYt
+OA0KDQpFeHRlcm5hbDoNCkV4YW1pbmUgc2hlbGwgZm9yIGdlbmVyYWwgY29ycm9zaW9uLCBhbmQg
+Zm9yIGdhbHZhbmljIGNvcnJvc2lvbiBhdCBDUy1TUyBpbnRlcmZhY2Ugd2l0aCB0dWJlLXNoZWV0
+Lg0KRXhhbWluZSBjaGFubmVscyBmb3IgY29ycm9zaW9uLCBwYXJ0aWN1bGFybHkgdGhlIGJvZHkg
+Zmxhbmdlcy4NCkV4YW1pbmUgZmxhbmdlIGFuZCBIRCBib2x0aW5nLCBwYXJ0aWN1bGFybHkgYm9s
+dGluZyBhdCB0dWJlLXNoZWV0Lg0KRXhhbWluZSBzYWRkbGVzIGFuZCBIRCBib2x0cyBmb3IgY29y
+cm9zaW9uLCBhbmQgdGhlIGZpbGxldCB3ZWxkcyBmb3IgY3JhY2tpbmcuDQoNCkludGVybmFsOg0K
+RXhhbWluZSBnYXNrZXQgc2VhdHMsIHBhcnRpY3VsYXJseSB0aG9zZSBhdCB0aGUgY2hhbm5lbHMg
+YW5kIHBhcnRpdGlvbiBwbGF0ZXMuDQpFeGFtaW5lIGJ1bmRsZSB2aWEgaW5zcGVjdGlvbiBoYW5k
+aG9sZSAtLSBhdHRlbXB0IHRvIGFzc2VzcyB3aGV0aGVyIHRoZXJlIGlzIHNpZ25pZmljYW50IGNv
+cnJvc2lvbiBvZiBDUyBwYXJ0cyBvZiBidW5kbGUuDQpFeGFtaW5lIHNoZWxsIHRvIGV4dGVudCBw
+b3NzaWJsZSB2aWEgaGFuZGhvbGUuDQpFeGFtaW5lIGltcGluZ2VtZW50IHBsYXRlIGZvciB3ZWFy
+ICgyMDA1IG9ubHkpLCBhc3Nlc3MgYXBwcm9wcmlhdGUgcGVyaW9kIGZvciBmdXR1cmUgaW5zcGVj
+dGlvbiBvZiB0aGUgaW1waW5nZW1lbnQgcGxhdGUuDQpFeGFtaW5lIHR1YmUtc2hlZXRzIGFuZCB0
+dWJlIGpvaW50cyBmb3IgZXZpZGVuY2Ugb2YgbGVha2FnZS4NCkV4YW1pbmUgaW50ZXJuYWxzIG9m
+IGNoYW5uZWxzIGZvciBnZW5lcmFsIGNvcnJvc2lvbiBvciBwcmVmZXJlbnRpYWwgYXR0YWNrIG9m
+IHdlbGRzICh1bmxpa2VseSkuDQpFeGFtaW5lIGdhc2tldCBzZWF0cyBvbiB0dWJlLXNoZWV0IGFu
+ZCBjaGFubmVscyBmb3IgTUlDLg0KDQpORFQ6DQoNCg0KSHlkcm90ZXN0Og0KU2hlbGwtc2lkZSBp
+biAyMDA1IG9ubHkgKCBpbiBjYXNlIHRoZSB3ZWxkaW5nIG9uIHRoZSB0dWJlLXNoZWV0IGluIDIw
+MDEgY2F1c2VkIHJlbGF4YXRpb24gb2YgdGhlIGV4cGFuc2lvbikgcHJlc3N1cmUgMTA1MEtwYS4N
+Ckluc3BlY3Rpb24gRmVlZGJhY2s6DQpQT1RFTlRJQUwgUFJPQkxFTVMNCg0KR2FsdmFuaWMgY29y
+cm9zaW9uIG9mIHRpZSBiYXJzIGFuZCBiYWZmbGVzIGlmIG1vaXN0dXJlIGdldHMgaW50byBzaGVs
+bCBzaWRlLg0KTUlDIG9uIHR1YmUtc2hlZXRzIGFuZCBjaGFubmVsIGZsYW5nZXMuDQpDb3Jyb3Np
+b24gZXh0ZXJuYWxseS4NCkNvcnJvc2lvbiBvZiBmbGFuZ2UgYW5kIEhEIGJvbHRzLg0KTGVha2Fn
+ZSB0aHJvdWdoIGV4cGFuc2lvbiBqb2ludHMgYXQgdHViZS1zaGVldC4NCg0KUEFTVCBISVNUT1JZ
+DQoNCjE5ODA6IE1hZGUsIHNvbWUgZ2VuZXJhbCBjb3Jyb3Npb24gYW5kIHdhc3RhZ2UgcmVwb3J0
+ZWQgZHVyaW5nIGluc3BlY3Rpb25zLg0KDQoxOTg5OiBHb29kIGNvbmRpdGlvbi4gTm90ZTogT25l
+IHR1YmUgZm91bmQgdG8gYmUgcGx1Z2dlZC4NCg0KMTk5MTogR29vZCBpbnRlcm5hbCBhbmQgZXh0
+ZXJuYWwgY29uZGl0aW9uLg0KDQoxOTk0OiBHb29kIGludGVybmFsIGFuZCBleHRlcm5hbCBjb25k
+aXRpb24gb2YgdGhlIHNoZWxsIHNlY3Rpb24uIFdlbGQgcmVwYWlycyBhbmQgcmUtbWFjaGluaW5n
+IHdlcmUgcmVxdWlyZWQgb24gdGhlIGdhc2tldCBzZWF0aW5nIGZhY2VzIG9mIHRoZSBjaGFubmVs
+IGFuZCBib25uZXQgaGVhZHMuDQoNCjE5OTc6IEdvb2QgY29uZGl0aW9uLiBOZXcgZHVwbGV4IFNT
+IGNoYW5uZWxzIGZpdHRlZC4gTWlub3IgY29ycm9zaW9uIGhhbmQgaG9sZSBib3NzLg0KDQoyMDAx
+OiBTZXZlcmUgTUlDLCBFIGVuZCB0dWJlLXNoZWV0Lg0KMjAwNSBNSUMgZm91bmQgYmVsb3cgTUFU
+LiBMb3NzIG9mIDEuNSBtbSBvbiAyMyBtbSBOb21pbmFsIHRoaWNrbmVzcy4NClVuaXQgcHV0IGJh
+Y2sgaW4gc2VydmljZS4NCjcgdHViZXMgZm91bmQgbGVha2luZyBpbiBqb2ludCBkdXJpbmcgSFQu
+IEFsbCByZS1yb2xsZWQgYW5kIGNvbmZpcm1lZCBsZWFrIHRpZ2h0IGFmdGVyIHJlLXRlc3QuDQpT
+dHJ1Y3R1cmFsIHN0ZWVsd29yayBvZiBjb25kZW5zZXIgcGxhdGZvcm0gaG91c2luZyB2ZXNzZWwg
+c2V2ZXJlbHkgY29ycm9kaW5nLiANCg0K
+</rawitemdata></item>
+<item name='$NoteHasNativeMIME'><text>1</text></item>
+<item name='MIME_Version'><text>1.0</text></item>
+<item name='LoopUNID_Tx'><text/></item>
+<item name='ItemNumber_Tx'><text/></item>
+<item name='ItemName_Tx'><text/></item>
+<item name='ViewDetail_Tx'><text/></item>
+<item name='Groups_Tx'><text/></item>
+<item name='Status_Tx'><text/></item>
+<item name='History_Tx'><textlist><text>11/06/2021 19:25:01  :  Sean Cull  :  Restored from archive under ticket ABBCS-4</text><text
+>09/04/2014 17:47:17  :  Sean 1 Cull  :  Created</text></textlist></item>
+<item name='Field_Tx_1_2'><text/></item>
+<item name='Field_Tx_1_10'><text/></item>
+<item name='Field_Tx_1_11'><text/></item>
+<item name='Field_Tx_1_17'><text/></item>
+<item name='Field_Tx_1_18'><text/></item>
+<item name='Field_Tx_1_19'><text/></item>
+<item name='Field_Tx_1_20'><text/></item>
+<item name='Units_Tx_2_1'><text/></item>
+<item name='Units_Tx_2_2'><text/></item>
+<item name='Units_Tx_2_3'><text/></item>
+<item name='Units_Tx_2_4'><text/></item>
+<item name='Units_Tx_2_5'><text/></item>
+<item name='Units_Tx_2_6'><text/></item>
+<item name='Units_Tx_2_7'><text/></item>
+<item name='Units_Tx_2_8'><text/></item>
+<item name='Units_Tx_2_9'><text/></item>
+<item name='Units_Tx_2_10'><text/></item>
+<item name='Field_Tx_2_11'><text/></item>
+<item name='Units_Tx_2_11'><text/></item>
+<item name='Field_Tx_2_12'><text/></item>
+<item name='Units_Tx_2_12'><text/></item>
+<item name='Field_Tx_2_13'><text/></item>
+<item name='Units_Tx_2_13'><text/></item>
+<item name='Field_Tx_2_14'><text/></item>
+<item name='Units_Tx_2_14'><text/></item>
+<item name='Field_Tx_2_15'><text/></item>
+<item name='Units_Tx_2_15'><text/></item>
+<item name='Units_Tx_2_16'><text/></item>
+<item name='Field_Tx_2_17'><text/></item>
+<item name='Units_Tx_2_17'><text/></item>
+<item name='Field_Tx_2_18'><text/></item>
+<item name='Units_Tx_2_18'><text/></item>
+<item name='Field_Tx_2_19'><text/></item>
+<item name='Units_Tx_2_19'><text/></item>
+<item name='Field_Tx_2_20'><text/></item>
+<item name='Units_Tx_2_20'><text/></item>
+<item name='Label_Tx_3'><text/></item>
+<item name='Field_Tx_3'><text/></item>
+<item name='Field_Tx_3_1'><text/></item>
+<item name='Field_Tx_3_2'><text/></item>
+<item name='Field_Tx_3_3'><text/></item>
+<item name='Field_Tx_3_4'><text/></item>
+<item name='Field_Tx_3_5'><text/></item>
+<item name='Field_Tx_3_6'><text/></item>
+<item name='Label_Tx_3_7'><text/></item>
+<item name='Field_Tx_3_7'><text/></item>
+<item name='Field_Tx_3_27'><text/></item>
+<item name='Field_Tx_3_37'><text/></item>
+<item name='Label_Tx_3_8'><text/></item>
+<item name='Field_Tx_3_8'><text/></item>
+<item name='Field_Tx_3_28'><text/></item>
+<item name='Field_Tx_3_38'><text/></item>
+<item name='Label_Tx_3_9'><text/></item>
+<item name='Field_Tx_3_9'><text/></item>
+<item name='Field_Tx_3_29'><text/></item>
+<item name='Field_Tx_3_39'><text/></item>
+<item name='Label_Tx_3_10'><text/></item>
+<item name='Field_Tx_3_10'><text/></item>
+<item name='Field_Tx_3_30'><text/></item>
+<item name='Field_Tx_3_40'><text/></item>
+<item name='Field_Tx_3_11'><text/></item>
+<item name='Field_Tx_3_12'><text/></item>
+<item name='Field_Tx_3_13'><text/></item>
+<item name='Field_Tx_3_16'><text/></item>
+<item name='Field_Tx_3_17'><text/></item>
+<item name='Field_Tx_3_42'><text/></item>
+<item name='Field_Tx_3_202'><text/></item>
+<item name='Field_Tx_3_203'><text/></item>
+<item name='Field_Tx_3_204'><text/></item>
+<item name='Field_Tx_3_205'><text/></item>
+<item name='Field_Tx_3_206'><text/></item>
+<item name='Field_Tx_3_107'><text/></item>
+<item name='Field_Tx_3_207'><text/></item>
+<item name='Field_Tx_4_1'><text/></item>
+<item name='Field_Tx_4_2'><text/></item>
+<item name='Field_Tx_4_3'><text/></item>
+<item name='Field_Tx_4_4'><text/></item>
+<item name='Field_Rtx_4_4'><text/></item>
+<item name='Field_Tx_4_5'><text/></item>
+<item name='Field_Tx_4_6'><text/></item>
+<item name='Field_Tx_4_7'><text/></item>
+<item name='Field_Tx_4_8'><text/></item>
+<item name='Field_Tx_4_9'><text/></item>
+<item name='Field_Tx_4_10'><text/></item>
+<item name='Field_Tx_5'><text/></item>
+<item name='Field_Rtx_5'><text/></item>
+<item name='Field_Dt_5'><text/></item>
+<item name='Field_Rtx_5_2'><text/></item>
+<item name='Field_Tx_5_4'><text/></item>
+<item name='Field_Tx_5_5'><text/></item>
+<item name='Field_Tx_5_6'><text/></item>
+<item name='Field_Tx_5_7'><text/></item>
+<item name='Field_Tx_5_9'><text/></item>
+<item name='Field_Tx_5_17'><text/></item>
+<item name='Field_Tx_5_18'><text/></item>
+<item name='Field_Tx_5_19'><text/></item>
+<item name='Field_Tx_5_20'><text/></item>
+<item name='Deterioration_Tx'><text/></item>
+<item name='Credible_Tx_1'><text/></item>
+<item name='Location_Tx_1'><text/></item>
+<item name='DetComment_Tx_1'><text/></item>
+<item name='Credible_Tx_1_1'><text/></item>
+<item name='Field_Tx_6_11'><text/></item>
+<item name='Field_Tx_6_12'><text/></item>
+<item name='Field_Tx_6_13'><text/></item>
+<item name='Field_Tx_6_14'><text/></item>
+<item name='Field_Tx_6_15'><text/></item>
+<item name='Field_Tx_6_16'><text/></item>
+<item name='Field_Tx_6_17'><text/></item>
+<item name='Field_Tx_6_18'><text/></item>
+<item name='Field_Tx_6_19'><text/></item>
+<item name='Field_Tx_6_20'><text/></item>
+<item name='Field_Tx_7'><text/></item>
+<item name='Field_Tx_7_11'><text/></item>
+<item name='Field_Tx_7_12'><text/></item>
+<item name='Field_Tx_7_13'><text/></item>
+<item name='Field_Tx_7_14'><text/></item>
+<item name='Field_Tx_7_15'><text/></item>
+<item name='RegNumber'><text/></item>
+<item name='Title'><text/></item>
+<item name='Fluids'><text/></item>
+<item name='SystemNo'><text/></item>
+<item name='System'><text/></item>
+<item name='Works'><text/></item>
+<item name='Unit'><text/></item>
+<item name='Area'><text/></item>
+<item name='LocalID'><text/></item>
+<item name='ReliefStreamNo'><text/></item>
+<item name='Plant'><text/></item>
+<item name='Customer'><text/></item>
+<item name='Class'><text/></item>
+<item name='INS_Deterioration'><text/></item>
+<item name='RefDoc'><text/></item>
+<item name='DismantleIntl'><text/></item>
+<item name='CleanIntl'><text/></item>
+<item name='AccessIntl'><text/></item>
+<item name='TestIntl'><text/></item>
+<item name='VisualAidIntl'><text/></item>
+<item name='SpecialReqIntl'><text/></item>
+<item name='DismantleExtl'><text/></item>
+<item name='CleanExtl'><text/></item>
+<item name='AccessExtl'><text/></item>
+<item name='TestExtl'><text/></item>
+<item name='VisualAidExtl'><text/></item>
+<item name='SpecialReqExtl'><text/></item>
+<item name='Cont_tx'><text/></item>
+<item name='IntermediateA'><text/></item>
+<item name='IntermediateB'><text/></item>
+<item name='InspectorName'><text/></item>
+<item name='SeniorInspectorName'><text/></item>
+<item name='ClientSignatory'><text/></item>
+<item name='CommissionDate'><text/></item>
+<item name='InspectorEmail' names='true'><text/></item>
+<item name='SeniorInspectorEmail' names='true'><text/></item>
+<item name='ClientEmail'><text/></item>
+<item name='SubmitInsp'><text/></item>
+<item name='SubmitSenInsp'><text/></item>
+<item name='SubmitClient'><text/></item>
+<item name='SignDate'><text/></item>
+<item name='ApproveSenInsp'><text/></item>
+<item name='DespatchDate'><text/></item>
+<item name='PreparedByComments_Tx'><text/></item>
+<item name='MeetingHeldComments_Tx'><text/></item>
+<item name='InternalRole_Tx'><text/></item>
+<item name='InternalMember_Nm' names='true'><text/></item>
+<item name='InternalSignature_Nm' names='true'><text/></item>
+<item name='InternalSigDate_Dt'><text/></item>
+<item name='InternalSigComments_Tx'><text/></item>
+<item name='InternalRole_Tx_7'><text/></item>
+<item name='InternalMember_Nm_7' names='true'><text/></item>
+<item name='InternalSignature_Nm_7' names='true'><text/></item>
+<item name='InternalSigDate_Dt_7'><text/></item>
+<item name='InternalSigComments_Tx_7'><text/></item>
+<item name='InternalRole_Tx_8'><text/></item>
+<item name='InternalMember_Nm_8' names='true'><text/></item>
+<item name='InternalSignature_Nm_8' names='true'><text/></item>
+<item name='InternalSigDate_Dt_8'><text/></item>
+<item name='InternalSigComments_Tx_8'><text/></item>
+<item name='InternalRole_Tx_9'><text/></item>
+<item name='InternalMember_Nm_9' names='true'><text/></item>
+<item name='InternalSignature_Nm_9' names='true'><text/></item>
+<item name='InternalSigDate_Dt_9'><text/></item>
+<item name='InternalSigComments_Tx_9'><text/></item>
+<item name='InternalRole_Tx_10'><text/></item>
+<item name='InternalMember_Nm_10' names='true'><text/></item>
+<item name='InternalSignature_Nm_10' names='true'><text/></item>
+<item name='InternalSigDate_Dt_10'><text/></item>
+<item name='InternalSigComments_Tx_10'><text/></item>
+<item name='ClientRole_Tx'><text/></item>
+<item name='ClientMember_Nm' names='true'><text/></item>
+<item name='ClientSignature_Nm' names='true'><text/></item>
+<item name='ClientSigDate_Dt'><text/></item>
+<item name='ClientSigComments_Tx'><text/></item>
+<item name='ClientSigDate_Dt_1'><text/></item>
+<item name='ClientSigComments_Tx_1'><text/></item>
+<item name='ClientSigDate_Dt_2'><text/></item>
+<item name='ClientSigComments_Tx_2'><text/></item>
+<item name='ClientSigDate_Dt_3'><text/></item>
+<item name='ClientSigComments_Tx_3'><text/></item>
+<item name='ClientSigDate_Dt_4'><text/></item>
+<item name='ClientSigComments_Tx_4'><text/></item>
+<item name='ClientSigDate_Dt_5'><text/></item>
+<item name='ClientSigComments_Tx_5'><text/></item>
+<item name='ClientSigDate_Dt_6'><text/></item>
+<item name='ClientSigComments_Tx_6'><text/></item>
+<item name='ClientRole_Tx_7'><text/></item>
+<item name='ClientMember_Nm_7' names='true'><text/></item>
+<item name='ClientSignature_Nm_7' names='true'><text/></item>
+<item name='ClientSigDate_Dt_7'><text/></item>
+<item name='ClientSigComments_Tx_7'><text/></item>
+<item name='ClientRole_Tx_8'><text/></item>
+<item name='ClientMember_Nm_8' names='true'><text/></item>
+<item name='ClientSignature_Nm_8' names='true'><text/></item>
+<item name='ClientSigDate_Dt_8'><text/></item>
+<item name='ClientSigComments_Tx_8'><text/></item>
+<item name='ClientRole_Tx_9'><text/></item>
+<item name='ClientMember_Nm_9' names='true'><text/></item>
+<item name='ClientSignature_Nm_9' names='true'><text/></item>
+<item name='ClientSigDate_Dt_9'><text/></item>
+<item name='ClientSigComments_Tx_9'><text/></item>
+<item name='ClientRole_Tx_10'><text/></item>
+<item name='ClientMember_Nm_10' names='true'><text/></item>
+<item name='ClientSignature_Nm_10' names='true'><text/></item>
+<item name='ClientSigDate_Dt_10'><text/></item>
+<item name='ClientSigComments_Tx_10'><text/></item>
+<item name='CustomerReaders_Nm' names='true' readers='true'><text/></item>
+<item name='CustomerAuthors_Nm' authors='true' names='true'><text/></item>
+<item name='Readers_Nm' names='true' readers='true'><textlist><text>[DBAdmin]</text><text
+>[Internal_Reader]</text></textlist></item>
+<item name='BDReaders_Nm' names='true' readers='true'><text>[DBDesign]</text></item>
+<item name='Authors_Nm' authors='true' names='true'><textlist><text>[DBAdmin]</text><text
+>[Internal_Author]</text></textlist></item>
+<item name='BDAuthors_Nm' authors='true' names='true'><text>[DBDesign]</text></item>
+<item name='CombinedUNID_Tx'><textlist><text>SCUL-9J2F25</text><text>SCUL-9J2EYS</text></textlist></item>
+<item name='IntervalBefore_Nb'><number>48</number></item>
+<item name='IntervalAfter_Nb'><number>48</number></item>
+<item name='CurrentDoer_Nm'><text/></item>
+<item name='LastModifiedDate_Dt'><datetime dst='true'>20140409T174717,72+01</datetime></item>
+<item name='LastModifiedBy_Nm' names='true'><text>Sean 1 Cull</text></item>
+<item name='DateCreated_Dt'><datetime dst='true'>20140409T174717,67+01</datetime></item>
+<item name='ViewRecord_Tx'><text>Project Equipment Item</text></item>
+<item name='ViewDescription_Tx'><text>Project Equipment Item - Vessel - E2501</text></item>
+<item name='AllDeteriorations_Tx'><textlist><text>Corrosion</text><text>Corrosion Under Insulation</text><text
+>Pitting</text><text>Stress Corrosion Cracking</text><text>Erosion</text><text
+>Fatigue</text><text>Creep</text><text>Mechanical Damage</text><text>Lining Deterioration</text><text
+>MIC</text><text>Corrosion of Structural platform support.</text><text>Tube expansion leaks</text></textlist></item>
+<item name='Label_Tx_3_1'><text>Shell</text></item>
+<item name='Label_Tx_3_5'><text>Bellows</text></item>
+<item name='Label_Tx_3_6'><text/></item>
+<item name='SearchMaterialGrade_Tx'><text>#API 5L GrB# #ASTM A 240 2205 Duplex# #"SANDVIK"3RE 60 Duplex# #ASTM R-240 Tp 304#</text></item>
+<item name='SearchMaterialCategory_Tx'><text>#Carbon Steel#</text></item>
+<item name='InternalMemberCN_Nm' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_1' names='true'><text>Tony Musgrave</text></item>
+<item name='InternalSignatureCN_Nm_1' names='true'><text>Tony Musgrave</text></item>
+<item name='InternalMemberCN_Nm_2' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_2' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_3' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_3' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_4' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_4' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_5' names='true'><text>Russ Lumb</text></item>
+<item name='InternalSignatureCN_Nm_5' names='true'><text>Russ Lumb</text></item>
+<item name='InternalMemberCN_Nm_6' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_6' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_7' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_7' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_8' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_8' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_9' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_9' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_10' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_10' names='true'><text/></item>
+<item name='ClientMemberCN_Nm' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_1' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_1' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_2' names='true'><text>Richard McGrath</text></item>
+<item name='ClientSignatureCN_Nm_2' names='true'><text>Richard McGrath</text></item>
+<item name='ClientMemberCN_Nm_3' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_3' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_4' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_4' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_5' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_5' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_6' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_6' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_7' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_7' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_8' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_8' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_9' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_9' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_10' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_10' names='true'><text/></item>
+<item name='disSHERisk_tx'><textlist><text>1</text><text>1</text><text>1</text><text
+>0</text><text>0</text><text>0</text><text>0</text><text>0</text><text>0</text><text
+>0</text><text/><text/><text/><text/><text/></textlist></item>
+<item name='disBusRisk_tx'><textlist><text>3</text><text>3</text><text>3</text><text
+>0</text><text>0</text><text>0</text><text>0</text><text>0</text><text>0</text><text
+>0</text><text/><text/><text/><text/><text/></textlist></item>
+<item name='disPRisk_tx'><textlist><text>2</text><text>2</text><text>3</text><text
+>0</text><text>0</text><text>0</text><text>0</text><text>0</text><text>0</text><text
+>0</text><text/><text/><text/><text/><text/></textlist></item>
+<item name='FailLetters_Tx'><textlist><text>A</text><text>B</text><text>C</text><text
+>D</text><text>E</text><text>F</text><text>G</text><text>H</text><text>I</text><text
+>J</text><text>K</text><text>L</text><text>M</text><text>N</text><text>O</text></textlist></item>
+<item name='F15_Tx'><text/></item>
+<item name='F25_Tx'><text/></item>
+<item name='F35_Tx'><text/></item>
+<item name='F45_Tx'><text/></item>
+<item name='F55_Tx'><text/></item>
+<item name='F14_Tx'><text/></item>
+<item name='F24_Tx'><text/></item>
+<item name='F34_Tx'><text/></item>
+<item name='F44_Tx'><text/></item>
+<item name='F54_Tx'><text/></item>
+<item name='F13_Tx'><text>C</text></item>
+<item name='F23_Tx'><text/></item>
+<item name='F33_Tx'><text/></item>
+<item name='F43_Tx'><text/></item>
+<item name='F53_Tx'><text/></item>
+<item name='F12_Tx'><text>A,B</text></item>
+<item name='F22_Tx'><text/></item>
+<item name='F32_Tx'><text/></item>
+<item name='F42_Tx'><text/></item>
+<item name='F52_Tx'><text/></item>
+<item name='F11_Tx'><text/></item>
+<item name='F21_Tx'><text/></item>
+<item name='F31_Tx'><text/></item>
+<item name='F41_Tx'><text/></item>
+<item name='F51_Tx'><text/></item>
+<item name='M15_Tx'><text/></item>
+<item name='M25_Tx'><text/></item>
+<item name='M35_Tx'><text/></item>
+<item name='M45_Tx'><text/></item>
+<item name='M55_Tx'><text/></item>
+<item name='M14_Tx'><text/></item>
+<item name='M24_Tx'><text/></item>
+<item name='M34_Tx'><text/></item>
+<item name='M44_Tx'><text/></item>
+<item name='M54_Tx'><text/></item>
+<item name='M13_Tx'><text/></item>
+<item name='M23_Tx'><text/></item>
+<item name='M33_Tx'><text>C</text></item>
+<item name='M43_Tx'><text/></item>
+<item name='M53_Tx'><text/></item>
+<item name='M12_Tx'><text/></item>
+<item name='M22_Tx'><text/></item>
+<item name='M32_Tx'><text>A,B</text></item>
+<item name='M42_Tx'><text/></item>
+<item name='M52_Tx'><text/></item>
+<item name='M11_Tx'><text/></item>
+<item name='M21_Tx'><text/></item>
+<item name='M31_Tx'><text/></item>
+<item name='M41_Tx'><text/></item>
+<item name='M51_Tx'><text/></item>
+<item name='ABBCS_4'><datetime dst='true'>20210611T192501,00+01</datetime></item>
+<item name='Archived_Tx'><text/></item>
+<item name='ABBSUP_448_01_TX'><text>2</text></item>
+<item name='ABBCS_448_SORTED_TX'><text>Yes</text></item></document>
+

@@ -1,0 +1,2078 @@
+File: FEE468F938886417802586F10070EE6E.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Pitting
+
+Deterioration_Tx_4: Stress Corrosion Cracking
+
+Deterioration_Tx_5: Erosion
+
+Deterioration_Tx_6: Fatigue
+
+Deterioration_Tx_7: Creep
+
+Deterioration_Tx_8: Mechanical Damage
+
+Deterioration_Tx_9: Lining Deterioration
+
+
+
+File: FFFEB33AB364494B80257CD7005386BD.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Pitting
+
+Deterioration_Tx_4: Stress Corrosion Cracking
+
+Deterioration_Tx_5: Erosion
+
+Deterioration_Tx_6: Fatigue
+
+Deterioration_Tx_7: Creep
+
+Deterioration_Tx_8: Mechanical Damage
+
+Deterioration_Tx_9: Lining Deterioration
+
+Deterioration_Tx_10: Dead Leg Corrosion
+
+Deterioration_Tx_11: Galvanic Corrosion
+
+Deterioration_Tx_12: -
+
+
+
+File: FF39C8F3B648EBBE80257D76005C71DB.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Pitting
+
+Deterioration_Tx_4: Stress Corrosion Cracking
+
+Deterioration_Tx_5: Erosion
+
+Deterioration_Tx_6: Fatigue
+
+Deterioration_Tx_7: Creep
+
+Deterioration_Tx_8: Mechanical Damage
+
+Deterioration_Tx_9: Lining Deterioration
+
+Deterioration_Tx_10: -
+
+Deterioration_Tx_11: -
+
+Deterioration_Tx_12: -
+
+
+
+File: FF729A93C4C0E0F1802581F400568EEE.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Stress Corrosion Cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Mechanical Damage
+
+Deterioration_Tx_7: Brittle Failure
+
+Deterioration_Tx_8: Corrosion under fireproofing
+
+
+
+File: FFA0CD6995BA3D41802582B80055957B.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Corrosion under insulation (CUI)
+
+Deterioration_Tx_3: Stress corrosion cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical damage
+
+Deterioration_Tx_8: Lining deterioration
+
+Deterioration_Tx_9: Support deterioration
+
+Deterioration_Tx_10: Galvanic corrosion
+
+Deterioration_Tx_11: Microbial Induced corrosion (MIC)
+
+Deterioration_Tx_12: Deadleg corrosion
+
+
+
+File: FEEE3AEFE3E753A680257EF900355B8A.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Support deterioration
+
+
+
+File: FFCE650A0BA95240802587350030ECBD.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Corrosion under insulation (CUI)
+
+Deterioration_Tx_3: Stress corrosion cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical damage
+
+Deterioration_Tx_8: Lining deterioration
+
+Deterioration_Tx_9: Galvanic corrosion
+
+Deterioration_Tx_10: Microbial Induced corrosion (MIC)
+
+
+
+File: FF575D1235A93CE680257ECB00307D8E.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Fatigue
+
+Deterioration_Tx_2: Creep
+
+Deterioration_Tx_3: Mechanical damage
+
+Deterioration_Tx_4: UV degradation
+
+Deterioration_Tx_5: Manufacturing Flaw
+
+Deterioration_Tx_6: Chemical Attack
+
+
+
+File: FF8B376A7D6F5CDD8025846C004B997B.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+
+
+File: FFE76890FFF75C3080258AD60059579D.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Corrosion under insulation (CUI)
+
+Deterioration_Tx_3: Stress Corrosion Cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical Damage
+
+Deterioration_Tx_8: Deadleg corrosion
+
+
+
+File: FF47A3A2B3E17F1280258A01003EFF70.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Corrosion under insulation (CUI)
+
+Deterioration_Tx_3: Stress corrosion cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Mechanical damage
+
+Deterioration_Tx_7: Galvanic corrosion
+
+Deterioration_Tx_8: Microbial Induced corrosion (MIC)
+
+Deterioration_Tx_9: Deadleg corrosion
+
+Deterioration_Tx_10: Manufacturing Defects
+
+Deterioration_Tx_11: Tank Overpressure / Vacuum
+
+
+
+File: FFA803D5E7326858802586F100708283.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Pitting
+
+Deterioration_Tx_4: Stress Corrosion Cracking
+
+Deterioration_Tx_5: Erosion
+
+Deterioration_Tx_6: Fatigue
+
+Deterioration_Tx_7: Creep
+
+Deterioration_Tx_8: Mechanical Damage
+
+Deterioration_Tx_9: Lining Deterioration
+
+Deterioration_Tx_10: Support Deterioration
+
+
+
+File: FFD27CD91889DC0E802580E200388F1A.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Galvanic corrosion
+
+Deterioration_Tx_3: Corrosion under insulation (CUI)
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Erosion
+
+Deterioration_Tx_7: Galvanic corrosion
+
+Deterioration_Tx_8: Brittle Failure
+
+
+
+File: FF2F5DE5EF7B08418025896D005B91C3.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Pitting
+
+Deterioration_Tx_4: Stress Corrosion Cracking
+
+Deterioration_Tx_5: Erosion
+
+Deterioration_Tx_6: Fatigue
+
+Deterioration_Tx_7: Creep
+
+Deterioration_Tx_8: Mechanical Damage
+
+Deterioration_Tx_9: Lining Deterioration
+
+
+
+File: FFFCBAB293B2C93E80257F78003FC82A.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Erosion
+
+Deterioration_Tx_3: Fatigue
+
+Deterioration_Tx_4: Creep
+
+Deterioration_Tx_5: Mechanical damage
+
+Deterioration_Tx_6: Polyethylene Deterioration
+
+Deterioration_Tx_7: Overload
+
+Deterioration_Tx_8: Under Pressure
+
+
+
+File: FFB88F8CE3A52CB480257B090042E478.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / pitting
+
+Deterioration_Tx_2: Erosion
+
+Deterioration_Tx_3: Fatigue
+
+Deterioration_Tx_4: Mechanical Damage
+
+
+
+File: FFA67D00E0EE7CC2802582960055FA81.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: packing leaks
+
+Deterioration_Tx_3: bearings
+
+Deterioration_Tx_4: maintenance effectiveness
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Drive
+
+Deterioration_Tx_7: Mechanical damage
+
+
+
+File: FFB3738A5EE89E1B802581A100566A69.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Pitting
+
+Deterioration_Tx_4: Stress Corrosion Cracking
+
+Deterioration_Tx_5: Erosion
+
+Deterioration_Tx_6: Fatigue
+
+Deterioration_Tx_7: Creep
+
+Deterioration_Tx_8: Mechanical Damage
+
+Deterioration_Tx_9: Lining Deterioration
+
+
+
+File: FF35BA36042A1EA48025801A002F86F6.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Corrosion under insulation (CUI)
+
+Deterioration_Tx_3: Stress corrosion cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical damage
+
+Deterioration_Tx_8: Lining deterioration
+
+Deterioration_Tx_9: Support deterioration
+
+Deterioration_Tx_10: Galvanic corrosion
+
+Deterioration_Tx_11: Microbial Induced corrosion (MIC)
+
+Deterioration_Tx_12: Deadleg corrosion
+
+
+
+File: FF2FD28360A022BB80258B1E006E1246.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Corrosion under insulation (CUI)
+
+Deterioration_Tx_3: Stress corrosion cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical damage
+
+Deterioration_Tx_8: Cavitation
+
+Deterioration_Tx_9: Gasket Deterioration
+
+
+
+File: FFFA2704BABCB41F802586F10073191C.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Blockage/Sticking
+
+Deterioration_Tx_2: Leakage
+
+Deterioration_Tx_3: Component Failure
+
+Deterioration_Tx_4: Corrosion Under Insulation
+
+Deterioration_Tx_5: Corrosion
+
+Deterioration_Tx_6: Pitting
+
+Deterioration_Tx_7: Stress Corrosion Cracking
+
+Deterioration_Tx_8: Erosion
+
+Deterioration_Tx_9: Fatigue
+
+Deterioration_Tx_10: Creep
+
+Deterioration_Tx_11: Mechanical Damage
+
+Deterioration_Tx_12: Lining Deterioration
+
+
+
+File: FEE4239F96D8707F802584EE005E10C9.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / pitting
+
+Deterioration_Tx_2: Fatigue
+
+Deterioration_Tx_3: Bladder deterioration
+
+Deterioration_Tx_4: Galvanic corrosion
+
+
+
+File: FFB26780CB03C87F80257F4F003A1813.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / pitting
+
+Deterioration_Tx_2: Crevice corrosion
+
+Deterioration_Tx_3: Fatigue
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Deadleg corrosion
+
+Deterioration_Tx_6: Fretting
+
+Deterioration_Tx_7: Mechanical damage
+
+Deterioration_Tx_8: Brittle fracture
+
+Deterioration_Tx_9: Microbial Induced corrosion (MIC)
+
+Deterioration_Tx_10: Corrosion under insulation (CUI)
+
+Deterioration_Tx_11: Stress corrosion cracking
+
+
+
+File: FF78BD96D780B83680258951004A8025.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Stress corrosion cracking
+
+Deterioration_Tx_3: Erosion
+
+Deterioration_Tx_4: Fatigue
+
+Deterioration_Tx_5: Mechanical damage
+
+Deterioration_Tx_6: Galvanic corrosion
+
+Deterioration_Tx_7: Microbial Induced corrosion (MIC)
+
+Deterioration_Tx_8: Deadleg corrosion
+
+Deterioration_Tx_9: Flange Face Corrosion
+
+Deterioration_Tx_10: Brittle Fracture
+
+Deterioration_Tx_11: Titanium Combustion
+
+
+
+File: FEE1F0840B6812D48025843E007FFCFB.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Pitting
+
+Deterioration_Tx_4: Stress Corrosion Cracking
+
+Deterioration_Tx_5: Erosion
+
+Deterioration_Tx_6: Fatigue
+
+Deterioration_Tx_7: Creep
+
+Deterioration_Tx_8: Mechanical Damage
+
+Deterioration_Tx_9: Support Deterioration
+
+Deterioration_Tx_10: Thermal Fatigue
+
+
+
+File: FF526F5C5D60004B8025803E0050ED96.dxl
+--------------------------------------------------
+Deterioration_Tx_2: Fatigue
+
+Deterioration_Tx_3: Brittle fracture
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_1: Corrosion / pitting
+
+
+
+File: FEEF6529EAD098BF80258217004B3C76.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Mechanical damage
+
+Deterioration_Tx_3: Support deterioration
+
+Deterioration_Tx_4: Galvanic corrosion
+
+Deterioration_Tx_5: Corrosion under insulation (CUI)
+
+
+
+File: FFB65AAEF3A73491802582C9004BCBFE.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / pitting
+
+Deterioration_Tx_2: Erosion
+
+Deterioration_Tx_3: Fatigue
+
+Deterioration_Tx_4: Corrosion under insulation (CUI)
+
+Deterioration_Tx_5: Concrete Deterioration
+
+
+
+File: FFCA1DD4F941DE2B8025805200472121.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Stress Corrosion Cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Mechanical Damage
+
+Deterioration_Tx_7: Galvanic corrosion
+
+
+
+File: FF59BAEAD2CED1318025842D003BA46E.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Stress corrosion cracking
+
+Deterioration_Tx_3: Erosion
+
+Deterioration_Tx_4: Fatigue
+
+Deterioration_Tx_5: Creep
+
+Deterioration_Tx_6: Mechanical damage
+
+Deterioration_Tx_7: Brittle Fracture
+
+Deterioration_Tx_8: Over Stressing
+
+Deterioration_Tx_9: Non-metallic Deterioration
+
+
+
+File: FF3AE63E67E033BF80257CD6003F79A0.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / pitting
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Stress Corrosion Cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical Damage
+
+Deterioration_Tx_8: Lining Deterioration
+
+Deterioration_Tx_9: Galvanic corrosion
+
+Deterioration_Tx_10: Crevice corrosion
+
+
+
+File: FF239C5F855BB909802586F10072F5C5.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Pitting
+
+Deterioration_Tx_4: Stress Corrosion Cracking
+
+Deterioration_Tx_5: Erosion
+
+Deterioration_Tx_6: Fatigue
+
+Deterioration_Tx_7: Creep
+
+Deterioration_Tx_8: Mechanical Damage
+
+Deterioration_Tx_9: Lining Deterioration
+
+Deterioration_Tx_10: -
+
+Deterioration_Tx_11: -
+
+Deterioration_Tx_12: -
+
+
+
+File: FF2E1D8EF72239E68025819900463FCE.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / pitting
+
+Deterioration_Tx_2: Fatigue
+
+Deterioration_Tx_3: Bladder deterioration
+
+Deterioration_Tx_4: Galvanic corrosion
+
+Deterioration_Tx_5: Mechanical damage
+
+
+
+File: FFC09EB0193AD539802586F100706FE3.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Pitting
+
+Deterioration_Tx_4: Stress Corrosion Cracking
+
+Deterioration_Tx_5: Erosion
+
+Deterioration_Tx_6: Fatigue
+
+Deterioration_Tx_7: Creep
+
+Deterioration_Tx_8: Mechanical Damage
+
+Deterioration_Tx_9: Lining Deterioration
+
+Deterioration_Tx_10: MIC
+
+Deterioration_Tx_11: Corrosion of Structural platform support.
+
+Deterioration_Tx_12: Tube expansion leaks
+
+
+
+File: FF9ABB5B3F77EC73802586F10070E854.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Pitting
+
+Deterioration_Tx_4: Stress Corrosion Cracking
+
+Deterioration_Tx_5: Erosion
+
+Deterioration_Tx_6: Fatigue
+
+Deterioration_Tx_7: Creep
+
+Deterioration_Tx_8: Mechanical Damage
+
+Deterioration_Tx_9: Lining Deterioration
+
+Deterioration_Tx_10: -
+
+Deterioration_Tx_11: -
+
+Deterioration_Tx_12: -
+
+
+
+File: FEE7FECB7B53889880257EC200436061.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+
+
+File: FFFE1E58AC627C6D802581B7002B5739.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Corrosion under insulation (CUI)
+
+Deterioration_Tx_3: Stress corrosion cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical damage
+
+Deterioration_Tx_8: Lining deterioration
+
+Deterioration_Tx_9: Galvanic corrosion
+
+Deterioration_Tx_10: Microbial Induced corrosion (MIC)
+
+Deterioration_Tx_11: Deadleg corrosion
+
+
+
+File: FEEF70C368C5BA148025831C004023C1.dxl
+--------------------------------------------------
+Deterioration_Tx_1: External Corrosion
+
+Deterioration_Tx_2: Internal Corrosion
+
+Deterioration_Tx_3: Erosion
+
+Deterioration_Tx_4: Stress Corrosion Cracking
+
+Deterioration_Tx_5: Support Failure
+
+Deterioration_Tx_6: Fatigue (Limited Life Temperature)
+
+Deterioration_Tx_7: Fatigue (Limited Life Pressure)
+
+Deterioration_Tx_8: Creep
+
+Deterioration_Tx_9: Mechanical Damage
+
+Deterioration_Tx_10: Age Hardening
+
+Deterioration_Tx_11: Corrosion Under Insulation
+
+Deterioration_Tx_12: Process Specific Deterioration
+
+Deterioration_Tx_13: Hidden Areas
+
+Deterioration_Tx_14: Environmental Corrosion
+
+Deterioration_Tx_15: Hydrogen Embrittlement
+
+Deterioration_Tx_16: Brittle Fracture
+
+Deterioration_Tx_17: Corrosion Under Lining or Deposit
+
+Deterioration_Tx_18: Microbial Induced Corrosion
+
+Deterioration_Tx_19: Preferential Corrosion Incl. Hazard
+
+Deterioration_Tx_20: UV Deterioration
+
+Deterioration_Tx_21: Other
+
+Deterioration_Tx_22: Spare
+
+
+
+File: FF2A777B5E35950B802586F100715930.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Pitting
+
+Deterioration_Tx_4: Stress Corrosion Cracking
+
+Deterioration_Tx_5: Erosion
+
+Deterioration_Tx_6: Fatigue
+
+Deterioration_Tx_7: Creep
+
+Deterioration_Tx_8: Mechanical Damage
+
+Deterioration_Tx_9: Lining Deterioration
+
+Deterioration_Tx_10: -
+
+Deterioration_Tx_11: -
+
+Deterioration_Tx_12: -
+
+
+
+File: FFB7159B958884BD802581E50056C411.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Corrosion under insulation (CUI)
+
+Deterioration_Tx_3: Stress corrosion cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical damage
+
+Deterioration_Tx_8: Lining deterioration
+
+Deterioration_Tx_9: Galvanic corrosion
+
+
+
+File: FFB66127CA01AE8F80257CD700535D7B.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Pitting
+
+Deterioration_Tx_4: Stress Corrosion Cracking
+
+Deterioration_Tx_5: Erosion
+
+Deterioration_Tx_6: Fatigue
+
+Deterioration_Tx_7: Creep
+
+Deterioration_Tx_8: Mechanical Damage
+
+Deterioration_Tx_9: Lining Deterioration
+
+Deterioration_Tx_10: Under Base corrosion
+
+Deterioration_Tx_11: Galvanic corrosion
+
+Deterioration_Tx_12: -
+
+
+
+File: FF2BE7DFDE92A14A80257CD6003E9D6F.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / pitting
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Stress Corrosion Cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical Damage
+
+Deterioration_Tx_8: Lining Deterioration
+
+Deterioration_Tx_9: Galvanic corrosion
+
+
+
+File: FFF17C02B82F85A08025823500442296.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Corrosion under insulation (CUI)
+
+Deterioration_Tx_3: Stress Corrosion Cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical Damage
+
+Deterioration_Tx_8: Lining Deterioration
+
+Deterioration_Tx_10: Deadleg corrosion
+
+Deterioration_Tx_11: Galvanic corrosion
+
+Deterioration_Tx_9: Microbial Induced corrosion (MIC)
+
+
+
+File: FF9DF9256D6DBFD580257D76005C7C8F.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Pitting
+
+Deterioration_Tx_4: Stress Corrosion Cracking
+
+Deterioration_Tx_5: Erosion
+
+Deterioration_Tx_6: Fatigue
+
+Deterioration_Tx_7: Creep
+
+Deterioration_Tx_8: Mechanical Damage
+
+Deterioration_Tx_9: Lining Deterioration
+
+Deterioration_Tx_10: -
+
+Deterioration_Tx_11: -
+
+Deterioration_Tx_12: -
+
+
+
+File: FF2C3E368A91753D802586F100732A03.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Pitting
+
+Deterioration_Tx_4: Stress Corrosion Cracking
+
+Deterioration_Tx_5: Erosion
+
+Deterioration_Tx_6: Fatigue
+
+Deterioration_Tx_7: Creep
+
+Deterioration_Tx_8: Mechanical Damage
+
+Deterioration_Tx_9: Lining Deterioration
+
+Deterioration_Tx_10: -
+
+Deterioration_Tx_11: -
+
+Deterioration_Tx_12: -
+
+
+
+File: FF9B0E79B0733D688025851200439F2A.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / pitting
+
+Deterioration_Tx_2: Corrosion under insulation (CUI)
+
+Deterioration_Tx_3: Stress corrosion cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical damage
+
+Deterioration_Tx_8: Lining deterioration
+
+Deterioration_Tx_9: Support deterioration
+
+Deterioration_Tx_10: Dead Leg Corrosion / MIC
+
+Deterioration_Tx_11: Galvanic corrosion
+
+Deterioration_Tx_13: -
+
+
+
+File: FED6421BD8EE7BE080257EEB0037D83F.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / pitting
+
+Deterioration_Tx_2: Fatigue
+
+Deterioration_Tx_3: Stress corrosion cracking
+
+Deterioration_Tx_4: Overstressing
+
+
+
+File: FF98F5C94CCC938580257D76005D340D.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / pitting
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Stress Corrosion Cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical Damage
+
+Deterioration_Tx_8: Lining Deterioration
+
+Deterioration_Tx_9: Galvanic corrosion
+
+
+
+File: FF31A02C41E020D180257F41004FADEC.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Stress Corrosion Cracking
+
+Deterioration_Tx_3: Erosion
+
+Deterioration_Tx_4: Fatigue
+
+Deterioration_Tx_5: Mechanical Damage
+
+Deterioration_Tx_6: Galvanic corrosion
+
+Deterioration_Tx_7: Non-metallic deterioration
+
+Deterioration_Tx_8: Crevice Corrosion
+
+
+
+File: FF6EA49694A531EE80257AFB004F2433.dxl
+--------------------------------------------------
+Deterioration_Tx_1: General and Pitting corrosion
+
+Deterioration_Tx_2: Crevice corrosion
+
+Deterioration_Tx_3: Microbial Induced corrosion (MIC)
+
+Deterioration_Tx_4: Galvanic corrosion
+
+Deterioration_Tx_5: Deadleg corrosion
+
+Deterioration_Tx_6: Erosion
+
+Deterioration_Tx_7: Sulphide SCC
+
+Deterioration_Tx_8: Chloride SCC
+
+Deterioration_Tx_9: Brittle fracture
+
+Deterioration_Tx_10: Fatigue
+
+Deterioration_Tx_11: Corrosion under insulation (CUI)
+
+
+
+File: FF83243C6BC11AF1802586000049BEF2.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Stress corrosion cracking
+
+Deterioration_Tx_3: Erosion
+
+Deterioration_Tx_4: Fatigue
+
+Deterioration_Tx_5: Creep
+
+Deterioration_Tx_6: Mechanical damage
+
+
+
+File: FFF440EB40FB40AA80258A6F005A34E0.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Stress corrosion cracking
+
+Deterioration_Tx_3: Erosion
+
+Deterioration_Tx_4: Fatigue
+
+Deterioration_Tx_5: Creep
+
+Deterioration_Tx_6: Mechanical damage
+
+Deterioration_Tx_7: Galvanic corrosion
+
+Deterioration_Tx_8: Microbial Induced corrosion (MIC)
+
+Deterioration_Tx_9: Deadleg corrosion
+
+Deterioration_Tx_10: Joint Leaks
+
+Deterioration_Tx_11: Support Deterioration
+
+
+
+File: FF8E64ED57420C17802586F10072A5D8.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Pitting
+
+Deterioration_Tx_4: Stress Corrosion Cracking
+
+Deterioration_Tx_5: Erosion
+
+Deterioration_Tx_6: Fatigue
+
+Deterioration_Tx_7: Creep
+
+Deterioration_Tx_8: Mechanical Damage
+
+Deterioration_Tx_9: Lining Deterioration
+
+
+
+File: FF27168FAC36B56C8025891D0034513A.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Stress corrosion cracking
+
+Deterioration_Tx_3: Erosion
+
+Deterioration_Tx_4: Fatigue
+
+Deterioration_Tx_5: Mechanical damage
+
+Deterioration_Tx_6: Brittle Fracture
+
+Deterioration_Tx_7: Over Stressing
+
+Deterioration_Tx_8: Non-metallic Deterioration
+
+
+
+File: FFCE1A34B433CA5480257CFA004857F9.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Corrosion under insulation (CUI)
+
+Deterioration_Tx_3: Stress corrosion cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical damage
+
+Deterioration_Tx_8: Lining deterioration
+
+
+
+File: FF22102FCF01EEB48025847100529D30.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Corrosion under insulation (CUI)
+
+Deterioration_Tx_3: Stress corrosion cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical damage
+
+Deterioration_Tx_8: Support deterioration
+
+Deterioration_Tx_9: Galvanic corrosion
+
+Deterioration_Tx_10: Deadleg corrosion
+
+
+
+File: FF3415F1A97546AB80258A5B004B687F.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Corrosion under insulation (CUI)
+
+Deterioration_Tx_3: Stress corrosion cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical damage
+
+Deterioration_Tx_8: Support deterioration
+
+Deterioration_Tx_9: Galvanic corrosion
+
+Deterioration_Tx_10: Deadleg corrosion
+
+Deterioration_Tx_11: Thermal Stressing
+
+Deterioration_Tx_12: Thermal Fatigue
+
+
+
+File: FF48CCD1D8A555A980257D76005CF2B2.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / pitting
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Stress Corrosion Cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical Damage
+
+Deterioration_Tx_8: Lining Deterioration
+
+Deterioration_Tx_9: Microbial Induced corrosion (MIC)
+
+Deterioration_Tx_10: Deadleg corrosion
+
+
+
+File: FFDDEF72B46A6F42802586F100737DFD.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Corrosion under insulation (CUI)
+
+Deterioration_Tx_3: Stress corrosion cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical damage
+
+Deterioration_Tx_8: Lining deterioration
+
+Deterioration_Tx_9: Galvanic corrosion
+
+Deterioration_Tx_10: Ammonium Chloride Corrosion
+
+Deterioration_Tx_11: Deadleg corrosion
+
+Deterioration_Tx_12: Hydrogen Embrittlement
+
+
+
+File: FEDA5F57A72F08A1802586F100707209.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Pitting
+
+Deterioration_Tx_4: Stress Corrosion Cracking
+
+Deterioration_Tx_5: Erosion
+
+Deterioration_Tx_6: Fatigue
+
+Deterioration_Tx_7: Creep
+
+Deterioration_Tx_8: Mechanical Damage
+
+Deterioration_Tx_9: Lining Deterioration
+
+Deterioration_Tx_10: -
+
+Deterioration_Tx_11: -
+
+Deterioration_Tx_12: -
+
+
+
+File: FF3773951FE01D8C80257DE40043871C.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / pitting
+
+Deterioration_Tx_2: Erosion
+
+Deterioration_Tx_3: Fatigue
+
+Deterioration_Tx_4: Corrosion under insulation (CUI)
+
+Deterioration_Tx_5: Bellows deterioration
+
+Deterioration_Tx_6: Temper embrittlement
+
+Deterioration_Tx_7: Creep
+
+Deterioration_Tx_8: High temperature hydrogen attack
+
+Deterioration_Tx_9: Flange face deterioration
+
+Deterioration_Tx_10: Decarburisation
+
+
+
+File: FFC4E37775A1F640802582C00047A885.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Corrosion under insulation (CUI)
+
+Deterioration_Tx_3: Stress corrosion cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical damage
+
+Deterioration_Tx_8: Lining deterioration
+
+Deterioration_Tx_9: Support deterioration
+
+Deterioration_Tx_10: Deadleg corrosion
+
+Deterioration_Tx_11: Galvanic corrosion
+
+Deterioration_Tx_12: Microbial Induced corrosion (MIC)
+
+
+
+File: FF6D1545FA8FF403802584CB0055C347.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Corrosion under insulation (CUI)
+
+Deterioration_Tx_3: Stress corrosion cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep / Overheating
+
+Deterioration_Tx_7: Mechanical damage
+
+Deterioration_Tx_8: Lining deterioration
+
+Deterioration_Tx_9: Galvanic corrosion
+
+
+
+File: FFC4A8B675E7A85A8025801A002FA66A.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Corrosion under insulation (CUI)
+
+Deterioration_Tx_3: Stress corrosion cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical damage
+
+Deterioration_Tx_8: Lining deterioration
+
+Deterioration_Tx_9: Support deterioration
+
+Deterioration_Tx_10: Galvanic corrosion
+
+Deterioration_Tx_11: Microbial Induced corrosion (MIC)
+
+Deterioration_Tx_12: Deadleg corrosion
+
+
+
+File: FF57643FF8BE06E5802586F10070AB12.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Blockage/Sticking
+
+Deterioration_Tx_2: Leakage
+
+Deterioration_Tx_3: Component Failure
+
+Deterioration_Tx_4: Component Failure
+
+Deterioration_Tx_5: Blockage
+
+Deterioration_Tx_6: Leakage
+
+
+
+File: FFBCB3C220B72790802586F100721CB9.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Pitting
+
+Deterioration_Tx_4: Stress Corrosion Cracking
+
+Deterioration_Tx_5: Erosion
+
+Deterioration_Tx_6: Fatigue
+
+Deterioration_Tx_7: Creep
+
+Deterioration_Tx_8: Mechanical Damage
+
+Deterioration_Tx_9: Lining Deterioration
+
+
+
+File: FF589768367657628025847A004C0074.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Stress Corrosion Cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical Damage
+
+Deterioration_Tx_8: Bolt relaxation
+
+
+
+File: FF9FECA6F424067080257D76005C430B.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Pitting
+
+Deterioration_Tx_4: Stress Corrosion Cracking
+
+Deterioration_Tx_5: Erosion
+
+Deterioration_Tx_6: Fatigue
+
+Deterioration_Tx_7: Creep
+
+Deterioration_Tx_8: Mechanical Damage
+
+Deterioration_Tx_9: Lining Deterioration
+
+Deterioration_Tx_10: Galvanic Corrosion
+
+Deterioration_Tx_11: Microbial Corrosion
+
+Deterioration_Tx_12: -
+
+
+
+File: FEF2F8FD9B0C027380257D85005918AD.dxl
+--------------------------------------------------
+Deterioration_Tx_2: Fatigue
+
+Deterioration_Tx_3: Bladder deterioration
+
+Deterioration_Tx_4: Galvanic corrosion
+
+Deterioration_Tx_1: Corrosion / pitting
+
+
+
+File: FFB86DB091BAFA68802586F1007173F2.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Pitting
+
+Deterioration_Tx_4: Stress Corrosion Cracking
+
+Deterioration_Tx_5: Erosion
+
+Deterioration_Tx_6: Fatigue
+
+Deterioration_Tx_7: Creep
+
+Deterioration_Tx_8: Mechanical Damage
+
+Deterioration_Tx_9: Lining Deterioration
+
+Deterioration_Tx_10: -
+
+Deterioration_Tx_11: -
+
+Deterioration_Tx_12: -
+
+
+
+File: FFA97C37B17092378025806500413CE7.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Corrosion under insulation (CUI)
+
+Deterioration_Tx_3: Stress corrosion cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical damage
+
+Deterioration_Tx_8: Lining deterioration
+
+Deterioration_Tx_9: Galvanic corrosion
+
+Deterioration_Tx_10: Microbial Induced corrosion (MIC)
+
+Deterioration_Tx_11: Deadleg corrosion
+
+
+
+File: FEF1EC05F3502BB7802586F100731389.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Pitting
+
+Deterioration_Tx_4: Stress Corrosion Cracking
+
+Deterioration_Tx_5: Erosion
+
+Deterioration_Tx_6: Fatigue
+
+Deterioration_Tx_7: Creep
+
+Deterioration_Tx_8: Mechanical Damage
+
+Deterioration_Tx_9: Lining Deterioration
+
+Deterioration_Tx_10: Support Deterioration
+
+Deterioration_Tx_11: Dead Leg Corrosion
+
+Deterioration_Tx_12: Galvanic Corrosion
+
+Deterioration_Tx_13: Hydrogen Induced Cracking
+
+
+
+File: FF9D671147D6F5BF802587E20041BFC4.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Corrosion under insulation (CUI)
+
+Deterioration_Tx_3: Stress corrosion cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical damage
+
+Deterioration_Tx_8: Concrete Deterioration
+
+
+
+File: FF8490C28DA98559802581240074123E.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Corrosion under insulation (CUI)
+
+Deterioration_Tx_3: Stress corrosion cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical damage
+
+Deterioration_Tx_8: Support deterioration
+
+Deterioration_Tx_9: Galvanic corrosion
+
+Deterioration_Tx_10: Deadleg corrosion
+
+
+
+File: FF9610641DD3464080257D7000398859.dxl
+--------------------------------------------------
+Deterioration_Tx_2: Corrosion under wrapping
+
+Deterioration_Tx_3: Fatigue
+
+Deterioration_Tx_4: Subsidence
+
+Deterioration_Tx_5: Mechanical damage
+
+Deterioration_Tx_6: Erosion
+
+Deterioration_Tx_1: Corrosion / pitting
+
+
+
+File: FF7EC596683CF101802581D2003D3D6B.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+
+
+File: FF24B337CD69971580257B3300551A30.dxl
+--------------------------------------------------
+Deterioration_Tx_2: Fatigue
+
+Deterioration_Tx_3: Erosion
+
+Deterioration_Tx_1: Corrosion / pitting
+
+
+
+File: FF5FCF848ECD386E80258545004145C4.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / pitting
+
+Deterioration_Tx_2: Erosion
+
+Deterioration_Tx_3: Fatigue
+
+Deterioration_Tx_4: Mechanical Damage
+
+Deterioration_Tx_5: Distortion
+
+Deterioration_Tx_9: Galvanic corrosion
+
+Deterioration_Tx_10: Microbial Induced corrosion (MIC)
+
+Deterioration_Tx_11: Deadleg corrosion
+
+
+
+File: FF4B84E340CE77BE80257B1100624D30.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Corrosion under insulation (CUI)
+
+Deterioration_Tx_3: Stress corrosion cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Mechanical damage
+
+Deterioration_Tx_7: Lining deterioration
+
+Deterioration_Tx_8: Galvanic corrosion
+
+Deterioration_Tx_9: Microbial Induced corrosion (MIC)
+
+Deterioration_Tx_10: Deadleg corrosion
+
+
+
+File: FF5AB98B3360BA2580257CD700535346.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Pitting
+
+Deterioration_Tx_4: Stress Corrosion Cracking
+
+Deterioration_Tx_5: Erosion
+
+Deterioration_Tx_6: Fatigue
+
+Deterioration_Tx_7: Creep
+
+Deterioration_Tx_8: Mechanical Damage
+
+Deterioration_Tx_9: Lining Deterioration
+
+
+
+File: FF19E2409B9E800480258308003D7A20.dxl
+--------------------------------------------------
+Deterioration_Tx_1: External Corrosion
+
+Deterioration_Tx_2: Internal Corrosion
+
+Deterioration_Tx_3: Erosion
+
+Deterioration_Tx_4: Stress Corrosion Cracking
+
+Deterioration_Tx_5: Support Failure
+
+Deterioration_Tx_6: Fatigue (Limited Life Temperature)
+
+Deterioration_Tx_7: Fatigue (Limited Life Pressure)
+
+Deterioration_Tx_8: Creep
+
+Deterioration_Tx_9: Mechanical Damage
+
+Deterioration_Tx_10: Age Hardening
+
+Deterioration_Tx_11: Corrosion Under Insulation
+
+Deterioration_Tx_12: Process Specific Deterioration
+
+Deterioration_Tx_13: Hidden Areas
+
+Deterioration_Tx_14: Environmental Corrosion
+
+Deterioration_Tx_15: Hydrogen Embrittlement
+
+Deterioration_Tx_16: Brittle Fracture
+
+Deterioration_Tx_17: Corrosion Under Lining or Deposit
+
+Deterioration_Tx_18: Microbial Induced Corrosion
+
+Deterioration_Tx_19: Preferential Corrosion Incl. Hazard
+
+Deterioration_Tx_20: UV Deterioration
+
+Deterioration_Tx_21: Temper Embrittlement
+
+Deterioration_Tx_22: Corrosion Fatigue
+
+
+
+File: FFA264AF9BBA3308802586F10070FAA9.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Pitting
+
+Deterioration_Tx_4: Stress Corrosion Cracking
+
+Deterioration_Tx_5: Erosion
+
+Deterioration_Tx_6: Fatigue
+
+Deterioration_Tx_7: Creep
+
+Deterioration_Tx_8: Mechanical Damage
+
+Deterioration_Tx_9: Lining Deterioration
+
+
+
+File: FF3E205FEADD5C0380257EE600534EEB.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / pitting
+
+Deterioration_Tx_2: Fatigue
+
+Deterioration_Tx_3: Erosion
+
+Deterioration_Tx_4: Deadleg corrosion
+
+Deterioration_Tx_5: Crevice corrosion
+
+Deterioration_Tx_6: Fretting
+
+Deterioration_Tx_7: Mechanical damage
+
+Deterioration_Tx_8: Corrosion under insulation (CUI)
+
+
+
+File: FFD3279BCDB1286A80257EF800481114.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Corrosion under insulation (CUI)
+
+Deterioration_Tx_3: Stress corrosion cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical damage
+
+Deterioration_Tx_8: Lining deterioration
+
+Deterioration_Tx_9: Support deterioration
+
+Deterioration_Tx_10: Galvanic corrosion
+
+Deterioration_Tx_11: Microbially induced corrosion (MIC)
+
+Deterioration_Tx_12: Deadleg corrosion
+
+Deterioration_Tx_13: Liquid Metal Embrittlement (LME)
+
+
+
+File: FFE58924DC93BAA68025892D006C5473.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Corrosion under insulation (CUI)
+
+Deterioration_Tx_3: Stress corrosion cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical damage
+
+Deterioration_Tx_8: Galvanic corrosion
+
+Deterioration_Tx_9: Microbial Induced corrosion (MIC)
+
+Deterioration_Tx_10: Deadleg corrosion
+
+Deterioration_Tx_11: Support deterioration
+
+Deterioration_Tx_12: Corrosion Under Fireproofing (CUF)
+
+
+
+File: FFA9BA8EA90A51E2802586F1006FE7E7.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Pitting
+
+Deterioration_Tx_4: Stress Corrosion Cracking
+
+Deterioration_Tx_5: Erosion
+
+Deterioration_Tx_6: Fatigue
+
+Deterioration_Tx_7: Creep
+
+Deterioration_Tx_8: Mechanical Damage
+
+Deterioration_Tx_9: Lining Deterioration
+
+Deterioration_Tx_10: Distortion
+
+
+
+File: FFFFBCA0482F7EF58025854D00513103.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / pitting
+
+Deterioration_Tx_2: Corrosion under insulation (CUI)
+
+Deterioration_Tx_3: Stress corrosion cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical damage
+
+Deterioration_Tx_8: Lining deterioration
+
+Deterioration_Tx_9: Galvanic corrosion
+
+Deterioration_Tx_10: Microbial Induced corrosion (MIC)
+
+
+
+File: FFED03363D696361802586F100729EB5.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Corrosion Under Insulation
+
+Deterioration_Tx_3: Pitting
+
+Deterioration_Tx_4: Stress Corrosion Cracking
+
+Deterioration_Tx_5: Erosion
+
+Deterioration_Tx_6: Fatigue
+
+Deterioration_Tx_7: Creep
+
+Deterioration_Tx_8: Mechanical Damage
+
+Deterioration_Tx_9: Lining Deterioration
+
+Deterioration_Tx_10: -
+
+Deterioration_Tx_11: -
+
+Deterioration_Tx_12: -
+
+
+
+File: FF52678E3CD43E378025847F00707D06.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Stress Corrosion Cracking
+
+Deterioration_Tx_3: Erosion / Erosion-Corrosion
+
+Deterioration_Tx_4: Vibration Induced Fatigue
+
+Deterioration_Tx_5: Creep / Stress Rupture
+
+Deterioration_Tx_6: Mechanical Fatigue
+
+Deterioration_Tx_7: Thermal Fatigue
+
+Deterioration_Tx_8: Thermal Shock
+
+Deterioration_Tx_9: Mechanical Damage
+
+
+
+File: FFA3C2EF04A79E888025846C007189AD.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion
+
+Deterioration_Tx_2: Flow Accelerated Corrosion (FAC)
+
+Deterioration_Tx_3: Fatigue
+
+Deterioration_Tx_4: Mechanical Damage
+
+Deterioration_Tx_5: Hydrogen Grooving
+
+Deterioration_Tx_6: Galvanic Corrosion
+
+Deterioration_Tx_7: Gasket Deterioration
+
+Deterioration_Tx_8: Hydrogen Blistering
+
+
+
+File: FFFD6BDF17D8F7AC80258106004744B5.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / pitting
+
+Deterioration_Tx_2: Fatigue
+
+Deterioration_Tx_3: Erosion
+
+Deterioration_Tx_4: Mechanical damage
+
+Deterioration_Tx_5: Brittle Fracture
+
+
+
+File: FF7485C909976C858025848C003F0D3E.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Corrosion under insulation (CUI)
+
+Deterioration_Tx_3: Stress corrosion cracking
+
+Deterioration_Tx_4: Erosion
+
+Deterioration_Tx_5: Fatigue
+
+Deterioration_Tx_6: Creep
+
+Deterioration_Tx_7: Mechanical damage
+
+Deterioration_Tx_8: Lining deterioration
+
+Deterioration_Tx_9: Microbial Induced corrosion (MIC)
+
+Deterioration_Tx_10: Deadleg corrosion
+
+Deterioration_Tx_11: Galvanic corrosion
+
+
+
+File: FF9BAEEC358CB4C980257F0000494195.dxl
+--------------------------------------------------
+Deterioration_Tx_1: Corrosion / Pitting
+
+Deterioration_Tx_2: Internal Default Damage
+
+
+

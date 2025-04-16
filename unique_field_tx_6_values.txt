@@ -1,0 +1,473 @@
+
+-
+Air leak to atmosphere
+Although only carbon steel is specified for this vessel it may be possible for some stainless to be in contact e.g. from contractor packages / sampling / analysis lines. Therefore galvanic corrosion is included as a possible scenario.
+Ammonium Chloride corrosion of Shell &amp; Internal fittings leading to a pinhole leak of Reactor Products &amp; Hydrogen
+Area is acid tiled area and washing of foundations due to acid leaks leading to column instability could occur. Inspection of the acid tiles is included in the civil inspection routines
+Bladder deterioration leading to increased pressure cycles or leakage of nitrogen
+Bladder deterioration leading to increased pressure cycles.
+CUI leading to a leak of unstabilised crude to atmosphere
+Chemical Attack of internal surfaces leading to leak of spent acid collection hf and sulphuric acid.
+Chemical deterioration of the HDPE would not be expected under the stated operating conditions and there is good experience of satisfactory service. Service life is therefore considered to be over 20 years.
+Chloride stress corrosion cracking of the jacket expansion bellows leading to leak of utility water to ground
+Chloride stress corrosion cracking of the threaded stainless steel connections of the spargers / thermocouples at the len rings leading to leak of ethylene / polymer or initiator to atmosphere
+Concrete Deterioration of plinths leading to movement of exchanger leading to a joint leak of Tar or Atmospheric residue / VDU Column Feed
+Corrosion / CUI of bolting leading to joint leak of solvent.
+Corrosion / Galvanic of bolting leading to a joint leak of AMS / HCN
+Corrosion / Pitting / Carbonic Acid Attack of gas inlet pipe / other internals leading to loss of performance
+Corrosion / Pitting / Carbonic Acid Attack of shell internal leading to a leak of CO2
+Corrosion / Pitting / Carbonic Acid Attack of top cover &amp; top branch flange internal leading to leak of CO2
+Corrosion / Pitting of backing flanges and bolting leading to joint leak of Nitrogen / Fluorine / HF and process organics.
+Corrosion / Pitting of body &amp; internals leading to pinhole leak of steam.
+Corrosion / Pitting of bolting leading to leak of hydrogen condensate.
+Corrosion / Pitting of bolting leading to small joint leak of sales gas.
+Corrosion / Pitting of carbon steel top lid leading to joint leak of solvent.
+Corrosion / Pitting of external leading to leak of dry instrument air.
+Corrosion / Pitting of external leading to leak of rfo.
+Corrosion / Pitting of external leading to leak of wet drains.
+Corrosion / Pitting of external pipework leading to leak of H2SO4
+Corrosion / Pitting of external pipework on breakdown of protective wrap at ground/underground transition leading to a medium leak of sales gas.
+Corrosion / Pitting of external surface (cups) leading to leak of rfo.
+Corrosion / Pitting of external surfaces of the shell, dished ends, nozzles and welds leading to leak of ammonia.
+Corrosion / Pitting of external surfaces of the shell, dished ends, nozzles, flanges, lifting lugs and brackets leading to leak of chlorine.
+Corrosion / Pitting of external un-insulated pipe leading to medium leak of sales gas.
+Corrosion / Pitting of flange bolting (carbon steel) leading to leak of ammonia.
+Corrosion / Pitting of flange bolting leading to leak of Benfield solution, make gas &amp; CO₂.
+Corrosion / Pitting of flange bolting leading to leak of chlorine.
+Corrosion / Pitting of holding down bolts leading to movement of vessel and subsequent flange leak of chlorine.
+Corrosion / Pitting of holding down bolts leading to unstable column and potential leak of benfield solution, make gas &amp; CO₂.
+Corrosion / Pitting of internal packing support rings, internal distributors, associated brackets and beams leading to loss of process efficiency.
+Corrosion / Pitting of internal shell, dished ends and nozzle surfaces and welds leading to leak of chlorine.
+Corrosion / Pitting of internal surfaces of the shell, dished ends and nozzles leading to leak of Benfield solution, make gas &amp; CO₂
+Corrosion / Pitting of shell &amp; head external leading to leak of hydrogen condensate.
+Corrosion / Pitting of shell external leading to a leak of Phenoxyethyl acrylate monomer
+Corrosion / Pitting of shell external leading to a leak of steam.
+Corrosion / Pitting of shell internal leading to a leak of nitric acid / iron &amp; chromium nitrate solution.
+Corrosion / Pitting of shell internal leading to a leak of solvent.
+Corrosion / Pitting of shell internal leading to a leak of steam.
+Corrosion / Pitting of support legs leading to movement of vessel and subsequent flange leak of chlorine.
+Corrosion / Pitting of support skirt / holding down bolts leading to movement of column leading to a joint leak of AMS / HCN
+Corrosion / Pitting of support skirt, base ring and holding down chairs outside of the fireproofing and inside the skirt leading to unstable column and potential leak of benfield solution, make gas &amp; CO₂.
+Corrosion / Pitting of supports external leading to movement of vessel, overstressing of nozzles and joint leak of Phenoxyethyl acrylate monomer
+Corrosion / Pitting of supports internal leading to movement of vessel, overstressing of nozzles and joint leak of Phenoxyethyl acrylate monomer
+Corrosion / Pitting of supports leading to movement of vessel, overstressing of nozzles and joint leak of hot water.
+Corrosion / Pitting of supports leading to small joint leak of sales gas.
+Corrosion / Pitting of surfaces of nozzles, flanges, level bridles, lifting lugs and gantry/pipe support brackets outside of the insulation leading to leak of Benfield solution, make gas &amp; CO₂.
+Corrosion / Pitting of underground section leading to medium leak of sales gas..
+Corrosion / Pitting of vessel supports leading to unstable vessel and a leak of ammonia.
+Corrosion / mechanical damage of trailer leading to movement and joint leak of hydrocarbon from flexible hose connection.
+Corrosion / pitting / CUI of Flange bolting leading to leak of Mixed Feed Vapour
+Corrosion / pitting / CUI of pipework external leading to leak of propane
+Corrosion / pitting / Crevice corrosion / CUI of Supports leading to movement of line leading to joint leak of Mixed Feed Vapour
+Corrosion / pitting / Galvanic corrosion of any screwed fittings leading to leak of lube oil / nitrogen
+Corrosion / pitting / MIC of shell internal following the breakdown of paint coating leading to leak of diesel.
+Corrosion / pitting / cracking of bellows leading to leak of Naphtha &amp; Recycled Hydrogen into the Reactor Effluent
+Corrosion / pitting / crevice corrosion of flange faces / bolting leading to leak of propane
+Corrosion / pitting / erosion of tubes / header boxes internal leading to leak of hexane / steam.
+Corrosion / pitting of 57Y-3"-E90118-1C1A-NI internal leading to leak of propane
+Corrosion / pitting of Inner tank internal leading to leak of diesel to the space between the outer and inner tanks.
+Corrosion / pitting of Outer Shell / roof / floor external resulting in an open leak path to the bund if the inner tank also failed
+Corrosion / pitting of Outer Shell internal / Inner Tank external leading to leak of diesel to bund.
+Corrosion / pitting of Pipework external at the wind water line leading to leak of Dry Natural Gas GP
+Corrosion / pitting of SS orifice plate leading to process performance issue.
+Corrosion / pitting of SS pressure indicators leading to process performance issue.
+Corrosion / pitting of SS valve components leading to passing valve.
+Corrosion / pitting of channel / channel cover internal leading to leak of Naphtha &amp; Recycled Hydrogen
+Corrosion / pitting of channel / end cover internal leading to leak of Tar
+Corrosion / pitting of external leading to leak of instrument air.
+Corrosion / pitting of fins / tubes external leading to leak of hexane / steam.
+Corrosion / pitting of floating head leading to leak between the Tar and the Atmospheric residue / VDU Column Feed
+Corrosion / pitting of header boxes external leading to leak of hexane / steam.
+Corrosion / pitting of header boxes external leading to leak of methanol
+Corrosion / pitting of internal leading to leak of instrument air.
+Corrosion / pitting of internal leading to leak of natural gas / hydrocarbon condensate / water.
+Corrosion / pitting of internal leading to leak of natural gas.
+Corrosion / pitting of nozzles and attachments external leading to leak of natural gas.
+Corrosion / pitting of nozzles and attachments internal leading to leak of natural gas.
+Corrosion / pitting of screwed fitting leading to leak of hydraulic oil / nitrogen
+Corrosion / pitting of shell / nozzle externals leading to leak of natural gas.
+Corrosion / pitting of shell / shell cover internal leading to leak of Reactor Effluent
+Corrosion / pitting of shell / shell end cover internal leading to leak of Atmospheric residue / VDU Column Feed
+Corrosion / pitting of shell external / nozzles leading to leak of natural gas.
+Corrosion / pitting of shell external / supports leading to leak of hydraulic oil / nitrogen
+Corrosion / pitting of shell external leading to leak of diesel.
+Corrosion / pitting of shell external leading to leak of hydraulic oil / nitrogen
+Corrosion / pitting of shell external leading to leak of lube oil / nitrogen
+Corrosion / pitting of shell external leading to leak of natural gas.
+Corrosion / pitting of shell internal / internal fittings leading to leak of natural gas.
+Corrosion / pitting of shell internal leading to a leak of sulphuric acid.
+Corrosion / pitting of skirt external / internal / holding down bolts leading to joint leak of natural gas.
+Corrosion / pitting of support beams / stiffeners / bolting leading to movement of vessel, overstressing of nozzles, and joint leak of diesel.
+Corrosion / pitting of support skirt / holding down bolts leading to joint leak of natural gas.
+Corrosion / pitting of support structure leading to movement of the exchanger and leak of methanol
+Corrosion / pitting of supports leading to movement of the pipework leading to joint leak of propane
+Corrosion / pitting of supports leading to movement of vessel, overstressing of nozzle and leak of lube oil to atmosphere.
+Corrosion / pitting of supports leading to movement of vessel, overstressing of nozzles and joint leak of sulphuric acid.
+Corrosion / pitting of supports leading to movement off vessel, overstressing of instrument tubing and leak of instrument air.
+Corrosion / pitting of tubes / header boxes internal leading to leak of methanol
+Corrosion / pitting of tubes external leading to leak between the Tar and the Atmospheric residue / VDU Column Feed
+Corrosion / pitting of tubes external leading to leak of Naphtha &amp; Recycled Hydrogen into the Reactor Effluent
+Corrosion / pitting of tubes external leading to leak of methanol
+Corrosion / pitting of tubes internal leading to leak between the Tar and the Atmospheric residue / VDU Column Feed
+Corrosion / pitting of tubes internal leading to leak of Naphtha &amp; Recycled Hydrogen into the Reactor Effluent
+Corrosion / pitting of un-insulated external leading to leak of natural gas / hydrocarbon condensate / water.
+Corrosion Under Fireproofing (CUF) of support skirt leading to leak of benfield solution, make gas &amp; co₂.
+Corrosion Under Insulation of bellows external leading to leak of steam
+Corrosion Under Insulation of casing leading to leak of tramp air.
+Corrosion Under Insulation of channel external leading to leak of brine
+Corrosion Under Insulation of cold side of header pipes leading to leak of feed water.
+Corrosion Under Insulation of shell external leading to leak of steam
+Corrosion Under Insulation of tower external leading to leak of CO2
+Corrosion fatigue at corrosion pits locations leading to leak of Ethylene / Polymer into the Utility Water to ground
+Corrosion of U-bolt clamps / support structure leading to movement of cylinder, leak of instrument air and failure of emergency deluge system to operate.
+Corrosion of anchor bolts leading to movement of tank, overstressing of nozzles and joint leak of vent gases / caustic
+Corrosion of any carbon steel nozzle flanges / bolting leading to a leak of water
+Corrosion of backing flanges leading to leak of process gas
+Corrosion of blind flanges leading to leak of vent gases / caustic
+Corrosion of bolting leading to joint leak of hot water and steam.
+Corrosion of bolting leading to joint leak of steam.
+Corrosion of bolting leading to leak of process gas
+Corrosion of carbon steel backing flanges / blind flanges leading to a joint leak of AMS / HCN
+Corrosion of carbon steel bolting / external fixings leading to leak of vent gases / caustic
+Corrosion of carbon steel insulation support rings leading to falling insulation / ring
+Corrosion of carbon steel stiffening rings under insulation leading to collapse of tank.
+Corrosion of flange bolts leading to flange joint leakage of Amine solution to tank bund.
+Corrosion of floor external leading to leak of sulphuric acid.
+Corrosion of floor internal leading to leak of sulphuric acid.
+Corrosion of gas inlet nozzle leading to leak of AMS / HCN
+Corrosion of inductor supports leading to movement of inductor and joint leak of foam solution when called for in anger
+Corrosion of nozzles leading to leak of sulphuric acid.
+Corrosion of pipe within the trunnion support leading to a leak of unstabilised crude to atmosphere
+Corrosion of plenum chamber / fan guard leading to falling debris.
+Corrosion of roof external leading to collapse.
+Corrosion of roof internal leading to collapse.
+Corrosion of shell external leading to a leak of sulphuric acid.
+Corrosion of shell internal &amp; external leading to leak of h/cs + water.
+Corrosion of shell internal leading to a leak of sulphuric acid.
+Corrosion of shell internal leading to leak of AMS / HCN
+Corrosion of shell internal leading to pinhole leak of hot water and steam.
+Corrosion of skid structure / holding down bolts leading to movement of tank and joint leak of water
+Corrosion of skirt / holding down bolts leading to movement of tower leading to joint leak of CO2
+Corrosion of structure leading to ultimate collapse.
+Corrosion of support legs / holding down bolts leading to movement of the vessel leading to joint leak of hot water and steam.
+Corrosion of support lugs / holding down bolts leading to leak of process gas
+Corrosion of support ring external / holding down bolts leading to movement of vessel and joint leak of Reactor Effluent / Naphtha &amp; Recycled Hydrogen
+Corrosion of support skirt leading to movement of vessel, overstressing of nozzle and joint leak of air to atmosphere.
+Corrosion of support structure leading to movement of exchanger and joint leak of hexane / steam.
+Corrosion of the saddle supports / holding down bolts leading to movement of the heater leading to leak of steam / brine
+Corrosion of top lid leading to pinhole leak of water vapours.
+Corrosion under Fireproofing of Skirt leading to movement of vessel, overstressing of nozzles and joint leak of Reactor Products &amp; Hydrogen
+Corrosion under Insulation (CUI) of Pipework external leading to leak of Mixed Feed Vapour
+Corrosion under Insulation (CUI) of the jacket / jumpers external leading to leak of Utility Water to ground
+Corrosion under fireproofing of support skirt leading to movement of vessel, overstressing of nozzles and joint leak of natural gas.
+Corrosion under insulation (CUI) at isolated sections leading to leak of HP/MP Steam.
+Corrosion under insulation (CUI) leading to leak of natural gas / hydrocarbon condensate / water.
+Corrosion under insulation (CUI) of bottom dished end (within the skirt) leading to leak of Benfield solution, make gas &amp; CO₂
+Corrosion under insulation (CUI) of channel / end cover external leading to leak of Tar
+Corrosion under insulation (CUI) of channel external leading to leak of Naphtha &amp; Recycled Hydrogen
+Corrosion under insulation (CUI) of external pipe where insulated by PFP leading to medium leak of sales gas..
+Corrosion under insulation (CUI) of external pipe where insulated leading to medium leak of sales gas.
+Corrosion under insulation (CUI) of insulated nozzles leading to hydrocarbon gas and liquids.
+Corrosion under insulation (CUI) of level bridles leading to leak of Benfield solution, make gas &amp; CO₂
+Corrosion under insulation (CUI) of shell / shell end cover external leading to leak of Atmospheric residue / VDU Column Feed
+Corrosion under insulation (CUI) of shell external leading to a leak of Reactor Effluent
+Corrosion under insulation (CUI) of shell external leading to a pinhole leak of hot water and steam.
+Corrosion under insulation (CUI) of shell, dished ends, nozzles, lifting lugs and gantry/pipe support brackets beneath the insulation leading to leak of Benfield solution, make gas &amp; CO₂
+Corrosion under insulation (CUI) of supports / holding down bolts leading to movement of exchanger leading to a joint leak of Tar or Atmospheric residue / VDU Column Feed
+Corrosion under wrapping of Pipework external leading to leak of Dry Natural Gas GP
+Cracking of the Derakane at the flanges / piping supports leading to leak of vent gases / caustic
+Creep Damage leading to leak of HP/MP Steam.
+Creep failure of tube leading to a leak of glycol within the heater.
+Creep of channel outlet leading to leak of Naphtha &amp; Recycled Hydrogen
+Creep of shell circumferential growth leading to leak of spent acid collection hf and sulphuric acid.
+Creep of shell inlet leading to leak of Reactor Effluent
+Crevice Corrosion of screwed fittings leading to leak of hydraulic oil / nitrogen
+Crevice corrosion at support contact points leading to leak of natural gas / hydrocarbon condensate / water.
+Crevice corrosion of Grayloc Joint leading to leak of NG / condensate to atmosphere.
+Crevice corrosion of RTJ joints leading to leak of natural gas / hydrocarbon condensate / water.
+Crevice corrosion of Socket Welded Joints / Screwed Fittings leading to leak of Mixed Feed Vapour
+Crevice corrosion of flange faces leading to leak of hydrocarbon gas and liquids.
+Crevice corrosion of outlet nozzle C leading to leak of hydrocarbon gas and liquids.
+Crevice corrosion of shell external at U-Bolt support location / threaded connection leading to leak of instrument air and failure of emergency deluge system to operate.
+Crevice corrosion of threaded connections leading to leak of instrument air.
+Crevice corrosion of threads on screwed joint leading to leak of NG / condensate to atmosphere.
+Cyanide stress corrosion cracking of low alloy steel bolting following a joint leak leading to larger joint leak of AMS / HCN
+Dead leg corrosion / MIC leading to leak of natural gas / hydrocarbon condensate / water.
+Dead leg corrosion leading to a leak of unstabilised crude to atmosphere
+Deadleg corrosion leading to leak of HP steam.
+Deadleg corrosion leading to leak of hydrocarbon to atmosphere.
+Deadleg corrosion of Nozzles N6, and L1a leading to a pinhole leak of water vapours.
+Deadleg corrosion of drain nozzle c7 leading to leak of benfield solution, make gas &amp; co₂.
+Deadleg corrosion of level bridles leading to a leak of Benfield solution, make gas &amp; CO₂
+Deadleg corrosion of nozzles D1, D2, E2, G2 and K leading to leak of hydrocarbon gas and liquids.
+Deterioration of Derakane shell, nozzles and ends leading to leak of vent gases / caustic
+Deterioration of concrete plinth leading to movement of column leading to a joint leak of AMS / HCN
+Deterioration of concrete plinths leading to unstable vessel and a leak of ammonia.
+Deterioration of flange sealing faces particularly the shell inlet leading to leak of Reactor Effluent
+Deterioration of polypropylene shell, nozzles and ends leading to leak of process gas
+Deterioration of refractory lining causing thermal fatigue, leading to a leak of natural gas.
+Drive of governor leading to leak of steam.
+Drive of internals leading to leak of steam.
+Drive of valve leading to leak of steam.
+Environmental cracking leading to cat.Failure
+Erosion / Erosion-Corrosion of rotor blades leading to blade failure.
+Erosion / fatigue of baffle leading to process efficiency
+Erosion / wear of body &amp; internals leading to pinhole leak of steam.
+Erosion of coating to nozzle N and its inlet deflector enabling their corrosion with loss of function of the deflector and perforation of the nozzle leading to leak of hydrocarbon gas and liquids.
+Erosion of cross bracing leading to support failure.
+Erosion of internal shell &amp; dished end local to inlet leading to leak of chlorine.
+Erosion of internals leading to leak of natural gas / hydrocarbon condensate / water.
+Erosion of liquid chlorine inlet nozzle n1 and welds leading to leak of chlorine.
+Erosion of pipework internal d/s of pumps leading to leak of H2SO4
+Erosion of second horizontal tube leading to leak of feed water.
+Erosion of steam coil external leading to leak of steam into process.
+Erosion of the bottom plate under the steam sparger leading to a a pinhole leak of hot water and steam
+Erosion of the top dished head due to inlet gas flow leading to leak of CO2
+Erosion of tube attachment to bottom header top side of tube leading to leak of feed water.
+Erosion of tube bends leading to leak of feed water.
+Erosion of tubes internal leading to leak of Naphtha &amp; Recycled Hydrogen into the Reactor Effluent
+External Corrosion / Pitting of Shell leading to a pinhole leak of Reactor Products &amp; Hydrogen
+External Mechanical damage leading to a leak of Nitrogen / Fluorine / HF and process organics.
+External corrosion / pitting of CS shell / supports with a leak of diesel to atmosphere.
+External corrosion / pitting of shell with a leak of lube oil to atmosphere.
+External corrosion / pitting of the HP Blocks leading to leak of Ethylene / Polymer to atmosphere
+External corrosion / pitting of the HP Tube External (Unjacketed) leading to leak of Ethylene / Polymer to atmosphere
+External corrosion / pitting of the HP Tube External (Within Jacket) leading to leak of Ethylene / Polymer into the Utility Water
+External corrosion leading to a leak of air to atmosphere.
+External corrosion leading to a leak of unstabilised crude to atmosphere
+External corrosion of shell leading to leak of 3MT / CS2 to atmosphere.
+External corrosion of support legs leading to collapse of vessel.
+External corrosion of the coils leading to a leak of glycol within the heater.
+External corrosion of the lens ring leading to a leak of Ethylene / Polymer to atmosphere
+External corrosion of the supports leading to movement of the reactor leading to joint leak of Ethylene / Polymer to atmosphere
+External corrosion of tube in the vicinity of the header leading to gas leak to atmosphere.
+External galvanic corrosion at temperature indicator clamp contact points leading to leak of NG / condensate to atmosphere.
+External galvanic corrosion leading to leak of natural gas / hydrocarbon condensate / water.
+External galvanic corrosion leading to leak of natural gas.
+External galvanic corrosion of dissimilar metal interface leading to leak of diesel.
+External galvanic corrosion of dissimilar metal interface leading to leak of instrument air.
+External pitting leading to leak of hydrocarbon to atmosphere.
+External pitting leading to pinhole leak of gas / condensate
+Failure Scenario U: Deadleg corrosion of Drain nozzles C13A/B/C and C15 leading to a leak of Benfield solution, make gas &amp; CO₂ Failure Scenario V: Deterioration of the concrete plinth leading to unstable column and potential leak of benfield solution, make gas &amp; CO₂. Failure Scenario W: Corrosion under fireproofing of the support skirt leading to unstable column and potential leak of benfield solution, make gas &amp; CO₂.
+Failure of manway internal shroud.
+Failure of support legs due to distortion leading to movement of vessel and potential joint leak.
+Failure of the centering pins welded into the jacket leading to leak of utility water to ground
+Failure scenarios assume worst case of leak of hydrocarbon.
+Fatigue / mechanical damage of small bore branches leading to leak of NG / condensate to atmosphere.
+Fatigue / mechanical damage of small bore branches leading to leak of natural gas / hydrocarbon condensate / water.
+Fatigue / mechanical damage of small bore nozzle leading to leak of diesel.
+Fatigue cracking of the steam sparger to shell weld leading to leak of steam
+Fatigue cracking of threaded flanges / welds / bolts / supports leading to leak of Ethylene / Polymer to atmosphere
+Fatigue cracking of tube to header joints leading to leak of hexane / steam.
+Fatigue failure of glycol header branch leading to a leak of glycol to atmosphere.
+Fatigue failure of small bore branch connection leading to leak of 3MT / CS2 to atmosphere.
+Fatigue failure of small bore branch connection leading to leak of cresol to atmosphere.
+Fatigue of fan shaft / fan blade leading to failure of fan.
+Fatigue of holding down bolts leading to unstable column and potential leak of benfield solution, make gas &amp; CO₂.
+Fatigue of internal furniture and bracket attachment welds leading to a loss of process efficiency.
+Fatigue of internals leading to leak of steam.
+Fatigue of nozzle to shell attachment welds leading to leak of Benfield solution, make gas &amp; CO₂
+Fatigue of nozzle to shell attachment welds leading to leak of ammonia.
+Fatigue of nozzle to shell attachment welds leading to leak of chlorine.
+Fatigue of nozzles connections &amp; vessel support leading to cracking and leak of hydrocarbon to atmosphere
+Fatigue of packing bed support ring and beam bracket attachment welds leading to cracking into the pressure envelope and a leak of Benfield solution, make gas &amp; CO₂
+Fatigue of pass partition plate attachment welds leading to loss of efficiency
+Fatigue of piping bracket attachment welds leading to nozzle overstressing and a leak of Benfield solution, make gas &amp; CO₂
+Fatigue of shell &amp; nozzle welds leading to leak of natural gas.
+Fatigue of shell nozzle flange connection leading to leak of hydrogen condensate.
+Fatigue of shell spiral construction and attachment welds leading to leak of spent acid collection hf and sulphuric acid.
+Fatigue of small bore branch / balance line with a leak of lube oil to atmosphere.
+Fatigue of small bore branch / pipework leading to leak of hydrocarbon to atmosphere.
+Fatigue of small bore branch welds leading to leak of Mixed Feed Vapour
+Fatigue of small bore branches leading to a leak of natural gas.
+Fatigue of small bore connections local to the pumps leading to leak of H2SO4
+Fatigue of spring &amp; internals leading to loss of performance
+Fatigue of steam coil attachment welds leading to leak of steam to atmosphere / steam into process fluid.
+Fatigue of support attachment welds leading to unstable vessel and a leak of ammonia.
+Fatigue of support legs and stiffening ring leading to movement of vessel, overstressing of nozzles and joint leak of Phenoxyethyl acrylate monomer
+Fatigue of the jacket expansion bellows leading to leak of utility water to ground
+Fatigue of the vessel welds eading to a leak of water
+Fatigue of tube to header welds leading to leak of methanol
+Fatigue of welds downstream of the control valve on DD220 leading to leak of Mixed Feed Vapour
+Fatigue of welds leading to a leak of natural gas.
+Fatigue of welds leading to a leak of sulphuric acid.
+Fatigue of welds leading to leak of propane
+Flange Face Corrosion of flange faces leading to leak of chlorine.
+Flow Accelerated Corrosion (FAC) of nozzles leading to leak of sulphuric acid.
+Flow Accelerated Corrosion (FAC) of shell internal leading to leak of sulphuric acid.
+Fretting of pipework at supports due to vibration leading to leak of Mixed Feed Vapour
+Fretting of pipework leading to leak of propane
+Galvanic Corrosion of dissimilar metal interface leading to a leak of sulphuric acid.
+Galvanic corrosion / crevice corrosion of dissimilar metal inductor screwed connections leading to leak of foam solution when called for in anger
+Galvanic corrosion between the carbon steel shell and stainless steel fittings leading to leak of hydraulic oil / nitrogen
+Galvanic corrosion leading to leak of NG / condensate to atmosphere.
+Galvanic corrosion leading to leak of lube oil to atmosphere.
+Galvanic corrosion of accumulator at dissimilar metal interfaces leading to leak of hydraulic oil / nitrogen
+Galvanic corrosion of carbon steel at stainless steel flange connection leading to leak of hydrogen condensate.
+Galvanic corrosion of dissimilar metal interface at support locations leading to movement of vessel, overstressing of nozzles and joint leak of Phenoxyethyl acrylate monomer
+Galvanic corrosion of dissimilar metal interface leading to a leak of ammonia.
+Galvanic corrosion of dissimilar metal interfaces at manway flanges leading to leak of Benfield solution, make gas &amp; CO₂
+Galvanic corrosion of dissimilar metal interfaces leading to flange leak of nitric acid / iron &amp; chromium nitrate solution.
+Galvanic corrosion of dissimilar metal interfaces leading to medium leak of sales gas.
+Galvanic corrosion of flange bolting leading to leak of sulphuric acid.
+Galvanic corrosion of internal dissimilar metal interfaces at packing trays, demisters and spray nozzles leading to a loss of process efficiency.
+Galvanic corrosion of liquid outlet nozzle C leading to leak hydrocarbon gas and liquids.
+Gasket Deterioration leading to joint leak of sulphuric acid.
+General and Pitting corrosion of external shell, nozzles and vessel support saddles leading to leak of hydrocarbon gas and liquids.
+General and Pitting corrosion of lower internal shell and nozzles leading to leak of hydrocarbon gas and liquids.
+General and Pitting corrosion of other internal areas of shell leading to leak of hydrocarbon gas and liquids.
+General external corrosion of pipework leading to leak of NG / condensate to atmosphere.
+Gross corrosion of support legs leading to possible collapse of vessel and multiple joint leaks of natural gas to atmosphere.
+HCl corrosion of Shell &amp; Internal fittings leading to a pinhole leak of Reactor Products &amp; Hydrogen
+High temperature hydrogen attack / decarburisation of the shell inlet leading to a leak of Reactor Effluent
+Hydrogen Blistering of shell internal leading to leak of sulphuric acid.
+Hydrogen Grooving of shell internal leading to leak of sulphuric acid.
+If a tube leak occured there would be potential contamination of the regen gas with the moisture exit the drier which could lead eventually to the inability to satisfactorily regen the bed. However the regen gas is on a separate circuit to the main process flow and there would be no possibility to transfer the moisture to the cold train directly.
+Intermetalic Corrosion considered and no potential. All these mechanisms had the potential to occur while the system was in service. The line is now fully drained and valve isolated.
+Internal / external corrosion of exhaust stack leading to leak of exhaust gases to atmosphere.
+Internal Corrosion / Pitting leading to a leak of HP/MP Steam.
+Internal Corrosion of bellows internal leading to a leak of steam
+Internal Corrosion of channel ends leading to leak of brine
+Internal Corrosion of shell leading to a leak of steam
+Internal Default Damage of internal leading to leak of dry instrument air.
+Internal Erosion leading to a leak of HP/MP Steam.
+Internal Erosion of Inlet Nozzle leading to a pinhole leak of Reactor Products &amp; Hydrogen
+Internal corrosion (CO2 / weld / grooving / pitting) or erosion leading to leak of NG / condensate to atmosphere.
+Internal corrosion / pitting of CS base with a leak of diesel to atmosphere.
+Internal corrosion leading to a leak of air to atmosphere.
+Internal corrosion of the coils leading to leak of glycol within the heater.
+Internal corrosion of the jacket &amp; jumpers leading to leak of Utility Water to ground
+Internal corrosion or pitting due to carbonic acid or H2S (acidic) attack leading to a leak of unstabilised crude to atmosphere
+Internal deadleg / microbial corrosion leading to leak of NG / condensate to atmosphere.
+Internal erosion local to inlet nozzle leading to a leak of air to atmosphere.
+Internal galvanic corrosion leading to leak of natural gas / hydrocarbon condensate / water.
+Internal oxidation / corrosion of the heater casing following damage to the refractory lining leading to a leak of exhaust gases to atmosphere.
+Internal pipework Corrosion / Pitting leading to a leak of H2SO4
+Internal pitting leading to leak of hydrocarbon to atmosphere.
+Internal pitting leading to pinhole leak of gas / condensate
+Internal/ external corrosion leading to a loss of vacuum.
+Joint Leaks of flanges and instrument fittings leading to leak of ammonia.
+Large leak due to major support failure, mechanical damage due to impact.
+Leak due to corrosion under lagging
+Leak due to environmental cracking
+Leak of acetic acid into cooling water due to external pitting / SCC of tubes.
+Leak of acetic acid to atmosphere due to external SCC of channel end.
+Leak of ammonia from downstream pipe rupture during relief event due to imposed piping loads on thinned areas/corroded supports.
+Leak of ammonia from downstream piping during relief event due to external corrosion.
+Leak of ammonia from upstream pipe rupture during normal operation (non-relieving event) due to imposed piping loads on thinned areas/corroded supports.
+Leak of ammonia from upstream piping during normal operation (non-relieving event) due to external corrosion.
+Leak of cooling water to atmosphere due to internal / external corrosion of shell.
+Leak of cresol to atmosphere due to SCC local to steam coil.
+Leak of dowtherm to atmosphere due to external SCC of jacket.
+Leak of glycol / phosphoric acid to atmosphere due to internal corrosion of additive inlet piping section.
+Leak of hydrocarbon to atmosphere due to external corrosion under insulation of shell / channel externals.
+Leak of hydrocarbon to atmosphere due to internal corrosion of shell / channel.
+Leak of natural gas to atmosphere due to external corrosion.
+Leak of natural gas to atmosphere due to fatigue of small bore branches.
+Leak of natural gas to atmosphere due to internal corrosion.
+Leak of natural gas to atmosphere due to internal erosion local to inlet nozzle.
+Leak of oligomer into the dowtherm jacket or vice versa due to internal corrosion of the shell.
+Leak of sales gas to atmosphere due to CUI of the shell.
+Localised water impingement / flange face corrosion leading to leak of NG / condensate to atmosphere.
+Long Term Deterioration of the shell external leading to a leak of water
+MIC destroying the seating face of the tubesheet or channel leading to a breakdown of the integrity of the tubesheet requiring major repairs.
+Manufacturing Defects of constructional Welds leading to leak of Phenoxyethyl acrylate monomer
+Mechanical Damage of aluminium fins leading to poor performance.
+Mechanical Damage of rotor and diaphragm leading to loss of material due to blending of cracks with potential of rotor and diaphragm failure.
+Mechanical Damage of rotor and diaphragm leading to rotor and diaphragm failure (stress raisers).
+Mechanical Damage of small bore branches leading to leak of hot water and steam..
+Mechanical Damage of tubes and fins leading to leak of methanol
+Mechanical Fatigue of pipe, welds, small bore leading to leak of HP/MP Steam.
+Mechanical Fatigue of rotor blades leading to blade failure.
+Mechanical damage is an event based occurrence.
+Mechanical damage leading to leak of Mixed Feed Vapour
+Mechanical damage of Pipework external leading to leak of Dry Natural Gas GP
+Mechanical damage of accumulator leading to leak of hydraulic oil / nitrogen
+Mechanical damage of components other than the fins is an event based occurrence.
+Mechanical damage of flange faces leading to joint leak of steam.
+Mechanical damage of main pipe from any surge/hammer leading to leak of HP steam.
+Mechanical damage of pipework leading to leak of propane
+Mechanical damage of screwed union joints leading to leak of Nitrogen / Fluorine / HF and process organics.
+Mechanical damage of shell external / small bore nozzles / plastic pipework leading to leak of water
+Mechanical damage of shell internal leading to leak of spent acid collection hf and sulphuric acid.
+Mechanical damage of shell leading to leak of steam.
+Mechanical damage of small bore branches leading to leak of Benfield solution, make gas &amp; CO₂
+Mechanical damage of small bore branches leading to leak of process gas
+Mechanical damage of small bore branches leading to leak of vent gases / caustic
+Mechanical damage of small bore connections leading to medium leak of sales gas.
+Mechanical damage of small bore nozzles (&lt;1.5"), level bridles and associated pipework leading to leak of ammonia.
+Mechanical damage of small bore piping connections leading to leak of instrument air.
+Mechanical damage of top cover internal cladding leading to increase risk of FS B
+Mechanical damage to instrumentation piping &amp; swagelock fittings is an event based occurrence during maintenance operations.
+Medium leak due to fatigue/vibration or general corrosion leading to the equivalent of a small bore branch failure / potential spray jet fire.
+Microbial Induced Corrosion (MIC) of internal shell, branches and flange blanks, lower areas leading to leak of hydrocarbon gas and liquids.
+N/A
+No credible deterioration mechanisms identified.
+No credible failure scenario identified.
+No failure scenarios identified.
+No identified failure scenarios
+None
+None.
+Over Stressing of nozzle to shell welds leading to leak of process gas
+Over Stressing of nozzle to shell welds leading to leak of vent gases / caustic
+Overstressing of nozzle welds leading to leak of natural gas.
+Overstressing of pipework nozzles leading to a leak of water
+Overstressing of the pipework due to lack of movement at the PTFE sliders leaking to jacket weld failures leading to leak of Utility water to ground
+Pall ring abrasion/damage of internal surfaces of the shell at packing bed locations leading to leak of Benfield solution, make gas &amp; CO₂
+Pitting corrosion to a depth of 3mm as measured by UT has been reported in each of the dampers on the C Train, and confirmed visually by boroscope examination. The team have confirmed that moisture would not be present within the gas exiting the NRU and it is the view of the team that the corrosion seen must have occurred prior to introduction to service.
+Pitting of header internal leading to leak of feed water.
+Pitting of tube internal leading to leak of feed water.
+Pitting to outside of shell leading to leak of Amine solution to tank bund.
+Pitting to underside of base leading to leak of Amine solution to tank bund.
+Pitting under insulation of external leading to leak of natural gas.
+SCC of shell internal leading to leak of Phenoxyethyl acrylate monomer
+SCC to external shell leading to leak of Amine solution to tank bund.
+SCC under baseplate leading to leak of Amine solution to tank bund.
+Shell leak to atmosphere
+Significant leak from tubeside to shellside due to corrosion / erosion of several tubes.
+Significant leak from tubeside to shellside due to mechanical damage of tube bundle
+Small leak due to corrosion/erosion or joint leak
+Small leak from tubeside to shellside due to corrosion / erosion of tubes.
+Small leak from tubeside to shellside due to mechanical damage of tube bundle
+Stress Corrosion Cracking of shell external leading to leak of LP steam condensate
+Stress Corrosion Cracking of shell external leading to leak of nitric acid / iron &amp; chromium nitrate solution.
+Stress Corrosion Cracking of shell internal &amp; internal fittings leading to leak of LP steam condensate
+Stress Corrosion Cracking of support legs leading to movement of the drum leading to joint leak of LP steam condensate
+Stress corrosion cracking of level bridles leading to leak of Benfield solution, make gas &amp; CO₂
+Stress corrosion cracking of shell external leading to a leak of hot water.
+Subsidence of Pipework leading to leak of Dry Natural Gas GP
+Support deterioration leading to movement / overstressing of pipework and joint leak of H2SO4
+Support deterioration leading to movement / overstressing of pipework and joint leak of HP/MP Steam.
+Support deterioration leading to movement / overstressing of pipework and joint leak of Nitrogen / Fluorine / HF and process organics.
+Support deterioration leading to movement / overstressing of pipework and joint leak of natural gas / hydrocarbon condensate / water.
+Support deterioration leading to movement / overstressing of pipework and joint leak of rfo.
+Support deterioration of concrete plinth leading to leak of benfield solution, make gas &amp; co₂.
+Support deterioration of external leading to leak of wet drains.
+Support distortion leading to an extended shut.
+Tank Overpressure / Vacuum leading to deformation of tank.
+Temper embrittlement / Other Phase Change of the 1.25%Cr 0.5%Mo HP Tube to leak of Ethylene / Polymer to atmosphere
+The external environment will cause corrosion unless paint protection is maintained.
+The tank is bunded to contain any leaks/failures
+There have been no credible deterioration mechanisms identified for this vessel.
+Thermal Fatigue of casing leading to cracking of the casing.
+Thermal Fatigue of rotor leading to blade failure.
+Thermal Shock of rotor leading to rotor failure.
+Thermal Stressing leading to leak of HP/MP Steam.
+Thermal fatigue cracking of the bellows leading to leak of steam.
+Thermal fatigue cracking of the shell welds leading to leak of steam.
+Thermal fatigue cracking of the tower welds leading to leak of CO2
+This RBI assessment has not considered the risk of vibration induced fatigue failure of small bore branches. It is understood that this issue is being addressed by means of a separate vibration risk assessment project.
+This review satisfies CRA type 2 as per HOIS-RP-103, Feb 2020:- The process fluid composition and operating conditions. See Design section 1.2 The vessel's metallurgy. See Materials of construction section 1.3 Changes to any of the above factors that may affect inspection requirements. See Operational Review section 2 The vessel's modification and repair history. See Inspection History &amp; Summary sections 3.2 &amp; 3.3 The vessel's condition, based on previous inspections whenever these have been carried out. See Inspection History Details section 3.3 Types of degradation, Growth rates for each type of degradation identified as of concern (or at least some estimate related to severity, e.g. a likelihood type value from a risk assessment), The locations where each type of degradation is likely to be active, The likely spatial distribution of degradation identified as of concern and Corrosion management. See Deterioration Mechanisms section 4.1
+Top cover bolt relaxation leading to leak of CO2
+Tube expansion leaks leading to cross contamination of product.
+Tube leak, water into the shell.
+Tube side to atmosphere (channel end)
+UV degradation / Long Term Deterioration of supports leading to movement of tank leading to joint leak of water
+UV degradation of shell external leading to leak of water
+Under pressurisation of the vessel if the air vent valve blocks
+Under pressurisation of the vessel if the internal vacuum breaker is damaged
+Valve blockage/sticking due to upstream corrosion.
+Vibration Induced Fatigue of rotor blades leading to blade failure.
+bearings of both drive and non-driven ends leading to leak of steam.
+maintenance effectiveness of internals leading to leak of steam.
+packing leaks of gland leading to leak of steam.

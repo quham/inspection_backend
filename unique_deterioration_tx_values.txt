@@ -1,0 +1,110 @@
+-
+Age Hardening
+Ammonium Chloride Corrosion
+Bellows deterioration
+Bladder deterioration
+Blockage
+Blockage/Sticking
+Bolt relaxation
+Brittle Failure
+Brittle Fracture
+Brittle fracture
+Cavitation
+Chemical Attack
+Chloride SCC
+Component Failure
+Concrete Deterioration
+Corrosion
+Corrosion / Pitting
+Corrosion / pitting
+Corrosion Fatigue
+Corrosion Under Fireproofing (CUF)
+Corrosion Under Insulation
+Corrosion Under Lining or Deposit
+Corrosion of Structural platform support.
+Corrosion under fireproofing
+Corrosion under insulation (CUI)
+Corrosion under wrapping
+Creep
+Creep / Overheating
+Creep / Stress Rupture
+Crevice Corrosion
+Crevice corrosion
+Dead Leg Corrosion
+Dead Leg Corrosion / MIC
+Deadleg corrosion
+Decarburisation
+Distortion
+Drive
+Environmental Corrosion
+Erosion
+Erosion / Erosion-Corrosion
+External Corrosion
+Fatigue
+Fatigue (Limited Life Pressure)
+Fatigue (Limited Life Temperature)
+Flange Face Corrosion
+Flange face deterioration
+Flow Accelerated Corrosion (FAC)
+Fretting
+Galvanic Corrosion
+Galvanic corrosion
+Gasket Deterioration
+General and Pitting corrosion
+Hidden Areas
+High temperature hydrogen attack
+Hydrogen Blistering
+Hydrogen Embrittlement
+Hydrogen Grooving
+Hydrogen Induced Cracking
+Internal Corrosion
+Internal Default Damage
+Joint Leaks
+Leakage
+Lining Deterioration
+Lining deterioration
+Liquid Metal Embrittlement (LME)
+MIC
+Manufacturing Defects
+Manufacturing Flaw
+Mechanical Damage
+Mechanical Fatigue
+Mechanical damage
+Microbial Corrosion
+Microbial Induced Corrosion
+Microbial Induced corrosion (MIC)
+Microbially induced corrosion (MIC)
+Non-metallic Deterioration
+Non-metallic deterioration
+Other
+Over Stressing
+Overload
+Overstressing
+Pitting
+Polyethylene Deterioration
+Preferential Corrosion Incl. Hazard
+Process Specific Deterioration
+Spare
+Stress Corrosion Cracking
+Stress corrosion cracking
+Subsidence
+Sulphide SCC
+Support Deterioration
+Support Failure
+Support deterioration
+Tank Overpressure / Vacuum
+Temper Embrittlement
+Temper embrittlement
+Thermal Fatigue
+Thermal Shock
+Thermal Stressing
+Titanium Combustion
+Tube expansion leaks
+UV Deterioration
+UV degradation
+Under Base corrosion
+Under Pressure
+Vibration Induced Fatigue
+bearings
+maintenance effectiveness
+packing leaks

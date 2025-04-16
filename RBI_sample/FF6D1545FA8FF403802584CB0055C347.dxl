@@ -1,0 +1,1431 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE document SYSTEM 'xmlschemas/domino_11_0_1.dtd'>
+<document xmlns='http://www.lotus.com/dxl' version='11.0' maintenanceversion='1.8'
+ replicaid='C125794C006266B1' form='fProjectItem'>
+<noteinfo noteid='9f33e' unid='FF6D1545FA8FF403802584CB0055C347' sequence='41'>
+<created><datetime>20191209T153645,51+00</datetime></created>
+<modified><datetime dst='true'>20240520T230724,57+01</datetime></modified>
+<revised><datetime dst='true'>20230902T041821,22+01</datetime></revised>
+<lastaccessed><datetime dst='true'>20240520T230724,56+01</datetime></lastaccessed>
+<addedtofile><datetime dst='true'>20240520T230724,56+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Sean 1 Cull/OU=GBABB/O=NONABB</name><name>CN=Phil Marsh/OU=GBEUL/O=ABB</name><name
+>CN=David Silversides/OU=GBABB/O=ABB</name><name>CN=Paul Jackson/OU=GBEUL/O=ABB</name><name
+>CN=Phil Marsh/OU=GBEUL/O=ABB</name><name>CN=Andrew Champion/O=prime-toolkit</name></updatedby>
+<revisions><datetime>20200114T080504,95+00</datetime><datetime>20211124T171202,39+00</datetime><datetime
+>20211124T171202,55+00</datetime><datetime>20221114T112535,50+00</datetime><datetime
+ dst='true'>20230902T014259,35+01</datetime></revisions>
+<item name='Client_Tx'><text>Gassco</text></item>
+<item name='ProjectNumber_Tx'><text>LRF</text></item>
+<item name='ProjectName_Tx'><text>LRF RBI</text></item>
+<item name='ParentUNID_Tx'><text>SCUL-9K2FJW</text></item>
+<item name='ProjectUNID_Tx'><text>SCUL-9K2FJW</text></item>
+<item name='EquipmentType_Tx'><text>Vessel</text></item>
+<item name='DocUNID_Tx'><text>PRIM-BJPLBH</text></item>
+<item name='Status_Nb'><number>100</number></item>
+<item name='ZZIMPORTUNID_TX'><text>80257C1C005433D580257C80006C3A54</text></item>
+<item name='ZZVESPROJNO_TX'><text>LRF</text></item>
+<item name='ZZREGNO_TX'><text>H-10-001D</text></item>
+<item name='Field_Tx_1_3'><text>LRF</text></item>
+<item name='Field_Tx_1_4'><text>Langeled Receiving Facility</text></item>
+<item name='Field_Tx_1_5'><text>H-10-001D</text></item>
+<item name='Field_Tx_1_12'><text>H-10-001D</text></item>
+<item name='Field_Tx_1_6'><text>Glycol / Water System Heater</text></item>
+<item name='Field_Tx_1_7'><text>Boiler - Fired Heater</text></item>
+<item name='Field_Tx_1_8'><text>Fired Heater</text></item>
+<item name='Field_Tx_1_9'><text>Shell Length 8900mm x Dia 3160mm </text></item>
+<item name='Field_Tx_1_14'><text>Bertrams</text></item>
+<item name='Field_Tx_1_15'><text>2005</text></item>
+<item name='Field_Tx_1_2'><text>Revalidated following thorough inspection.</text></item>
+<item name='Field_Tx_1_16'><text>AD Merkblatter</text></item>
+<item name='Field_Tx_1_21'><text>-</text></item>
+<item name='Field_Tx_1_10'><text>SV-4045 (Glycol), RV-10-4045 (Fuel gas supply)</text></item>
+<item name='Field_Tx_1_13'><text>This RBI also considers the heater exhaust stack X-10-001D.</text></item>
+<item name='Field_Tx_2_1'><text>Combustion Gases</text></item>
+<item name='Field_Tx_2_101'><text>Glycol</text></item>
+<item name='Field_Tx_2_13'><text>-</text></item>
+<item name='Field_Tx_2_113'><text>30% Mono Ethylene Glycol / 70% Water</text></item>
+<item name='Field_Tx_2_2'><text>-</text></item>
+<item name='Field_Tx_2_102'><text>13.5</text></item>
+<item name='Field_Tx_2_3'><text>-</text></item>
+<item name='Field_Tx_2_103'><text>-</text></item>
+<item name='Field_Tx_2_4'><text>-</text></item>
+<item name='Field_Tx_2_104'><text>6.5 to 7</text></item>
+<item name='Field_Tx_2_5'><text>-</text></item>
+<item name='Field_Tx_2_105'><text>22.7</text></item>
+<item name='Field_Tx_2_6'><text>-</text></item>
+<item name='Field_Tx_2_106'><text>135</text></item>
+<item name='Field_Tx_2_7'><text>-</text></item>
+<item name='Field_Tx_2_107'><text>-10</text></item>
+<item name='Field_Tx_2_8'><text>-</text></item>
+<item name='Field_Tx_2_108'><text>Inlet 65 / Outlet 85</text></item>
+<item name='Field_Tx_2_9'><text>-</text></item>
+<item name='Field_Tx_2_109'><text>&gt;7</text></item>
+<item name='Field_Tx_2_10'><text>-</text></item>
+<item name='Field_Tx_2_110'><text>N/A</text></item>
+<item name='Field_Tx_2_16'><text>Tubeside details are for the coil.</text></item>
+<item name='Field_Tx_3_21'><text>-</text></item>
+<item name='Field_Tx_3_31'><text>-</text></item>
+<item name='Field_Tx_3_22'><text>4.5</text></item>
+<item name='Field_Tx_3_32'><text>3</text></item>
+<item name='Field_Tx_3_23'><text>-</text></item>
+<item name='Field_Tx_3_33'><text>-</text></item>
+<item name='Field_Tx_3_24'><text>-</text></item>
+<item name='Field_Tx_3_34'><text>-</text></item>
+<item name='Field_Tx_3_25'><text>-</text></item>
+<item name='Field_Tx_3_35'><text>-</text></item>
+<item name='Field_Tx_3_26'><text>-</text></item>
+<item name='Field_Tx_3_36'><text>-</text></item>
+<item name='Field_Tx_3_101'><text>-</text></item>
+<item name='Field_Tx_3_201'><text>Carbon Steel</text></item>
+<item name='Label_Tx_3_2'><text>Tubes</text></item>
+<item name='Field_Tx_3_102'><text>DIN17175 ST 35.81</text></item>
+<item name='Label_Tx_3_3'><text>Stack</text></item>
+<item name='Field_Tx_3_103'><text>-</text></item>
+<item name='Label_Tx_3_4'><text>-</text></item>
+<item name='Field_Tx_3_104'><text>-</text></item>
+<item name='Field_Tx_3_105'><text>-</text></item>
+<item name='Field_Tx_3_106'><text>-</text></item>
+<item name='Field_Tx_3_45'><text>Tube O/Dia 101.6mm - 8 flow passes.</text></item>
+<item name='Field_Tx_3_14'><text>No</text></item>
+<item name='Field_Tx_3_15'><text>-</text></item>
+<item name='Field_Tx_3_41'><text>-</text></item>
+<item name='Field_Tx_3_18'><text>Shell - TSA coated / insulated &amp; clad</text></item>
+<item name='Field_Tx_3_19'><text>None</text></item>
+<item name='Field_Tx_3_20'><text>N/A</text></item>
+<item name='Field_Tx_5_1001'><text>X</text></item>
+<item name='Field_Tx_5_1002'><text>B(P)</text></item>
+<item name='Field_Tx_5_14'><text>48</text></item>
+<item name='Field_Tx_5_15'><text>24</text></item>
+<item name='Field_Tx_5_16'><text/></item>
+<item name='Field_Dt_5_1'><datetime dst='true'>20200525T120000,00+01</datetime></item>
+<item name='Field_Dt_5_2'><datetime dst='true'>20200525T120000,00+01</datetime></item>
+<item name='Field_Dt_5_3'><text/></item>
+<item name='Field_Tx_5_11'><text>Internal - Man Entry</text></item>
+<item name='Field_Tx_5_12'><text>Non Invasive Online</text></item>
+<item name='Field_Tx_5_13'><text>-</text></item>
+<item name='Field_Tx_5_1'><text>Visual internal / external with NDT.</text></item>
+<item name='Field_Tx_5_2'><text>Visual external &amp; thermography.</text></item>
+<item name='Field_Tx_5_3'><text>-</text></item>
+<item name='Field_Tx_5_8'><text>06/12/2018 - Type B to review thermography report.<break
+/>23/05/2018 - Type A - No issues noted and type B invoked for thermo report review.<break
+/>25/05/2016 - Thorough internal man entry - recommendations raised.<break
+/>14/04/2016 - Type B to review thermography report.<break/>06/10/2015 - Type A inspection carried out early at the request of LRF.<break
+/>19/08/2012 - Thorough internal man entry - no actions.<break/>26/02/2010 - Thorough internal man entry - no actions.<break
+/>26/11/2008 - First ABB inspection - Type A - external GVI.<break/>Full internal and external baseline visual inspection carried out prior to commissioning - 09/08/2006. LR report H-10-001 A-01 refers.  Site radiography has been carried out on associated Glycol/Water lines for weld root corrosion upstream of the heater adjacent to the booster pumps in 2007.  LR report 07- LRF RAD - 001 refers. no signs of internal corrosion found.</text></item>
+<item name='Field_Tx_5_10'><text>None.</text></item>
+<item name='Field_Tx_6_1'><text>Internal corrosion of the coils leading to leak of glycol within the heater.</text></item>
+<item name='Field_Tx_6_2'><text>External corrosion of the coils leading to a leak of glycol within the heater.</text></item>
+<item name='Field_Tx_6_3'><text>Internal oxidation / corrosion of the heater casing following damage to the refractory lining leading to a leak of exhaust gases to atmosphere.</text></item>
+<item name='Field_Tx_6_4'><text>Fatigue failure of glycol header branch leading to a leak of glycol to atmosphere.</text></item>
+<item name='Field_Tx_6_5'><text>Failure of manway internal shroud.</text></item>
+<item name='Field_Tx_6_6'><text>Internal / external corrosion of exhaust stack leading to leak of exhaust gases to atmosphere.</text></item>
+<item name='Field_Tx_6_7'><text>Creep failure of tube leading to a leak of glycol within the heater.</text></item>
+<item name='Field_Tx_6_8'><text/></item>
+<item name='Field_Tx_6_9'><text/></item>
+<item name='Field_Tx_6_10'><text/></item>
+<item name='Field_Tx_6_21'><text>None.</text></item>
+<item name='Field_Tx_7_1'><text>2</text></item>
+<item name='Field_Tx_7_21'><text>1</text></item>
+<item name='Field_Tx_7_41'><text>1</text></item>
+<item name='Field_Tx_7_2'><text>2</text></item>
+<item name='Field_Tx_7_22'><text>1</text></item>
+<item name='Field_Tx_7_42'><text>1</text></item>
+<item name='Field_Tx_7_3'><text>2</text></item>
+<item name='Field_Tx_7_23'><text>1</text></item>
+<item name='Field_Tx_7_43'><text>1</text></item>
+<item name='Field_Tx_7_4'><text>2</text></item>
+<item name='Field_Tx_7_24'><text>1</text></item>
+<item name='Field_Tx_7_44'><text>1</text></item>
+<item name='Field_Tx_7_5'><text>2</text></item>
+<item name='Field_Tx_7_25'><text>1</text></item>
+<item name='Field_Tx_7_45'><text>1</text></item>
+<item name='Field_Tx_7_6'><text>2</text></item>
+<item name='Field_Tx_7_26'><text>1</text></item>
+<item name='Field_Tx_7_46'><text>1</text></item>
+<item name='Field_Tx_7_7'><text>1</text></item>
+<item name='Field_Tx_7_27'><text>1</text></item>
+<item name='Field_Tx_7_47'><text>1</text></item>
+<item name='Field_Tx_7_8'><text/></item>
+<item name='Field_Tx_7_28'><text/></item>
+<item name='Field_Tx_7_48'><text/></item>
+<item name='Field_Tx_7_9'><text/></item>
+<item name='Field_Tx_7_29'><text/></item>
+<item name='Field_Tx_7_49'><text/></item>
+<item name='Field_Tx_7_10'><text/></item>
+<item name='Field_Tx_7_30'><text/></item>
+<item name='Field_Tx_7_50'><text/></item>
+<item name='Field_Tx_7_61'><text>FSE - Likelihood reduced from 3 to 2 following 2016 inspection and good performance of the shroud modification.<break
+/><break/>FSA/B/D/G - SHE consequence low since any release would be internal to the heater.<break
+/>Business consequence low since at least one heater always on standby duty.</text></item>
+<item name='Field_Tx_9_1'><text>This RBI has been revalidated following thorough inspection. Operating conditions have been confirmed.<break
+/><break/>The review has identified a Low likelihood of failure due to one or more deterioration mechanisms. The Maximum SHE consequences identified are Very Low and maximum business consequences identified are Very Low.<break
+/><break/>The credible deterioration mechanisms / failure scenarios for this vessel are listed below together with any mitigating inspection requirements:</text></item>
+<item name='Field_Tx_9_101'><text>Profile radiography of a sample of coil butt welds within the heater, together with an exit pipework butt weld. The inspection is to look specifically for preferential weld root corrosion. Sample UTC of coils to confirm no general wall thickness loss.<break
+/><break/>Confirmation required that the glycol heating medium quality has been maintained within specification.</text></item>
+<item name='Field_Tx_9_201'><text>Thorough</text></item>
+<item name='Field_Tx_9_301'><text>None.</text></item>
+<item name='Field_Tx_9_102'><text>Full internal examination of heater with access to furnace and flue sections for visual inspection of the coils as accessible. UT of tubes at any areas of concern.</text></item>
+<item name='Field_Tx_9_202'><text>Thorough</text></item>
+<item name='Field_Tx_9_302'><text>None.</text></item>
+<item name='Field_Tx_9_103'><text>Visual inspection of refractory looking for any signs of damage. <break
+/><break/>Visual inspection of heater casing looking for any signs of paint damage that may indicate a hot spot.<break
+/><break/>Thorough &amp; Intermediate: Thermography survey of heater and stack whilst on-line.</text></item>
+<item name='Field_Tx_9_203'><textlist><text>Thorough</text><text>Intermediate Type A</text></textlist></item>
+<item name='Field_Tx_9_303'><text>None.</text></item>
+<item name='Field_Tx_9_104'><text>ECT examination of inlet and outlet branch to shell welds. MPI not specified due to need to remove TSA coating.<break
+/></text></item>
+<item name='Field_Tx_9_204'><text>Thorough</text></item>
+<item name='Field_Tx_9_304'><text>None.</text></item>
+<item name='Field_Tx_9_105'><text>Visual inspection of previous modification on manway internal shroud to confirm no distortion with crack detection of welds if damage is evident.</text></item>
+<item name='Field_Tx_9_205'><text>Thorough</text></item>
+<item name='Field_Tx_9_305'><text>None.</text></item>
+<item name='Field_Tx_9_106'><text>Visual external inspection of stack looking for any signs of paint breakdown. Carry out UT checks around stack base as accessible.</text></item>
+<item name='Field_Tx_9_206'><text>Thorough</text></item>
+<item name='Field_Tx_9_306'><text>None.</text></item>
+<item name='Field_Tx_9_9'><text>Thorough invasive inspection to be retained on a 48 month interval due 25/05/2020 with intermediate Type A on a 24 month interval due 25/05/2020.<break
+/><break/>Based on ABB's RBI methodology and inspection knowledge / experience, the revalidated ABB RBI is to be adopted with the following supporting rationale:<break
+/><break/>- The satisfactory internal inspection in 2016.<break/>- The low consequences of failure.<break
+/>- ABB consider that DNV recommendation for 24 monthly GVI is not essential and would normally be covered by daily / weekly operational plant tours. However ABB will incorporate this inspection on the WSE at the request of Gassco.</text></item>
+<item name='Field_Tx_9_501'><text>Profile radiography of a sample of coil butt welds within the heater, together with an exit pipework butt weld. The inspection is to look specifically for preferential weld root corrosion. <break
+/><break/>Sample UTC of coils to confirm no general wall thickness loss.<break
+/><break/>Confirmation required that the glycol heating medium quality has been maintained within specification.<break
+/><break/>Full internal examination of heater with access to furnace and flue sections for visual inspection of the coils as accessible. UT of tubes at any areas of concern.<break
+/><break/>Visual inspection of refractory looking for any signs of damage.<break
+/><break/>Visual inspection of heater casing looking for any signs of paint damage that may indicate a hot spot.<break
+/><break/>Thermography survey of heater and stack whilst on-line.<break/><break
+/>ECT examination of inlet and outlet branch to shell welds. MPI not specified due to need to remove TSA coating.<break
+/><break/>Visual inspection of previous modification on manway internal shroud to confirm no distortion with crack detection of welds if damage is evident.<break
+/><break/>Visual external inspection of stack looking for any signs of paint breakdown. Carry out UT checks around stack base as accessible.<break
+/><break/>Visual inspection of tubes looking for any signs of flame impingement or overheating.<break
+/><break/>Confirm with operations that there have been no high temperature trips or burner flame direction issues.<break
+/><break/>Consider replication of tubes surfaces to check for creep damage at any areas of concern.</text></item>
+<item name='Field_Tx_9_511'><text>Internal - Man Entry</text></item>
+<item name='Field_Tx_9_521'><text>48</text></item>
+<item name='Field_Dt_9_531'><datetime dst='true'>20200525T120000,00+01</datetime></item>
+<item name='Field_Tx_9_502'><text>Thermography survey of heater and stack whilst on-line.<break
+/><break/>General visual external inspection.</text></item>
+<item name='Field_Tx_9_512'><text>Non Invasive Online</text></item>
+<item name='Field_Tx_9_522'><text>24</text></item>
+<item name='Field_Dt_9_532'><datetime dst='true'>20200525T120000,00+01</datetime></item>
+<item name='Field_Tx_9_503'><text>None expected.</text></item>
+<item name='Field_Tx_9_513'><text>-</text></item>
+<item name='Field_Tx_9_523'><text>-</text></item>
+<item name='Field_Dt_9_533'><text/></item>
+<item name='Field_Tx_9_504'><text>None expected.</text></item>
+<item name='Field_Dt_9_534'><text/></item>
+<item name='Field_Tx_9_505'><text>B (P)</text></item>
+<item name='Field_Tx_9_16'><text>None.</text></item>
+<item name='RegNumber'><text>H-10-001D</text></item>
+<item name='LocalID'><text>H-10-001D</text></item>
+<item name='Title'><text>Glycol / Water System Heater</text></item>
+<item name='Fluids'><text>Shellside: Combustion Gases, Tubeside: Glycol</text></item>
+<item name='ReliefStreamNo'><text>SV-4045 (Glycol), RV-10-4045 (Fuel gas supply)</text></item>
+<item name='SystemNo'><text/></item>
+<item name='System'><text/></item>
+<item name='Works'><text>LRF</text></item>
+<item name='Plant'><text>LRF</text></item>
+<item name='Unit'><text>-</text></item>
+<item name='Customer'><text>Gassco</text></item>
+<item name='Area'><text>Humberside</text></item>
+<item name='Class'><text>B (P)</text></item>
+<item name='INS_Deterioration'><text>See attachment.</text></item>
+<item name='RefDoc'><text>See RBI Report Rev 3 dated 12/12/2019.</text></item>
+<item name='DismantleIntl'><text>None required.</text></item>
+<item name='DismantleExtl'><text>Open heater for internal man entry.<break
+/>Remove insulation from inlet and outlet connections of shell to headers.</text></item>
+<item name='CleanIntl'><text>Surface preparation as required to facilitate NDT.</text></item>
+<item name='CleanExtl'><text>None required.</text></item>
+<item name='AccessIntl'><text>Confined space entry permit required.</text></item>
+<item name='AccessExtl'><text>Scaffold access to inlet and outlet connections of shell to headers.</text></item>
+<item name='TestIntl'><text/></item>
+<item name='TestExtl'><text/></item>
+<item name='VisualAidIntl'><text>Torch and camera.</text></item>
+<item name='VisualAidExtl'><text>Torch and camera.</text></item>
+<item name='SpecialReqIntl'><text/></item>
+<item name='SpecialReqExtl'><text/></item>
+<item name='Cont_tx'><text>false</text></item>
+<item name='IntermediateA'><text/></item>
+<item name='IntermediateB'><text/></item>
+<item name='InspectorName'><text>Phil Marsh</text></item>
+<item name='InspectorEmail' names='true'><text/></item>
+<item name='SubmitInsp'><text/></item>
+<item name='SignDate'><text/></item>
+<item name='SeniorInspectorName'><text/></item>
+<item name='SeniorInspectorEmail' names='true'><text/></item>
+<item name='SubmitSenInsp'><text/></item>
+<item name='ApproveSenInsp'><text/></item>
+<item name='ClientSignatory'><text>Graham Morris</text></item>
+<item name='ClientEmail'><text/></item>
+<item name='SubmitClient'><text/></item>
+<item name='CommissionDate'><text>2005</text></item>
+<item name='DespatchDate'><text/></item>
+<item name='DetMechsDefaulted_Tx'><text>Yes</text></item>
+<item name='Deterioration_Tx_1'><text>Corrosion / Pitting</text></item>
+<item name='DetCredible_Tx_1_1'><text>Yes</text></item>
+<item name='Location_Tx_1_1'><text>Coil internals</text></item>
+<item name='DetComment_Tx_1_1'><text>Potential for internal corrosion due to degradation of glycol at extended periods of high temperature. Possible location for attack would be welds / HAZ. No indication of any internal corrosion at inspections to date. Glycol quality is monitored on a monthly basis and corrected if out of specification.</text></item>
+<item name='DetCredible_Tx_1_2'><text>Yes</text></item>
+<item name='Location_Tx_1_2'><text>Coil externals</text></item>
+<item name='DetComment_Tx_1_2'><text>Potential due to water condensation during cooling and whilst on stand-by. Recent inspection has revealed no issues.</text></item>
+<item name='DetCredible_Tx_1_3'><text>Yes</text></item>
+<item name='Location_Tx_1_3'><text>Casing internals</text></item>
+<item name='DetComment_Tx_1_3'><text>Any metal surfaces at high temperature where refractory has deteriorated may be subject to oxidation. Where any exhaust gases track behind damaged refractory, condensation may occur on the cold casing leading to corrosion.</text></item>
+<item name='DetCredible_Tx_1_4'><text>Yes</text></item>
+<item name='Location_Tx_1_4'><text>Support saddles</text></item>
+<item name='DetComment_Tx_1_4'><text>Potential for atmospheric corrosion following breakdown of paint system, however situated inside building so not considered an issue. Recent inspection has revealed no issues.</text></item>
+<item name='DetCredible_Tx_1_5'><text>Yes</text></item>
+<item name='Location_Tx_1_5'><text>Exhaust Stack External</text></item>
+<item name='DetComment_Tx_1_5'><text>Potential for atmospheric corrosion following breakdown of paint system. Recent inspection has revealed no issues.</text></item>
+<item name='DetCredible_Tx_1_6'><text>Yes</text></item>
+<item name='Location_Tx_1_6'><text>Exhaust Stack Internal</text></item>
+<item name='DetComment_Tx_1_6'><text>Any metal surfaces at high temperature may be subject to oxidation, colder surfaces where condensation may occur will be subject to corrosion. <break
+/><break/>The extent and type of any internal refractory in the exhaust stack is unknown, however any exhaust gases that track behind the refractory may condense giving the potential for corrosion.</text></item>
+<item name='LocCount_Nb_1'><number>6</number></item>
+<item name='Deterioration_Tx_2'><text>Corrosion under insulation (CUI)</text></item>
+<item name='DetCredible_Tx_2_1'><text>No</text></item>
+<item name='Location_Tx_2_1'><text>Casing external.</text></item>
+<item name='DetComment_Tx_2_1'><text>Shell could be susceptible in the unlikely event that the TSA coating was to breakdown. However the heaters are located inside a building and therefore CUI not considered an issue.</text></item>
+<item name='LocCount_Nb_2'><number>1</number></item>
+<item name='Deterioration_Tx_3'><text>Stress corrosion cracking</text></item>
+<item name='DetCredible_Tx_3_1'><text>No</text></item>
+<item name='Location_Tx_3_1'><text>-</text></item>
+<item name='DetComment_Tx_3_1'><text>None expected.</text></item>
+<item name='LocCount_Nb_3'><number>1</number></item>
+<item name='Deterioration_Tx_4'><text>Erosion</text></item>
+<item name='DetCredible_Tx_4_1'><text>No</text></item>
+<item name='Location_Tx_4_1'><text>Tube internals</text></item>
+<item name='DetComment_Tx_4_1'><text>None expected with no internal losses to tubes identified at previous inspections.</text></item>
+<item name='LocCount_Nb_4'><number>1</number></item>
+<item name='Deterioration_Tx_5'><text>Fatigue</text></item>
+<item name='DetCredible_Tx_5_1'><text>Yes</text></item>
+<item name='Location_Tx_5_1'><text>Pipework connections to the shell.</text></item>
+<item name='DetComment_Tx_5_1'><text>Potential for thermal or mechanical movement of the coils to subject the branch connection to cyclic loadings. </text></item>
+<item name='DetCredible_Tx_5_2'><text>Yes</text></item>
+<item name='Location_Tx_5_2'><text>Manway door internal shroud.</text></item>
+<item name='DetComment_Tx_5_2'><text>An inspection of sister unit H-10-001C carried out in Apr 2009 found thermal fatigue cracks / damage to  the manway door recess welds believed to be due to excessive heat distortion and a poor standard of welding. A modification to the door internal shroud was carried out to minimise the heat distortion in the door recess plating and to repair the defective welds.<break
+/><break/>This heater H-10-001D was brought off line in Feb 2010 to undergo a thorough inspection and to carry out the modification to the manway surround plate. The buckled areas were cut out, any cracking was dressed out and overlaid with weld and re-dressed before DPI. The performance of this modification will be monitored at future inspections. No further deterioration noted at the 2016 thorough inspection.</text></item>
+<item name='LocCount_Nb_5'><number>2</number></item>
+<item name='Deterioration_Tx_6'><text>Creep / Overheating</text></item>
+<item name='DetCredible_Tx_6_1'><text>Yes</text></item>
+<item name='Location_Tx_6_1'><text>Tubes</text></item>
+<item name='DetComment_Tx_6_1'><text>Potential for overheating of tubes, however protection systems in place with thermocouples to prevent temperature excursions, therefore seen as a very low likelihood deterioration mechanism.</text></item>
+<item name='LocCount_Nb_6'><number>1</number></item>
+<item name='Deterioration_Tx_7'><text>Mechanical damage</text></item>
+<item name='DetCredible_Tx_7_1'><text>No</text></item>
+<item name='Location_Tx_7_1'><text>-</text></item>
+<item name='DetComment_Tx_7_1'><text>None expected.</text></item>
+<item name='LocCount_Nb_7'><number>1</number></item>
+<item name='Deterioration_Tx_8'><text>Lining deterioration</text></item>
+<item name='DetCredible_Tx_8_1'><text>Yes</text></item>
+<item name='Location_Tx_8_1'><text>Refractory lining and burner quarls</text></item>
+<item name='DetComment_Tx_8_1'><text>The onset of any damage will be picked up by internal visual examination before any significant threat occurs. Some minor cracking noted at the 2016 inspection but no issues revealed during thermography surveys. These cracks will be monitored at future inspection.</text></item>
+<item name='LocCount_Nb_8'><number>1</number></item>
+<item name='Deterioration_Tx_9'><text>Galvanic corrosion</text></item>
+<item name='DetCredible_Tx_9_1'><text>No</text></item>
+<item name='Location_Tx_9_1'><text>External</text></item>
+<item name='DetComment_Tx_9_1'><text>None expected due to dry environment within the heater house.</text></item>
+<item name='LocCount_Nb_9'><number>1</number></item>
+<item name='DetCount_Nb'><number>9</number></item>
+<item name='ZZIMPORTFAILUREFLAG_TX'><text>7<break/>8<break/>9<break/>10</text></item>
+<item name='InternalRole_Tx_1'><text>RBI Team Leader</text></item>
+<item name='InternalMember_Nm_1' names='true'><text>Phil Marsh/TUV</text></item>
+<item name='InternalSignature_Nm_1' names='true'><text>CN=Phil Marsh/O=TUV</text></item>
+<item name='InternalSigDate_Dt_1'><datetime>20191212</datetime></item>
+<item name='InternalSigComments_Tx_1'><text/></item>
+<item name='InternalRole_Tx_2'><text/></item>
+<item name='InternalMember_Nm_2' names='true'><text/></item>
+<item name='InternalSignature_Nm_2' names='true'><text/></item>
+<item name='InternalSigDate_Dt_2'><text/></item>
+<item name='InternalSigComments_Tx_2'><text/></item>
+<item name='InternalRole_Tx_3'><text/></item>
+<item name='InternalMember_Nm_3' names='true'><text/></item>
+<item name='InternalSignature_Nm_3' names='true'><text/></item>
+<item name='InternalSigDate_Dt_3'><text/></item>
+<item name='InternalSigComments_Tx_3'><text/></item>
+<item name='InternalRole_Tx_4'><text/></item>
+<item name='InternalMember_Nm_4' names='true'><text/></item>
+<item name='InternalSignature_Nm_4' names='true'><text/></item>
+<item name='InternalSigDate_Dt_4'><text/></item>
+<item name='InternalSigComments_Tx_4'><text/></item>
+<item name='InternalRole_Tx_5'><text/></item>
+<item name='InternalMember_Nm_5' names='true'><text/></item>
+<item name='InternalSignature_Nm_5' names='true'><text/></item>
+<item name='InternalSigDate_Dt_5'><text/></item>
+<item name='InternalSigComments_Tx_5'><text/></item>
+<item name='InternalRole_Tx_6'><text/></item>
+<item name='InternalMember_Nm_6' names='true'><text/></item>
+<item name='InternalSignature_Nm_6' names='true'><text/></item>
+<item name='InternalSigDate_Dt_6'><text/></item>
+<item name='InternalSigComments_Tx_6'><text/></item>
+<item name='ClientRole_Tx_1'><text>Maintenance Manager</text></item>
+<item name='ClientMember_Nm_1' names='true'><text>Graham Morris/pRIME</text></item>
+<item name='ClientSignature_Nm_1' names='true'><text>CN=Paul Jackson/O=TUV</text></item>
+<item name='ClientRole_Tx_2'><text/></item>
+<item name='ClientMember_Nm_2' names='true'><text/></item>
+<item name='ClientSignature_Nm_2' names='true'><text/></item>
+<item name='ClientRole_Tx_3'><text/></item>
+<item name='ClientMember_Nm_3' names='true'><text/></item>
+<item name='ClientSignature_Nm_3' names='true'><text/></item>
+<item name='ClientRole_Tx_4'><text/></item>
+<item name='ClientMember_Nm_4' names='true'><text/></item>
+<item name='ClientSignature_Nm_4' names='true'><text/></item>
+<item name='ClientRole_Tx_5'><text/></item>
+<item name='ClientMember_Nm_5' names='true'><text/></item>
+<item name='ClientSignature_Nm_5' names='true'><text/></item>
+<item name='ClientRole_Tx_6'><text/></item>
+<item name='ClientMember_Nm_6' names='true'><text/></item>
+<item name='ClientSignature_Nm_6' names='true'><text/></item>
+<item name='PreparedBy_Nm' names='true'><text>CN=Phil Marsh/O=TUV</text></item>
+<item name='PreparedByDate_Dt'><datetime>20191212</datetime></item>
+<item name='MeetingHeld_Nm' names='true'><text>CN=Phil Marsh/O=TUV</text></item>
+<item name='MeetingHeldDate_Dt'><datetime>20191212T120000,00+00</datetime></item>
+<item name='Field_Rtx_4_1' sign='true' seal='true'>
+<rawitemdata type='19'>
+AgACAAAAAgBMBAAAKgAAAAAAAABDb250ZW50LVR5cGU6IHRleHQvcGxhaW47Y2hhcnNldD11dGYt
+OA0KDQpUaGUgaGVhdGVyIGlzIGEgZGlyZWN0IGZpcmVkIGNvaWwgdW5pdCBzdXBwbHlpbmcgaGVh
+dGVkIGdseWNvbC93YXRlciBtaXh0dXJlLg0KDQpUaGUgaGVhdGVyIGlzIGRpcmVjdCBmaXJlZCB3
+aXRoIGVpZ2h0IHNlY3Rpb25zIG9mIGhlbGljYWxseSBmb3JtZWQgdHViZXMgbWFraW5nIHVwIHRo
+ZSBmdXJuYWNlLiANClRoZSBpbmxldCBhbmQgb3V0bGV0IGNvbm5lY3Rpb25zIG9mIHRoZSBjb2ls
+IGFyZSB3ZWxkZWQgdG8gdGhlIHNoZWxsIGJlZm9yZSBiZWluZyBjb2xsZWN0ZWQgaW4gaW5sZXQg
+YW5kIG91dGxldCBoZWFkZXJzLg0KDQpUaGVyZSBpcyBhIGZsb3cgbWV0ZXIgb24gdGhlIG91dGxl
+dCB3aXRoIGxvdyBmbG93IHRyaXAgcHJvdGVjdGluZyBhZ2FpbnN0IGxvc3Mgb2YgZ2x5Y29sIGZs
+b3cgYW5kIHN1YnNlcXVlbnQgb3ZlcmhlYXRpbmcgb2YgdGhlIHR1YmVzLiBTaW1pbGFybHkgdGhl
+cmUgaXMgYW4gb3V0bGV0IHRlbXBlcmF0dXJlIHRyaXAgLiANCg0KVGhlIGdseWNvbCBzeXN0ZW0g
+aXMgYSBjbG9zZWQgY2lyY3VpdCB0aGF0IGlzIE4yIGJsYW5rZXRlZC4gDQoNClRoaXMgaXMgb25l
+IG9mIGEgc2VyaWVzIG9mIDQgaGVhdGVycy4gVGhlcmUgaXMgYWx3YXlzIGF0IGxlYXN0IG9uZSBo
+ZWF0ZXIgb24gc3RhbmQtYnkuIA0KVGhlIHVzZSBpcyBkZXBlbmRlbnQgb24gdGhlIGdhcyBmbG93
+IChwcm9kdWN0aW9uIG5vbWluYXRpb24pLiBUaGUgNCBoZWF0ZXJzIGFyZSBzZXJ2ZWQgZnJvbSBh
+IGNvbW1vbiBoZWFkZXIuIA0KVGhlIGR1dHkgZmx1Y3R1YXRlcyBhbmQgaGVhdGVycyBjYW4gYmUg
+c3ViamVjdCB0byBzaHV0ZG93biB3aGVuIGl0IGlzIGFsbG93ZWQgdG8gY29vbC4gV2hlbiB0aGlz
+IG9jY3VycyB0aGVyZSBjb3VsZCBiZSBhIHBvdGVudGlhbCB0byBleHBlcmllbmNlIGNvbmRlbnNh
+dGlvbiBvbiB0aGUgZXh0ZXJuYWwgc3VyZmFjZXMgb2YgIHRoZSBjb2lsIHR1YmVzIHdpdGggcG9z
+c2libGUgY29ycm9zaW9uLiBJdCB3aWxsIGFsc28gc3ViamVjdCB0aGUgYnJhbmNoIGNvbm5lY3Rp
+b24gdG8gY3ljbGljIHRoZXJtYWwgc3RyZXNzLg0KDQogICANCg==
+</rawitemdata></item>
+<item name='Field_Rtx_4_2' sign='true' seal='true'>
+<rawitemdata type='19'>
+AgACAAAAAgA6AAAAKgAAAAAAAABDb250ZW50LVR5cGU6IHRleHQvcGxhaW47Y2hhcnNldD11dGYt
+OA0KDQpOb25lIGVudmlzYWdlZC4g
+</rawitemdata></item>
+<item name='Field_Rtx_4_3' sign='true' seal='true'>
+<rawitemdata type='19'>
+AgACAAAAAgCFAAAAKgAAAAAAAABDb250ZW50LVR5cGU6IHRleHQvcGxhaW47Y2hhcnNldD11dGYt
+OA0KDQpPbiBzaHV0ZG93biAvIHN0YW5kYnkgZHV0eSB0aGUgaGVhdGVyIGZ1cm5hY2Ugd291bGQg
+YmUgY29vbGVkIGFuZCBsZWZ0IG9wZW4gdG8gYXRtb3NwaGVyZS4g
+</rawitemdata></item>
+<item name='Field_Rtx_4_4' sign='true' seal='true'>
+<rawitemdata type='19'>
+AgACAAAAAgAvAAAAKgAAAAAAAABDb250ZW50LVR5cGU6IHRleHQvcGxhaW47Y2hhcnNldD11dGYt
+OA0KDQpOb25lLg==
+</rawitemdata></item>
+<item name='$NoteHasNativeMIME'><text>1</text></item>
+<item name='MIME_Version'><text>1.0</text></item>
+<item name='LoopUNID_Tx'><text/></item>
+<item name='ItemNumber_Tx'><text/></item>
+<item name='ItemName_Tx'><text/></item>
+<item name='ViewDetail_Tx'><text/></item>
+<item name='Groups_Tx'><text/></item>
+<item name='Status_Tx'><text/></item>
+<item name='History_Tx'><textlist><text>14 Nov 2022 11:25:35  :  Phil Marsh  :   Imported WSE to Inspection Application</text><text
+>14/01/2020  08:04:40  :  David Silversides  :  Comments: Attach RBI word document</text><text
+>14/01/2020  08:04:40  :  David Silversides  :  Admin Recycle</text><text
+>12/12/2019  10:08:27  :  Phil Marsh  :  Signature Added</text><text>12/12/2019  10:08:21  :  Phil Marsh  :  Signatures requested</text><text
+>12/12/2019  10:08:16  :  Phil Marsh  :  Meeting Held</text><text>12/12/2019  09:48:23  :  Phil Marsh  :  Prepared</text><text
+>09/12/2019  15:36:45  :  Phil Marsh  :  New version</text><text>02/03/2018  13:39:01  :  Phil Marsh  :  Comments: Updated process info</text><text
+>02/03/2018  13:39:01  :  Phil Marsh  :  Admin Recycle</text><text>12/05/2014 12:24:34  :  Sean 1 Cull  :  Created</text></textlist></item>
+<item name='Field_Tx_1_11'><textlist><text>PSSR</text><text>PUWER</text></textlist></item>
+<item name='Field_Tx_1_17'><text/></item>
+<item name='Field_Tx_1_18'><text/></item>
+<item name='Field_Tx_1_19'><text/></item>
+<item name='Field_Tx_1_20'><text/></item>
+<item name='Units_Tx_2_1'><text/></item>
+<item name='Units_Tx_2_2'><text/></item>
+<item name='Units_Tx_2_3'><text/></item>
+<item name='Units_Tx_2_4'><text/></item>
+<item name='Units_Tx_2_5'><text/></item>
+<item name='Units_Tx_2_6'><text/></item>
+<item name='Units_Tx_2_7'><text/></item>
+<item name='Units_Tx_2_8'><text/></item>
+<item name='Units_Tx_2_9'><text/></item>
+<item name='Units_Tx_2_10'><text/></item>
+<item name='Field_Tx_2_11'><text/></item>
+<item name='Units_Tx_2_11'><text/></item>
+<item name='Field_Tx_2_12'><text/></item>
+<item name='Units_Tx_2_12'><text/></item>
+<item name='Units_Tx_2_13'><text/></item>
+<item name='Field_Tx_2_14'><text/></item>
+<item name='Units_Tx_2_14'><text/></item>
+<item name='Field_Tx_2_15'><text/></item>
+<item name='Units_Tx_2_15'><text/></item>
+<item name='Units_Tx_2_16'><text/></item>
+<item name='Field_Tx_2_17'><text/></item>
+<item name='Units_Tx_2_17'><text/></item>
+<item name='Field_Tx_2_18'><text/></item>
+<item name='Units_Tx_2_18'><text/></item>
+<item name='Field_Tx_2_19'><text/></item>
+<item name='Units_Tx_2_19'><text/></item>
+<item name='Field_Tx_2_20'><text/></item>
+<item name='Units_Tx_2_20'><text/></item>
+<item name='Field_Tx_3_202'><text>Carbon Steel</text></item>
+<item name='Field_Tx_3_203'><text>Carbon Steel</text></item>
+<item name='Field_Tx_3_204'><text>-</text></item>
+<item name='Field_Tx_3_205'><text>-</text></item>
+<item name='Field_Tx_3_206'><text>-</text></item>
+<item name='Field_Tx_3_107'><text/></item>
+<item name='Field_Tx_3_207'><text/></item>
+<item name='Label_Tx_3'><text/></item>
+<item name='Field_Tx_3'><text/></item>
+<item name='Label_Tx_3_7'><text/></item>
+<item name='Field_Tx_3_27'><text/></item>
+<item name='Field_Tx_3_37'><text/></item>
+<item name='Label_Tx_3_8'><text/></item>
+<item name='Field_Tx_3_8'><text/></item>
+<item name='Field_Tx_3_28'><text/></item>
+<item name='Field_Tx_3_38'><text/></item>
+<item name='Label_Tx_3_9'><text/></item>
+<item name='Field_Tx_3_9'><text/></item>
+<item name='Field_Tx_3_29'><text/></item>
+<item name='Field_Tx_3_39'><text/></item>
+<item name='Label_Tx_3_10'><text/></item>
+<item name='Field_Tx_3_10'><text/></item>
+<item name='Field_Tx_3_30'><text/></item>
+<item name='Field_Tx_3_40'><text/></item>
+<item name='Field_Tx_3_11'><text/></item>
+<item name='Field_Tx_3_12'><text/></item>
+<item name='Field_Tx_3_13'><text/></item>
+<item name='Field_Tx_3_16'><text>None.</text></item>
+<item name='Field_Tx_3_17'><text/></item>
+<item name='Field_Tx_3_42'><text>501679 Rev H.  553131 Rev E</text></item>
+<item name='Field_Tx_4_1'><text/></item>
+<item name='Field_Tx_4_2'><text/></item>
+<item name='Field_Tx_4_3'><text/></item>
+<item name='Field_Tx_4_4'><text/></item>
+<item name='Field_Tx_4_5'><text/></item>
+<item name='Field_Tx_4_6'><text/></item>
+<item name='Field_Tx_4_7'><text/></item>
+<item name='Field_Tx_4_8'><text/></item>
+<item name='Field_Tx_4_9'><text/></item>
+<item name='Field_Tx_4_10'><text/></item>
+<item name='Field_Tx_5'><text/></item>
+<item name='Field_Dt_5'><text/></item>
+<item name='Field_Tx_5_4'><text/></item>
+<item name='Field_Tx_5_5'><text/></item>
+<item name='Field_Tx_5_6'><text/></item>
+<item name='Field_Tx_5_7'><text/></item>
+<item name='Field_Tx_5_9'><text/></item>
+<item name='Field_Tx_5_17'><text/></item>
+<item name='Field_Tx_5_18'><text/></item>
+<item name='Field_Tx_5_19'><text/></item>
+<item name='Field_Tx_5_20'><text/></item>
+<item name='Deterioration_Tx'><text/></item>
+<item name='Credible_Tx_1'><text/></item>
+<item name='Location_Tx_1'><text/></item>
+<item name='DetComment_Tx_1'><text/></item>
+<item name='Credible_Tx_1_1'><text/></item>
+<item name='Field_Tx_6_11'><text/></item>
+<item name='Field_Tx_6_12'><text/></item>
+<item name='Field_Tx_6_13'><text/></item>
+<item name='Field_Tx_6_14'><text/></item>
+<item name='Field_Tx_6_15'><text/></item>
+<item name='Field_Tx_6_16'><text/></item>
+<item name='Field_Tx_6_17'><text/></item>
+<item name='Field_Tx_6_18'><text/></item>
+<item name='Field_Tx_6_19'><text/></item>
+<item name='Field_Tx_6_20'><text/></item>
+<item name='Field_Tx_7'><text/></item>
+<item name='Field_Tx_7_11'><text/></item>
+<item name='Field_Tx_7_12'><text/></item>
+<item name='Field_Tx_7_13'><text/></item>
+<item name='Field_Tx_7_14'><text/></item>
+<item name='Field_Tx_7_15'><text/></item>
+<item name='PreparedByComments_Tx'><text/></item>
+<item name='MeetingHeldComments_Tx'><text/></item>
+<item name='InternalRole_Tx'><text/></item>
+<item name='InternalMember_Nm' names='true'><text/></item>
+<item name='InternalSignature_Nm' names='true'><text/></item>
+<item name='InternalSigDate_Dt'><text/></item>
+<item name='InternalSigComments_Tx'><text/></item>
+<item name='InternalRole_Tx_7'><text/></item>
+<item name='InternalMember_Nm_7' names='true'><text/></item>
+<item name='InternalSignature_Nm_7' names='true'><text/></item>
+<item name='InternalSigDate_Dt_7'><text/></item>
+<item name='InternalSigComments_Tx_7'><text/></item>
+<item name='InternalRole_Tx_8'><text/></item>
+<item name='InternalMember_Nm_8' names='true'><text/></item>
+<item name='InternalSignature_Nm_8' names='true'><text/></item>
+<item name='InternalSigDate_Dt_8'><text/></item>
+<item name='InternalSigComments_Tx_8'><text/></item>
+<item name='InternalRole_Tx_9'><text/></item>
+<item name='InternalMember_Nm_9' names='true'><text/></item>
+<item name='InternalSignature_Nm_9' names='true'><text/></item>
+<item name='InternalSigDate_Dt_9'><text/></item>
+<item name='InternalSigComments_Tx_9'><text/></item>
+<item name='InternalRole_Tx_10'><text/></item>
+<item name='InternalMember_Nm_10' names='true'><text/></item>
+<item name='InternalSignature_Nm_10' names='true'><text/></item>
+<item name='InternalSigDate_Dt_10'><text/></item>
+<item name='InternalSigComments_Tx_10'><text/></item>
+<item name='ClientRole_Tx'><text/></item>
+<item name='ClientMember_Nm' names='true'><text/></item>
+<item name='ClientSignature_Nm' names='true'><text/></item>
+<item name='ClientSigDate_Dt'><text/></item>
+<item name='ClientSigComments_Tx'><text/></item>
+<item name='ClientSigDate_Dt_1'><datetime>20211124</datetime></item>
+<item name='ClientSigComments_Tx_1'><text/></item>
+<item name='ClientSigDate_Dt_2'><text/></item>
+<item name='ClientSigComments_Tx_2'><text/></item>
+<item name='ClientSigDate_Dt_3'><text/></item>
+<item name='ClientSigComments_Tx_3'><text/></item>
+<item name='ClientSigDate_Dt_4'><text/></item>
+<item name='ClientSigComments_Tx_4'><text/></item>
+<item name='ClientSigDate_Dt_5'><text/></item>
+<item name='ClientSigComments_Tx_5'><text/></item>
+<item name='ClientSigDate_Dt_6'><text/></item>
+<item name='ClientSigComments_Tx_6'><text/></item>
+<item name='ClientRole_Tx_7'><text/></item>
+<item name='ClientMember_Nm_7' names='true'><text/></item>
+<item name='ClientSignature_Nm_7' names='true'><text/></item>
+<item name='ClientSigDate_Dt_7'><text/></item>
+<item name='ClientSigComments_Tx_7'><text/></item>
+<item name='ClientRole_Tx_8'><text/></item>
+<item name='ClientMember_Nm_8' names='true'><text/></item>
+<item name='ClientSignature_Nm_8' names='true'><text/></item>
+<item name='ClientSigDate_Dt_8'><text/></item>
+<item name='ClientSigComments_Tx_8'><text/></item>
+<item name='ClientRole_Tx_9'><text/></item>
+<item name='ClientMember_Nm_9' names='true'><text/></item>
+<item name='ClientSignature_Nm_9' names='true'><text/></item>
+<item name='ClientSigDate_Dt_9'><text/></item>
+<item name='ClientSigComments_Tx_9'><text/></item>
+<item name='ClientRole_Tx_10'><text/></item>
+<item name='ClientMember_Nm_10' names='true'><text/></item>
+<item name='ClientSignature_Nm_10' names='true'><text/></item>
+<item name='ClientSigDate_Dt_10'><text/></item>
+<item name='ClientSigComments_Tx_10'><text/></item>
+<item name='Orig_DateComplete_Dt'><datetime>20140318T000000,00+00</datetime></item>
+<item name='DATEABBSIGSREQUESTED_DT'><datetime>20191212</datetime></item>
+<item name='DateABBSigned_Dt'><datetime>20191212</datetime></item>
+<item name='DateComplete_Dt'><datetime>20211124</datetime></item>
+<item name='SchemeExport_Tx'><text>No</text></item>
+<item name='RecycleFlag_Tx'><text/></item>
+<item name='RecycleComments_Tx'><text/></item>
+<item name='RecycleBy_Nm'><text/></item>
+<item name='RecycleDate_Dt'><text/></item>
+<item name='AdminRecycleFlag_Tx'><text/></item>
+<item name='AdminRecycleComments_Tx'><text/></item>
+<item name='AdminRecycleBy_Nm'><text/></item>
+<item name='AdminRecycleDate_Dt'><text/></item>
+<item name='Field_Tx_7_220'><text/></item>
+<item name='Field_Tx_7_420'><text/></item>
+<item name='TempField_Tx'><text/></item>
+<item name='Field_Tx_7_16'><text/></item>
+<item name='Field_Tx_7_17'><text/></item>
+<item name='Field_Tx_7_18'><text/></item>
+<item name='Field_Tx_7_19'><text/></item>
+<item name='Field_Tx_7_20'><text/></item>
+<item name='Field_Tx_7_211'><text/></item>
+<item name='Field_Tx_7_212'><text/></item>
+<item name='Field_Tx_7_213'><text/></item>
+<item name='Field_Tx_7_411'><text/></item>
+<item name='Field_Tx_7_214'><text/></item>
+<item name='Field_Tx_7_412'><text/></item>
+<item name='Field_Tx_7_215'><text/></item>
+<item name='Field_Tx_7_413'><text/></item>
+<item name='Field_Tx_7_216'><text/></item>
+<item name='Field_Tx_7_414'><text/></item>
+<item name='Field_Tx_7_217'><text/></item>
+<item name='Field_Tx_7_415'><text/></item>
+<item name='Field_Tx_7_218'><text/></item>
+<item name='Field_Tx_7_416'><text/></item>
+<item name='Field_Tx_7_219'><text/></item>
+<item name='Field_Tx_7_417'><text/></item>
+<item name='Field_Tx_7_418'><text/></item>
+<item name='Field_Tx_7_419'><text/></item>
+<item name='SHERisk_Tx'><text>Low</text></item>
+<item name='BusRisk_Tx'><text>Low</text></item>
+<item name='Field_Tx_3_44'><text>N/A</text></item>
+<item name='SheRiskColour_Tx'><text>Green</text></item>
+<item name='BusRiskColour_Tx'><text>Green</text></item>
+<item name='Field_Rtx_5_1' sign='true' seal='true'>
+<rawitemdata type='19'>
+AgACAAAAAgD1YQAALAAAAAAAAABDb250ZW50LVR5cGU6IHRleHQvaHRtbDsgY2hhcnNldD0idXRm
+LTgiDQoNCjxwIGRpcj0ibHRyIj48c3Ryb25nPjA2LzEyLzIwMTggSW5zcGVjdGlvbiBSZXBvcnQ6
+Jm5ic3A7PC9zdHJvbmc+SW50ZXJtZWRpYXRlIFR5cGUgQiBFeGFtaW5hdGlvbiBwZXJmb3JtZWQg
+dG8gcmV2aWV3IG91dHN0YW5kaW5nIFdTRSByZXF1aXJlbWVudCBhdCBwcmV2aW91cyBUeXBlIEEg
+ZXhhbWluYXRpb24gZGF0ZWQgTWF5IDIzIDIwMTguJm5ic3A7T3V0c3RhbmRpbmcgV1NFIHJlcXVp
+cmVtZW50OiBSZXZpZXcgb2YgVGhlcm1vZ3JhcGhpYyBSZXBvcnQuJm5ic3A7RVhBTUlOQVRJT04g
+UkVQT1JUOiZuYnNwO1RoZXJtb2dyYXBoaWMgU3VydmV5IG9mIHRoZSBoZWF0ZXIgYW5kIHN0YWNr
+IGNvbmR1Y3RlZCBieSBLQ00gU2VydmljZXMgTHRkIG9uIDEwLzA4LzIwMTguJm5ic3A7QSByZXZp
+ZXcgb2YgdGhlIHJlcG9ydCBzaG93cyB0aGF0IHRoZXJlIGFyZSBubyBhcmVhcyBvZiBjb25jZXJu
+IHdpdGggbm8gc3VyZmFjZSB0ZW1wZXJhdHVyZSBhbm9tb2xpZXMgaWRlbnRpZmllZC4mbmJzcDtS
+ZWZlciB0byBhdHRhY2hlZCByZXBvcnQgZm9yIGZ1bGwgZGV0YWlscy4mbmJzcDtUeXBlIEIgZXhh
+bWluYXRpb24gaGF2ZSBub3cgYmVlbiByZW1vdmVkIGFuZCBubyBleGFtaW5hdGlvbnMgaGF2ZSBi
+ZWVuIHJlc2NoZWR1bGVkIGFzIGEgY29uc2VxdWVuY2Ugb2YgdGhpcyByZXBvcnQuJm5ic3A7RnJl
+cXVlbmN5OiZuYnNwO1Rob3JvdWdoIEV4YW1pbmF0aW9uIHJldGFpbmVkIGF0IDQ4IG1vbnRocyBh
+bmQgaXMgZHVlIG9uIG9yIGJlZm9yZSAyNS8wNS8yMDIwLiZuYnNwO0ludGVybWVkaWF0ZSBUeXBl
+IEEgcmV0YWluZWQgYXQgMjQgbW9udGhzIGFuZCBpcyZuYnNwO2FsaWduZWQgd2l0aCB0aGUgbmV4
+dCB0aG9yb3VnaCBpbnNwZWN0aW9uIGR1ZSBvbiAyNS8wNS8yMDIwLjwvcD4NCg0KPHAgZGlyPSJs
+dHIiPjxzdHJvbmc+MjMvMDUvMjAxOCBJbnNwZWN0aW9uIFJlcG9ydDombmJzcDs8L3N0cm9uZz5J
+bnRlcm1lZGlhdGUgVHlwZSBBIGV4YW1pbmF0aW9uIHBlcmZvcm1lZCBpbiBhY2NvcmRhbmNlIHdp
+dGggdGhlIGN1cnJlbnQgV3JpdHRlbiZuYnNwO1NjaGVtZSBvZiBFeGFtaW5hdGlvbiBhbmQgUkJJ
+IHJlZmVyZW5jZWQuJm5ic3A7Tm8gZGVncmFkYXRpb24gbm90ZWQgZnJvbSBwcmV2aW91cyBleGFt
+aW5hdGlvbi4mbmJzcDtIZWF0ZXIgZml0IGZvciBjb250aW51ZWQgc2VydmljZS4mbmJzcDtJbnNw
+ZWN0aW9uIGltYWdlcyZuYnNwO2xvY2F0ZWQgd2l0aCBhdHRhY2hlZCAmcXVvdDsgUGhvdG8gRG9j
+dW1lbnQmcXVvdDsuJm5ic3A7R2x5Y29sIC8gV2F0ZXIgSGVhdGVyOiZuYnNwO0ludGVybmFsOiBO
+byByZXF1aXJlbWVudCBmb3IgaW50ZXJuYWwgZXhhbWluYXRpb24gYXMgcGFydCBvZiB0aGUgdHlw
+ZSBBIGFzIHBlciB0aGUgV1NFLiZuYnNwO0V4dGVybmFsOiBTaGVsbCZuYnNwO2FuZCBkaXNoZWQg
+ZW5kcyBzZWVuIHRvIGJlIGZ1bGx5IGluc3VsYXRlZCB3aXRoIGluc3VsYXRpb24gc2VlbiB0byBi
+ZSBnb29kIGNvbmRpdGlvbiBhbmQgY2xhZGRpbmcgd2VsbCBzZWFsZWQuJm5ic3A7Tm96emxlcyBz
+ZWVuIHRvIGJlIGZ1bGx5IGluc3VsYXRlZCB1cCB0byB0aGUgZmxhbmdlcyB3aGVyZSB0aGUgZXhw
+b3NlZCZuYnNwO2ZsYW5nZSBhdHRhY2htZW50IHdlbGRzIHdlcmUgc2VlbiB0byBiZSBpbiBnb29k
+IG9yZGVyIGFuZCZuYnNwO2hhZCBnb29kIHByb2ZpbGUuJm5ic3A7U3VwcG9ydHM6IEluIGdvb2Qg
+b3JkZXIgd2l0aCBwcm90ZWN0aXZlIGNvYXRpbmcmbmJzcDtzZWVuIHRvIGhhdmUgbm8gYnJlYWtk
+b3duIG5vdGVkLiBIb2xkaW5nIGRvd24gYm9sdHMgb24gdGhlIHNsaWRpbmcgc3VwcG9ydCBwcm92
+ZW4gdG8gYmUgZnJlZSBhcyB0byBhbGxvdyB0aGVybWFsIGV4cGFuc2lvbiBhbmQgY29udHJhY3Rp
+b24mbmJzcDtvZiB0aGUgaGVhdGVyLiZuYnNwO0VhcnRoIGJvbmRpbmc6IDIgb2ZmIGNhYmxlcyBz
+ZWVuIHNlY3VyZWx5IGZpdHRlZCB3aXRoIHNoZWF0aGluZyBpbiBnb29kIGNvbmRpdGlvbi4mbmJz
+cDtEYXRhIHBsYXRlOiBBZmZpeGVkIGFuZCBsZWdpYmxlLiZuYnNwO0J1cm5lciBpbiBnb29kIGNv
+bmRpdGlvbiB3aXRoIGFzc29jaWF0ZWQgcGlwZXdvcmsgc2VlbiB0byBiZSB3ZWxsIHN1cHBvcnRl
+ZC4mbmJzcDtUaGVybW9ncmFwaHkgU3VydmV5IFJlcG9ydDogQXQgdGhlIHRpbWUgb2YgaW5zcGVj
+dGlvbiB0aGVyZSB3YXMgbm8gcmVwb3J0IGF2YWlsYWJsZSAocmVmZXIgdG8gYXR0YWNoZWQgZW1h
+aWwgZnJvbSBSLlNoZXBwYXJkKS4gVHlwZSBCIGluc3BlY3Rpb24gaW52b2tlZCwgZm9yIDYgbW9u
+dGhzLCZuYnNwO3RvIHJldmlldyB0aGUgcmVwb3J0IG9uY2UgVGhlcm1vZ3JhcGh5IHN1cnZleSBo
+YXMgYmVlbiBjb21wbGV0ZWQuJm5ic3A7RHVlIHRvIG5vdCBmdWxmaWxsaW5nIGFsbCBhc3BlY3Rz
+IG9mIHRoZSBXU0UgKG5vbiBjb21wbGV0aW9uIG9mJm5ic3A7dGhlcm1vZ3JhcGh5IHN1cnZleSkm
+bmJzcDt0aGlzIHJlcG9ydCBoYXMgZ29uZSB0byBBQkIgU0lFIGZvciBlbmRvcnNlbWVudC4mbmJz
+cDtGcmVxdWVuY3k6Jm5ic3A7VGhvcm91Z2ggRXhhbWluYXRpb24gcmV0YWluZWQgYXQgNDggbW9u
+dGhzIGFuZCBpcyBkdWUgb24gb3IgYmVmb3JlIDI1LzA1LzIwMjAuJm5ic3A7SW50ZXJtZWRpYXRl
+IFR5cGUgQSByZXRhaW5lZCBhdCAyNCBtb250aHMgYW5kIGlzJm5ic3A7YWxpZ25lZCB3aXRoIHRo
+ZSBuZXh0IHRob3JvdWdoIGluc3BlY3Rpb24gZHVlIG9uIDI1LzA1LzIwMjAuJm5ic3A7SW50ZXJt
+ZWRpYXRlIHR5cGUgQiBpbnNwZWN0aW9uIHNldCBhdCA2IG1vbnRocyB0byByZXZpZXcgdGhlIHRo
+ZXJtb2dyYXBoeSBzdXJ2ZXkgcmVwb3J0IGFuZCBpcyBkdWUgb24gb3IgYmVmb3JlIDIzLzExLzIw
+MTguPC9wPg0KDQo8cCBkaXI9Imx0ciI+PHN0cm9uZz4yNS8wNS8yMDE2IEluc3BlY3Rpb24gUmVw
+b3J0OiZuYnNwOzwvc3Ryb25nPkEgdGhvcm91Z2ggaW50ZXJuYWwgbWFuIGVudHJ5ICZhbXA7IGV4
+dGVybmFsIENWSSB3YXMgY2FycmllZCBvdXQgb24gdGhlIEdseWNvbC8gV2F0ZXIgSGVhdGVyIEgt
+MTAtMDAxRC4gQUNGTSBjcmFjayBkZXRlY3Rpb24gd2FzIGNhcnJpZWQgb3V0IHRvIHRoZSBpbmxl
+dC8gb3V0bGV0IGJyYW5jaGVzLCBhbG9uZyB3aXRoIHNhbXBsZSBVVCBvZiBjb2lscyAmYW1wOyBy
+YWRpb2dyYXBoeSB0byB0aGUgaW50ZXJuYWwgY29pbCB3ZWxkcy4gSW4gc3VtbWFyeSB0aGlzIGVx
+dWlwbWVudCBpcyBpbiBzYXRpc2ZhY3RvcnkgY29uZGl0aW9uIGFuZCBmaXQgZm9yIGNvbnRpbnVl
+ZCBzZXJ2aWNlLiBFWFRFUk5BTFM6IC0gRnVsbHkgbGFnZ2VkIGFuZCBjbGFkIGluIGdvb2QgY29u
+ZGl0aW9uLiBBY2Nlc3MgdG8gdGhlIHNoZWxsIHdhcyBsaW1pdGVkIHRvIGFyZWFzIGFyb3VuZCB0
+aGUgR2x5Y29sIGlubGV0LyBvdXRsZXQgbm96emxlcyB3aGVyZSBsYWdnaW5nIGhhZCBiZWVuIHJl
+bW92ZWQgZm9yIEFDRk0gdG8gYnJhbmNoIHdlbGRzICZhbXA7IHdhcyBzZWVuIHRvIGJlIGluIGdv
+b2Qgb3JkZXIgYWxvbmcgd2l0aCBUU0EgY29hdGluZyBzeXN0ZW0gKHNlZSBhZGRpdGlvbmFsIGRv
+Y3VtZW50cyBmb3IgaW1hZ2VzKSAtIFRoZSBmYXN0ZW5lcnMgdG8gdGhlIGVhc3Qgc2lkZSAoYnVy
+bmVyIGVuZCkgb2YgdGhlIGNhc2luZyBhcmUgcHJvbmUgdG8gd29ya2luZyBsb29zZSBmcm9tIHBy
+ZXZpb3VzIHJlcG9ydHMgcHJvYmFibHkgZHVlIHRvIGhlYXRlciByZXNvbmFuY2UsIGFsbCBhY2Nl
+c3NpYmxlIGZhc3RlbmVycyB3ZXJlIGNoZWNrZWQgd2l0aCBzZXZlcmFsIGJlaW5nIGZvdW5kIHRv
+IGJlIHRpZ2h0LiAtIExhZ2dpbmcgc2VlbiB0byBiZSBpbiBnb29kIG9yZGVyIHRocm91Z2hvdXQg
+YW5kIHdlbGwgc2VhbGVkIGF0IHByb3RydXNpb25zLiAtIFRoZSBzdGFjayBpcyBpbiBnb29kIHZp
+c3VhbCBvcmRlciwgd2l0aCBjb2F0aW5nIHN5c3RlbSBpbiB0YWN0LiBTYW1wbGUgVVQgY2Fycmll
+ZCBvdXQgYXJvdW5kIGJhc2UsIHJlc3VsdHMgc2hvd2luZyBubyBjYXVzZSBmb3IgY29uc2VybiAo
+c2VlIGF0dGFjaGVkIHJlcG9ydCkgLSBIb2xkaW5nIGRvd24gYm9sdHMgaW4gZ29vZCBvcmRlciB3
+aXRoIG5vIGNvcnJvc2lvbiBldmlkZW50LiBTVVBQT1JUUzogLSBJbiBnb29kIGNvbmRpdGlvbiB3
+aXRoIDJvZmYgYm9uZGluZyBsZWFkcyBmaXR0ZWQgYW5kIHNlY3VyZS4gSU5URVJOQUxTOiBSRUZS
+QUNUT1JZOiAtIEluIGdvb2QgY29uZGl0aW9uIGdlbmVyYWxseSwgc29tZSBjcmFja3Mgbm90ZWQg
+KHNlZSBhZGRpdGlvbmFsIGRvY3VtZW50cyBmb3IgaW1hZ2VzKSwgaG93ZXZlciBubyBob3Qgc3Bv
+dHMgbm90ZWQgYXQgdGhlIHRpbWUgb2YgdGhlIHRoZXJtb2dyYXBoeSAoc2VlIHR5cGUgQiBpbnNw
+ZWN0aW9uIGNhcnJpZWQgb3V0IG9uIDE0LzA0LzIwMTYpLiBBIHJlY29tbWVuZGF0aW9uIGhhcyBi
+ZWVuIGFkZGVkIGZvciByZXBhaXIgdG8gYmUgY29tcGxldGVkIGJ5IHRoZSB0aW1lIG9mIHRoZSBu
+ZXh0IHRob3JvdWdoIGluc3BlY3Rpb24uIE5vIGJyZWFrZG93biBvciBjcnVtYmxpbmcgbGluaW5n
+IGZvdW5kLiAtIExpbmluZyBhcm91bmQgdGhlIG1hbiB3YXkgZG9vciwgd2hlcmUgcHJldmlvdXNs
+eSBtb2RpZmllZCwgaXMgaW4gYXMgbmV3IGNvbmRpdGlvbi4gVFVCRVM6IC0gSW4gZ29vZCBjb25k
+aXRpb24gdGhyb3VnaG91dCwgc29tZSBsaWdodCBibG9vbWluZyBkdWUgdG8gaGVhdCBlZmZlY3Qg
+YnV0IG5vIGNvcnJvc2lvbi4gV2VsZHMgdmlzdWFsbHkgaW4gc2F0aXNmYWN0b3J5IGNvbmRpdGlv
+biB0byBjb2lscyBhcyBmYXIgYXMgY291bGQgYmUgc2VlbiAoc2VlIGFkZGl0aW9uYWwgZG9jdW1l
+bnRzIGZvciBpbWFnZSkuIFNhbXBsZSBVVCBjYXJyaWVkIG91dCBhdCA5MCZkZWc7IGJlbmRzIGFu
+ZCBzdHJhaWdodHMsIHNlZSBORFQgc2VjdGlvbiBmb3IgZGV0YWlscy4gQlVSTkVSOiBUaGUgYnVy
+bmVyIGFzc2VtYmx5IHdhcyBub3QgcmVtb3ZlZCBhdCB0aGlzIGluc3BlY3Rpb24uIEl0IHdhcyBm
+b3VuZCB0byBiZSBpbiBnb29kIGNvbmRpdGlvbiwgc29tZSBzb290IHByb2R1Y3QgZm91bmQgdG8g
+dGhlIGJ1cm5lciBlbmQgaG93ZXZlciB0aGlzIGlzIG5vdCBhIGNhdXNlIGZvciBjb25jZXJuIGF0
+IHRoZSB0aW1lIG9mIHRoaXMgaW5zcGVjdGlvbi4gRE9PUiBTSFJPVUQ6IEFzIHdpdGggdGhlIHNp
+c3RlciBoZWF0ZXJzIGEgc2VjdGlvbiBvZiB0aGUgZG9vciBzaHJvdWQgd2FzIGN1dCBiYWNrIGlu
+IDIwMTAgLGFzIGRpc3RvcnRpb24gZHVlIHRvIGhlYXQgd2FzIGFmZmVjdGluZyB0aGUgb3Blbmlu
+ZyAmYW1wOyBjbG9zaW5nIG9mIHRoZSBkb29yLiBUaGUgYXJlYSByZXF1aXJlZCBhIHNtYWxsIGFt
+b3VudCBvZiB3ZWxkIG92ZXJsYXkgaW4gMjAxMC4gVmlzdWFsIGluc3BlY3Rpb24gY2FycmllZCBv
+dXQgJmFtcDsgd2VsZCByZXBhaXJzIChib3R0b20gb2YgbWFud2F5KSBzZWVuIHRvIGJlIGluIGdv
+b2Qgb3JkZXIgd2l0aCBubyBldmlkZW5jZSBvZiBjcmFja2luZy4gT3JpZ2luYWwgd2VsZHMgKHRv
+cCBvZiBtYW53YXkpIHNlZW4gdG8gYmUgaW4gc2F0aXNmYWN0b3J5IGNvbmRpdGlvbiB3aXRoIG5v
+IGV2aWRlbmNlIG9mIGNyYWNraW5nLiBUaGVzZSB3ZWxkcyBhcmUgYmVsaWV2ZWQgdG8gYmUgc2lj
+ayB3ZWxkcywgc29tZSB1bmRlcmN1dCBhbmQgc3BhdHRlciBub3RlZCwgYSByZWNvbW1lbmRhdGlv
+biBoYXMgYmVlbiBhZGRlZCB0byByZW1vdmUgLyByZXBsYWNlLCBhcyBwZXIgd2VsZCByZXBhaXJz
+IGluIDIwMTAuIE5EVDogLSBBQ0ZNIHdhcyBjYXJyaWVkIG91dCB0byB0aGUgd2VsZHMgdG8gdGhl
+IGlubGV0IGFuZCBvdXRsZXQgaGVhZGVycyBpbiBwbGFjZSBvZiBNUEksIHRoaXMgd2FzIHRvIHBy
+ZXNlcnZlIHRoZSBUU0EgY29hdGluZy0gbm8gaXNzdWVzIGZvdW5kLCBzZWUgYXR0YWNoZWQgSVJJ
+UyBORFQgcmVwb3J0IGZvciBkZXRhaWxzICgxNjA5NjQ2NykuIC0gUmFkaW9ncmFwaHkgd2FzIGNh
+cnJpZWQgb3V0IHRvIDEyIG9mZiBidXR0IHdlbGRzIGVpdGhlciBzaWRlIG9mIDIgdGhlIGVsYm93
+cyBjaGVja2luZyBmb3Igd2VsZCByb290IGF0dGFjayAobGlzdGVkIGFzIEEmYW1wO0Igd2VsZCBv
+biByZXBvcnQpLiBUd28gZGVmZWN0cyBub3RlZCBhdCB0aGUgdGltZSBvZiB0aGlzIGluc3BlY3Rp
+b24uIE9uZSBsaXN0ZWQgYXMgaW5kaWNhdGlvbiBub3RlZCBAIDE3Y20gdG8gdGhlIHRvcCBvZiB0
+aGUgd2VsZCBjYXAuIFRoaXMgd2FzIGNhcHR1cmVkIGF0IHRoZSAyMDEyIGluc3BlY3Rpb24gYW5k
+IGNvdXBsZSBiZSB1bmRlcmN1dCB0byB0aGUgd2VsZC4gVGhpcyB3aWxsIGJlIG1vbml0b3JlZCBh
+dCB0aGUgbmV4dCB0aG9yb3VnaCBpbnNwZWN0aW9uLiBUaGUgc2VjdGlvbiBpbmRpY2F0aW9uIHdh
+cyBub3RlZCBhcyBwb3Jvc2l0eS4gUG9yb3NpdHkgY2FuIG9ubHkgb2NjdXIgYXQgdGhlIHRpbWUg
+b2YgbWFudWZhY3R1cmUuIFRoaXMgaGFzIG5vdCBiZWVuIHJlcG9ydGVkIGluIGFueSBwcmV2aW91
+cyBSYWRpb2dyYXBoeSByZXBvcnRzLiBEdWUgdG8gcG9yb3NpdHkgb25seSBvY2N1cnJpbmcgYXQg
+dGhlIHRpbWUgb2YgbWFudWZhY3R1cmUgdGhpcyBpcyBub3QgYSBjYXVzZSBmb3IgY29uY2VybiBh
+dCB0aGUgdGltZSBvZiB0aGlzIGluc3BlY3Rpb24gYW5kIHdpbGwgYmUgbW9uaXRvcmVkIGF0IHRo
+ZSBuZXh0IHRob3JvdWdoLiBTZWUgYXR0YWNoZWQgSVJJUyBORFQgcmVwb3J0ICgxNjA5NjQ5MCkg
+JmFtcDsgU0lFIGUtbWFpbCBmb3IgZnVydGhlciBkZXRhaWxzLiAtIFNhbXBsZSBVVCB3YXMgY2Fy
+cmllZCBvdXQgYXQgZXh0cmFkb3Mgb2YgOTAmZGVnOyBiZW5kcyAoYXMgc2VlbiBpbiBpbWFnZXMp
+ICZhbXA7IHNhbXBsZXMgb2YgY29pbHMgYWxvbmcgdGhlIGhlYXRlciB0byBjb25maXJtIG5vIGlu
+dGVybmFsIGxvc3Nlcy8gcG90ZW50aWFsIGVyb3Npb24uIE5vIGlzc3Vlcy8gbG9zc2VzIGZvdW5k
+LCB2YWx1ZXMgYXJlIGNvbnNpc3RlbnQgd2l0aCB0aGUgbm9taW5hbCBvZiA0LjVtbSwgd2l0aCBh
+IG1heGltdW0gcmVjb3JkZWQgb2YgNS40bW0gJmFtcDsgYSBtaW5pbXVtIG9mIDQuNG1tLiBOYiog
+QWxsIHJlYWRpbmdzIHdlcmUgY2FycmllZCBvdXQgdXNpbmcgU29uYXRlc3QgVC1HYWdlIElWLU1N
+IC0gc2VyaWFsIG51bWJlciAyNjcyMiwgcHJvYmUgLSBESy01MzdFRSA1LjAvIDM3NSwgc3RlcCBn
+YXVnZSAtIEUxNjY4ICZhbXA7IGNvdXBsYW50IC0gVUNBIDIuIC0gR2x5Y29sIHNwZWNpZmljYXRp
+b24gY29tcGxpYW5jZSBhdHRhY2hlZCBJQVcgdGhlIFdTRS4gVGhpcyByZXBvcnRzIHNob3dzIG5v
+IGlycmVndWxhcml0eSAmYW1wOyB3aWxsIGJlIGNvbnRpbnVlZCB0byBiZSBtb25pdG9yZWQuIElO
+U1BFQ1RJT04gRlJFUVVFTkNZIC0gLSBUaG9yb3VnaCBpbnNwZWN0aW9uIGZyZXF1ZW5jeSByZXRh
+aW5lZCBhdCA0OCBtb250aHMgYXMgcGVyIHRoZSBSQkkgLyBXU0UgYW5kIGlzIG5leHQgZHVlIG9u
+IG9yIGJlZm9yZSAyNS8wNS8yMDIwLiAtIEludGVybWVkaWF0ZSB0eXBlIEEgaGFzIGJlZW4gcmV0
+YWluZWQgYXQgMjQgbW9udGhzIGFzIHBlciB0aGUgUkJJIC8gV1NFIGFuZCBpcyBkdWUgb24gb3Ig
+YmVmb3JlIDI1LzA1LzIwMTguTkRUOiAtIEFDRk0gd2FzIGNhcnJpZWQgb3V0IHRvIHRoZSB3ZWxk
+cyB0byB0aGUgaW5sZXQgYW5kIG91dGxldCBoZWFkZXJzIGluIHBsYWNlIG9mIE1QSSwgdGhpcyB3
+YXMgdG8gcHJlc2VydmUgdGhlIFRTQSBjb2F0aW5nLSBubyBpc3N1ZXMgZm91bmQsIHNlZSBhdHRh
+Y2hlZCBJUklTIE5EVCByZXBvcnQgZm9yIGRldGFpbHMgKDE2MDk2NDY3KS4gLSBSYWRpb2dyYXBo
+eSB3YXMgY2FycmllZCBvdXQgdG8gMTIgb2ZmIGJ1dHQgd2VsZHMgZWl0aGVyIHNpZGUgb2YgMiB0
+aGUgZWxib3dzIGNoZWNraW5nIGZvciB3ZWxkIHJvb3QgYXR0YWNrIChsaXN0ZWQgYXMgQSZhbXA7
+QiB3ZWxkIG9uIHJlcG9ydCkuIFR3byBkZWZlY3RzIG5vdGVkIGF0IHRoZSB0aW1lIG9mIHRoaXMg
+aW5zcGVjdGlvbi4gT25lIGxpc3RlZCBhcyBpbmRpY2F0aW9uIG5vdGVkIEAgMTdjbSB0byB0aGUg
+dG9wIG9mIHRoZSB3ZWxkIGNhcC4gVGhpcyB3YXMgY2FwdHVyZWQgYXQgdGhlIDIwMTIgaW5zcGVj
+dGlvbiBhbmQgY291cGxlIGJlIHVuZGVyY3V0IHRvIHRoZSB3ZWxkLiBUaGlzIHdpbGwgYmUgbW9u
+aXRvcmVkIGF0IHRoZSBuZXh0IHRob3JvdWdoIGluc3BlY3Rpb24uIFRoZSBzZWN0aW9uIGluZGlj
+YXRpb24gd2FzIG5vdGVkIGFzIHBvcm9zaXR5LiBQb3Jvc2l0eSBjYW4gb25seSBvY2N1ciBhdCB0
+aGUgdGltZSBvZiBtYW51ZmFjdHVyZS4gVGhpcyBoYXMgbm90IGJlZW4gcmVwb3J0ZWQgaW4gYW55
+IHByZXZpb3VzIFJhZGlvZ3JhcGh5IHJlcG9ydHMuIER1ZSB0byBwb3Jvc2l0eSBvbmx5IG9jY3Vy
+cmluZyBhdCB0aGUgdGltZSBvZiBtYW51ZmFjdHVyZSB0aGlzIGlzIG5vdCBhIGNhdXNlIGZvciBj
+b25jZXJuIGF0IHRoZSB0aW1lIG9mIHRoaXMgaW5zcGVjdGlvbiBhbmQgd2lsbCBiZSBtb25pdG9y
+ZWQgYXQgdGhlIG5leHQgdGhvcm91Z2guIFNlZSBhdHRhY2hlZCBJUklTIE5EVCByZXBvcnQgKDE2
+MDk2NDkwKSAmYW1wOyBTSUUgZS1tYWlsIGZvciBmdXJ0aGVyIGRldGFpbHMuIC0gU2FtcGxlIFVU
+IHdhcyBjYXJyaWVkIG91dCBhdCBleHRyYWRvcyBvZiA5MCZkZWc7IGJlbmRzIChhcyBzZWVuIGlu
+IGltYWdlcykgJmFtcDsgc2FtcGxlcyBvZiBjb2lscyBhbG9uZyB0aGUgaGVhdGVyIHRvIGNvbmZp
+cm0gbm8gaW50ZXJuYWwgbG9zc2VzLyBwb3RlbnRpYWwgZXJvc2lvbi4gTm8gaXNzdWVzLyBsb3Nz
+ZXMgZm91bmQsIHZhbHVlcyBhcmUgY29uc2lzdGVudCB3aXRoIHRoZSBub21pbmFsIG9mIDQuNW1t
+LCB3aXRoIGEgbWF4aW11bSByZWNvcmRlZCBvZiA1LjRtbSAmYW1wOyBhIG1pbmltdW0gb2YgNC40
+bW0uIE5iKiBBbGwgcmVhZGluZ3Mgd2VyZSBjYXJyaWVkIG91dCB1c2luZyBTb25hdGVzdCBULUdh
+Z2UgSVYtTU0gLSBzZXJpYWwgbnVtYmVyIDI2NzIyLCBwcm9iZSAtIERLLTUzN0VFIDUuMC8gMzc1
+LCBzdGVwIGdhdWdlIC0gRTE2NjggJmFtcDsgY291cGxhbnQgLSBVQ0EgMi4gLSBHbHljb2wgc3Bl
+Y2lmaWNhdGlvbiBjb21wbGlhbmNlIGF0dGFjaGVkIElBVyB0aGUgV1NFLiBUaGlzIHJlcG9ydHMg
+c2hvd3Mgbm8gaXJyZWd1bGFyaXR5ICZhbXA7IHdpbGwgYmUgY29udGludWVkIHRvIGJlIG1vbml0
+b3JlZC4gSU5TUEVDVElPTiBGUkVRVUVOQ1kgLSAtIFRob3JvdWdoIGluc3BlY3Rpb24gZnJlcXVl
+bmN5IHJldGFpbmVkIGF0IDQ4IG1vbnRocyBhcyBwZXIgdGhlIFJCSSAvIFdTRSBhbmQgaXMgbmV4
+dCBkdWUgb24gb3IgYmVmb3JlIDI1LzA1LzIwMjAuIC0gSW50ZXJtZWRpYXRlIHR5cGUgQSBoYXMg
+YmVlbiByZXRhaW5lZCBhdCAyNCBtb250aHMgYXMgcGVyIHRoZSBSQkkgLyBXU0UgYW5kIGlzIGR1
+ZSBvbiBvciBiZWZvcmUgMjUvMDUvMjAxOC48L3A+DQoNCjxwIGRpcj0ibHRyIj48c3Ryb25nPjE0
+LzA0LzIwMTYgSW5zcGVjdGlvbiBSZXBvcnQ6PC9zdHJvbmc+Jm5ic3A7QW4gaW50ZXJtZWRpYXRl
+IHR5cGUgQiBpbnNwZWN0aW9uIGhhcyBiZWVuIGNhcnJpZWQgYXMgcmFpc2VkIGF0IHRoZSBsYXN0
+IHR5cGUgQSBpbnNwZWN0aW9uLCB0byBjYXJyeSBvdXQgYW5kIHJldmlldyB0aGUgdGhlcm1vZ3Jh
+cGh5IHN1cnZleSBhcyBzdXBwbGllZCBieSBHYXNzY28uIEZJTkRJTkdTOiAtIFRoZSBhdHRhY2hl
+ZCByZXBvcnQgZnJvbSBLQ00gU2VydmljZXMgTHRkIGRhdGVkIDE0LzA0LzE0IHNob3dzIGEgY29t
+cHJlaGVuc2l2ZSBzdXJ2ZXkgb2YgdGhlIGhlYXRlciBib2R5LCBwaXBld29yaywgZmx1ZSAmYW1w
+OyBleHRlcm5hbCBzdGFjay4gVGhlIHJlcG9ydCBhdHRhY2hlZCBzaG93cyByZWNvcmRlZCBydW5u
+aW5nIHRlbXBlcmF0dXJlcyBvZiBpbnN1bGF0ZWQgYW5kIGV4cG9zZWQgYXJlYXMuIEFsbCB0ZW1w
+ZXJhdHVyZXMsIGFsdGhvdWdoIGVsZXZhdGVkIGluIHNvbWUgZXhwb3NlZCBhcmVhcywgYXJlIGV2
+ZW4gJmFtcDsgbm90IGEgY2F1c2UgZm9yIGNvbmNlcm4uIFNlZSBhdHRhY2hlZCByZXBvcnQgZm9y
+IGZ1cnRoZXIgZGV0YWlscy4gVGhlIGhlYXRlciBpcyBjb25zaWRlcmVkIGZpdCBmb3IgY29udGlu
+dWVkIHNlcnZpY2UuIEZSRVFVRU5DWSAtIE5vIGNoYW5nZSB0byB0aGUgdGhvcm91Z2ggaW5zcGVj
+dGlvbiBmcmVxdWVuY3kgYXMgYSByZXN1bHQgb2YgdGhpcyBpbnNwZWN0aW9uICZhbXA7IHJlbWFp
+bnMgYXQgNDggbW9udGhzIGFzIHBlciBBQkIgV1NFIGFuZCBpcyBkdWUgb24gb3IgYmVmb3JlIDE5
+LzA4LzIwMTYuIC0gTm8gY2hhbmdlIHRvIHRoZSB0eXBlIEEgaW5zcGVjdGlvbiBmcmVxdWVuY3kg
+YXMgYSByZXN1bHQgb2YgdGhpcyBpbnNwZWN0aW9uICZhbXA7IHJlbWFpbnMgYXQgMjQgbW9udGhz
+IGFzIHBlciB0aGUgRE5WIFJCSSAmYW1wOyB3aWxsIGJlIHNoZWR1bGVkIGF0IHRoZSB0aW1lIG9m
+IHRoZSBuZXh0IHRob3JvdWdoLiAtIFRoZSB0eXBlIEIgaW5zcGVjdGlvbiBoYXMgYmVlbiByZW1v
+dmVkLCBiYXNlZCBvbiB0aGUgY29tcGxldGlvbiBvZiB0aGUgYWN0aW9uIHJlcXVpcmVkIGF0IHRo
+ZSB0eXBlIEEgaW5zcGVjdGlvbi4gTkRUOiBBQ0ZNIHdhcyBjYXJyaWVkIG91dCB0byB0aGUgd2Vs
+ZHMgdG8gdGhlIGlubGV0IGFuZCBvdXRsZXQgaGVhZGVycyBpbiBwbGFjZSBvZiBNUEksIHRoaXMg
+d2FzIHRvIHByZXNlcnZlIHRoZSBUU0EgY29hdGluZy0gbm8gaXNzdWVzIGZvdW5kLCBzZWUgYXR0
+YWNoZWQgU1BJIHJlcG9ydCBmb3IgZGV0YWlscyAoSDUgNDMyMTYpLiBSYWRpb2dyYXBoeSB3YXMg
+Y2FycmllZCBvdXQgdG8gMTMgb2ZmIGJ1dHQgd2VsZHMgZWl0aGVyIHNpZGUgb2YgMiB0aGUgZWxi
+b3dzIGNoZWNraW5nIGZvciB3ZWxkIHJvb3QgYXR0YWNrLiBObyBkZWZlY3RzIGZvdW5kLCBzZWUg
+YXR0YWNoZWQgU3RvcmsgcmVwb3J0ICg0OTYxMSkuIFVTVFQgd2FzIGNhcnJpZWQgb3V0IDUwbW0g
+ZnJvbSB0aGUgYmVuZCBvZiB0aGUgYnV0dCB3ZWxkcyB0byBjaGVjayBmb3IgcG90ZW50aWFsIGVy
+b3Npb24sIG5vIGlzc3Vlcy8gbG9zc2VzIGZvdW5kLCB2YWx1ZXMgYXJlIGNvbnNpc3RlbnQgd2l0
+aCB0aGUgbm9taW5hbC4gRFBJIHdhcyBjYXJyaWVkIG91dCB0byB0aGUgd2VsZCByZXBhaXJzIGF0
+IHRoZSBtYW4gd2F5IGRvb3Igc2hyb3VkIHRvIGhpZ2hsaWdodCBhbnkgcmVtYWluaW5nIGNyYWNr
+cywgMiBvZmYgY3JhY2tzIHJlY2VpdmVkIHdlbGQgb3ZlcmxheSByZXBhaXJzLCBhcmVhIGRyZXNz
+ZWQgYmFjayBzYXRpc2ZhY3RvcmlseSB3aXRoIG5vIGZ1cnRoZXIgY3JhY2tpbmcgZm91bmQgZnJv
+bSByZS10ZXN0LCBzZWUgYXR0YWNoZWQgU1BJIHJlcG9ydCBmb3IgZGV0YWlscyAoSDYgNDQ1MjYp
+LiBJbiBzdW1tYXJ5IHRoaXMgZXF1aXBtZW50IGlzIGluIHNhdGlzZmFjdG9yeSBjb25kaXRpb24g
+YW5kIGZpdCBmb3IgY29udGludWVkIHNlcnZpY2UuIElOU1BFQ1RJT04gRlJFUVVFTkNZIC0gRHVl
+IHRvIHRoZSBnb29kIGhpc3Rvcnkgb2YgdGhpcyB1bml0IGFuZCBzaXN0ZXIgdW5pdHMgdGhlIGlu
+dGVydmFsIGJldHdlZW4gdGhvcm91Z2ggaW5zcGVjdGlvbnMgaGFzIGJlZW4gaW5jcmVhc2VkIHRv
+IDQ4IG1vbnRocy4gTmV4dCBpbnNwZWN0aW9uIGR1ZSAxOS8wOC8xNi4gTkRUOiBBQ0ZNIHdhcyBj
+YXJyaWVkIG91dCB0byB0aGUgd2VsZHMgdG8gdGhlIGlubGV0IGFuZCBvdXRsZXQgaGVhZGVycyBp
+biBwbGFjZSBvZiBNUEksIHRoaXMgd2FzIHRvIHByZXNlcnZlIHRoZSBUU0EgY29hdGluZy0gbm8g
+aXNzdWVzIGZvdW5kLCBzZWUgYXR0YWNoZWQgU1BJIHJlcG9ydCBmb3IgZGV0YWlscyAoSDUgNDMy
+MTYpLiBSYWRpb2dyYXBoeSB3YXMgY2FycmllZCBvdXQgdG8gMTMgb2ZmIGJ1dHQgd2VsZHMgZWl0
+aGVyIHNpZGUgb2YgMiB0aGUgZWxib3dzIGNoZWNraW5nIGZvciB3ZWxkIHJvb3QgYXR0YWNrLiBO
+byBkZWZlY3RzIGZvdW5kLCBzZWUgYXR0YWNoZWQgU3RvcmsgcmVwb3J0ICg0OTYxMSkuIFVTVFQg
+d2FzIGNhcnJpZWQgb3V0IDUwbW0gZnJvbSB0aGUgYmVuZCBvZiB0aGUgYnV0dCB3ZWxkcyB0byBj
+aGVjayBmb3IgcG90ZW50aWFsIGVyb3Npb24sIG5vIGlzc3Vlcy8gbG9zc2VzIGZvdW5kLCB2YWx1
+ZXMgYXJlIGNvbnNpc3RlbnQgd2l0aCB0aGUgbm9taW5hbC4gRFBJIHdhcyBjYXJyaWVkIG91dCB0
+byB0aGUgd2VsZCByZXBhaXJzIGF0IHRoZSBtYW4gd2F5IGRvb3Igc2hyb3VkIHRvIGhpZ2hsaWdo
+dCBhbnkgcmVtYWluaW5nIGNyYWNrcywgMiBvZmYgY3JhY2tzIHJlY2VpdmVkIHdlbGQgb3Zlcmxh
+eSByZXBhaXJzLCBhcmVhIGRyZXNzZWQgYmFjayBzYXRpc2ZhY3RvcmlseSB3aXRoIG5vIGZ1cnRo
+ZXIgY3JhY2tpbmcgZm91bmQgZnJvbSByZS10ZXN0LCBzZWUgYXR0YWNoZWQgU1BJIHJlcG9ydCBm
+b3IgZGV0YWlscyAoSDYgNDQ1MjYpLiBJbiBzdW1tYXJ5IHRoaXMgZXF1aXBtZW50IGlzIGluIHNh
+dGlzZmFjdG9yeSBjb25kaXRpb24gYW5kIGZpdCBmb3IgY29udGludWVkIHNlcnZpY2UuIElOU1BF
+Q1RJT04gRlJFUVVFTkNZIC0gRHVlIHRvIHRoZSBnb29kIGhpc3Rvcnkgb2YgdGhpcyB1bml0IGFu
+ZCBzaXN0ZXIgdW5pdHMgdGhlIGludGVydmFsIGJldHdlZW4gdGhvcm91Z2ggaW5zcGVjdGlvbnMg
+aGFzIGJlZW4gaW5jcmVhc2VkIHRvIDQ4IG1vbnRocy4gTmV4dCBpbnNwZWN0aW9uIGR1ZSAxOS8w
+OC8xNi48L3A+DQoNCjxwIGRpcj0ibHRyIj48c3Ryb25nPjA2LzEwLzIwMTUgSW5zcGVjdGlvbiBS
+ZXBvcnQ6PC9zdHJvbmc+Jm5ic3A7QSAyNCBtb250aGx5IHR5cGUgQSBnZW5lcmFsIHZpc3VhbCBp
+bnNwZWN0aW9uIHdhcyBjYXJyaWVkIG91dCBhcyBwZXIgdGhlIFdTRS4gVGhpcyB3YXMgY2Fycmll
+ZCBvdXQgZWFybGllciB0aGFuIHRoZSBzY2hlZHVsZWQgZXhhbWluYXRpb24gZHVlIDE5LzA4LzIw
+MTYgYXQgdGhlIHJlcXVlc3Qgb2YgR2Fzc2NvIExSRi8gRE5WLiBJbiBzdW1tYXJ5IHRoaXMgdmVz
+c2VsIGlzIGZpdCBmb3IgY29udGludWVkIHNlcnZpY2UuIEZJTkRJTkdTOyAtIFZlc3NlbCBzIGZ1
+bGx5IGxhZ2dlZC4gQ2xhZGRpbmcgZ2VuZXJhbGx5IHNlZW4gdG8gYmUgaW4gZ29vZCBvcmRlciB0
+aHJvdWdob3V0IChzZWUgYWRkaXRpb25hbCBkb2N1bWVudHMgZm9yIGV4YW1wbGUgaW1hZ2VzKS4g
+LSBBcyBwYXJ0IG9mIHRoZSBpbnRlcm1lZGlhdGUgaW5zcGVjdGlvbiB0aGUgV1NFIGNhbGxzIGZv
+ciB0aGVybW9ncmFwaHkgc3VydmV5IG9mIGhlYXRlciBhbmQgc3RhY2sgd2hpbHN0IG9uLWxpbmUu
+IFRoaXMgd2FzIG5vdCBjYXJyaWVkIG91dCBhdCB0aGUgdGltZSBvZiB0aGlzIGluc3BlY3Rpb24u
+IEEgbWFuZGF0b3J5IGFjdGlvbiBoYXMgYmVlbiBhZGRlZCwgYWxvbmcgd2l0aCBhIHR5cGUgQiBp
+bnNwZWN0aW9uIHRvIGVuc3VyZSB0aGF0IHRoZSBhY3Rpb24gaXMgY2FwdHVyZWQgYW5kIHRoZSB0
+aGVybW9ncmFwaHkgaXMgY2FycmllZCBvdXQuIER1ZSB0byB0aGUgV1NFIG5vdCBiZWluZyBjb21w
+bGV0ZWQgdGhpcyByZXBvcnQgaGFzIGJlZW4gc2VudCBmb3IgU0lFIGVuZG9yc2VtZW50LiAtIFRo
+ZSBzdGFjayB3YXMgc2VlbiB0byBiZSBnZW5lcmFsbHkgaW4gZ29vZCBvcmRlciwgbWlub3Igc3Vy
+ZmFjZSBjb3Jyb3Npb24gbm90ZWQgdG8gaG9sZGluZyBkb3duIGJvbHRzLCBiZXR3ZWVuIG5venps
+ZSBmbGFuZ2VzIChzZWUgYWRkaXRpb25hbCBkb2N1bWVudHMgZm9yIGV4YW1wbGUgaW1hZ2VzKS4g
+RlJFUVVFTkNZOyAtIFRoZSB0aG9yb3VnaCBpbnNwZWN0aW9uIGRhdGUgcmVtYWlucyB1bmNoYW5n
+ZWQgYXQgNDggbW9udGhzLCBhcyBwZXIgdGhlIFJCSSAvIFdTRSBhbmQgaXMgZHVlIG9uIG9yIGJl
+Zm9yZSAxOS8wOC8yMDE2LiAtIFRoZSB0eXBlIEEgaW5zcGVjdGlvbiBmcmVxdWVuY3kgaGFzIGJl
+ZW4gYWRkZWQgYW5kIHNldCBhdCAyNCBtb250aHMgYXMgcGVyIHRoZSBETlYgUkJJICZhbXA7IHdp
+bGwgYmUgc2NoZWR1bGVkIGF0IHRoZSBuZXh0IHRob3JvdWdoIGluc3BlY3Rpb24uIC0gQSB0eXBl
+IEIgaW5zcGVjdGlvbiBoYXMgYmVlbiBhZGRlZCB0byBjYXB0dXJlIHRoZSBtYW5kYXRvcnkgYWN0
+aW9uIGZvciB0aGVybW9ncmFwaHkgc3VydmV5LiBUaGlzIGhhcyBiZWVuIGdpdmUgYSA2IG1vbnRo
+IGZyZXF1ZW5jeSBhbmQgaXMgZHVlIGJ5IDA2LzA0LzIwMTYuIFRoaXMgdHlwZSBCIHNob3VsZCBi
+ZSByZW1vdmVkIHdoZW4gdGhlIGFjdGlvbiBpcyBjb21wbGV0ZS4gTkRUOiBBQ0ZNIHdhcyBjYXJy
+aWVkIG91dCB0byB0aGUgd2VsZHMgdG8gdGhlIGlubGV0IGFuZCBvdXRsZXQgaGVhZGVycyBpbiBw
+bGFjZSBvZiBNUEksIHRoaXMgd2FzIHRvIHByZXNlcnZlIHRoZSBUU0EgY29hdGluZy0gbm8gaXNz
+dWVzIGZvdW5kLCBzZWUgYXR0YWNoZWQgU1BJIHJlcG9ydCBmb3IgZGV0YWlscyAoSDUgNDMyMTYp
+LiBSYWRpb2dyYXBoeSB3YXMgY2FycmllZCBvdXQgdG8gMTMgb2ZmIGJ1dHQgd2VsZHMgZWl0aGVy
+IHNpZGUgb2YgMiB0aGUgZWxib3dzIGNoZWNraW5nIGZvciB3ZWxkIHJvb3QgYXR0YWNrLiBObyBk
+ZWZlY3RzIGZvdW5kLCBzZWUgYXR0YWNoZWQgU3RvcmsgcmVwb3J0ICg0OTYxMSkuIFVTVFQgd2Fz
+IGNhcnJpZWQgb3V0IDUwbW0gZnJvbSB0aGUgYmVuZCBvZiB0aGUgYnV0dCB3ZWxkcyB0byBjaGVj
+ayBmb3IgcG90ZW50aWFsIGVyb3Npb24sIG5vIGlzc3Vlcy8gbG9zc2VzIGZvdW5kLCB2YWx1ZXMg
+YXJlIGNvbnNpc3RlbnQgd2l0aCB0aGUgbm9taW5hbC4gRFBJIHdhcyBjYXJyaWVkIG91dCB0byB0
+aGUgd2VsZCByZXBhaXJzIGF0IHRoZSBtYW4gd2F5IGRvb3Igc2hyb3VkIHRvIGhpZ2hsaWdodCBh
+bnkgcmVtYWluaW5nIGNyYWNrcywgMiBvZmYgY3JhY2tzIHJlY2VpdmVkIHdlbGQgb3ZlcmxheSBy
+ZXBhaXJzLCBhcmVhIGRyZXNzZWQgYmFjayBzYXRpc2ZhY3RvcmlseSB3aXRoIG5vIGZ1cnRoZXIg
+Y3JhY2tpbmcgZm91bmQgZnJvbSByZS10ZXN0LCBzZWUgYXR0YWNoZWQgU1BJIHJlcG9ydCBmb3Ig
+ZGV0YWlscyAoSDYgNDQ1MjYpLiBJbiBzdW1tYXJ5IHRoaXMgZXF1aXBtZW50IGlzIGluIHNhdGlz
+ZmFjdG9yeSBjb25kaXRpb24gYW5kIGZpdCBmb3IgY29udGludWVkIHNlcnZpY2UuIElOU1BFQ1RJ
+T04gRlJFUVVFTkNZIC0gRHVlIHRvIHRoZSBnb29kIGhpc3Rvcnkgb2YgdGhpcyB1bml0IGFuZCBz
+aXN0ZXIgdW5pdHMgdGhlIGludGVydmFsIGJldHdlZW4gdGhvcm91Z2ggaW5zcGVjdGlvbnMgaGFz
+IGJlZW4gaW5jcmVhc2VkIHRvIDQ4IG1vbnRocy4gTmV4dCBpbnNwZWN0aW9uIGR1ZSAxOS8wOC8x
+Ni4gTkRUOiBBQ0ZNIHdhcyBjYXJyaWVkIG91dCB0byB0aGUgd2VsZHMgdG8gdGhlIGlubGV0IGFu
+ZCBvdXRsZXQgaGVhZGVycyBpbiBwbGFjZSBvZiBNUEksIHRoaXMgd2FzIHRvIHByZXNlcnZlIHRo
+ZSBUU0EgY29hdGluZy0gbm8gaXNzdWVzIGZvdW5kLCBzZWUgYXR0YWNoZWQgU1BJIHJlcG9ydCBm
+b3IgZGV0YWlscyAoSDUgNDMyMTYpLiBSYWRpb2dyYXBoeSB3YXMgY2FycmllZCBvdXQgdG8gMTMg
+b2ZmIGJ1dHQgd2VsZHMgZWl0aGVyIHNpZGUgb2YgMiB0aGUgZWxib3dzIGNoZWNraW5nIGZvciB3
+ZWxkIHJvb3QgYXR0YWNrLiBObyBkZWZlY3RzIGZvdW5kLCBzZWUgYXR0YWNoZWQgU3RvcmsgcmVw
+b3J0ICg0OTYxMSkuIFVTVFQgd2FzIGNhcnJpZWQgb3V0IDUwbW0gZnJvbSB0aGUgYmVuZCBvZiB0
+aGUgYnV0dCB3ZWxkcyB0byBjaGVjayBmb3IgcG90ZW50aWFsIGVyb3Npb24sIG5vIGlzc3Vlcy8g
+bG9zc2VzIGZvdW5kLCB2YWx1ZXMgYXJlIGNvbnNpc3RlbnQgd2l0aCB0aGUgbm9taW5hbC4gRFBJ
+IHdhcyBjYXJyaWVkIG91dCB0byB0aGUgd2VsZCByZXBhaXJzIGF0IHRoZSBtYW4gd2F5IGRvb3Ig
+c2hyb3VkIHRvIGhpZ2hsaWdodCBhbnkgcmVtYWluaW5nIGNyYWNrcywgMiBvZmYgY3JhY2tzIHJl
+Y2VpdmVkIHdlbGQgb3ZlcmxheSByZXBhaXJzLCBhcmVhIGRyZXNzZWQgYmFjayBzYXRpc2ZhY3Rv
+cmlseSB3aXRoIG5vIGZ1cnRoZXIgY3JhY2tpbmcgZm91bmQgZnJvbSByZS10ZXN0LCBzZWUgYXR0
+YWNoZWQgU1BJIHJlcG9ydCBmb3IgZGV0YWlscyAoSDYgNDQ1MjYpLiBJbiBzdW1tYXJ5IHRoaXMg
+ZXF1aXBtZW50IGlzIGluIHNhdGlzZmFjdG9yeSBjb25kaXRpb24gYW5kIGZpdCBmb3IgY29udGlu
+dWVkIHNlcnZpY2UuIElOU1BFQ1RJT04gRlJFUVVFTkNZIC0gRHVlIHRvIHRoZSBnb29kIGhpc3Rv
+cnkgb2YgdGhpcyB1bml0IGFuZCBzaXN0ZXIgdW5pdHMgdGhlIGludGVydmFsIGJldHdlZW4gdGhv
+cm91Z2ggaW5zcGVjdGlvbnMgaGFzIGJlZW4gaW5jcmVhc2VkIHRvIDQ4IG1vbnRocy4gTmV4dCBp
+bnNwZWN0aW9uIGR1ZSAxOS8wOC8xNi48L3A+DQoNCjxwIGRpcj0ibHRyIj48c3Ryb25nPjE5LzA4
+LzIwMTIgVGhvcm91Z2ggSW5zcGVjdGlvbjo8L3N0cm9uZz4mbmJzcDtBIHRob3JvdWdoIGV4dGVy
+bmFsICZhbXA7IGludGVybmFsIGV4YW1pbmF0aW9uIHdhcyBjYXJyaWVkIG91dCBvbiB0aGUgR2x5
+Y29sLyBXYXRlciBIZWF0ZXIgSC0xMC0wMDFELiAmbmJzcDtBQ0ZNIGNyYWNrIGRldGVjdGlvbiB3
+YXMgY2FycmllZCBvdXQgdG8gdGhlIGlubGV0LyBvdXRsZXQgYnJhbmNoZXMgd2hlcmUgZWRkeSBj
+dXJyYW50IHRlc3RpbmcgKEVDVCkgd2FzIHByZXZpb3VzbHkgY2FycmllZCBvdXQgYWxvbmcgd2l0
+aCBVVCAmYW1wOyByYWRpb2dyYXBoeSB0byB0aGUgaW50ZXJuYWwgY29pbHMgJmFtcDsgRFBJIHRv
+IGRvb3Igc2hyb3VkLiZuYnNwO0VYVEVSTkFMUzombmJzcDstIEZ1bGx5IGxhZ2dlZCBhbmQgY2xh
+ZCBpbiBnb29kIGNvbmRpdGlvbi4gJm5ic3A7QWNjZXNzIHRvIHRoZSBzaGVsbCB3YXMgbGltaXRl
+ZCB0byBhcmVhcyBhcm91bmQgdGhlIEdseWNvbCBpbmxldC8gb3V0bGV0IG5venpsZXMgd2hlcmUg
+bGFnZ2luZyBoYWQgYmVlbiByZW1vdmVkIGZvciBBQ0ZNIHRvIGJyYW5jaCB3ZWxkcy4mbmJzcDst
+IFRoZSBzaGVsbCBpcyBjb2F0ZWQgaW4gdGhlcm1hbGx5IHNwcmF5ZWQgYWx1bWluaXVtIChUU0Ep
+IGFuZCBhcyBleHBlY3RlZCBmb3VuZCBpbiBhcyBuZXcgY29uZGl0aW9uIGFzIGZhciBhcyBjb3Vs
+ZCBiZSBzZWVuLiZuYnNwOy0gJm5ic3A7VGhlIGZhc3RlbmVycyB0byB0aGUgZWFzdCBzaWRlIChi
+dXJuZXIgZW5kKSBvZiB0aGUgY2FzaW5nIGFyZSBwcm9uZSB0byB3b3JraW5nIGxvb3NlIHByb2Jh
+Ymx5IGR1ZSB0byBoZWF0ZXIgcmVzb25hbmNlLCBhbGwgYWNjZXNzaWJsZSBmYXN0ZW5lcnMgd2Vy
+ZSBjaGVja2VkIHdpdGggc2V2ZXJhbCBiZWluZyBmb3VuZCB0byBiZSBvbmx5IGhhbmQgdGlnaHQu
+ICZuYnNwO1RoaXMgd2FzIGhpZ2hsaWdodGVkIHRvIEcuTW9ycmlzIChNYWludGVuYW5jZSBNYW5h
+Z2VyKSBhdCB0aGUgdGltZSBvZiBpbnNwZWN0aW9uLiZuYnNwOy0gVGhlIHN0YWNrIGlzIGluIGdv
+b2QgdmlzdWFsIG9yZGVyLiAmbmJzcDtCYXNlIGlzIHVuZGFtYWdlZCwgaG9sZGluZyBkb3duIGJv
+bHRzIGluIGdvb2Qgb3JkZXIgd2l0aCBubyBjb3Jyb3Npb24gZXZpZGVudC4mbmJzcDtQU1Y6Jm5i
+c3A7UFNWLTEwLTQwNDUgaW5zdGFsbGVkLCB0ZXN0IGRhdGUgMjYvMDIvMTAsIENTUCAxMy41YmFy
+Zy4mbmJzcDtTVVBQT1JUUzombmJzcDstIEluIGdvb2QgY29uZGl0aW9uIHdpdGggMm9mZiBib25k
+aW5nIGxlYWRzIGZpdHRlZCBhbmQgc2VjdXJlLiZuYnNwO0lOVEVSTkFMUzombmJzcDtSRUZSQUNU
+T1JZOiZuYnNwOy0gSW4gZ29vZCBjb25kaXRpb24gZ2VuZXJhbGx5LCBzb21lIG1pbm9yIHN1cmZh
+Y2UgY3JhY2tzIHRvIGxlc3MgdGhhbiA1bW0sIG5vIGJyZWFrZG93biBvciBjcnVtYmxpbmcgbGlu
+aW5nIGZvdW5kLiZuYnNwOy0gJm5ic3A7VGhlIHZpc2libGUgY3JhY2tzIGFyZSBub3Qgb2YgY29u
+Y2VybiwgYXMgaGVhdCBpcyBhcHBsaWVkIHRoZXkgY29udHJhY3QgYW5kIGNsb3NlIHVwLCB0aGVz
+ZSB3aWxsIGJlIG1vbml0b3JlZCBhdCBmdXR1cmUgaW5zcGVjdGlvbnMuJm5ic3A7LSBMaW5pbmcg
+YXJvdW5kIHRoZSBtYW4gd2F5IGRvb3IsIHdoZXJlIHByZXZpb3VzbHkgbW9kaWZpZWQsIGlzIGlu
+IGFzIG5ldyBjb25kaXRpb24uJm5ic3A7VFVCRVM6Jm5ic3A7SW4gZ29vZCBjb25kaXRpb24gdGhy
+b3VnaG91dCwgc29tZSBsaWdodCBibG9vbWluZyBkdWUgdG8gaGVhdCBlZmZlY3QgYnV0IG5vIGNv
+cnJvc2lvbi4gJm5ic3A7V2VsZHMgaW4gc2F0aXNmYWN0b3J5IGNvbmRpdGlvbiB0byBjb2lscyBh
+cyBmYXIgYXMgY291bGQgYmUgc2Vlbi4mbmJzcDtCVVJORVI6Jm5ic3A7VGhlIGJ1cm5lciBhc3Nl
+bWJseSB3YXMgbm90IHJlbW92ZWQgYXQgdGhpcyBpbnNwZWN0aW9uLiAmbmJzcDtJdCB3YXMgZm91
+bmQgdG8gYmUgaW4gZ29vZCBjb25kaXRpb24sIHNvbWUgc29vdCBwcm9kdWN0IGZvdW5kIHRvIHRo
+ZSBidXJuZXIgZW5kIHRvIGFwcHJveCA3NW1tIGluIGRlcHRoLCBzZWUgaW1hZ2VzLiZuYnNwO0RP
+T1IgU0hST1VEOiZuYnNwO0FzIHdpdGggdGhlIHNpc3RlciBoZWF0ZXJzIGEgc2VjdGlvbiBvZiB0
+aGUgZG9vciBzaHJvdWQgd2FzIGN1dCBiYWNrIGluIDIwMTAgLGFzIGRpc3RvcnRpb24gZHVlIHRv
+IGhlYXQgd2FzIGFmZmVjdGluZyB0aGUgb3BlbmluZyAmYW1wOyBjbG9zaW5nIG9mIHRoZSBkb29y
+LiAmbmJzcDtUaGUgYXJlYSByZXF1aXJlZCBhIHNtYWxsIGFtb3VudCBvZiB3ZWxkIG92ZXJsYXkg
+YXMgdGhlIGZpcnN0IGFwcGxpY2F0aW9uIG9mIGR5ZSBwZW5ldHJhbnQgcmV2ZWFsZWQgc29tZSBt
+aW5vciBjcmFja2luZy4gJm5ic3A7U2VlIGF0dGFjaGVkIE5EVCByZXBvcnQgZm9yIGRldGFpbHMu
+Jm5ic3A7VkVOVCBTVEFDSzombmJzcDtBbGwgaW5kb29yIHNlY3Rpb25zIGFyZSBjbGFkIGFuZCBp
+biBnb29kIGNvbmRpdGlvbiwgbm8gYm9uZGluZyBsZWFkIGZpdHRlZCBiZXR3ZWVuIGluZG9vciBk
+dWN0aW5nIGFuZCBvdXRkb29yIHN0YWNrLiAmbmJzcDtIb2xkaW5nIGRvd24gYXJyYW5nZW1lbnQg
+YWxsIHNhdGlzZmFjdG9yeSB3aXRoIGFzc29jaWF0ZWQgYm9uZGluZyBsZWFkLiZuYnNwO05EVDom
+bmJzcDtBQ0ZNIHdhcyBjYXJyaWVkIG91dCB0byB0aGUgd2VsZHMgdG8gdGhlIGlubGV0IGFuZCBv
+dXRsZXQgaGVhZGVycyBpbiBwbGFjZSBvZiBNUEksIHRoaXMgd2FzIHRvIHByZXNlcnZlIHRoZSBU
+U0EgY29hdGluZy0gbm8gaXNzdWVzIGZvdW5kLCBzZWUgYXR0YWNoZWQgU1BJIHJlcG9ydCBmb3Ig
+ZGV0YWlscyAoSDUgNDMyMTYpLiZuYnNwO1JhZGlvZ3JhcGh5IHdhcyBjYXJyaWVkIG91dCB0byAx
+MyBvZmYgYnV0dCB3ZWxkcyBlaXRoZXIgc2lkZSBvZiAyIHRoZSBlbGJvd3MgJm5ic3A7Y2hlY2tp
+bmcgZm9yIHdlbGQgcm9vdCBhdHRhY2suICZuYnNwO05vIGRlZmVjdHMgZm91bmQsIHNlZSBhdHRh
+Y2hlZCBTdG9yayByZXBvcnQgKDQ5NjExKS4mbmJzcDtVU1RUIHdhcyBjYXJyaWVkIG91dCA1MG1t
+IGZyb20gdGhlIGJlbmQgb2YgdGhlIGJ1dHQgd2VsZHMgdG8gY2hlY2sgZm9yIHBvdGVudGlhbCBl
+cm9zaW9uLCBubyBpc3N1ZXMvIGxvc3NlcyBmb3VuZCwgdmFsdWVzIGFyZSBjb25zaXN0ZW50IHdp
+dGggdGhlIG5vbWluYWwuIERQSSB3YXMgY2FycmllZCBvdXQgdG8gdGhlIHdlbGQgcmVwYWlycyBh
+dCB0aGUgbWFuIHdheSBkb29yIHNocm91ZCB0byBoaWdobGlnaHQgYW55IHJlbWFpbmluZyBjcmFj
+a3MsIDIgb2ZmIGNyYWNrcyAmbmJzcDtyZWNlaXZlZCB3ZWxkIG92ZXJsYXkgcmVwYWlycywgYXJl
+YSBkcmVzc2VkIGJhY2sgc2F0aXNmYWN0b3JpbHkgd2l0aCBubyBmdXJ0aGVyIGNyYWNraW5nIGZv
+dW5kIGZyb20gcmUtdGVzdCwgc2VlIGF0dGFjaGVkIFNQSSByZXBvcnQgZm9yIGRldGFpbHMgKEg2
+IDQ0NTI2KS4mbmJzcDtJbiBzdW1tYXJ5IHRoaXMgZXF1aXBtZW50IGlzIGluIHNhdGlzZmFjdG9y
+eSBjb25kaXRpb24gYW5kIGZpdCBmb3IgY29udGludWVkIHNlcnZpY2UuJm5ic3A7SU5TUEVDVElP
+TiBGUkVRVUVOQ1kgLSZuYnNwO0R1ZSB0byB0aGUgZ29vZCBoaXN0b3J5IG9mIHRoaXMgdW5pdCBh
+bmQgc2lzdGVyIHVuaXRzIHRoZSBpbnRlcnZhbCBiZXR3ZWVuIHRob3JvdWdoIGluc3BlY3Rpb25z
+IGhhcyBiZWVuIGluY3JlYXNlZCB0byA0OCBtb250aHMuICZuYnNwO05leHQgaW5zcGVjdGlvbiBk
+dWUgMTkvMDgvMTYuPGJyPg0KPGJyPg0KPHN0cm9uZz4yNi8wMi8yMDEwIC0gSU5TLzMgKFRob3Jv
+dWdoIEluc3BlY3Rpb24pOjwvc3Ryb25nPiZuYnNwO0EgdGhvcm91Z2ggZXh0ZXJuYWwgdmlzdWFs
+IGFuZCBpbnRlcm5hbCBleGFtaW5hdGlvbiB3YXMgY2FycmllZCBvdXQgb24gdGhlIFdhdGVyL0ds
+eWNvbCBTeXN0ZW0gSGVhdGVyIEgtMTAtMDAxLUQuJm5ic3A7VGhlIGhlYXRlciBpcyBzaXR1YXRl
+ZCB3aXRoaW4gYSBmdWxseSBlbmNsb3NlZCBib2lsZXIgaG91c2UgbG9jYXRlZCBvbiB0aGUgTGFu
+Z2VsZWQgc2l0ZS4gJm5ic3A7TW9kaWZpY2F0aW9ucyB3ZXJlIGJlaW5nIGNhcnJpZWQgb3V0IHRv
+IHRoZSBtYW4gd2F5IGRvb3Igc3Vycm91bmQgZHVlIHRvIHRoZSBrbm93biBoZWF0IGRhbWFnZS4g
+Jm5ic3A7VGhlIGJ1Y2tsZWQgYXJlYXMgd2VyZSBjdXQgb3V0LCBhbnkgY3JhY2tpbmcgd2FzIGRy
+ZXNzZWQgb3V0IGFuZCBvdmVybGFpZCB3aXRoIHdlbGQgYW5kIHJlLWRyZXNzZWQgYmVmb3JlIERQ
+SS4gJm5ic3A7UmVmcmFjdG9yeSBsaW5pbmcgd2FzIHRoZW4gaW5zdGFsbGVkIHRvIGZpbGwgaW4g
+dGhlIGdhcHMgZnJvbSB0aGUgcmVtb3ZlZCBtYXRlcmlhbC4mbmJzcDtFWFRFUk5BTCBTSEVMTDog
+QWNjZXNzIHRvIHRoZSBzaGVsbCB3YXMgbGltaXRlZCB0byBhcmVhcyBhcm91bmQgdGhlIGdseWNv
+bCBpbmxldC8gb3V0bGV0IG5venpsZXMgd2hlcmUgbGFnZ2luZyBoYWQgYmVlbiByZW1vdmVkIGZv
+ciBlZGR5IGN1cnJlbnQgdGVzdGluZyBvZiB3ZWxkcy4gJm5ic3A7VGhlIHNoZWxsIGlzIGNvYXRl
+ZCBpbiB0aGVybWFsbHkgc3ByYXllZCBhbHVtaW5pdW0gKFRTQSkgYW5kIGFzIGV4cGVjdGVkIGZv
+dW5kIGluIGFzIG5ldyBjb25kaXRpb24uICZuYnNwO1RoZSByZW1haW5kZXIgb2YgY2xhZGRpbmcg
+d2FzIGluIHNhdGlzZmFjdG9yeSBjb25kaXRpb24gd2l0aCBzb21lIG1pbm9yIGRhbWFnZSB0byB0
+aGUgdXBwZXJzIHdoZXJlIHNjYWZmb2xkIGhhZCBiZWVuIGFzc2VtYmxlZC4gJm5ic3A7VGhpcyBp
+cyBub3QgYW4gaXNzdWUgZHVlIHRvIHRoZSB1bml0IGJlaW5nIGluZG9vcnMuJm5ic3A7U1VQUE9S
+VFM6IEZvdW5kIGluIGdvb2QgY29uZGl0aW9uIHdpdGggMm9mZiBib25kaW5nIGxlYWRzIGZpdHRl
+ZCBhbmQgc2VjdXJlLiAmbmJzcDtTb21lIGluc2lnbmlmaWNhbnQgY3JhY2tpbmcgdG8gdGhlIGdy
+b3V0IGFyb3VuZCB0aGUgc3VwcG9ydHMtIG5vIGFjdGlvbiByZXF1aXJlZC4mbmJzcDtSRUxJRUYg
+VkFMVkU6IFJWLTEwLTQwNDUgZml0dGVkLCBDU1AgMTMuNSBiYXJnLCBmaXR0ZWQgMjYvMDIvMTAu
+Jm5ic3A7SU5URVJOQUwgUkVGUkFDVE9SWTogSW4gZ29vZCBjb25kaXRpb24gZ2VuZXJhbGx5LCBz
+b21lIG1pbm9yIHN1cmZhY2UgY3JhY2tzIHRvIGxlc3MgdGhhbiA1bW0sIG5vIHNwYWxsaW5nIG9y
+IGNydW1ibGluZyBsaW5pbmcgZm91bmQuICZuYnNwO0xpbmluZyB3YXMgcmVtb3ZlZCBhcm91bmQg
+dGhlIG1hbiB3YXkgZG9vciB0byBnYWluIGFjY2VzcyBmb3IgcmVwYWlycy4mbmJzcDtUVUJFUzog
+SW4gZ29vZCBjb25kaXRpb24gdGhyb3VnaG91dCwgc29tZSBsaWdodCBibG9vbWluZyBkdWUgdG8g
+aGVhdCBlZmZlY3QgYnV0IG5vIGNvcnJvc2lvbi4gJm5ic3A7U29tZSBjb2tlIGRlcG9zaXRzIHdl
+cmUgZm91bmQgYmVuZWF0aCB0aGUgYXJlYSBvZiB0aGUgYnVybmVyIGFzc2VtYmx5IGFuZCBvbiB0
+aGUgYnVybmVycyB0aGVtc2VsdmVzLiAmbmJzcDtXZWxkcyBpbiBzYXRpc2ZhY3RvcnkgY29uZGl0
+aW9uIHRvIGNvaWxzIGFzIGZhciBhcyBjb3VsZCBiZSBzZWVuLiZuYnNwO05EVCAtIEVkZHkgY3Vy
+cmVudCB0ZXN0aW5nIHdhcyBjYXJyaWVkIG91dCB0byB0aGUgd2VsZHMgdG8gdGhlIGlubGV0IGFu
+ZCBvdXRsZXQgaGVhZGVycyBpbiBwbGFjZSBvZiBNUEksIHRoaXMgd2FzIHRvIHByZXNlcnZlIHRo
+ZSBUU0EgY29hdGluZy0gbm8gaXNzdWVzIGZvdW5kLiBSYWRpb2dyYXBoeSB3YXMgY2FycmllZCBv
+dXQgdG8gMTRvZmYgY29pbCBidXR0IHdlbGRzIHRvIGNoZWNrIGZvciBwb3RlbnRpYWwgd2VsZCBy
+b290IGVyb3Npb24gKG5vIGFjY2VzcyB0byBsYXN0IDIgd2VsZHMpLCB0aGlzIHdhcyBpbiBwbGFj
+ZSBvZiB0aGUgcHJlc2NyaWJlZCBVU0ZEIChmbGF3IGRldGVjdGlvbikgd2hpY2ggd2FzIGRpc2Nh
+cmRlZCBkdWUgdG8gdGhlIHRoaWNrbmVzcyBvZiB0aGUgdHViZXMgKDQuNW1tIG5vbWluYWwgaXMg
+Ym9yZGVybGluZSBpbiBhY2hpZXZpbmcgY3JlZGlibGUgcmVzdWx0cykuICZuYnNwO0EgMzYwIGRl
+Z3JlZSBzY2FuIHdhcyBjYXJyaWVkIG91dCB0byAxb2ZmIGJ1dHQgd2VsZCBhdCBwb3NpdGlvbiAy
+QSAoc2VlIE5EVCByZXBvcnQpLCB0aGUgcmVtYWluaW5nIDEzIHdlbGRzIGhhZCBhIHNpbmdsZSBz
+aG90IGZyb20gdmFyaW91cyBhbmdsZXMsIG5vIGlzc3VlcyBmb3VuZC4gJm5ic3A7VVNUVCB3YXMg
+Y2FycmllZCBvdXQgNTBtbSBlaXRoZXIgc2lkZSBvZiB0aGUgYmVuZCBmcm9tIHRoZSBidXR0IHdl
+bGRzIHRvIGNoZWNrIGZvciBwb3RlbnRpYWwgZXJvc2lvbiwgbm8gaXNzdWVzLCBhbnkgc3B1cmlv
+dXMgcmVhZGluZ3MgYXJlIG5vdCBvZiBzaWduaWZpY2FuY2UuICZuYnNwO1BGRCB3YXMgY2Fycmll
+ZCBvdXQgdG8gdGhlIHdlbGQgcmVwYWlycyBhdCB0aGUgbWFuIHdheSBkb29yIHNocm91ZCB0byBo
+aWdobGlnaHQgYW55IHJlbWFpbmluZyBjcmFja3MsIG5vbmUgZm91bmQsIGFsbCB3ZWxkcyBkcmVz
+c2VkIGJhY2sgc2F0aXNmYWN0b3JpbHkgd2l0aCBubyBpc3N1ZXMuIEZvciBhbGwgTkRUIHJlcG9y
+dHMgc2VlIGF0dGFjaG1lbnRzLiZuYnNwO0ZSRVFVRU5DWSAtIFRoZSBpbnNwZWN0aW9uIGZyZXF1
+ZW5jeSBpcyB0byByZW1haW4gYXQgMjQgbW9udGhzIHVudGlsIGFsbCA0IGhlYXRlcnMgaGF2ZSBi
+ZWVuIGV4YW1pbmVkIGFuZCBhbnkgZmVlZGJhY2sgYW5hbHlzZWQvIHNpbWlsYXJpdGllcyBpbiBm
+aW5kaW5ncyByZXZpZXdlZC4gJm5ic3A7TmV4dCBpbnNwZWN0aW9uIGR1ZSBvbiBvciBiZWZvcmUg
+MjYvMDIvMjAxMi48YnI+DQo8YnI+DQo8c3Ryb25nPjI2LzExLzIwMDggLSBJTlMvMyAoSW50ZXJt
+ZWRpYXRlIEluc3BlY3Rpb24gLSBFeHRlcm5hbCBvbmx5KTombmJzcDs8L3N0cm9uZz5UaGUgaGVh
+dGVyIGlzIHNpdHVhdGVkIHdpdGhpbiBhIGZ1bGx5IGVuY2xvc2VkIGJvaWxlciBob3VzZSBsb2Nh
+dGVkIG9uIHRoZSBMYW5nYWxlZCBzaXRlLiZuYnNwO1NoZWxsIC0gTm8gYWNjZXNzIGZvciB2aXN1
+YWwgaW5zcGVjdGlvbiB0byB0aGUgZXh0ZXJuYWwgc2hlbGwgYW5kIG5venpsZXMgZHVlIHRvIHRo
+ZSBoZWF0ZXIgYmVpbmcgZnVsbHkgaW5zdWxhdGVkLCB0aGUgaW5zdWxhdGlvbiBhcHBlYXJlZCB0
+byBiZSBpbiBnb29kIGNvbmRpdGlvbiBhbmQgZ2VuZXJhbGx5IHdlbGwgc2VhbGVkLiZuYnNwO1N1
+cHBvcnRzIC0gSW4gb3JkZXIgYW5kIHNlY3VyZS4mbmJzcDtJbnRlcm5hbCAtIE5vbmUgY29tcGxl
+dGVkLiZuYnNwO05EVCAtIE5vbmUgcmVxdWlyZWQgZm9sbG93aW5nIGRpc2N1c3Npb24gLyBhZ3Jl
+ZW1lbnQgd2l0aCBTZW5pb3IgSW5zcGVjdGlvbiBFbmdpbmVlci4mbmJzcDtGcmVxdWVuY3kgLSBI
+YXMgYmVlbiByZXRhaW5lZCBhdCA0OG10aCBmb3IgbmV4dCB0aG9yb3VnaCBleGFtaW5hdGlvbiAt
+IER1ZSBkYXRlIDI4LzEwLzIwMTAuPGJyPg0KPGJyPg0KPHN0cm9uZz4yMy8wNi8yMDA4IC0gTGxv
+eWRzIEluc3BlY3Rpb24gLSBPcHBvcnR1bmlzdGljIEluc3BlY3Rpb24gKFJlcG9ydCBObyBIMTAt
+MDAxRC0wMik6PC9zdHJvbmc+Jm5ic3A7U3VtbWFyeSAtIFZpc3VhbGx5IGluIGdvb2Qgb3JkZXIu
+IE5vIGV2aWRlbmNlIG9mIGRldGVyaW9yYXRpb24gb24gdGhlIHR1YmVzLiZuYnNwO1RoZSByZWZy
+YWN0b3J5IHN1cnJvdW5kaW5nIHRoZSBidXJuZXIgaGFzIG1pbm9yIGNyYWNrcyBhbmQgcmVtYWlu
+cyBpbnRhY3QuJm5ic3A7VGhlIGFjY2VzcyBkb29yIHJlZnJhY3RvcnkgbW91bGRpbmcgcGxhdGUg
+aGFzIGRpc3RvcnRlZC4mbmJzcDtUaGUgd29vZCBsZWZ0IGluc2lkZSBhdCBtYW51ZmFjdHVyZSBo
+YXMgYnVybmVkIGF3YXkgYW5kIEFNUy8wNi8yMTkgTFJGIGlzIGNsb3NlZC4mbmJzcDtFeHRlcm5h
+bCAtIEluIGdvb2QgY29uZGl0aW9uLiBObyBpbnN1bGF0aW9uIHJlbW92ZWQuJm5ic3A7SW50ZXJu
+YWwgLSBNaW5vciBjcmFja3MgaW4gdGhlIHJlZnJhY3RvcnkuIFRoZSB0dWJlcyB3ZXJlIGZvdW5k
+IHRvIGJlIGluIGdvb2QgY29uZGl0aW9uIHdpdGggbGlnaHQgcnVzdGluZyBvZiB0aGUgc3VyZmFj
+ZXMuJm5ic3A7QXR0YWNobWVudHMgLyBGaXR0aW5ncyBldGM6IFRoZSBzdGFpbmxlc3Mgc3RlZWwg
+Y2FzaW5nIHN1cnJvdW5kaW5nIHRoZSByZWZyYWN0b3J5IGluIHRoZSByZWFyIGRvb3Igd2FzIGRp
+c3RvcnRlZCBtYWtpbmcgdGhlIGRvb3IgZGlmZmljdWx0IHRvIG9wZW4gYW5kIGNsb3NlLiBUaGUg
+Y2FzaW5nIGlzIHB1cmVseSBhbiBhaWQgdG8gZm9ybWluZyB0aGUgcmVmcmFjdG9yeSBhbmQgaXMg
+bm90IGFuIGludGVncmFsIGNvbXBvbmVudCBpbiB0aGUgY29uc3RydWN0aW9uIG9mIHRoZSBib2ls
+ZXIuJm5ic3A7VWx0cmFzb25pYyB0aGlja25lc3Mgc2NhbnMgY2FycmllZCBvdXQgYXMgZGV0YWls
+ZWQgaW4gUmVwb3J0IDA4LUxSRi1ORFQtMDM3Ljxicj4NCjxicj4NCjxzdHJvbmc+MjkvMDgvMjAw
+NiAtIExsb3lkcyBJbnNwZWN0aW9uIC0gT3Bwb3J0dW5pc3RpYyBJbnNwZWN0aW9uIChSZXBvcnQg
+Tm8gSDEwLTAwMUQtMDEpOiZuYnNwOzwvc3Ryb25nPkZ1bGwgaW50ZXJuYWwgYW5kIGV4dGVybmFs
+IGJhc2UgbGluZSB2aXN1YWwgaW5zcGVjdGlvbiwgaW5jbHVkaW5nIHN0aWxsIGFuZCB2aWRlbyBw
+aG90b2dyYXBoeSB3aXRoIGFjY2VzcyBoYXRjaC4mbmJzcDtJbnRlcm5hbDogRG91YmxlIHJvdyBj
+b2lsZWQgdHViZXMsIGxpZ2h0bHkgY29ycm9kZWQgd2l0aCBzb21lIGRpc2NvbG91cmVkIGFyZWFz
+LiZuYnNwOzIgeCB3b29kZW4gdGltYmVycyBqYW1tZWQgYmV0d2VlbiBpbm5lciBhbmQgb3V0ZXIg
+Y29pbHMgYXQgdGhlIFdlc3QgZW5kIG9mIHRoZSBoZWF0ZXIuIEFub21hbHkgcmVwb3J0IDA2LzIx
+OS9MUkYgcmVmZXJzLjwvcD4=
+</rawitemdata></item>
+<item name='$MIMETrack'><textlist><text>Itemize by Notes Client on Sean 1 Cull/GBABB/NONABB(Release 8.5.3FP3|November 16, 2012) at 12/05/2014 12:24:34</text><text
+>Itemize by http on prime-toolkit-02.prime-toolkit.com/ABB/prime-toolkit(Release 9.0.1FP4|June  07, 2015) at 12/12/2019 09:48:17</text></textlist></item>
+<item name='LocCount_Nb_10'><number>1</number></item>
+<item name='LocCount_Nb_11'><number>1</number></item>
+<item name='LocCount_Nb_12'><number>1</number></item>
+<item name='LocCount_Nb_13'><number>1</number></item>
+<item name='LocCount_Nb_14'><number>1</number></item>
+<item name='LocCount_Nb_15'><number>1</number></item>
+<item name='LocCount_Nb_16'><number>1</number></item>
+<item name='LocCount_Nb_17'><number>1</number></item>
+<item name='LocCount_Nb_18'><number>1</number></item>
+<item name='LocCount_Nb_19'><number>1</number></item>
+<item name='LocCount_Nb_20'><number>1</number></item>
+<item name='LocCount_Nb_21'><number>1</number></item>
+<item name='LocCount_Nb_22'><number>1</number></item>
+<item name='LocCount_Nb_23'><number>1</number></item>
+<item name='LocCount_Nb_24'><number>1</number></item>
+<item name='LocCount_Nb_25'><number>1</number></item>
+<item name='FailuresDefaulted_Tx'><text/></item>
+<item name='Field_Tx_7_410'><text/></item>
+<item name='Field_Tx_7_210'><text/></item>
+<item name='Field_Tx_9_107'><text>Visual inspection of tubes looking for any signs of flame impingement or overheating.<break
+/><break/>Confirm with operations that there have been no high temperature trips or burner flame direction issues.<break
+/><break/>Consider replication of tubes surfaces to check for creep damage at any areas of concern.</text></item>
+<item name='Field_Tx_9_514'><text>-</text></item>
+<item name='DecisionDefaulted_Tx'><text/></item>
+<item name='Field_Tx_9_307'><text>None.</text></item>
+<item name='SchemeDefaulted_Tx'><text>Yes</text></item>
+<item name='Field_Tx_9_207'><text>Thorough</text></item>
+<item name='INSSet_Tx'><text>Yes</text></item>
+<item name='webLinkWorksHeader_Tx'><text>https://inspection.prime-toolkit.com/TUV/apps/DB012761.nsf/xp_f_header_record.xsp?recordKey=SCUL-AGF888-AGEGRM</text></item>
+<item name='customerworks_tx'><text>Gassco##LRF</text></item>
+<item name='InspectionWebLink_Tx'><text>https://inspection.prime-toolkit.com/TUV/apps/DB012761.nsf/xp_f_note_to_file.xsp?recordKey=CL6FEZ-J9UEWU</text></item>
+<item name='CustomerReaders_Nm' names='true' readers='true'><text/></item>
+<item name='CustomerAuthors_Nm' authors='true' names='true'><text>TUV Customer - Gassco - User</text></item>
+<item name='Readers_Nm' names='true' readers='true'><textlist><text>[DBAdmin]</text><text
+>[Internal_Reader]</text></textlist></item>
+<item name='BDReaders_Nm' names='true' readers='true'><text>[DBDesign]</text></item>
+<item name='Authors_Nm' authors='true' names='true'><textlist><text>[DBAdmin]</text><text
+>[Internal_Author]</text></textlist></item>
+<item name='BDAuthors_Nm' authors='true' names='true'><text>[DBDesign]</text></item>
+<item name='CombinedUNID_Tx'><textlist><text>PRIM-BJPLBH</text><text>SCUL-9K2FJW</text></textlist></item>
+<item name='IntervalBefore_Nb'><number>48</number></item>
+<item name='IntervalAfter_Nb'><number>48</number></item>
+<item name='CurrentDoer_Nm'><text/></item>
+<item name='LastModifiedDate_Dt'><datetime>20221114T112535,49+00</datetime></item>
+<item name='LastModifiedBy_Nm' names='true'><text>Phil Marsh</text></item>
+<item name='DateCreated_Dt'><datetime dst='true'>20140512T122432,24+01</datetime></item>
+<item name='ViewRecord_Tx'><text>Project Equipment Item</text></item>
+<item name='ViewDescription_Tx'><text>Project Equipment Item - Vessel - H-10-001D</text></item>
+<item name='AllDeteriorations_Tx'><textlist><text>Corrosion / Pitting</text><text
+>Corrosion under insulation (CUI)</text><text>Stress corrosion cracking</text><text
+>Erosion</text><text>Fatigue</text><text>Creep / Overheating</text><text>Mechanical damage</text><text
+>Lining deterioration</text><text>Galvanic corrosion</text></textlist></item>
+<item name='Field_Tx_1_1'><text>3</text></item>
+<item name='SearchMaterialGrade_Tx'><text>#-# #DIN17175 ST 35.81#</text></item>
+<item name='SearchMaterialCategory_Tx'><text>#Carbon Steel# #-#</text></item>
+<item name='Label_Tx_3_1'><text>Shell Casing</text></item>
+<item name='Field_Tx_3_1'><text>- : Carbon Steel</text></item>
+<item name='Field_Tx_3_2'><text>DIN17175 ST 35.81 : Carbon Steel</text></item>
+<item name='Field_Tx_3_3'><text>- : Carbon Steel</text></item>
+<item name='Field_Tx_3_4'><text>- : -</text></item>
+<item name='Label_Tx_3_5'><text>-</text></item>
+<item name='Field_Tx_3_5'><text>- : -</text></item>
+<item name='Label_Tx_3_6'><text>-</text></item>
+<item name='Field_Tx_3_6'><text>- : -</text></item>
+<item name='Field_Tx_3_7'><text/></item>
+<item name='InternalMemberCN_Nm' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_1' names='true'><text>Phil Marsh</text></item>
+<item name='InternalSignatureCN_Nm_1' names='true'><text>Phil Marsh</text></item>
+<item name='InternalMemberCN_Nm_2' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_2' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_3' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_3' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_4' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_4' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_5' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_5' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_6' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_6' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_7' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_7' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_8' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_8' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_9' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_9' names='true'><text/></item>
+<item name='InternalMemberCN_Nm_10' names='true'><text/></item>
+<item name='InternalSignatureCN_Nm_10' names='true'><text/></item>
+<item name='ClientMemberCN_Nm' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_1' names='true'><text>Graham Morris</text></item>
+<item name='ClientSignatureCN_Nm_1' names='true'><text>Paul Jackson</text></item>
+<item name='ClientMemberCN_Nm_2' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_2' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_3' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_3' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_4' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_4' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_5' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_5' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_6' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_6' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_7' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_7' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_8' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_8' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_9' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_9' names='true'><text/></item>
+<item name='ClientMemberCN_Nm_10' names='true'><text/></item>
+<item name='ClientSignatureCN_Nm_10' names='true'><text/></item>
+<item name='disSHERisk_tx'><textlist><text>1</text><text>1</text><text>1</text><text
+>1</text><text>1</text><text>1</text><text>1</text><text/><text/><text/><text
+/><text/><text/><text/><text/><text/><text/><text/><text/><text/></textlist></item>
+<item name='disBusRisk_tx'><textlist><text>1</text><text>1</text><text>1</text><text
+>1</text><text>1</text><text>1</text><text>1</text><text/><text/><text/><text
+/><text/><text/><text/><text/><text/><text/><text/><text/><text/></textlist></item>
+<item name='disPRisk_tx'><textlist><text>2</text><text>2</text><text>2</text><text
+>2</text><text>2</text><text>2</text><text>1</text><text/><text/><text/><text
+/><text/><text/><text/><text/><text/><text/><text/><text/><text/></textlist></item>
+<item name='FailLetters_Tx'><textlist><text>A</text><text>B</text><text>C</text><text
+>D</text><text>E</text><text>F</text><text>G</text><text>H</text><text>I</text><text
+>J</text><text>K</text><text>L</text><text>M</text><text>N</text><text>O</text><text
+>P</text><text>Q</text><text>R</text><text>S</text><text>T</text></textlist></item>
+<item name='F110_Tx'><text/></item>
+<item name='F210_Tx'><text/></item>
+<item name='F310_Tx'><text/></item>
+<item name='F410_Tx'><text/></item>
+<item name='F510_Tx'><text/></item>
+<item name='F610_Tx'><text/></item>
+<item name='F710_Tx'><text/></item>
+<item name='F810_Tx'><text/></item>
+<item name='F910_Tx'><text/></item>
+<item name='F1010_Tx'><text/></item>
+<item name='F19_Tx'><text/></item>
+<item name='F29_Tx'><text/></item>
+<item name='F39_Tx'><text/></item>
+<item name='F49_Tx'><text/></item>
+<item name='F59_Tx'><text/></item>
+<item name='F69_Tx'><text/></item>
+<item name='F79_Tx'><text/></item>
+<item name='F89_Tx'><text/></item>
+<item name='F99_Tx'><text/></item>
+<item name='F109_Tx'><text/></item>
+<item name='F18_Tx'><text/></item>
+<item name='F28_Tx'><text/></item>
+<item name='F38_Tx'><text/></item>
+<item name='F48_Tx'><text/></item>
+<item name='F58_Tx'><text/></item>
+<item name='F68_Tx'><text/></item>
+<item name='F78_Tx'><text/></item>
+<item name='F88_Tx'><text/></item>
+<item name='F98_Tx'><text/></item>
+<item name='F108_Tx'><text/></item>
+<item name='F17_Tx'><text/></item>
+<item name='F27_Tx'><text/></item>
+<item name='F37_Tx'><text/></item>
+<item name='F47_Tx'><text/></item>
+<item name='F57_Tx'><text/></item>
+<item name='F67_Tx'><text/></item>
+<item name='F77_Tx'><text/></item>
+<item name='F87_Tx'><text/></item>
+<item name='F97_Tx'><text/></item>
+<item name='F107_Tx'><text/></item>
+<item name='F16_Tx'><text/></item>
+<item name='F26_Tx'><text/></item>
+<item name='F36_Tx'><text/></item>
+<item name='F46_Tx'><text/></item>
+<item name='F56_Tx'><text/></item>
+<item name='F66_Tx'><text/></item>
+<item name='F76_Tx'><text/></item>
+<item name='F86_Tx'><text/></item>
+<item name='F96_Tx'><text/></item>
+<item name='F106_Tx'><text/></item>
+<item name='F15_Tx'><text/></item>
+<item name='F25_Tx'><text/></item>
+<item name='F35_Tx'><text/></item>
+<item name='F45_Tx'><text/></item>
+<item name='F55_Tx'><text/></item>
+<item name='F65_Tx'><text/></item>
+<item name='F75_Tx'><text/></item>
+<item name='F85_Tx'><text/></item>
+<item name='F95_Tx'><text/></item>
+<item name='F105_Tx'><text/></item>
+<item name='F14_Tx'><text/></item>
+<item name='F24_Tx'><text/></item>
+<item name='F34_Tx'><text/></item>
+<item name='F44_Tx'><text/></item>
+<item name='F54_Tx'><text/></item>
+<item name='F64_Tx'><text/></item>
+<item name='F74_Tx'><text/></item>
+<item name='F84_Tx'><text/></item>
+<item name='F94_Tx'><text/></item>
+<item name='F104_Tx'><text/></item>
+<item name='F13_Tx'><text/></item>
+<item name='F23_Tx'><text/></item>
+<item name='F33_Tx'><text/></item>
+<item name='F43_Tx'><text/></item>
+<item name='F53_Tx'><text/></item>
+<item name='F63_Tx'><text/></item>
+<item name='F73_Tx'><text/></item>
+<item name='F83_Tx'><text/></item>
+<item name='F93_Tx'><text/></item>
+<item name='F103_Tx'><text/></item>
+<item name='F12_Tx'><text>A,B,C,D,E,F</text></item>
+<item name='F22_Tx'><text/></item>
+<item name='F32_Tx'><text/></item>
+<item name='F42_Tx'><text/></item>
+<item name='F52_Tx'><text/></item>
+<item name='F62_Tx'><text/></item>
+<item name='F72_Tx'><text/></item>
+<item name='F82_Tx'><text/></item>
+<item name='F92_Tx'><text/></item>
+<item name='F102_Tx'><text/></item>
+<item name='F11_Tx'><text>G</text></item>
+<item name='F21_Tx'><text/></item>
+<item name='F31_Tx'><text/></item>
+<item name='F41_Tx'><text/></item>
+<item name='F51_Tx'><text/></item>
+<item name='F61_Tx'><text/></item>
+<item name='F71_Tx'><text/></item>
+<item name='F81_Tx'><text/></item>
+<item name='F91_Tx'><text/></item>
+<item name='F101_Tx'><text/></item>
+<item name='M110_Tx'><text/></item>
+<item name='M210_Tx'><text/></item>
+<item name='M310_Tx'><text/></item>
+<item name='M410_Tx'><text/></item>
+<item name='M510_Tx'><text/></item>
+<item name='M610_Tx'><text/></item>
+<item name='M710_Tx'><text/></item>
+<item name='M810_Tx'><text/></item>
+<item name='M910_Tx'><text/></item>
+<item name='M1010_Tx'><text/></item>
+<item name='M19_Tx'><text/></item>
+<item name='M29_Tx'><text/></item>
+<item name='M39_Tx'><text/></item>
+<item name='M49_Tx'><text/></item>
+<item name='M59_Tx'><text/></item>
+<item name='M69_Tx'><text/></item>
+<item name='M79_Tx'><text/></item>
+<item name='M89_Tx'><text/></item>
+<item name='M99_Tx'><text/></item>
+<item name='M109_Tx'><text/></item>
+<item name='M18_Tx'><text/></item>
+<item name='M28_Tx'><text/></item>
+<item name='M38_Tx'><text/></item>
+<item name='M48_Tx'><text/></item>
+<item name='M58_Tx'><text/></item>
+<item name='M68_Tx'><text/></item>
+<item name='M78_Tx'><text/></item>
+<item name='M88_Tx'><text/></item>
+<item name='M98_Tx'><text/></item>
+<item name='M108_Tx'><text/></item>
+<item name='M17_Tx'><text/></item>
+<item name='M27_Tx'><text/></item>
+<item name='M37_Tx'><text/></item>
+<item name='M47_Tx'><text/></item>
+<item name='M57_Tx'><text/></item>
+<item name='M67_Tx'><text/></item>
+<item name='M77_Tx'><text/></item>
+<item name='M87_Tx'><text/></item>
+<item name='M97_Tx'><text/></item>
+<item name='M107_Tx'><text/></item>
+<item name='M16_Tx'><text/></item>
+<item name='M26_Tx'><text/></item>
+<item name='M36_Tx'><text/></item>
+<item name='M46_Tx'><text/></item>
+<item name='M56_Tx'><text/></item>
+<item name='M66_Tx'><text/></item>
+<item name='M76_Tx'><text/></item>
+<item name='M86_Tx'><text/></item>
+<item name='M96_Tx'><text/></item>
+<item name='M106_Tx'><text/></item>
+<item name='M15_Tx'><text/></item>
+<item name='M25_Tx'><text/></item>
+<item name='M35_Tx'><text/></item>
+<item name='M45_Tx'><text/></item>
+<item name='M55_Tx'><text/></item>
+<item name='M65_Tx'><text/></item>
+<item name='M75_Tx'><text/></item>
+<item name='M85_Tx'><text/></item>
+<item name='M95_Tx'><text/></item>
+<item name='M105_Tx'><text/></item>
+<item name='M14_Tx'><text/></item>
+<item name='M24_Tx'><text/></item>
+<item name='M34_Tx'><text/></item>
+<item name='M44_Tx'><text/></item>
+<item name='M54_Tx'><text/></item>
+<item name='M64_Tx'><text/></item>
+<item name='M74_Tx'><text/></item>
+<item name='M84_Tx'><text/></item>
+<item name='M94_Tx'><text/></item>
+<item name='M104_Tx'><text/></item>
+<item name='M13_Tx'><text/></item>
+<item name='M23_Tx'><text/></item>
+<item name='M33_Tx'><text/></item>
+<item name='M43_Tx'><text/></item>
+<item name='M53_Tx'><text/></item>
+<item name='M63_Tx'><text/></item>
+<item name='M73_Tx'><text/></item>
+<item name='M83_Tx'><text/></item>
+<item name='M93_Tx'><text/></item>
+<item name='M103_Tx'><text/></item>
+<item name='M12_Tx'><text>A,B,C,D,E,F</text></item>
+<item name='M22_Tx'><text/></item>
+<item name='M32_Tx'><text/></item>
+<item name='M42_Tx'><text/></item>
+<item name='M52_Tx'><text/></item>
+<item name='M62_Tx'><text/></item>
+<item name='M72_Tx'><text/></item>
+<item name='M82_Tx'><text/></item>
+<item name='M92_Tx'><text/></item>
+<item name='M102_Tx'><text/></item>
+<item name='M11_Tx'><text>G</text></item>
+<item name='M21_Tx'><text/></item>
+<item name='M31_Tx'><text/></item>
+<item name='M41_Tx'><text/></item>
+<item name='M51_Tx'><text/></item>
+<item name='M61_Tx'><text/></item>
+<item name='M71_Tx'><text/></item>
+<item name='M81_Tx'><text/></item>
+<item name='M91_Tx'><text/></item>
+<item name='M101_Tx'><text/></item>
+<item name='PROJ173_Groups_fields_changed_Tx'><text>customerauthors_nm#$#ABB Customer - Gassco - User#$#TUV Customer - Gassco - User</text></item>
+<item name='PROJ173_Groups_date_time_Tx'><text>02/09/2023 01:30:28</text></item>
+<item name='PROJ173_Groups_person_Tx'><text>CN=abbUK2/O=prime-toolkit</text></item>
+<item name='PROJ173_Groups_ticket_ref_Tx'><text>PROJ173-280</text></item>
+<item name='PROJ173_Names_fields_changed_Tx'><textlist><text>InternalMember_Nm_1#$#Phil Marsh/GBEUL/ABB#$#Phil Marsh/TUV</text><text
+>InternalSignature_Nm_1#$#CN=Phil Marsh/OU=GBEUL/O=ABB#$#CN=Phil Marsh/O=TUV</text><text
+>ClientSignature_Nm_1#$#CN=Paul Jackson/OU=GBEUL/O=ABB#$#CN=Paul Jackson/O=TUV</text><text
+>PreparedBy_Nm#$#CN=Phil Marsh/OU=GBEUL/O=ABB#$#CN=Phil Marsh/O=TUV</text><text
+>MeetingHeld_Nm#$#CN=Phil Marsh/OU=GBEUL/O=ABB#$#CN=Phil Marsh/O=TUV</text><text
+>webLinkWorksHeader_Tx#$#https://inspection.prime-toolkit.com/abb/apps/DB012761.nsf/xp_f_header_record.xsp?recordKey=SCUL-AGF888-AGEGRM#$#https://inspection.prime-toolkit.com/TUV/apps/DB012761.nsf/xp_f_header_record.xsp?recordKey=SCUL-AGF888-AGEGRM</text><text
+>InspectionWebLink_Tx#$#https://inspection.prime-toolkit.com/abb/apps/DB012761.nsf/xp_f_note_to_file.xsp?recordKey=CL6FEZ-J9UEWU#$#https://inspection.prime-toolkit.com/TUV/apps/DB012761.nsf/xp_f_note_to_file.xsp?recordKey=CL6FEZ-J9UEWU</text></textlist></item>
+<item name='PROJ173_Names_date_time_Tx'><text>02/09/2023 02:30:28</text></item>
+<item name='PROJ173_Names_person_Tx'><text>CN=abbUK2/O=prime-toolkit</text></item>
+<item name='PROJ173_Names_ticket_ref_Tx'><text>PROJ173-280</text></item></document>
+
